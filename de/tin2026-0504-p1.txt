@@ -1,0 +1,241 @@
+ĐỀ THI CHÍNH THỨC KỲ THI TỐT NGHIỆP THPT NĂM 2026 - MÔN TIN HỌC - MÃ ĐỀ 0504 (PHẦN CHUNG)
+Nguồn: Bộ Giáo dục và Đào tạo. Đáp án theo đáp án chính thức Bộ GD&ĐT công bố ngày 19/6/2026.
+Thời gian: 50
+
+PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn
+Câu 1. Chị B nhận được cuộc điện thoại từ một người tự xưng là nhân viên hải quan. Người này thông báo có một món quà gửi trị giá cao được gửi cho chị từ nước ngoài, đồng thời yêu cầu chị nộp thuế bằng cách chuyển ngay cho hải quan theo số tài khoản được cung cấp để nhận món quà đó. Để ứng xử an toàn trong tình huống này, chị B **không nên** thực hiện hành động nào sau đây?
+A. Chất vấn người gọi một cách thận trọng về món quà tặng.
+B. Chia sẻ thông tin về cuộc gọi và xin tư vấn từ người thân.
+C. Liên lạc trực tiếp với cơ quan hải quan để xác minh thông tin.
+*D. Thanh toán thuế theo yêu cầu mà không xác minh thông tin.
+
+Câu 2. Cho các bộ chọn CSS sau:
+```
+.dong {font-size: 30px; color: green; border-style: dotted;}
+#doan {font-size: 30px; color: green; border-style: solid;}
+```
+Đoạn mã HTML nào sau đây áp dụng bộ chọn CSS trên để định dạng dòng chữ "Chúc em thi tốt!" với cỡ chữ 30 pixel, màu xanh lá cây và đường viền nét liền bao quanh?
+A. `<p class="doan">Chúc em thi tốt!</p>`
+*B. `<p id="doan">Chúc em thi tốt!</p>`
+C. `<p class="dong">Chúc em thi tốt!</p>`
+D. `<p id="dong">Chúc em thi tốt!</p>`
+Lời giải: Viền nét liền (solid) thuộc bộ chọn `#doan`, là bộ chọn theo id nên phải dùng thuộc tính `id="doan"`.
+
+Câu 3. Nhận định nào sau đây đúng khi nói về tác động của Trí tuệ nhân tạo (AI) đối với thị trường lao động?
+A. AI quyết định độ tuổi lao động của con người.
+B. Các công việc đòi hỏi sự thấu hiểu cảm xúc bị AI thay thế.
+*C. AI thúc đẩy tự động hóa các công việc có tính lặp lại.
+D. Lao động phổ thông bị AI thay thế hoàn toàn.
+
+Câu 4. Phương án nào sau đây chỉ ra ưu điểm của giao tiếp trên không gian mạng?
+A. Luôn quan sát được thái độ của người nói.
+*B. Tạo cơ hội mở rộng các mối quan hệ xã hội.
+C. Không phụ thuộc vào thiết bị công nghệ.
+D. Đảm bảo tin cậy và bảo mật thông tin tuyệt đối.
+
+Câu 5. Giao thức TCP **không** có vai trò nào sau đây?
+*A. Quy định cách thức định tuyến cho gói tin khi truyền.
+B. Quy định việc phân chia và đánh số thứ tự các gói tin.
+C. Cung cấp cơ chế phát hiện và xử lí sai sót khi truyền dữ liệu.
+D. Đảm bảo dữ liệu được truyền tải tin cậy và chính xác.
+Lời giải: Định tuyến gói tin là nhiệm vụ của giao thức IP, không phải TCP.
+
+Câu 6. Tiêu đề của một trang web được khai báo bởi phần tử HTML nào sau đây?
+A. h1
+B. th
+*C. title
+D. head
+
+Câu 7. Việc chia sẻ một thư mục trên máy tính với quyền đọc cho một hoặc một nhóm người dùng trên các máy tính khác trong cùng mạng LAN có các thao tác sau:
+(1) Thiết lập quyền đọc cho người dùng.
+(2) Tìm và chọn thư mục cần chia sẻ trên máy tính.
+(3) Mở ứng dụng quản lí tệp.
+(4) Chọn tên một hoặc nhóm người dùng cần được chia sẻ.
+Phương án nào sau đây nêu đúng thứ tự thực hiện các thao tác trên?
+A. (3), (1), (2), (4).
+B. (1), (4), (2), (3).
+C. (1), (2), (3), (4).
+*D. (3), (2), (4), (1).
+
+Câu 8. Lựa chọn ngôn ngữ lập trình Python hoặc C++ để tìm hiểu đoạn chương trình sau:
+```
+# Python
+n = 1
+while n % a != 0 or n % b != 0:
+    n = n + 1
+
+// C++
+int n = 1;
+while (n % a != 0 || n % b != 0)
+    n = n + 1;
+```
+Giả sử $a$ và $b$ là hai số nguyên dương khác nhau, sau khi thực hiện đoạn chương trình trên, $n$ là số nguyên dương thỏa mãn tính chất nào sau đây?
+*A. Nhỏ nhất và chia hết cho cả a và b.
+B. Lớn nhất và là ước số của a hoặc b.
+C. Lớn nhất và là ước số của cả a và b.
+D. Nhỏ nhất và chia hết cho a hoặc b.
+Lời giải: Vòng lặp dừng ở số $n$ đầu tiên (nhỏ nhất) chia hết cho cả $a$ và $b$, tức bội chung nhỏ nhất.
+
+Câu 9. Phương án nào sau đây mô tả đặc trưng của Trí tuệ nhân tạo sinh?
+*A. Tạo ra các nội dung mới như văn bản, hình ảnh, mã nguồn.
+B. Xác thực danh tính người dùng thông qua sinh trắc học.
+C. Phân tích dữ liệu để đưa ra dự đoán hoặc phân loại đối tượng.
+D. Tìm kiếm và trả về thông tin có sẵn từ cơ sở dữ liệu lớn.
+
+Câu 10. Lựa chọn ngôn ngữ lập trình Python hoặc C++ để tìm hiểu đoạn chương trình sau:
+```
+# Python
+n = 3; T = 0
+for i in range(1, n):
+    T = T + i * (i + 1)
+
+// C++
+int n = 3, T = 0, i;
+for (i = 1; i < n; i++)
+    T = T + i * (i + 1);
+```
+Sau khi thực hiện đoạn chương trình trên, biến T có giá trị nào sau đây?
+A. 2.
+*B. 8.
+C. 4.
+D. 14.
+Lời giải: $i$ nhận các giá trị 1, 2 nên $T = 1 \cdot 2 + 2 \cdot 3 = 8$.
+
+Câu 11. Phương án nào sau đây liệt kê đơn vị đo dung lượng bộ nhớ theo thứ tự tăng dần?
+A. Terabyte, Megabyte, Gigabyte.
+B. Megabyte, Terabyte, Gigabyte.
+*C. Megabyte, Gigabyte, Terabyte.
+D. Gigabyte, Megabyte, Terabyte.
+
+Câu 12. Nếu thấy bài đăng trên mạng xã hội kêu gọi cộng đồng quyên góp để ủng hộ một hoàn cảnh khó khăn, hành động nào sau đây vừa đảm bảo an toàn vừa thể hiện có tính nhân văn?
+A. Xem qua và không quan tâm bài đăng.
+B. Bình luận không ủng hộ người đăng tin.
+C. Lập tức chia sẻ bài đăng lên trang cá nhân.
+*D. Tìm hiểu kĩ nguồn tin trước khi quyên góp.
+
+Câu 13. Bảng dữ liệu lưu trữ thông tin nhập hàng của một cửa hàng có các cột sau: Mã hóa đơn, Mã hàng, Ngày nhập, Số lượng, Giá nhập. Cần cập nhật dữ liệu cho bảng này trong trường hợp nào sau đây?
+A. Thống kê số lượng mã hàng được nhập vào ngày 20/11/2025.
+*B. Bổ sung các mặt hàng được nhập vào ngày 20/11/2025.
+C. Tìm các mã hàng có giá nhập trung bình của các mặt hàng.
+D. Tính và đưa ra giá nhập trung bình của các mặt hàng.
+Lời giải: Cập nhật dữ liệu là thêm, sửa, xóa bản ghi. Thống kê, tìm kiếm, tính toán là khai thác dữ liệu.
+
+Câu 14. Lĩnh vực nào sau đây có nhiệm vụ giúp máy tính hiểu và xử lí được ngôn ngữ tự nhiên của con người?
+A. Thị giác máy tính.
+B. Điều khiển rô-bốt.
+*C. Xử lí ngôn ngữ tự nhiên.
+D. Học máy.
+
+Câu 15. Lựa chọn ngôn ngữ lập trình Python hoặc C++ để tìm hiểu đoạn chương trình sau:
+```
+# Python
+x, a, b = 1, 2, 6
+for i in range(a, b):
+    if x < i: x = x + 1
+    else: x = x // i
+print(x)
+
+// C++
+int x = 1, a = 2, b = 6;
+for (int i = a; i < b; i++) {
+    if (x < i) x = x + 1;
+    else x = x / i;
+}
+cout << x;
+```
+Sau khi thực hiện đoạn chương trình trên, giá trị nào sau đây được hiển thị trên màn hình?
+A. 1.
+B. 2.
+C. 6.
+*D. 5.
+Lời giải: $i$ lần lượt là 2, 3, 4, 5; lần nào cũng có $x < i$ nên $x$ tăng từ 1 lên 5.
+
+Câu 16. Cho đoạn mã HTML sau:
+```
+<ol start="5"><li> Khoa học máy tính </li><li> Tin học ứng dụng </li></ol>
+```
+Phương án nào sau đây mô tả đúng cách hiển thị của danh sách được tạo bởi đoạn mã trên?
+A. Kiểu số La Mã in hoa, bắt đầu từ V.
+B. Kiểu chữ cái in hoa, bắt đầu từ E.
+C. Kiểu số La Mã in thường, bắt đầu từ v.
+*D. Kiểu số nguyên, bắt đầu từ 5.
+
+Câu 17. Cho đoạn mã HTML và CSS sau:
+```
+<head> <style> table {border: 1px solid red;} </style> </head>
+<body> <table>
+<tr> <td> Sản phẩm </td> <td> Đơn giá (VNĐ) </td> </tr>
+<tr> <td> Máy tính xách tay </td> <td> 7 000 000 </td> </tr>
+</table> </body>
+```
+Bảng được tạo bởi đoạn mã trên có đặc điểm nào sau đây?
+*A. Viền của bảng có màu đỏ.
+B. Viền của các ô có màu đỏ.
+C. Viền của dòng tiêu đề có màu đỏ.
+D. Viền của bảng và ô đều có màu đỏ.
+Lời giải: Bộ chọn `table` chỉ áp dụng cho phần tử bảng, không áp dụng cho các ô `td`.
+
+Câu 18. Phương án nào sau đây nêu đúng đoạn mã HTML dùng để chèn ảnh từ tệp anhtotnghiep.jpg với chiều rộng và chiều cao tương ứng là 800 và 300 pixel vào một trang web, biết rằng tệp ảnh nằm trong cùng thư mục với tệp HTML?
+A. `<img href="anhtotnghiep.jpg" width="800px" height="300px">`
+*B. `<img src="anhtotnghiep.jpg" width="800" height="300">`
+C. `<img href="anhtotnghiep" width="800" height="300">`
+D. `<img src="anhtotnghiep" width="800px" height="300px">`
+
+Câu 19. Phương án nào sau đây chỉ ra một thao tác khai thác cơ sở dữ liệu?
+A. Xóa bộ.
+*B. Tìm kiếm.
+C. Chỉnh sửa.
+D. Thêm mới.
+
+Câu 20. Ứng dụng nào sau đây là một Chatbot có sử dụng Trí tuệ nhân tạo?
+A. Notepad.
+B. Unikey.
+*C. Gemini.
+D. Calculator.
+
+Câu 21. Người làm nghề lập trình thiết bị có khả năng nào sau đây?
+A. Phân tích số liệu thống kê.
+*B. Thiết kế và cài đặt thuật toán.
+C. Bảo trì mạng máy tính.
+D. Bảo trì cơ sở dữ liệu.
+
+Câu 22. Người quản trị cơ sở dữ liệu cần làm công việc nào sau đây để xác định quyền truy cập đối với từng nhóm người dùng khác nhau?
+A. Sao lưu dự phòng dữ liệu.
+*B. Phân quyền truy cập dữ liệu.
+C. Điều chỉnh cấu trúc cơ sở dữ liệu.
+D. Tìm kiếm dữ liệu theo yêu cầu.
+
+Câu 23. Nghề nào sau đây thuộc nhóm nghề dịch vụ trong ngành Công nghệ thông tin?
+A. Quản trị cơ sở dữ liệu.
+B. Bảo mật hệ thống thông tin.
+C. Quản trị mạng máy tính.
+*D. Sửa chữa và bảo trì máy tính.
+
+Câu 24. Phương án nào sau đây nêu đúng công việc chính của người làm nghề sửa chữa và bảo trì máy tính?
+*A. Lắp đặt, sửa chữa phần cứng máy tính.
+B. Quản lí và duy trì một hệ thống thông tin.
+C. Cải thiện hiệu suất hoạt động hệ thống mạng.
+D. Xây dựng, phát triển hệ thống mạng máy tính.
+
+PHẦN II. Câu trắc nghiệm đúng sai - Phần chung
+Câu 1. Người quản trị trang web Đoàn thanh niên của một trường trung học phổ thông đã tạo biểu mẫu bằng đoạn mã HTML sau để các bạn học sinh đăng kí tham gia các hoạt động văn nghệ, thể thao trong trường:
+```
+<form action="dangki.php">
+Họ tên: <input type="text" name="hoten" value="">
+Email: <input type="email" name="email" value="">
+<input type="submit" value="Đăng kí">
+</form>
+```
+Có một số nhận xét như sau về đoạn mã trên:
+a) Biểu mẫu này có hai ô nhập dữ liệu và một nút gửi dữ liệu. (Đ)
+b) Giá trị của thuộc tính value của hai ô nhập dữ liệu không được để trống. (S)
+c) Nếu nhập dữ liệu vào biểu mẫu và nhấn nút Đăng kí thì dữ liệu được gửi đến trang dangki.php. (Đ)
+d) Để học sinh chỉ được lựa chọn một trong hai loại hoạt động Văn nghệ hoặc Thể thao khi đăng kí tham gia, cần chèn thêm hai dòng `<input type="radio" name="optvannghe" value="văn nghệ"> Văn nghệ` và `<input type="radio" name="optthethao" value="thể thao"> Thể thao` vào đoạn mã tạo biểu mẫu trên. (S)
+Lời giải: Hai nút radio chỉ loại trừ nhau khi có cùng thuộc tính `name`. Ở đây hai nút khác `name` nên học sinh vẫn chọn được cả hai.
+
+Câu 2. Một nhóm giảng viên của trường đại học A được cử đi tập huấn năng lực số cho cán bộ tại một số xã vùng cao. Địa điểm tập huấn tại các xã đã được trang bị đầy đủ hệ thống cáp quang và hạ tầng kết nối Internet. Trước khi lên đường, lãnh đạo nhà trường giao cho trưởng nhóm hai nhiệm vụ về hoạt động của nhóm: (1) gửi báo cáo vào cuối mỗi ngày đến địa chỉ email baocao@fha.edu.vn; (2) ba ngày một lần, đăng các bài viết vào mục Phân công trên website của trường tại địa chỉ https://fha.edu.vn. Khi tìm hiểu tình huống trên, có các nhận định sau:
+a) https trong địa chỉ website https://fha.edu.vn là giao thức truyền tải thư điện tử. (S)
+b) Tên miền website của trường đại học A đóng vai trò là một địa chỉ thay thế cho địa chỉ IP của máy chủ web. (Đ)
+c) Trong trường hợp máy chủ thư điện tử của trường đại học A thay đổi địa chỉ IP, trưởng nhóm vẫn có thể gửi báo cáo thành công đến địa chỉ email đã được cung cấp. (Đ)
+d) Học viên cần sử dụng điện thoại thông minh kết nối trực tiếp vào bộ chuyển mạch (Switch) để xem tài liệu học tập được cung cấp trên website của trường đại học A. (S)
+Lời giải: HTTPS là giao thức truyền tải siêu văn bản có bảo mật. Hệ thống tên miền (DNS) giúp người dùng không cần biết địa chỉ IP, nên máy chủ đổi IP vẫn liên lạc được.

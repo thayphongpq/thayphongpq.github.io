@@ -1,0 +1,19 @@
+PHẦN II (tiếp). Phần riêng - Định hướng Tin học ứng dụng
+
+Câu 5. Một chủ nông trại dùng phần mềm để quản lí dữ liệu về các vườn cây với cơ sở dữ liệu gồm các bảng sau:
+- VUON_CAY(maVC, tenVC, diaDiem, dienTich) lưu mã vườn cây, tên vườn cây, địa điểm và diện tích của từng vườn; Mỗi mã vườn cây xác định duy nhất một vườn.
+- LOAI_CAY(maLC, tenLC) lưu mã loại cây, tên loại cây; Mỗi mã loại cây xác định duy nhất một loại cây.
+- THONG_KE(maVC, maLC, namTK, soLuong, sanLuong) lưu mã vườn cây, mã loại cây, năm thống kê, số lượng và sản lượng của từng loại cây (tính bằng kilôgam) trong từng vườn theo năm; Mỗi vườn trồng một hoặc nhiều loại cây, mỗi loại cây được trồng ở một số vườn khác nhau.
+Có một số nhận xét như sau về việc sử dụng phần mềm để tạo và khai thác cơ sở dữ liệu trên:
+a) Để tạo cấu trúc bảng LOAI_CAY, có các thao tác sau cần thực hiện: Tạo bảng mới; Đặt tên bảng; Tạo và xác định kiểu dữ liệu cho các trường; Thiết lập khóa chính. (Đ)
+b) Trong bảng LOAI_CAY, không thể thiết lập trường maLC có kiểu số nguyên và tự động tăng. (S)
+c) Để đảm bảo tính nhất quán của dữ liệu, khi nhập dữ liệu cho trường maVC của bảng THONG_KE, cần nhập giá trị là một trong các giá trị đã có của trường maVC của bảng VUON_CAY. (Đ)
+d) Để đưa ra thông tin gồm tên loại cây, tên vườn và sản lượng của các loại cây trong các vườn có sản lượng năm 2025 lớn hơn 3 000 kilôgam, cần thực hiện truy vấn với các thành phần sau: Các trường và bảng được chọn: LOAI_CAY.tenLC, VUON_CAY.tenVC, THONG_KE.sanLuong; Các cặp bảng được liên kết qua khóa tương ứng: VUON_CAY và THONG_KE qua maVC, VUON_CAY và LOAI_CAY qua maLC; Điều kiện truy vấn: THONG_KE.namTK = 2025 và THONG_KE.sanLuong > 3000. (S)
+Lời giải: Bảng VUON_CAY không có trường maLC; bảng LOAI_CAY phải được liên kết với bảng THONG_KE qua maLC.
+
+Câu 6. Một trường đại học phát động cuộc thi thiết kế website bằng phần mềm tạo trang web. Trong đó, yêu cầu website có các trang: Trang chủ, Giới thiệu, Tuyển dụng. Trang chủ hiển thị các tin tức nổi bật về hoạt động của nhà trường. Trang Giới thiệu có bài viết tóm tắt thông tin các khoa và liên kết đến trang chi tiết của từng khoa. Trang Tuyển dụng đăng thông báo tuyển dụng và một biểu mẫu để ứng viên nhập thông tin đăng kí dự tuyển. Một số người nhận xét như sau:
+a) Nếu đưa logo của từng khoa vào trang Giới thiệu thì có thể thiết lập liên kết từng logo này đến trang chi tiết của khoa tương ứng. (Đ)
+b) Thanh điều hướng chỉ có ở Trang chủ để người dùng dễ dàng di chuyển giữa các trang trong website. (S)
+c) Có thể thiết kế biểu mẫu đã nêu bằng một công cụ trực tuyến phù hợp, sau đó chèn liên kết của biểu mẫu này vào trang Tuyển dụng. (Đ)
+d) Để xem được nội dung của website sau khi xuất bản, máy tính của người dùng cần sử dụng phần mềm tạo trang web. (S)
+Lời giải: Thanh điều hướng cần có ở mọi trang. Người dùng chỉ cần trình duyệt web để xem website đã xuất bản.
