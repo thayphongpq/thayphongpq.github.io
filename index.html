@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Góc Lý - Tin</title>
+  <meta name="description" content="Bài giảng, tài liệu và đề ôn thi học sinh giỏi môn Vật lý, Tin học THPT.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;600;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div id="thong-bao"></div>
+  <header class="dau-trang">
+    <div class="khung dau-trang__hang">
+      <a class="logo" href="#/" id="logo"></a>
+      <form class="tim" id="form-tim" role="search">
+        <input id="o-tim" type="search" placeholder="Tìm bài, video, đề thi..." aria-label="Tìm kiếm">
+        <button type="submit">Tìm</button>
+      </form>
+    </div>
+    <nav class="khung menu" aria-label="Danh mục chính">
+      <a href="#/" data-trang="">Trang chủ</a>
+      <a href="#/vat-ly" data-trang="vat-ly">Vật lý</a>
+      <a href="#/tin-hoc" data-trang="tin-hoc">Tin học</a>
+      <a href="#/hsg" data-trang="hsg">Ôn thi HSG</a>
+      <a href="#/video" data-trang="video">Video bài giảng</a>
+      <a href="#/lien-he" data-trang="lien-he">Liên hệ</a>
+    </nav>
+  </header>
+
+  <main class="khung" id="app" tabindex="-1"></main>
+
+  <footer class="chan-trang">
+    <div class="khung chan-trang__hang">
+      <span id="chan-ten"></span>
+      <a href="them-bai.html">Công cụ thêm bài</a>
+    </div>
+  </footer>
+
+  <script src="noi-dung.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

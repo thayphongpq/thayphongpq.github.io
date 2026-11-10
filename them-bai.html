@@ -1,0 +1,103 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Công cụ thêm bài</title>
+  <link href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;600;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+  <style>
+    .form { max-width: 620px; display: grid; gap: 14px; }
+    .form label { display: grid; gap: 4px; font-weight: 500; font-size: 15px; }
+    .form input, .form select, .form textarea { font: inherit; padding: 9px 11px; border: 1px solid var(--vien); border-radius: 8px; background: #fff; color: inherit; width: 100%; }
+    .hai { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
+    pre { background: var(--sau); color: #fff; padding: 14px; border-radius: 8px; white-space: pre-wrap; word-break: break-word; font-size: 14px; margin: 0; }
+    .nut-bam { font: inherit; font-weight: 600; padding: 9px 18px; border: 0; border-radius: 8px; background: var(--sau); color: #fff; cursor: pointer; justify-self: start; }
+    .canh-bao { color: var(--ly); font-size: 14px; min-height: 1.4em; margin: 0; }
+    .an { display: none !important; }
+    ol { padding-left: 20px; margin: 0; }
+  </style>
+</head>
+<body>
+  <main class="khung">
+    <a class="quay-lai" href="index.html">‹ Về trang web</a>
+    <div class="dau-muc">
+      <h1>Công cụ thêm bài</h1>
+      <p>Điền thông tin, bấm Sao chép, rồi dán vào tệp noi-dung.js. Công cụ này không lưu gì lên mạng.</p>
+    </div>
+
+    <form class="form" id="f" autocomplete="off">
+      <label>Loại nội dung
+        <select id="kieu"><option value="v">Video bài giảng</option><option value="t">Tài liệu, bài tập, đề thi</option></select>
+      </label>
+      <label>Tên bài <input id="ten" required></label>
+      <div class="hai">
+        <label>Môn <select id="mon"><option>Vật lý</option><option>Tin học</option></select></label>
+        <label>Khối <select id="lop"><option>10</option><option>11</option><option>12</option><option value="HSG">Ôn thi HSG</option></select></label>
+      </div>
+
+      <label class="chi-v">Chủ đề <input id="chuDe" placeholder="Ví dụ: Dao động"></label>
+      <label class="chi-v">Link YouTube <input id="youtube" placeholder="https://www.youtube.com/watch?v=..."></label>
+      <label class="chi-v">Link tài liệu kèm theo (nếu có) <input id="taiLieu" placeholder="https://drive.google.com/..."></label>
+      <label class="chi-v">Mô tả ngắn <textarea id="moTa" rows="2"></textarea></label>
+
+      <label class="chi-t an">Loại tài liệu
+        <select id="loai"><option>Lý thuyết</option><option>Thực hành</option><option>Bài tập</option><option>Trắc nghiệm</option><option>Đề kiểm tra</option><option>Chuyên đề</option><option>Đề thi</option></select>
+      </label>
+      <label class="chi-t an">Link tài liệu <input id="link" placeholder="https://drive.google.com/..."></label>
+
+      <p class="canh-bao" id="cb" role="alert"></p>
+      <button class="nut-bam" type="submit">Tạo dòng và sao chép</button>
+    </form>
+
+    <div class="an" id="kq" style="max-width:620px;margin-top:24px">
+      <pre id="dong"></pre>
+      <p id="trangThai" style="font-weight:600;margin:10px 0"></p>
+      <ol>
+        <li>Mở tệp noi-dung.js trên GitHub, bấm biểu tượng cây bút để sửa.</li>
+        <li id="huongDan"></li>
+        <li>Bấm Commit changes. Khoảng một đến hai phút sau trang web tự cập nhật.</li>
+      </ol>
+    </div>
+  </main>
+
+  <script>
+    (function () {
+      var $ = function (id) { return document.getElementById(id); };
+      function capNhat() {
+        var v = $("kieu").value === "v";
+        document.querySelectorAll(".chi-v").forEach(function (e) { e.classList.toggle("an", !v); });
+        document.querySelectorAll(".chi-t").forEach(function (e) { e.classList.toggle("an", v); });
+      }
+      $("kieu").addEventListener("change", capNhat);
+      capNhat();
+
+      function ytHopLe(s) { return /^[\w-]{11}$/.test(s) || /(?:youtu\.be\/|[?&]v=|\/embed\/|\/shorts\/|\/live\/)[\w-]{11}/.test(s); }
+      function j(id) { return JSON.stringify($(id).value.trim()); }
+      function homNay() {
+        var d = new Date();
+        return d.getFullYear() + "-" + String(d.getMonth() + 1).padStart(2, "0") + "-" + String(d.getDate()).padStart(2, "0");
+      }
+
+      $("f").addEventListener("submit", function (e) {
+        e.preventDefault();
+        var v = $("kieu").value === "v";
+        var yt = $("youtube").value.trim();
+        if (v && yt && !ytHopLe(yt)) { $("cb").textContent = "Link YouTube chưa đúng. Hãy sao chép link từ thanh địa chỉ của trang video."; return; }
+        $("cb").textContent = "";
+        var dau = "  { ten: " + j("ten") + ", mon: " + j("mon") + ", lop: " + j("lop") + ", ";
+        var dong = v
+          ? dau + "chuDe: " + j("chuDe") + ", youtube: " + j("youtube") + ", taiLieu: " + j("taiLieu") + ", moTa: " + j("moTa") + ', ngay: "' + homNay() + '" },'
+          : dau + "loai: " + j("loai") + ", link: " + j("link") + ', ngay: "' + homNay() + '" },';
+        $("dong").textContent = dong;
+        $("huongDan").textContent = "Dán vào ngay dưới dòng ghi " + (v ? "DÁN VIDEO MỚI" : "DÁN TÀI LIỆU MỚI") + ".";
+        $("kq").classList.remove("an");
+        var bao = function (ok) { $("trangThai").textContent = ok ? "Đã sao chép. Làm tiếp các bước sau:" : "Hãy bôi đen dòng trên để sao chép, rồi làm tiếp:"; };
+        if (navigator.clipboard && navigator.clipboard.writeText) {
+          navigator.clipboard.writeText(dong).then(function () { bao(true); }, function () { bao(false); });
+        } else { bao(false); }
+      });
+    })();
+  </script>
+</body>
+</html>
