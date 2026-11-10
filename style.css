@@ -195,6 +195,12 @@ pre.ma code { background: none; padding: 0; }
 .loi-giai { margin-top: 12px; background: var(--giay); border-radius: 8px; padding: 8px 12px; }
 .loi-giai summary { cursor: pointer; font-weight: 600; color: var(--tin); }
 .loi-giai div { margin-top: 8px; }
+.ghi-chu-diem { background: var(--tin-nhat); color: var(--muc); border-radius: 8px; padding: 8px 12px; margin: 0 0 8px; font-size: 15px; }
+.canh-bao-bd { color: var(--ly); font-weight: 600; margin: 0 0 8px; min-height: 0; }
+.canh-bao-bd:empty { display: none; }
+.gui-diem { font-size: 15px; font-weight: 600; color: var(--mo); }
+.gui-diem--xong { color: #1f6b38; }
+.gui-diem--loi { color: var(--ly); }
 
 /* Lộ trình HSG */
 .lo-trinh { list-style: none; margin: 0 0 32px; padding: 0; display: grid; grid-template-columns: repeat(4, 1fr); gap: 12px; counter-reset: buoc; }

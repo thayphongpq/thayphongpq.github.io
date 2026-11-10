@@ -269,6 +269,8 @@
       "<li><b>Thời gian</b>: " + (phut ? phut + " phút, hết giờ bài tự nộp" : "không giới hạn") + "</li></ul>" +
       '<div class="hai-o"><label>Họ và tên<input id="ten-hs" autocomplete="name" value="' + esc(luu ? luu.ten : "") + '"></label>' +
       '<label>Lớp<input id="lop-hs" value="' + esc(luu ? luu.lop : "") + '"></label></div>' +
+      (linkNhanDiem() ? '<p class="ghi-chu-diem">Điểm của em sẽ tự gửi cho thầy/cô sau khi nộp bài, nên hãy ghi đúng họ tên và lớp.</p>' : "") +
+      '<p class="canh-bao-bd" id="loi-bd" role="alert"></p>' +
       '<p class="phu">Cách tính điểm theo đề tốt nghiệp THPT: câu nhiều lựa chọn đúng 0,25 điểm; câu đúng/sai đúng 1, 2, 3, 4 ý được 0,1 / 0,25 / 0,5 / 1 điểm; câu trả lời ngắn đúng ' +
       soDiem(de.diemTL) + " điểm. Điểm cuối quy về thang 10.</p>" +
       '<div class="hang-nut">' + (luu ? '<button type="button" class="nut" data-bai="tiep">Làm tiếp bài đang dở</button>' : "") +
@@ -280,6 +282,13 @@
     const giaTri = function (id) { const o = document.getElementById(id); return o ? o.value.trim() : ""; };
     b.ten = giaTri("ten-hs") || (luu && luu.ten) || "";
     b.lop = giaTri("lop-hs") || (luu && luu.lop) || "";
+    if (linkNhanDiem() && (!b.ten || !b.lop)) {
+      const o = document.getElementById("loi-bd");
+      if (o) o.textContent = "Em hãy nhập họ tên và lớp để thầy/cô nhận được điểm.";
+      const o2 = document.getElementById(b.ten ? "lop-hs" : "ten-hs");
+      if (o2) o2.focus();
+      return;
+    }
     if (luu) {
       b.traLoi = luu.traLoi || {};
       b.hetLuc = luu.hetLuc || 0;
@@ -368,6 +377,37 @@
     const luc = new Date();
     ghiLuu(khoaLuu(b.d.slug), null);
     manHinhKetQua(kq, luc);
+    const giay = Math.max(0, Math.round((luc.getTime() - b.batDauLuc) / 1000));
+    b.goiDiem = {
+      ten: b.ten, lop: b.lop, mon: b.d.mon, khoi: tenLop(b.d), de: b.d.ten, loai: b.d.loai || "Luyện tập",
+      diem: kq.diem10,
+      chiTiet: kq.phan.map(function (p) { return (p.ten ? p.ten.split(/[.:]/)[0].trim() : "Kết quả") + ": đúng " + p.soDung + "/" + p.soCau; }).join("; "),
+      thoiGianLam: Math.floor(giay / 60) + " phút " + (giay % 60) + " giây"
+    };
+    guiDiem();
+  }
+
+  /* ----- Gửi điểm về Google Sheets của thầy/cô ----- */
+  function linkNhanDiem() {
+    const s = linkAnToan(THONG_TIN.linkNhanDiem);
+    return /^https:\/\/script\.google(usercontent)?\.com\//.test(s) ? s : "";
+  }
+  function guiDiem() {
+    const b = baiThi, o = document.getElementById("gui-diem"), url = linkNhanDiem();
+    if (!b || !b.goiDiem || !o || !url) return;
+    o.className = "gui-diem";
+    o.textContent = "Đang gửi điểm cho thầy/cô…";
+    fetch(url, { method: "POST", mode: "no-cors", headers: { "Content-Type": "text/plain;charset=utf-8" }, body: JSON.stringify(b.goiDiem) })
+      .then(function () {
+        if (baiThi !== b) return;
+        o.className = "gui-diem gui-diem--xong";
+        o.textContent = "Đã gửi điểm cho thầy/cô.";
+      })
+      .catch(function () {
+        if (baiThi !== b) return;
+        o.className = "gui-diem gui-diem--loi";
+        o.innerHTML = 'Chưa gửi được điểm (mạng có vấn đề). <button type="button" class="nut nut--nho" data-bai="guilai">Gửi lại</button> Nếu vẫn không được, em chụp màn hình kết quả gửi thầy/cô.';
+      });
   }
   function cauKetQua(c, k, ct) {
     const t = baiThi.traLoi[k];
@@ -402,6 +442,7 @@
       "<h1>" + esc(d.ten) + "</h1><p><b>" + esc(b.ten || "Học sinh") + "</b>" + (b.lop ? " · Lớp " + esc(b.lop) : "") + "</p>" +
       '<p class="phu">Nộp lúc ' + luc.toLocaleTimeString("vi-VN", { hour: "2-digit", minute: "2-digit" }) + " ngày " + luc.toLocaleDateString("vi-VN") +
       " · Thời gian làm " + dongHoChu(lam).replace(":", " phút ") + " giây</p>" +
+      (linkNhanDiem() ? '<p id="gui-diem" class="gui-diem" role="status"></p>' : "") +
       '<ul class="tom-tat">' + kq.phan.map(function (p) {
         return "<li><b>" + esc(p.ten || "Kết quả") + "</b>: đúng " + p.soDung + "/" + p.soCau + " câu · " + soDiem(p.diem) + "/" + soDiem(p.toiDa) + " điểm</li>";
       }).join("") + "</ul>" +
@@ -589,7 +630,8 @@
       else if (v === "nop") hoiNop();
       else if (v === "huy") document.getElementById("xac-nhan").innerHTML = "";
       else if (v === "xacnhan") nopBai();
-      else if (v === "lamlai") { baiThi.daNop = false; baiThi.traLoi = {}; manHinhBatDau(); window.scrollTo(0, 0); }
+      else if (v === "guilai") guiDiem();
+      else if (v === "lamlai") { baiThi.daNop = false; baiThi.traLoi = {}; baiThi.goiDiem = null; manHinhBatDau(); window.scrollTo(0, 0); }
       return;
     }
     const cuon = e.target.closest("[data-cuon]");

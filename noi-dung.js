@@ -25,7 +25,10 @@ const THONG_TIN = {
   youtube: "https://www.youtube.com/@thephong6695",
   facebook: "",
   zalo: "",
-  email: ""
+  email: "",
+
+  // Link ứng dụng web Google Apps Script nhận điểm trắc nghiệm (để "" thì không gửi điểm).
+  linkNhanDiem: ""
 };
 
 // Lộ trình hiển thị ở trang Ôn thi HSG.
