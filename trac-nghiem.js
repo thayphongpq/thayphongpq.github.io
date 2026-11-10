@@ -37,9 +37,10 @@
   const R_HINH = /^h[ìi]nh\s*:\s*(\S+)/i;
   const R_THOI_GIAN = /^th[ờo]i\s*gian\s*:\s*(\d+)/i;
   const R_DIEM_TL = /^[đĐ]i[ểe]m\s*tr[ảa]\s*l[ờo]i\s*ng[ắa]n\s*:\s*([\d.,]+)/i;
+  const R_TRON = /^tr[ộo]n(\s*[đd][ềe])?\s*:\s*(.+)$/i;
 
   function phanTich(text) {
-    const de = { thoiGian: 0, diemTL: 0.25, phan: [], loi: [], tongCau: 0 };
+    const de = { thoiGian: 0, diemTL: 0.25, tron: true, phan: [], loi: [], tongCau: 0 };
     let phan = null, cau = null, cheDo = "de", trongMa = false;
 
     function moPhan(ten) { phan = { ten: ten, cau: [] }; de.phan.push(phan); }
@@ -57,6 +58,7 @@
       let m;
       if (!cau && (m = s.match(R_THOI_GIAN))) { de.thoiGian = Number(m[1]); return; }
       if (!cau && (m = s.match(R_DIEM_TL))) { de.diemTL = Number(m[1].replace(",", ".")) || 0.25; return; }
+      if (!cau && (m = s.match(R_TRON))) { de.tron = !/^(kh[ôo]ng|no|0)/i.test(m[2].trim()); return; }
       if (R_PHAN.test(s)) { moPhan(s); cau = null; cheDo = "de"; return; }
       if ((m = s.match(R_CAU))) {
         if (!phan) moPhan("");
@@ -185,5 +187,27 @@
     return t !== undefined && t !== null && String(t).trim() !== "";
   }
 
-  window.TracNghiem = { phanTich: phanTich, cham: cham, dinhDang: dinhDang, daLam: daLam, esc: esc };
+  // Trộn đề cho mỗi học sinh: đổi thứ tự câu trong từng phần và thứ tự phương án A-D.
+  // Câu có phương án nhắc tới phương án khác ("Cả A và B", "Tất cả đều đúng"...) giữ nguyên thứ tự phương án.
+  function tronMang(n) {
+    const a = [];
+    for (let i = 0; i < n; i++) a.push(i);
+    for (let i = n - 1; i > 0; i--) { const j = Math.floor(Math.random() * (i + 1)); const t = a[i]; a[i] = a[j]; a[j] = t; }
+    return a;
+  }
+  const R_GIU_THU_TU = /(\b[A-D]\s*(,|và|hoặc|hay)\s*[A-D]\b|t[ấa]t\s*c[ảa]|c[ảa]\s*(hai|ba|bốn|4|3|2)|đều\s*(đúng|sai)|không\s*có\s*(phương án|đáp án|câu)|các\s*(phương án|đáp án)\s*trên)/i;
+  function taoThuTu(de) {
+    const cau = {}, lc = {};
+    de.phan.forEach(function (p, pi) {
+      cau[pi] = tronMang(p.cau.length);
+      p.cau.forEach(function (c, ci) {
+        if (c.loai !== "mc") return;
+        const giu = c.luaChon.some(function (o) { return R_GIU_THU_TU.test(o.noiDung); });
+        if (!giu) lc[pi + "-" + ci] = tronMang(c.luaChon.length);
+      });
+    });
+    return { cau: cau, lc: lc };
+  }
+
+  window.TracNghiem = { phanTich: phanTich, cham: cham, dinhDang: dinhDang, daLam: daLam, esc: esc, taoThuTu: taoThuTu };
 })();

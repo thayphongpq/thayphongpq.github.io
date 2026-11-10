@@ -59,6 +59,14 @@ main { padding-top: 32px; padding-bottom: 56px; min-height: 60vh; }
 .mo-dau p { color: var(--mo); font-size: 17px; margin: 12px 0 0; max-width: 34em; }
 .mo-dau__gv { font-size: 15px !important; font-weight: 600; color: var(--muc) !important; }
 .mo-dau svg { width: 100%; height: auto; display: block; }
+.mo-dau__nut { margin-top: 18px; }
+.mo-dau__nut .nut { margin-top: 0; }
+.thi-thu-mon { display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 14px; }
+.thi-thu-mon .nut { margin-top: 0; }
+.lien-ket { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 240px), 1fr)); gap: 12px; }
+.lien-ket__muc { display: flex; flex-direction: column; gap: 4px; text-decoration: none; background: var(--trang); border: 1px solid var(--vien); border-radius: 10px; padding: 14px 16px; }
+.lien-ket__muc:hover { border-color: var(--muc); }
+.lien-ket__muc b { font-weight: 600; color: var(--tin); }
 
 .ba-cua { display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; margin-bottom: 48px; }
 .cua { background: var(--trang); border: 1px solid var(--vien); border-top: 5px solid var(--mau); border-radius: 10px; padding: 20px; display: flex; flex-direction: column; gap: 8px; }

@@ -4,6 +4,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Công cụ thêm bài</title>
+  <link rel="icon" href="icon.svg" type="image/svg+xml">
   <link href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;600;800&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="style.css?v=3">
   <style>
@@ -66,6 +67,7 @@
           <li>Câu trả lời ngắn: thêm dòng <b>Đáp án: 2,5</b> (nhiều cách đúng thì ngăn bằng dấu |, ví dụ <b>Đáp án: 0,5|1/2</b>).</li>
           <li>Lời giải (không bắt buộc): dòng bắt đầu bằng <b>Lời giải:</b>, học sinh xem sau khi nộp.</li>
           <li>Công thức viết giữa hai dấu $, ví dụ <b>$v = \dfrac{s}{t}$</b>. Hình: dòng <b>Hình: link-ảnh</b>.</li>
+          <li>Trang tự <b>trộn thứ tự câu và phương án</b> cho mỗi học sinh, nên lời giải đừng ghi "chọn C" mà ghi nội dung đáp án. Câu có phương án kiểu "Cả A và B" tự giữ nguyên thứ tự. Muốn tắt trộn cả đề, thêm dòng <b>Trộn: không</b> ở đầu đề.</li>
         </ul>
         <pre id="mauDe">Thời gian: 50
 
@@ -116,7 +118,7 @@ Câu 1. Một vật chuyển động thẳng đều đi được 100 m trong 20 
     </div>
   </main>
 
-  <script src="trac-nghiem.js?v=1"></script>
+  <script src="trac-nghiem.js?v=2"></script>
   <script>
     (function () {
       var $ = function (id) { return document.getElementById(id); };
