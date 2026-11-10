@@ -1,0 +1,190 @@
+ĐỀ THI CHÍNH THỨC KỲ THI TỐT NGHIỆP THPT NĂM 2026 - MÔN VẬT LÍ - MÃ ĐỀ 0214
+Nguồn: Bộ Giáo dục và Đào tạo. Đáp án theo đáp án chính thức Bộ GD&ĐT công bố ngày 19/6/2026.
+Thời gian: 50
+
+PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn
+Câu 1. Một nguồn phóng xạ dùng trong y tế được bảo quản trong bình chì. Khi cần sử dụng, người ta mở cửa bình cho tia phóng xạ phát ra ngoài để chiếu xạ. Thời gian mỗi lần chiếu xạ được coi là bằng thời gian mỗi lần mở cửa bình. Tổng thời gian mà nguồn phóng xạ này còn có thể phát tia phóng xạ đủ để sử dụng
+*A. không phụ thuộc vào số lần mở cửa bình cũng như độ mạnh hay yếu của chùm tia phóng xạ trong mỗi lần chiếu.
+B. phụ thuộc vào số lần mở cửa bình cũng như độ mạnh hay yếu của chùm tia phóng xạ trong mỗi lần chiếu.
+C. chỉ phụ thuộc vào độ mạnh hay yếu của chùm tia phóng xạ trong mỗi lần chiếu.
+D. chỉ phụ thuộc vào số lần mở cửa bình.
+Lời giải: Sự phân rã phóng xạ diễn ra tự phát theo chu kì bán rã, không phụ thuộc việc mở hay đóng bình.
+
+Câu 2. Quá trình chuyển thể từ thể rắn sang thể lỏng được gọi là
+*A. sự nóng chảy.
+B. sự đông đặc.
+C. sự sôi.
+D. sự hóa hơi.
+
+Câu 3. Một khối chất lỏng có đặc điểm nào sau đây?
+A. Có hình dạng xác định nhưng không có thể tích xác định.
+*B. Có thể tích xác định nhưng không có hình dạng xác định.
+C. Không có thể tích và hình dạng xác định.
+D. Có thể tích và hình dạng xác định.
+
+Câu 4. Khi một khối khí lí tưởng xác định dãn nở đẳng nhiệt thì
+A. áp suất của khối khí không đổi.
+B. nội năng của khối khí giảm.
+C. nội năng của khối khí tăng.
+*D. áp suất của khối khí giảm.
+Lời giải: Đẳng nhiệt thì $pV$ không đổi, thể tích tăng nên áp suất giảm; nhiệt độ không đổi nên nội năng không đổi.
+
+Câu 5. Theo định luật Lenz, dòng điện cảm ứng sinh ra trong một mạch điện kín có chiều sao cho từ trường mà nó sinh ra có tác dụng
+A. làm giảm từ thông qua mạch.
+B. làm từ thông qua mạch bằng không.
+*C. chống lại sự biến thiên của từ thông qua mạch.
+D. làm tăng từ thông qua mạch.
+
+Câu 6. Các phân tử khí lí tưởng gây ra áp suất lên thành bình chứa là do chúng
+*A. va chạm vào thành bình.
+B. đẩy nhau khi chuyển động lại gần nhau.
+C. va chạm với nhau.
+D. hút nhau khi chuyển động lại gần nhau.
+
+Câu 7. Khi nói về dòng điện xoay chiều, phát biểu nào sau đây là đúng?
+A. Công suất toả nhiệt ở điện trở $R$ tỉ lệ thuận với cường độ hiệu dụng của dòng điện qua điện trở.
+B. Giá trị hiệu dụng của dòng điện bằng một nửa giá trị cực đại.
+*C. Cường độ dòng điện biến thiên theo thời gian theo định luật dạng sin (hoặc cosin).
+D. Giá trị hiệu dụng của điện áp bằng một nửa giá trị cực đại.
+Lời giải: Công suất tỏa nhiệt $P = I^2R$ tỉ lệ với bình phương cường độ hiệu dụng; giá trị hiệu dụng bằng giá trị cực đại chia $\sqrt{2}$.
+
+Câu 8. Hai hạt nhân X và Y có năng lượng liên kết bằng nhau. Nếu số nucleon của hạt nhân X nhỏ hơn số nucleon của hạt nhân Y thì
+A. độ hụt khối của hạt nhân X lớn hơn độ hụt khối của hạt nhân Y.
+B. độ hụt khối của hạt nhân Y lớn hơn độ hụt khối của hạt nhân X.
+*C. hạt nhân X bền vững hơn hạt nhân Y.
+D. hạt nhân Y bền vững hơn hạt nhân X.
+Lời giải: Năng lượng liên kết bằng nhau thì độ hụt khối bằng nhau. X có ít nucleon hơn nên năng lượng liên kết riêng lớn hơn, do đó bền vững hơn.
+
+Câu 9. Một khối khí lí tưởng xác định biến đổi theo quá trình thể tích không đổi từ trạng thái X sang trạng thái Y, phát biểu nào sau đây là đúng?
+A. Mật độ phân tử của khối khí tăng lên.
+*B. Công mà khối khí sinh ra bằng không.
+C. Nhiệt độ của khối khí không đổi.
+D. Khoảng cách trung bình giữa các phân tử tăng lên.
+
+Câu 10. Khi ở gần nhau,
+A. hai điện tích trái dấu đẩy nhau.
+*B. hai cực từ khác loại của hai nam châm hút nhau.
+C. hai dòng điện ngược chiều hút nhau.
+D. hai dòng điện cùng chiều đẩy nhau.
+
+Câu 11. Nén một khối khí lí tưởng trong xilanh kín. Nội năng của khối khí
+A. không đổi, nếu xilanh cách nhiệt.
+B. giảm do khối khí nhận công.
+*C. tăng, nếu xilanh cách nhiệt.
+D. tăng do khối khí nhận công.
+Lời giải: Xilanh cách nhiệt thì $Q = 0$, khí nhận công $A > 0$ nên $\Delta U = A > 0$. Nếu không cách nhiệt, khí có thể tỏa nhiệt nên chưa chắc nội năng tăng.
+
+Câu 12. Trong một từ trường đều, một proton chuyển động tròn đều chỉ do tác dụng của lực từ. Phát biểu nào sau đây là đúng?
+A. Vận tốc của hạt không đổi.
+*B. Lực từ không sinh công.
+C. Gia tốc của hạt không đổi.
+D. Động năng của hạt tăng.
+Lời giải: Lực từ luôn vuông góc với vận tốc nên không sinh công, động năng không đổi.
+
+Câu 13. Khi đun một ấm nước, lúc nước đang sôi, dù tiếp tục được cung cấp nhiệt lượng thì nhiệt độ vẫn ở $100\ ^\circ\text{C}$ cho đến khi cạn nước. Phát biểu nào sau đây là đúng?
+A. Việc đun với công suất nhiệt cao hơn sẽ làm nhiệt độ sôi của nước cao hơn $100\ ^\circ\text{C}$.
+B. Nhiệt lượng cung cấp cho nước đang sôi làm tăng tốc độ trung bình của các phân tử nước.
+C. Do nhiệt độ của nước không thay đổi nên nội năng của khối nước trong ấm không đổi.
+*D. Nhiệt lượng cung cấp cho nước đang sôi dùng để phá vỡ liên kết giữa các phân tử nước.
+
+Câu 14. Khi đặt vật 1 tiếp xúc nhiệt với vật 2 và có sự truyền nhiệt từ vật 1 sang vật 2, phát biểu nào sau đây là đúng?
+A. Vật 1 chứa rất nhiều nhiệt lượng.
+*B. Vật 1 và vật 2 đều không chứa nhiệt lượng.
+C. Vật 2 chứa rất ít nhiệt lượng.
+D. Vật 1 chứa nhiều nhiệt lượng hơn vật 2.
+Lời giải: Nhiệt lượng là phần nội năng được truyền đi, không phải đại lượng mà vật "chứa".
+
+Câu 15. Trong chẩn đoán bệnh, khi đưa một đồng vị phóng xạ vào cơ thể người bệnh, để đảm bảo an toàn, người ta dùng đồng vị có
+A. năng lượng liên kết riêng nhỏ để dễ dàng phân rã trong mạch máu.
+B. chu kì bán rã dài để kéo dài thời gian tác dụng của chất phóng xạ trong cơ thể.
+C. khả năng phát ra tia alpha mạnh để dễ dàng xuyên qua cơ thể đến máy thu.
+*D. chu kì bán rã ngắn để giảm thời gian tồn tại của chất phóng xạ trong cơ thể.
+
+Câu 16. Nếu một proton đứng yên, nó sẽ
+A. tạo ra từ trường khi nó nằm gần một dây dẫn.
+B. không tạo ra điện trường.
+*C. không tạo ra từ trường.
+D. tạo ra từ trường giống như một nam châm nhỏ.
+Lời giải: Điện tích đứng yên chỉ tạo ra điện trường; điện tích chuyển động mới tạo ra từ trường.
+
+Câu 17. Với một khối khí lí tưởng xác định, định luật Charles mô tả mối liên hệ giữa
+A. áp suất và thể tích của khối khí khi nhiệt độ tuyệt đối không đổi.
+B. áp suất và nhiệt độ tuyệt đối của khối khí khi thể tích không đổi.
+*C. thể tích và nhiệt độ tuyệt đối của khối khí khi áp suất không đổi.
+D. thể tích và khối lượng của khối khí khi nhiệt độ tuyệt đối không đổi.
+
+Câu 18. Khi truyền cùng một nhiệt lượng cho hai vật có cùng khối lượng được làm từ hai chất khác nhau, trong điều kiện không xảy ra sự chuyển thể, phát biểu nào sau đây là đúng?
+A. Hai vật không thay đổi nhiệt độ.
+B. Vật được làm từ chất có nhiệt dung riêng lớn hơn có độ biến thiên nhiệt độ lớn hơn.
+*C. Vật được làm từ chất có nhiệt dung riêng lớn hơn có độ biến thiên nhiệt độ nhỏ hơn.
+D. Hai vật có độ biến thiên nhiệt độ bằng nhau.
+Lời giải: $\Delta T = \dfrac{Q}{mc}$: cùng $Q$ và $m$, nhiệt dung riêng $c$ lớn hơn thì $\Delta T$ nhỏ hơn.
+
+PHẦN II. Câu trắc nghiệm đúng sai
+Câu 1. Một xilanh cách nhiệt nằm ngang được chia thành hai ngăn kín bởi một pit-tông cách nhiệt có thể dịch chuyển không ma sát. Trong mỗi ngăn có một lượng khí lí tưởng xác định. Ban đầu hệ ở trạng thái cân bằng. Giả sử làm dịch chuyển pit-tông để nén khí ở ngăn 1.
+a) Nội năng của khối khí ở ngăn 1 không đổi do ngăn này được cách nhiệt. (S)
+b) Khối khí ở ngăn 1 và khối khí ở ngăn 2 đều nhận công từ pit-tông. (S)
+c) Nhiệt độ của khối khí ở ngăn 2 giảm. (Đ)
+d) Khối khí ở ngăn 1 và khối khí ở ngăn 2 đều không nhận nhiệt lượng từ môi trường bên ngoài. (Đ)
+Lời giải: Không trao đổi nhiệt nên $\Delta U = A$. Khí ngăn 1 bị nén, nhận công nên nội năng tăng. Khí ngăn 2 dãn ra, sinh công nên nội năng giảm và nhiệt độ giảm.
+
+Câu 2. Nhiệt dung riêng của nước được xác định bằng công thức $c = \dfrac{Q}{m\Delta T}$, trong đó $Q$ là nhiệt lượng cần cung cấp, $m$ là khối lượng của nước, $\Delta T$ là độ thay đổi nhiệt độ của nước.
+Thảo luận về công thức này, một nhóm học sinh cho rằng: **Nhiệt dung riêng của nước phụ thuộc vào khối lượng của nước.**
+Để kiểm tra giả thuyết, họ dùng nhiệt lượng kế có dây điện trở hoạt động với dòng điện có cường độ $I$ và hiệu điện thế $U$ không đổi, cân, nhiệt kế, đồng hồ và làm thí nghiệm theo các bước sau (hình bên):
+(1) Cho một lượng nước có khối lượng $m$ ở nhiệt độ $T_1$ (nhiệt độ phòng) vào bình nhiệt lượng kế. Sau khoảng thời gian $\Delta t$ tính từ lúc cấp điện cho dây điện trở, nhiệt độ của nước trong bình là $T_2$.
+(2) Tính giá trị nhiệt dung riêng của nước.
+(3) Lặp lại bước (1) và bước (2) với các giá trị khối lượng $m$ khác nhau.
+Kết quả thí nghiệm cho thấy **nhiệt dung riêng của nước không phụ thuộc vào khối lượng của nước.**
+Hình: de/hinh/mcp-claude-in-chrome-blob-1794281848472-r0dhx1.png
+a) Khoảng thời gian cấp điện $\Delta t$ càng lớn thì nhiệt lượng do dây điện trở tỏa ra càng lớn. (Đ)
+b) Tất cả nhiệt lượng do dây điện trở tỏa ra đều được dùng để làm tăng nhiệt độ của nước. (S)
+c) Nhiệt độ $T_2$ càng lớn thì nhiệt lượng bị mất mát càng nhỏ. (S)
+d) Kết quả thí nghiệm bác bỏ giả thuyết của nhóm học sinh. (Đ)
+Lời giải: $Q = UI\Delta t$ tăng theo $\Delta t$. Luôn có một phần nhiệt truyền ra môi trường và làm nóng bình; nước càng nóng so với môi trường thì nhiệt mất mát càng nhiều.
+
+Câu 3. Cuối thế kỷ XIX, quan điểm phổ biến cho rằng nguyên tử là một khối cầu trung hòa về điện. Tuy nhiên, cấu trúc bên trong của nguyên tử vẫn là một bí ẩn. Năm 1904, Thomson đã đề xuất mô hình nguyên tử gồm các electron nằm rải rác trong một khối cầu tích điện dương phân bố đều. Để kiểm tra tính đúng đắn của mô hình này, Rutherford cùng cộng sự đã thực hiện thí nghiệm bắn phá một lá vàng mỏng bằng chùm hạt alpha.
+a) Kết quả thí nghiệm cho thấy phần lớn hạt alpha đi thẳng qua lá vàng, một số ít bị lệch hướng (tán xạ) với các góc khác nhau. (Đ)
+b) Kết quả thí nghiệm này cho thấy nguyên tử không có cấu tạo như mô hình nguyên tử của Thomson. (Đ)
+c) Các hạt alpha bị tán xạ với các góc khác nhau là do chúng tương tác điện với electron. (S)
+d) Kết quả thí nghiệm này chứng minh các electron chuyển động theo quỹ đạo dừng quanh hạt nhân. (S)
+Lời giải: Hạt alpha bị tán xạ do lực đẩy tĩnh điện của hạt nhân mang điện dương, rất nhỏ và nặng. Thí nghiệm này không nói gì về quỹ đạo dừng của electron.
+
+Câu 4. Ở một mặt phẳng nằm ngang cố định trong một từ trường đều có các đường sức từ nằm ngang, đặt một đoạn dây dẫn thẳng có dòng điện không đổi sao cho chiều của dòng điện hợp với chiều của đường sức một góc $\alpha$. Khi thay đổi góc $\alpha$, đoạn dây vẫn nằm trong mặt phẳng cố định nói trên.
+a) Lực từ tác dụng lên đoạn dây có phương vuông góc với cả đoạn dây và đường sức từ. (Đ)
+b) Khi đặt đoạn dây song song với các đường sức từ, không có lực từ tác dụng lên đoạn dây. (Đ)
+c) Khi thay đổi góc $\alpha$ thì phương của lực từ tác dụng lên đoạn dây cũng thay đổi. (S)
+d) Lực từ tác dụng lên đoạn dây có độ lớn cực đại khi đoạn dây vuông góc với đường sức từ. (Đ)
+Lời giải: $F = BI\ell\sin\alpha$. Dây và đường sức cùng nằm trong mặt phẳng nằm ngang nên lực từ luôn có phương thẳng đứng, không đổi khi thay đổi $\alpha$.
+
+PHẦN III. Câu trắc nghiệm trả lời ngắn (không làm tròn kết quả các phép tính trung gian)
+Câu 1. Một pin hạt nhân sử dụng đồng vị phóng xạ plutonium $^{238}_{94}\text{Pu}$ với hằng số phóng xạ $\lambda = 2{,}50 \cdot 10^{-10}\ \text{s}^{-1}$ để cung cấp năng lượng cho xe tự hành trên Hỏa Tinh. Tại thời điểm đưa vào sử dụng để phát điện (thời điểm ban đầu), pin hạt nhân này chứa $8{,}60 \cdot 10^{24}$ hạt nhân $^{238}_{94}\text{Pu}$. Biết mỗi phân rã hạt nhân $^{238}_{94}\text{Pu}$ toả ra năng lượng là $8{,}97 \cdot 10^{-13}$ J và toàn bộ năng lượng này biến thành nhiệt. Trong đó, chỉ có 6,20% năng lượng nhiệt chuyển thành năng lượng điện. Biết một năm có 365 ngày, một ngày có 86400 s.
+Năng lượng điện do pin cung cấp trong giây đầu tiên tính từ thời điểm ban đầu là bao nhiêu kilôjun (kJ) (làm tròn kết quả đến chữ số hàng phần trăm)?
+Đáp án: 0,12
+Lời giải: Số phân rã trong 1 s: $H = \lambda N_0 = 2{,}15 \cdot 10^{15}$. Nhiệt tỏa ra: $2{,}15 \cdot 10^{15} \cdot 8{,}97 \cdot 10^{-13} \approx 1928{,}6$ J. Điện năng: $6{,}20\% \cdot 1928{,}6 \approx 119{,}6$ J $\approx 0{,}12$ kJ.
+
+Câu 2. Một pin hạt nhân sử dụng đồng vị phóng xạ plutonium $^{238}_{94}\text{Pu}$ với hằng số phóng xạ $\lambda = 2{,}50 \cdot 10^{-10}\ \text{s}^{-1}$ để cung cấp năng lượng cho xe tự hành trên Hỏa Tinh. Tại thời điểm đưa vào sử dụng để phát điện (thời điểm ban đầu), pin hạt nhân này chứa $8{,}60 \cdot 10^{24}$ hạt nhân $^{238}_{94}\text{Pu}$. Biết mỗi phân rã hạt nhân $^{238}_{94}\text{Pu}$ toả ra năng lượng là $8{,}97 \cdot 10^{-13}$ J và toàn bộ năng lượng này biến thành nhiệt. Trong đó, chỉ có 6,20% năng lượng nhiệt chuyển thành năng lượng điện. Biết một năm có 365 ngày, một ngày có 86400 s.
+Ở thời điểm $t = 25{,}0$ năm kể từ thời điểm ban đầu, số lượng hạt nhân $^{238}_{94}\text{Pu}$ chưa phân rã trong pin là $x \cdot 10^{24}$ hạt nhân. Tìm $x$ (làm tròn kết quả đến chữ số hàng phần trăm).
+Đáp án: 7,06
+Lời giải: $t = 25 \cdot 365 \cdot 86400 = 7{,}884 \cdot 10^{8}$ s. $N = N_0 e^{-\lambda t} = 8{,}60 \cdot 10^{24} \cdot e^{-0{,}1971} \approx 7{,}06 \cdot 10^{24}$.
+
+Câu 3. Trước khi khởi hành, người lái xe điều chỉnh áp suất khí trong lốp xe ô tô về giá trị khuyến nghị của nhà sản xuất. Khi đó, nhiệt độ của khí trong lốp xe là $14{,}5\ ^\circ\text{C}$. Sau khi lái xe được một quãng đường, cảm biến cho biết nhiệt độ của khí trong lốp là $48{,}5\ ^\circ\text{C}$. Coi khí trong lốp xe là khí lí tưởng và thể tích lốp xe không thay đổi. Lấy $T(\text{K}) = t(^\circ\text{C}) + 273$.
+Áp suất khí trong lốp xe đã tăng thêm bao nhiêu phần trăm so với giá trị khuyến nghị (làm tròn kết quả đến chữ số hàng phần mười)?
+Đáp án: 11,8
+Lời giải: Đẳng tích: $\dfrac{p_2}{p_1} = \dfrac{T_2}{T_1} = \dfrac{321{,}5}{287{,}5} \approx 1{,}118$, tức áp suất tăng khoảng 11,8%.
+
+Câu 4. Trước khi khởi hành, người lái xe điều chỉnh áp suất khí trong lốp xe ô tô về giá trị khuyến nghị của nhà sản xuất. Khi đó, nhiệt độ của khí trong lốp xe là $14{,}5\ ^\circ\text{C}$. Sau khi lái xe được một quãng đường, cảm biến cho biết nhiệt độ của khí trong lốp là $48{,}5\ ^\circ\text{C}$. Coi khí trong lốp xe là khí lí tưởng và thể tích lốp xe không thay đổi. Lấy $T(\text{K}) = t(^\circ\text{C}) + 273$.
+Người lái xe giảm áp suất khí trong lốp xe về giá trị khuyến nghị bằng cách xả bớt một lượng khí qua van. Nhiệt độ của khí trong lốp xe vẫn giữ ở mức $48{,}5\ ^\circ\text{C}$. Khối lượng khí đã được xả ra ngoài bằng bao nhiêu phần trăm khối lượng khí trong lốp xe trước khi xả (làm tròn kết quả đến chữ số hàng phần mười)?
+Đáp án: 10,6
+Lời giải: Cùng $V$, $T$ thì khối lượng tỉ lệ với áp suất: $\dfrac{m_{\text{sau}}}{m_{\text{trước}}} = \dfrac{287{,}5}{321{,}5}$. Phần khí xả ra bằng $1 - \dfrac{287{,}5}{321{,}5} \approx 10{,}6\%$.
+
+Câu 5. Một thanh kim loại có chiều dài $\ell = 25{,}0$ cm chuyển động đều với tốc độ $v = 55{,}0$ cm/s dọc theo hai thanh ray kim loại song song, được nối với nhau bằng một dây dẫn ở một đầu (hình bên). Hệ thống ở trong một từ trường đều có cảm ứng từ vuông góc, hướng ra khỏi mặt phẳng hình vẽ và có độ lớn $B = 0{,}350$ T. Khi đó, suất điện động cảm ứng xuất hiện trong thanh kim loại có độ lớn là $|e_c| = B\ell v$. Thanh kim loại có điện trở là $18{,}0\ \Omega$, các thanh ray và dây nối có điện trở không đáng kể.
+Hình: de/hinh/mcp-claude-in-chrome-blob-1794281970206-oer8ve.png
+Cường độ dòng điện trong thanh kim loại là bao nhiêu miliampe (mA) (làm tròn kết quả đến chữ số hàng phần trăm)?
+Đáp án: 2,67
+Lời giải: $e = B\ell v = 0{,}350 \cdot 0{,}250 \cdot 0{,}550 = 0{,}048125$ V. $I = \dfrac{e}{R} \approx 2{,}67 \cdot 10^{-3}$ A $= 2{,}67$ mA.
+
+Câu 6. Một thanh kim loại có chiều dài $\ell = 25{,}0$ cm chuyển động đều với tốc độ $v = 55{,}0$ cm/s dọc theo hai thanh ray kim loại song song, được nối với nhau bằng một dây dẫn ở một đầu (hình bên). Hệ thống ở trong một từ trường đều có cảm ứng từ vuông góc, hướng ra khỏi mặt phẳng hình vẽ và có độ lớn $B = 0{,}350$ T. Khi đó, suất điện động cảm ứng xuất hiện trong thanh kim loại có độ lớn là $|e_c| = B\ell v$. Thanh kim loại có điện trở là $18{,}0\ \Omega$, các thanh ray và dây nối có điện trở không đáng kể.
+Hình: de/hinh/mcp-claude-in-chrome-blob-1794281970206-oer8ve.png
+Công suất toả nhiệt ở thanh kim loại là bao nhiêu milioát (mW) (làm tròn kết quả đến chữ số hàng phần trăm)?
+Đáp án: 0,13
+Lời giải: $P = \dfrac{e^2}{R} = \dfrac{0{,}048125^2}{18{,}0} \approx 1{,}29 \cdot 10^{-4}$ W $\approx 0{,}13$ mW.
