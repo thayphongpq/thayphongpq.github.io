@@ -39,23 +39,36 @@
     if (lop === "HSG") return "mau-hsg";
     return mon === "Tin học" ? "mau-tin" : "mau-ly";
   }
-  function tenLop(lop) {
-    return lop === "HSG" ? "Ôn thi HSG" : "Lớp " + lop;
+  // Bài HSG chia hai cấp: THCS và THPT (không ghi cap thì tính là THPT).
+  function capCua(x) {
+    return String(x.cap || "").trim().toUpperCase() === "THCS" ? "THCS" : "THPT";
+  }
+  function tenLop(x) {
+    return x.lop === "HSG" ? "HSG " + capCua(x) : "Lớp " + x.lop;
+  }
+  // Thứ tự học trong thư mục HSG: bài cũ trước, bài mới sau.
+  function theoThuTuHoc(a, b) {
+    return String(a.ngay || "").localeCompare(String(b.ngay || "")) || b.thuTu - a.thuTu;
   }
 
+  const THU_MUC = Object.assign({
+    THCS: { ten: "HSG THCS", moTa: "Ôn thi học sinh giỏi cấp THCS.", playlist: "" },
+    THPT: { ten: "HSG THPT", moTa: "Ôn thi học sinh giỏi cấp THPT.", playlist: "" }
+  }, typeof THU_MUC_HSG === "undefined" ? {} : THU_MUC_HSG);
+
   const daDung = {};
-  const dsVideo = VIDEO.map(function (v) {
+  const dsVideo = VIDEO.map(function (v, i) {
     const goc = boDau(v.ten).replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "") || "video";
     daDung[goc] = (daDung[goc] || 0) + 1;
-    return Object.assign({}, v, { id: youtubeId(v.youtube), slug: daDung[goc] > 1 ? goc + "-" + daDung[goc] : goc });
+    return Object.assign({}, v, { thuTu: i, id: youtubeId(v.youtube), slug: daDung[goc] > 1 ? goc + "-" + daDung[goc] : goc });
   }).sort(theoNgay);
-  const dsTaiLieu = TAI_LIEU.slice().sort(theoNgay);
+  const dsTaiLieu = TAI_LIEU.map(function (t, i) { return Object.assign({}, t, { thuTu: i }); }).sort(theoNgay);
 
   /* ----- Mẩu giao diện ----- */
   function theVideo(v) {
     const mau = mauMon(v.mon, v.lop);
     const chu = '<div class="the-video__chu"><h3>' + esc(v.ten) + '</h3><div class="phu">' +
-      esc(v.mon) + " · " + esc(tenLop(v.lop)) + (v.chuDe ? " · " + esc(v.chuDe) : "") + "</div></div>";
+      esc(v.mon) + " · " + esc(tenLop(v)) + (v.chuDe ? " · " + esc(v.chuDe) : "") + "</div></div>";
     if (!v.id) {
       return '<div class="the-video ' + mau + '"><div class="anh-video">Sắp có video</div>' + chu + "</div>";
     }
@@ -68,7 +81,7 @@
   function dongTaiLieu(t) {
     const link = linkAnToan(t.link);
     return '<li class="' + mauMon(t.mon, t.lop) + '"><span class="ds__loai">' + esc(t.loai || "Tài liệu") + "</span>" +
-      '<span class="ds__ten"><b>' + esc(t.ten) + '</b><span class="phu">' + esc(t.mon) + " · " + esc(tenLop(t.lop)) + "</span></span>" +
+      '<span class="ds__ten"><b>' + esc(t.ten) + '</b><span class="phu">' + esc(t.mon) + " · " + esc(tenLop(t)) + "</span></span>" +
       (link ? '<a class="ds__mo" target="_blank" rel="noopener" href="' + esc(link) + '">Mở tài liệu ↗</a>' : '<span class="sap-co">Sắp có</span>') + "</li>";
   }
   function dsTL(ds) {
@@ -76,7 +89,8 @@
   }
   function khoi(tieuDe, noiDung, link, chuLink) {
     return '<section class="khoi"><div class="khoi__dau"><h2>' + esc(tieuDe) + "</h2>" +
-      (link ? '<a href="' + link + '">' + chuLink + "</a>" : "") + "</div>" + noiDung + "</section>";
+      (link ? '<a href="' + esc(link) + '"' + (/^https?:/.test(link) ? ' target="_blank" rel="noopener"' : "") + ">" + chuLink + "</a>" : "") +
+      "</div>" + noiDung + "</section>";
   }
   function dauMuc(tieuDe, moTa) {
     return '<div class="dau-muc"><h1>' + esc(tieuDe) + "</h1>" + (moTa ? "<p>" + esc(moTa) + "</p>" : "") + "</div>";
@@ -103,7 +117,7 @@
       cua("mau-ly", "Vật lý", "#/vat-ly", "Lý thuyết, bài tập, thí nghiệm và đề kiểm tra theo khối.", "vat-ly") +
       cua("mau-tin", "Tin học", "#/tin-hoc", "Lập trình Python, cơ sở dữ liệu, tin học ứng dụng.", "tin-hoc") +
       '<article class="cua mau-hsg"><h2><a href="#/hsg">Ôn thi HSG</a></h2><p>Lộ trình, chuyên đề nâng cao và đề thi các năm.</p>' +
-      '<div class="cua__lop"><a href="#/hsg">Vật lý</a><a href="#/hsg">Tin học</a></div></article></section>' +
+      '<div class="cua__lop"><a href="#/hsg/thcs">HSG THCS</a><a href="#/hsg/thpt">HSG THPT</a></div></article></section>' +
       khoi("Video mới đăng", luoiVideo(dsVideo.slice(0, 4)), "#/video", "Xem tất cả") +
       khoi("Tài liệu mới", dsTL(dsTaiLieu.slice(0, 6)));
   }
@@ -129,25 +143,52 @@
     return dauMuc(mon, "Chọn khối lớp hoặc loại tài liệu cần xem.") + noiDungLoc +
       khoi("Tài liệu", dsTL(tl)) + khoi("Video bài giảng", luoiVideo(dsVideo.filter(coLop)));
   }
-  function trangHSG() {
+  function laHSG(cap) {
+    return function (x) { return x.lop === "HSG" && (!cap || capCua(x) === cap); };
+  }
+  function demBai(cap) {
+    const v = dsVideo.filter(laHSG(cap)).length, t = dsTaiLieu.filter(laHSG(cap)).length;
+    return v + " video · " + t + " tài liệu";
+  }
+  function trangHSG(phu) {
+    const cap = String(phu || "").toUpperCase();
+    if (cap === "THCS" || cap === "THPT") return thuMucHSG(cap);
+    if (phu) return khongThay();
     document.title = "Ôn thi HSG - " + THONG_TIN.tenTrang;
-    const hopMon = function (x) { return x.lop === "HSG" && (!boLoc.mon || x.mon === boLoc.mon); };
-    const tatCa = dsTaiLieu.filter(function (x) { return x.lop === "HSG"; });
-    const tl = dsTaiLieu.filter(hopMon).filter(function (x) { return !boLoc.loai || x.loai === boLoc.loai; });
-    return dauMuc("Ôn thi học sinh giỏi", "Vật lý và Tin học: học theo chuyên đề, luyện đề thật, xem lại bằng video.") +
-      (LO.length ? '<ol class="lo-trinh">' + LO.map(function (b) { return "<li><h3>" + esc(b.buoc) + "</h3><p>" + esc(b.moTa) + "</p></li>"; }).join("") + "</ol>" : "") +
-      '<div class="loc">' + hangLoc("Môn", "mon", ["Vật lý", "Tin học"]) + hangLoc("Loại", "loai", duyNhat(tatCa, "loai")) + "</div>" +
-      khoi("Chuyên đề và đề thi", dsTL(tl)) + khoi("Video ôn HSG", luoiVideo(dsVideo.filter(hopMon)));
+    return dauMuc("Ôn thi học sinh giỏi", "Chọn cấp học để xem video, chuyên đề và đề thi.") +
+      '<div class="thu-muc">' + ["THCS", "THPT"].map(function (c) {
+        return '<a class="thu-muc__the" href="#/hsg/' + c.toLowerCase() + '"><span class="thu-muc__cap">' + c + "</span>" +
+          "<h2>" + esc(THU_MUC[c].ten) + "</h2><p>" + esc(THU_MUC[c].moTa) + '</p><span class="phu">' + demBai(c) + "</span>" +
+          '<span class="thu-muc__vao">Vào thư mục ›</span></a>';
+      }).join("") + "</div>" +
+      (LO.length ? khoi("Lộ trình ôn luyện", '<ol class="lo-trinh">' + LO.map(function (b) { return "<li><h3>" + esc(b.buoc) + "</h3><p>" + esc(b.moTa) + "</p></li>"; }).join("") + "</ol>") : "");
+  }
+  function thuMucHSG(cap) {
+    const tm = THU_MUC[cap];
+    document.title = tm.ten + " - " + THONG_TIN.tenTrang;
+    const hop = function (x) { return laHSG(cap)(x) && (!boLoc.mon || x.mon === boLoc.mon); };
+    const tatCa = dsTaiLieu.filter(laHSG(cap));
+    const tl = dsTaiLieu.filter(hop).filter(function (x) { return !boLoc.loai || x.loai === boLoc.loai; });
+    const video = dsVideo.filter(hop).sort(theoThuTuHoc);
+    const playlist = linkAnToan(tm.playlist);
+    const khac = cap === "THCS" ? "THPT" : "THCS";
+    return '<a class="quay-lai" href="#/hsg">‹ Ôn thi HSG</a>' + dauMuc(tm.ten, tm.moTa) +
+      '<div class="loc">' + hangLoc("Môn", "mon", ["Vật lý", "Tin học"]) + "</div>" +
+      khoi("Video bài giảng", luoiVideo(video), playlist, "Xem trên YouTube ↗") +
+      khoi("Chuyên đề và đề thi", (tatCa.length ? '<div class="loc">' + hangLoc("Loại", "loai", duyNhat(tatCa, "loai")) + "</div>" : "") + dsTL(tl)) +
+      '<a class="nut" href="#/hsg/' + khac.toLowerCase() + '">Sang thư mục ' + esc(THU_MUC[khac].ten) + " ›</a>";
   }
   function trangVideo() {
     document.title = "Video bài giảng - " + THONG_TIN.tenTrang;
     const ds = dsVideo.filter(function (v) {
-      return (!boLoc.mon || v.mon === boLoc.mon) && (!boLoc.lop || v.lop === boLoc.lop);
+      const lop = boLoc.lop;
+      const hopLop = !lop || (lop.indexOf("HSG-") === 0 ? laHSG(lop.slice(4))(v) : v.lop === lop);
+      return (!boLoc.mon || v.mon === boLoc.mon) && hopLop;
     });
     return dauMuc("Video bài giảng", "Tất cả video của Vật lý, Tin học và Ôn thi HSG.") +
       '<div class="loc">' + hangLoc("Môn", "mon", ["Vật lý", "Tin học"]) +
       '<div class="loc__hang"><span class="loc__ten">Khối</span>' +
-      [["", "Tất cả"], ["10", "Lớp 10"], ["11", "Lớp 11"], ["12", "Lớp 12"], ["HSG", "HSG"]].map(function (n) {
+      [["", "Tất cả"], ["10", "Lớp 10"], ["11", "Lớp 11"], ["12", "Lớp 12"], ["HSG-THCS", "HSG THCS"], ["HSG-THPT", "HSG THPT"]].map(function (n) {
         return '<button type="button" class="chip" data-loc="lop" data-giatri="' + n[0] + '" aria-pressed="' + (boLoc.lop === n[0]) + '">' + n[1] + "</button>";
       }).join("") + "</div></div>" + luoiVideo(ds);
   }
@@ -156,19 +197,23 @@
     if (!v) return khongThay();
     document.title = v.ten + " - " + THONG_TIN.tenTrang;
     const taiLieu = linkAnToan(v.taiLieu);
-    const lienQuan = dsVideo.filter(function (x) { return x !== v && x.id && x.mon === v.mon; }).slice(0, 4);
-    return '<div class="xem"><a class="quay-lai" href="#/video">‹ Tất cả video</a><div class="khung-phat">' +
+    const cungNhom = v.lop === "HSG"
+      ? function (x) { return laHSG(capCua(v))(x); }
+      : function (x) { return x.mon === v.mon && x.lop === v.lop; };
+    const lienQuan = dsVideo.filter(function (x) { return x !== v && x.id && cungNhom(x); }).sort(v.lop === "HSG" ? theoThuTuHoc : theoNgay).slice(0, 8);
+    const veLai = v.lop === "HSG" ? ["#/hsg/" + capCua(v).toLowerCase(), "Thư mục " + THU_MUC[capCua(v)].ten] : ["#/video", "Tất cả video"];
+    return '<div class="xem"><a class="quay-lai" href="' + veLai[0] + '">‹ ' + esc(veLai[1]) + '</a><div class="khung-phat">' +
       '<iframe src="https://www.youtube-nocookie.com/embed/' + v.id + '?rel=0" title="' + esc(v.ten) + '" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>' +
-      "<h1>" + esc(v.ten) + '</h1><div class="phu">' + esc(v.mon) + " · " + esc(tenLop(v.lop)) + (v.chuDe ? " · " + esc(v.chuDe) : "") + "</div>" +
+      "<h1>" + esc(v.ten) + '</h1><div class="phu">' + esc(v.mon) + " · " + esc(tenLop(v)) + (v.chuDe ? " · " + esc(v.chuDe) : "") + "</div>" +
       (v.moTa ? '<p class="xem__mota">' + esc(v.moTa) + "</p>" : "") +
       (taiLieu ? '<a class="nut" target="_blank" rel="noopener" href="' + esc(taiLieu) + '">Tải tài liệu kèm theo ↗</a>' : "") + "</div>" +
-      (lienQuan.length ? '<div style="height:32px"></div>' + khoi("Video cùng môn", luoiVideo(lienQuan)) : "");
+      (lienQuan.length ? '<div style="height:32px"></div>' + khoi(v.lop === "HSG" ? "Cùng thư mục " + THU_MUC[capCua(v)].ten : "Video cùng khối", luoiVideo(lienQuan)) : "");
   }
   function timKiem(q) {
     document.title = "Tìm kiếm - " + THONG_TIN.tenTrang;
     const tu = boDau(q).split(/\s+/).filter(Boolean);
     const khop = function (x) {
-      const chu = boDau([x.ten, x.mon, x.lop, x.chuDe, x.loai].join(" "));
+      const chu = boDau([x.ten, x.mon, x.lop, x.lop === "HSG" ? capCua(x) : "", x.chuDe, x.loai].join(" "));
       return tu.length > 0 && tu.every(function (t) { return chu.indexOf(t) >= 0; });
     };
     const v = dsVideo.filter(khop), t = dsTaiLieu.filter(khop);
@@ -206,7 +251,7 @@
     if (ten === "") return trangChu();
     if (ten === "vat-ly") return trangMon("Vật lý", phu);
     if (ten === "tin-hoc") return trangMon("Tin học", phu);
-    if (ten === "hsg") return trangHSG();
+    if (ten === "hsg") return trangHSG(phu);
     if (ten === "video") return phu ? xemVideo(phu) : trangVideo();
     if (ten === "tim") return timKiem(phu);
     if (ten === "lien-he") return lienHe();

@@ -33,7 +33,7 @@
       <label>Tên bài <input id="ten" required></label>
       <div class="hai">
         <label>Môn <select id="mon"><option>Vật lý</option><option>Tin học</option></select></label>
-        <label>Khối <select id="lop"><option>10</option><option>11</option><option>12</option><option value="HSG">Ôn thi HSG</option></select></label>
+        <label>Khối <select id="lop"><option>10</option><option>11</option><option>12</option><option value="HSG-THCS">Ôn thi HSG THCS</option><option value="HSG-THPT">Ôn thi HSG THPT</option></select></label>
       </div>
 
       <label class="chi-v">Chủ đề <input id="chuDe" placeholder="Ví dụ: Dao động"></label>
@@ -85,7 +85,11 @@
         var yt = $("youtube").value.trim();
         if (v && yt && !ytHopLe(yt)) { $("cb").textContent = "Link YouTube chưa đúng. Hãy sao chép link từ thanh địa chỉ của trang video."; return; }
         $("cb").textContent = "";
-        var dau = "  { ten: " + j("ten") + ", mon: " + j("mon") + ", lop: " + j("lop") + ", ";
+        var lop = $("lop").value;
+        var phanLop = lop.indexOf("HSG-") === 0
+          ? 'lop: "HSG", cap: ' + JSON.stringify(lop.slice(4))
+          : "lop: " + JSON.stringify(lop);
+        var dau = "  { ten: " + j("ten") + ", mon: " + j("mon") + ", " + phanLop + ", ";
         var dong = v
           ? dau + "chuDe: " + j("chuDe") + ", youtube: " + j("youtube") + ", taiLieu: " + j("taiLieu") + ", moTa: " + j("moTa") + ', ngay: "' + homNay() + '" },'
           : dau + "loai: " + j("loai") + ", link: " + j("link") + ', ngay: "' + homNay() + '" },';
