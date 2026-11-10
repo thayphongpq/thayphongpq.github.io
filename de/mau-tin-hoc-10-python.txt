@@ -1,0 +1,41 @@
+ĐỀ MẪU - LUYỆN TẬP PYTHON CƠ BẢN (TIN HỌC 10)
+Thời gian: 10
+
+PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn
+Câu 1. Trong Python, lệnh nào dùng để in dữ liệu ra màn hình?
+*A. `print()`
+B. `input()`
+C. `int()`
+D. `len()`
+
+Câu 2. Kết quả của biểu thức `7 // 2` trong Python là
+A. 3.5
+*B. 3
+C. 4
+D. 1
+Lời giải: Phép `//` là phép chia lấy phần nguyên: 7 chia 2 được 3, dư 1.
+
+Câu 3. Giá trị `3.0` trong Python thuộc kiểu dữ liệu nào?
+A. `int`
+*B. `float`
+C. `str`
+D. `bool`
+
+PHẦN II. Câu trắc nghiệm đúng sai
+Câu 1. Cho đoạn chương trình sau:
+```
+s = 0
+for i in range(1, 5):
+    s = s + i
+print(s)
+```
+a) Vòng lặp được thực hiện 4 lần. (Đ)
+b) Kết quả in ra màn hình là 15. (S)
+c) Giá trị cuối cùng của biến `i` là 4. (Đ)
+d) Nếu đổi `range(1, 5)` thành `range(5)` thì kết quả in ra không thay đổi. (Đ)
+Lời giải: `range(1, 5)` gồm 1, 2, 3, 4 nên s = 1 + 2 + 3 + 4 = 10.
+`range(5)` gồm 0, 1, 2, 3, 4, tổng vẫn bằng 10.
+
+PHẦN III. Câu trắc nghiệm trả lời ngắn
+Câu 1. Kết quả của lệnh `print(len("Python"))` là bao nhiêu?
+Đáp án: 6

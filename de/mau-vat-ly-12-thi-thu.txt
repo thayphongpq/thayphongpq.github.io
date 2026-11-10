@@ -1,0 +1,43 @@
+ĐỀ MẪU - THI THỬ TỐT NGHIỆP THPT MÔN VẬT LÍ (ĐỀ RÚT GỌN)
+Thời gian: 15
+Điểm trả lời ngắn: 0.25
+
+PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn
+Câu 1. Nhiệt độ sôi của nước ở áp suất tiêu chuẩn theo thang nhiệt độ Kelvin xấp xỉ bằng
+A. 100 K.
+B. 273 K.
+*C. 373 K.
+D. 212 K.
+Lời giải: $T = t + 273 = 100 + 273 = 373$ K.
+
+Câu 2. Trong quá trình đẳng nhiệt của một lượng khí lí tưởng xác định, đại lượng nào sau đây không đổi?
+*A. $pV$
+B. $\dfrac{p}{T}$
+C. $\dfrac{V}{T}$
+D. $pT$
+Lời giải: Định luật Boyle: ở nhiệt độ không đổi, $pV$ = hằng số.
+
+Câu 3. Hạt nhân $^{235}_{92}\text{U}$ có số nơtron là
+A. 92.
+*B. 143.
+C. 235.
+D. 327.
+Lời giải: $N = A - Z = 235 - 92 = 143$.
+
+PHẦN II. Câu trắc nghiệm đúng sai
+Câu 1. Một lượng khí lí tưởng ở nhiệt độ 27 °C, áp suất $1{,}0 \cdot 10^5$ Pa được nung nóng đẳng tích đến 127 °C.
+a) Nhiệt độ ban đầu của khối khí là 300 K. (Đ)
+b) Trong quá trình đẳng tích, áp suất tỉ lệ thuận với nhiệt độ tuyệt đối. (Đ)
+c) Áp suất của khối khí sau khi nung nóng là $2{,}0 \cdot 10^5$ Pa. (S)
+d) Khối lượng riêng của khối khí không thay đổi trong quá trình này. (Đ)
+Lời giải: $p_2 = p_1 \dfrac{T_2}{T_1} = 1{,}0 \cdot 10^5 \cdot \dfrac{400}{300} \approx 1{,}33 \cdot 10^5$ Pa nên ý c) sai.
+Thể tích và khối lượng khí không đổi nên khối lượng riêng không đổi.
+
+PHẦN III. Câu trắc nghiệm trả lời ngắn
+Câu 1. Một khối khí có thể tích 6 lít ở áp suất 2 atm. Nén đẳng nhiệt khối khí đến áp suất 3 atm. Thể tích lúc sau của khối khí là bao nhiêu lít?
+Đáp án: 4
+Lời giải: $p_1V_1 = p_2V_2 \Rightarrow V_2 = \dfrac{2 \cdot 6}{3} = 4$ lít.
+
+Câu 2. Tính nhiệt lượng cần cung cấp để làm nóng 2 kg nước từ 20 °C lên 30 °C. Biết nhiệt dung riêng của nước là 4200 J/(kg.K). Kết quả tính theo đơn vị kJ.
+Đáp án: 84
+Lời giải: $Q = mc\Delta t = 2 \cdot 4200 \cdot 10 = 84\,000$ J $= 84$ kJ.
