@@ -60,7 +60,20 @@ const VIDEO = [
   { ten: "Chuyên đề 1. Chuyển động thẳng đều", mon: "Vật lý", lop: "HSG", cap: "THPT", chuDe: "Chuyên đề 1", youtube: "https://www.youtube.com/watch?v=q9AwrSVA2_8", taiLieu: "", moTa: "", ngay: "2026-11-05" }
 ];
 
-/* ---------- TÀI LIỆU, BÀI TẬP, ĐỀ THI ----------
+/* ---------- ĐỀ TRẮC NGHIỆM ONLINE (học sinh làm bài, chấm điểm ngay) ----------
+   Mỗi đề là một tệp chữ trong thư mục de/ trên GitHub (xem cách soạn trong Công cụ thêm bài).
+   loai: "Luyện tập" hoặc "Thi thử TN THPT" (đề thi thử hiện ở lớp 12).
+   thoiGian: số phút làm bài (0 = không giới hạn). */
+const DE_THI = [
+  // ▼▼▼ DÁN ĐỀ MỚI NGAY DƯỚI DÒNG NÀY ▼▼▼
+
+  { ten: "Mẫu: Thi thử TN THPT Vật lí (đề rút gọn)", mon: "Vật lý", lop: "12", loai: "Thi thử TN THPT", tep: "de/mau-vat-ly-12-thi-thu.txt", thoiGian: 15, ngay: "2026-11-10" },
+  { ten: "Mẫu: Luyện tập Python cơ bản", mon: "Tin học", lop: "10", loai: "Luyện tập", tep: "de/mau-tin-hoc-10-python.txt", thoiGian: 10, ngay: "2026-11-10" }
+];
+
+/* ---------- TÀI LIỆU BÀI GIẢNG (đọc trực tuyến) ----------
+   Link Google Drive sẽ mở ngay trên trang để học sinh đọc.
+   Nhớ chia sẻ tệp ở chế độ "Bất kỳ ai có đường liên kết".
    loai nên chọn một trong các chữ sau:
    Lý thuyết, Thực hành, Bài tập, Trắc nghiệm, Đề kiểm tra, Chuyên đề, Đề thi
    Ví dụ một dòng:

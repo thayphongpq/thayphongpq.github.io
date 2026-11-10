@@ -5,17 +5,28 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Công cụ thêm bài</title>
   <link href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;600;800&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="style.css?v=3">
   <style>
-    .form { max-width: 620px; display: grid; gap: 14px; }
+    .form { max-width: 720px; display: grid; gap: 14px; }
     .form label { display: grid; gap: 4px; font-weight: 500; font-size: 15px; }
     .form input, .form select, .form textarea { font: inherit; padding: 9px 11px; border: 1px solid var(--vien); border-radius: 8px; background: #fff; color: inherit; width: 100%; }
+    .form textarea.de { font-family: Consolas, monospace; font-size: 14px; min-height: 280px; }
     .hai { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
-    pre { background: var(--sau); color: #fff; padding: 14px; border-radius: 8px; white-space: pre-wrap; word-break: break-word; font-size: 14px; margin: 0; }
+    pre.kq { background: var(--sau); color: #fff; padding: 14px; border-radius: 8px; white-space: pre-wrap; word-break: break-word; font-size: 14px; margin: 0; }
     .nut-bam { font: inherit; font-weight: 600; padding: 9px 18px; border: 0; border-radius: 8px; background: var(--sau); color: #fff; cursor: pointer; justify-self: start; }
+    .nut-bam.phu { background: #fff; color: var(--muc); border: 1px solid var(--vien); }
     .canh-bao { color: var(--ly); font-size: 14px; min-height: 1.4em; margin: 0; }
     .an { display: none !important; }
     ol { padding-left: 20px; margin: 0; }
+    ol li { margin-bottom: 6px; }
+    .kiem-tra { border-radius: 8px; padding: 12px 14px; font-size: 15px; }
+    .kiem-tra.tot { background: #e6f4ea; }
+    .kiem-tra.xau { background: var(--ly-nhat); }
+    .kiem-tra ul { margin: 6px 0 0; padding-left: 20px; }
+    .huong-dan { max-width: 720px; background: var(--trang); border: 1px solid var(--vien); border-radius: 10px; padding: 4px 16px 14px; margin-bottom: 20px; }
+    .huong-dan summary { cursor: pointer; font-weight: 600; padding: 10px 0; }
+    .huong-dan pre { background: var(--giay); padding: 12px; border-radius: 8px; white-space: pre-wrap; font-size: 13.5px; }
+    .hang { display: flex; gap: 10px; flex-wrap: wrap; }
   </style>
 </head>
 <body>
@@ -23,54 +34,129 @@
     <a class="quay-lai" href="index.html">‹ Về trang web</a>
     <div class="dau-muc">
       <h1>Công cụ thêm bài</h1>
-      <p>Điền thông tin, bấm Sao chép, rồi dán vào tệp noi-dung.js. Công cụ này không lưu gì lên mạng.</p>
+      <p>Điền thông tin, bấm nút tạo dòng, rồi dán vào tệp noi-dung.js trên GitHub. Công cụ này không lưu gì lên mạng.</p>
     </div>
 
     <form class="form" id="f" autocomplete="off">
       <label>Loại nội dung
-        <select id="kieu"><option value="v">Video bài giảng</option><option value="t">Tài liệu, bài tập, đề thi</option></select>
+        <select id="kieu">
+          <option value="d">Đề trắc nghiệm online (luyện tập, thi thử)</option>
+          <option value="t">Tài liệu bài giảng</option>
+          <option value="v">Video bài giảng</option>
+        </select>
       </label>
-      <label>Tên bài <input id="ten" required></label>
+      <label>Tên bài / tên đề <input id="ten" required></label>
       <div class="hai">
         <label>Môn <select id="mon"><option>Vật lý</option><option>Tin học</option></select></label>
-        <label>Khối <select id="lop"><option>10</option><option>11</option><option>12</option><option value="HSG-THCS">Ôn thi HSG THCS</option><option value="HSG-THPT">Ôn thi HSG THPT</option></select></label>
+        <label>Khối <select id="lop"><option>10</option><option>11</option><option selected>12</option><option value="HSG-THCS">Ôn thi HSG THCS</option><option value="HSG-THPT">Ôn thi HSG THPT</option></select></label>
       </div>
 
+      <!-- Đề trắc nghiệm -->
+      <div class="hai chi-d">
+        <label>Loại đề <select id="loaiDe"><option>Luyện tập</option><option>Thi thử TN THPT</option></select></label>
+        <label>Thời gian (phút, 0 = không giới hạn) <input id="thoiGian" type="number" min="0" value="50"></label>
+      </div>
+      <details class="huong-dan chi-d">
+        <summary>Cách soạn đề (bấm để xem)</summary>
+        <p>Soạn trong Word hoặc Notepad theo mẫu dưới, rồi dán vào ô "Nội dung đề". Quy tắc:</p>
+        <ul>
+          <li>Mỗi câu bắt đầu bằng <b>Câu 1.</b>, <b>Câu 2.</b>… Có thể chia phần bằng dòng <b>PHẦN I</b>, <b>PHẦN II</b>…</li>
+          <li>Câu nhiều lựa chọn: các dòng <b>A.</b> <b>B.</b> <b>C.</b> <b>D.</b>, đặt dấu <b>*</b> trước phương án đúng.</li>
+          <li>Câu đúng/sai: các dòng <b>a)</b> <b>b)</b> <b>c)</b> <b>d)</b>, cuối mỗi dòng ghi <b>(Đ)</b> hoặc <b>(S)</b>.</li>
+          <li>Câu trả lời ngắn: thêm dòng <b>Đáp án: 2,5</b> (nhiều cách đúng thì ngăn bằng dấu |, ví dụ <b>Đáp án: 0,5|1/2</b>).</li>
+          <li>Lời giải (không bắt buộc): dòng bắt đầu bằng <b>Lời giải:</b>, học sinh xem sau khi nộp.</li>
+          <li>Công thức viết giữa hai dấu $, ví dụ <b>$v = \dfrac{s}{t}$</b>. Hình: dòng <b>Hình: link-ảnh</b>.</li>
+        </ul>
+        <pre id="mauDe">Thời gian: 50
+
+PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn
+Câu 1. Đơn vị của áp suất trong hệ SI là
+A. N.
+*B. Pa.
+C. J.
+D. W.
+Lời giải: 1 Pa = 1 N/m².
+
+PHẦN II. Câu trắc nghiệm đúng sai
+Câu 1. Một vật rơi tự do từ độ cao 20 m, lấy $g = 10$ m/s².
+a) Vật rơi với gia tốc 10 m/s². (Đ)
+b) Thời gian rơi là 4 s. (S)
+c) Vận tốc khi chạm đất là 20 m/s. (Đ)
+d) Quãng đường rơi trong giây cuối là 15 m. (Đ)
+
+PHẦN III. Câu trắc nghiệm trả lời ngắn
+Câu 1. Một vật chuyển động thẳng đều đi được 100 m trong 20 s. Tốc độ của vật là bao nhiêu m/s?
+Đáp án: 5</pre>
+        <button type="button" class="nut-bam phu" id="chenMau">Chép mẫu này vào ô Nội dung đề</button>
+      </details>
+      <label class="chi-d">Nội dung đề <textarea id="noiDungDe" class="de" spellcheck="false" placeholder="Dán nội dung đề vào đây..."></textarea></label>
+      <div class="chi-d hang"><button type="button" class="nut-bam phu" id="kiemTra">Kiểm tra đề</button></div>
+      <div class="chi-d kiem-tra an" id="ketQuaKT" role="status"></div>
+
+      <!-- Tài liệu -->
+      <label class="chi-t">Loại tài liệu
+        <select id="loai"><option>Lý thuyết</option><option>Bài giảng</option><option>Thực hành</option><option>Bài tập</option><option>Đề kiểm tra</option><option>Chuyên đề</option><option>Đề thi</option></select>
+      </label>
+      <label class="chi-t">Link tài liệu (Google Drive) <input id="link" placeholder="https://drive.google.com/file/d/..."></label>
+
+      <!-- Video -->
       <label class="chi-v">Chủ đề <input id="chuDe" placeholder="Ví dụ: Dao động"></label>
       <label class="chi-v">Link YouTube <input id="youtube" placeholder="https://www.youtube.com/watch?v=..."></label>
       <label class="chi-v">Link tài liệu kèm theo (nếu có) <input id="taiLieu" placeholder="https://drive.google.com/..."></label>
       <label class="chi-v">Mô tả ngắn <textarea id="moTa" rows="2"></textarea></label>
 
-      <label class="chi-t an">Loại tài liệu
-        <select id="loai"><option>Lý thuyết</option><option>Thực hành</option><option>Bài tập</option><option>Trắc nghiệm</option><option>Đề kiểm tra</option><option>Chuyên đề</option><option>Đề thi</option></select>
-      </label>
-      <label class="chi-t an">Link tài liệu <input id="link" placeholder="https://drive.google.com/..."></label>
-
       <p class="canh-bao" id="cb" role="alert"></p>
       <button class="nut-bam" type="submit">Tạo dòng và sao chép</button>
     </form>
 
-    <div class="an" id="kq" style="max-width:620px;margin-top:24px">
-      <pre id="dong"></pre>
+    <div class="an" id="kq" style="max-width:720px;margin-top:24px">
+      <pre class="kq" id="dong"></pre>
       <p id="trangThai" style="font-weight:600;margin:10px 0"></p>
-      <ol>
-        <li>Mở tệp noi-dung.js trên GitHub, bấm biểu tượng cây bút để sửa.</li>
-        <li id="huongDan"></li>
-        <li>Bấm Commit changes. Khoảng một đến hai phút sau trang web tự cập nhật.</li>
-      </ol>
+      <ol id="cacBuoc"></ol>
     </div>
   </main>
 
+  <script src="trac-nghiem.js?v=1"></script>
   <script>
     (function () {
       var $ = function (id) { return document.getElementById(id); };
+      var host = location.hostname;
+      var kho = /\.github\.io$/.test(host) ? "https://github.com/" + host.split(".")[0] + "/" + host : "";
+
       function capNhat() {
-        var v = $("kieu").value === "v";
-        document.querySelectorAll(".chi-v").forEach(function (e) { e.classList.toggle("an", !v); });
-        document.querySelectorAll(".chi-t").forEach(function (e) { e.classList.toggle("an", v); });
+        var k = $("kieu").value;
+        ["d", "t", "v"].forEach(function (x) {
+          document.querySelectorAll(".chi-" + x).forEach(function (e) { e.classList.toggle("an", x !== k); });
+        });
       }
       $("kieu").addEventListener("change", capNhat);
       capNhat();
+
+      $("chenMau").addEventListener("click", function () { $("noiDungDe").value = $("mauDe").textContent; kiemTra(); });
+
+      function kiemTra() {
+        var de = window.TracNghiem.phanTich($("noiDungDe").value);
+        var o = $("ketQuaKT");
+        o.classList.remove("an");
+        if (de.loi.length) {
+          o.className = "chi-d kiem-tra xau";
+          o.innerHTML = "<b>Đề còn lỗi, cần sửa:</b><ul>" + de.loi.map(function (l) { return "<li>" + window.TracNghiem.esc(l) + "</li>"; }).join("") + "</ul>";
+          return false;
+        }
+        o.className = "chi-d kiem-tra tot";
+        o.innerHTML = "<b>Đề hợp lệ.</b><ul>" + de.phan.map(function (p) {
+          var dem = { mc: 0, ds: 0, tl: 0 };
+          p.cau.forEach(function (c) { dem[c.loai]++; });
+          var mo = [];
+          if (dem.mc) mo.push(dem.mc + " câu nhiều lựa chọn");
+          if (dem.ds) mo.push(dem.ds + " câu đúng/sai");
+          if (dem.tl) mo.push(dem.tl + " câu trả lời ngắn");
+          return "<li>" + window.TracNghiem.esc(p.ten || "Câu hỏi") + ": " + mo.join(", ") + "</li>";
+        }).join("") + "</ul>";
+        if (de.thoiGian) $("thoiGian").value = de.thoiGian;
+        return true;
+      }
+      $("kiemTra").addEventListener("click", kiemTra);
 
       function ytHopLe(s) { return /^[\w-]{11}$/.test(s) || /(?:youtu\.be\/|[?&]v=|\/embed\/|\/shorts\/|\/live\/)[\w-]{11}/.test(s); }
       function j(id) { return JSON.stringify($(id).value.trim()); }
@@ -78,28 +164,53 @@
         var d = new Date();
         return d.getFullYear() + "-" + String(d.getMonth() + 1).padStart(2, "0") + "-" + String(d.getDate()).padStart(2, "0");
       }
+      function tenTep(ten) {
+        var goc = ten.normalize("NFD").replace(/[̀-ͯ]/g, "").replace(/đ/g, "d").replace(/Đ/g, "D").toLowerCase()
+          .replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "").slice(0, 60) || "de";
+        return "de/" + goc + ".txt";
+      }
+      function saoChep(chu, ok) {
+        if (navigator.clipboard && navigator.clipboard.writeText) navigator.clipboard.writeText(chu).then(function () { ok(true); }, function () { ok(false); });
+        else ok(false);
+      }
+      function buoc(ds) { $("cacBuoc").innerHTML = ds.map(function (b) { return "<li>" + b + "</li>"; }).join(""); }
+      var suaNoiDung = kho ? '<a href="' + kho + '/edit/main/noi-dung.js" target="_blank" rel="noopener">Mở tệp noi-dung.js trên GitHub</a>' : "Mở tệp noi-dung.js trên GitHub";
 
       $("f").addEventListener("submit", function (e) {
         e.preventDefault();
-        var v = $("kieu").value === "v";
+        var k = $("kieu").value;
         var yt = $("youtube").value.trim();
-        if (v && yt && !ytHopLe(yt)) { $("cb").textContent = "Link YouTube chưa đúng. Hãy sao chép link từ thanh địa chỉ của trang video."; return; }
+        if (k === "v" && yt && !ytHopLe(yt)) { $("cb").textContent = "Link YouTube chưa đúng. Hãy sao chép link từ thanh địa chỉ của trang video."; return; }
+        if (k === "d" && !kiemTra()) { $("cb").textContent = "Đề còn lỗi định dạng, xem ghi chú phía trên ô nội dung."; return; }
         $("cb").textContent = "";
         var lop = $("lop").value;
-        var phanLop = lop.indexOf("HSG-") === 0
-          ? 'lop: "HSG", cap: ' + JSON.stringify(lop.slice(4))
-          : "lop: " + JSON.stringify(lop);
+        var phanLop = lop.indexOf("HSG-") === 0 ? 'lop: "HSG", cap: ' + JSON.stringify(lop.slice(4)) : "lop: " + JSON.stringify(lop);
         var dau = "  { ten: " + j("ten") + ", mon: " + j("mon") + ", " + phanLop + ", ";
-        var dong = v
-          ? dau + "chuDe: " + j("chuDe") + ", youtube: " + j("youtube") + ", taiLieu: " + j("taiLieu") + ", moTa: " + j("moTa") + ', ngay: "' + homNay() + '" },'
-          : dau + "loai: " + j("loai") + ", link: " + j("link") + ', ngay: "' + homNay() + '" },';
+        var dong, tep = tenTep($("ten").value);
+        if (k === "v") dong = dau + "chuDe: " + j("chuDe") + ", youtube: " + j("youtube") + ", taiLieu: " + j("taiLieu") + ", moTa: " + j("moTa") + ', ngay: "' + homNay() + '" },';
+        else if (k === "t") dong = dau + "loai: " + j("loai") + ", link: " + j("link") + ', ngay: "' + homNay() + '" },';
+        else dong = dau + "loai: " + j("loaiDe") + ", tep: " + JSON.stringify(tep) + ", thoiGian: " + (Number($("thoiGian").value) || 0) + ', ngay: "' + homNay() + '" },';
         $("dong").textContent = dong;
-        $("huongDan").textContent = "Dán vào ngay dưới dòng ghi " + (v ? "DÁN VIDEO MỚI" : "DÁN TÀI LIỆU MỚI") + ".";
         $("kq").classList.remove("an");
-        var bao = function (ok) { $("trangThai").textContent = ok ? "Đã sao chép. Làm tiếp các bước sau:" : "Hãy bôi đen dòng trên để sao chép, rồi làm tiếp:"; };
-        if (navigator.clipboard && navigator.clipboard.writeText) {
-          navigator.clipboard.writeText(dong).then(function () { bao(true); }, function () { bao(false); });
-        } else { bao(false); }
+        saoChep(dong, function (ok) { $("trangThai").textContent = ok ? "Đã sao chép dòng trên. Làm tiếp các bước sau:" : "Hãy bôi đen dòng trên để sao chép, rồi làm tiếp:"; });
+        if (k === "d") {
+          var taoTep = kho ? '<a href="' + kho + "/new/main?filename=" + encodeURIComponent(tep) + '" target="_blank" rel="noopener">Mở trang tạo tệp đề trên GitHub</a> (tên tệp <b>' + tep + "</b> đã điền sẵn)" : "Trên GitHub bấm Add file → Create new file, đặt tên <b>" + tep + "</b>";
+          buoc([
+            taoTep + '. Bấm <button type="button" class="nut-bam phu" id="chepDe">Sao chép nội dung đề</button> rồi dán vào khung soạn, bấm <b>Commit changes</b>.',
+            suaNoiDung + ", bấm cây bút, dán dòng ở trên vào ngay dưới dòng <b>DÁN ĐỀ MỚI</b>, bấm <b>Commit changes</b>.",
+            "Khoảng 1–2 phút sau, đề xuất hiện ở trang lớp tương ứng."
+          ]);
+          $("chepDe").addEventListener("click", function () {
+            var nut = this;
+            saoChep($("noiDungDe").value, function (ok) { nut.textContent = ok ? "Đã sao chép nội dung đề" : "Hãy bôi đen ô Nội dung đề để sao chép"; });
+          });
+        } else {
+          buoc([
+            suaNoiDung + ", bấm biểu tượng cây bút để sửa.",
+            "Dán vào ngay dưới dòng ghi <b>" + (k === "v" ? "DÁN VIDEO MỚI" : "DÁN TÀI LIỆU MỚI") + "</b>.",
+            "Bấm <b>Commit changes</b>. Khoảng 1–2 phút sau trang web tự cập nhật."
+          ]);
+        }
       });
     })();
   </script>
