@@ -234,13 +234,51 @@ pre.ma code { background: none; padding: 0; }
 .chan-trang__hang { display: flex; justify-content: space-between; flex-wrap: wrap; gap: 8px 20px; }
 .chan-trang a { color: #fff; }
 .chan-trang__mxh { margin-right: auto; }
+.chan-trang__luot { opacity: 0.85; }
+
+/* Hỏi – Đáp */
+.hoi-form { margin-bottom: 32px; }
+.hoi-form label { display: grid; gap: 4px; font-weight: 500; font-size: 15px; margin-bottom: 12px; }
+.hoi-form select, .hoi-form textarea { font: inherit; padding: 9px 11px; border: 1px solid var(--vien); border-radius: 8px; background: var(--giay); color: inherit; width: 100%; }
+.hoi-form .nut { border: 0; cursor: pointer; font: inherit; font-weight: 600; }
+.hoi-dap { background: var(--trang); border: 1px solid var(--vien); border-radius: 10px; padding: 14px 16px; margin-bottom: 12px; }
+.hoi-dap__hoi { margin: 6px 0 8px; }
+.hoi-dap__tra { background: var(--tin-nhat); border-radius: 8px; padding: 10px 12px; }
+
+/* Trò chơi Leo tháp kiến thức */
+.tro-choi { display: grid; grid-template-columns: 1fr 230px; gap: 20px; align-items: start; }
+.tro-choi__dau { display: flex; justify-content: space-between; align-items: center; margin-bottom: 10px; font-size: 18px; }
+.tc-lc { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
+.tc-nut { display: flex; align-items: flex-start; gap: 10px; text-align: left; font: inherit; padding: 12px 14px; border: 2px solid var(--vien); border-radius: 10px; background: var(--trang); color: var(--muc); cursor: pointer; }
+.tc-nut:hover:not(:disabled) { border-color: var(--sau); background: #eef3f8; }
+.tc-nut:disabled { cursor: default; }
+.tc-nut--dung { border-color: #2f8f4e; background: #e6f4ea; }
+.tc-nut--sai { border-color: var(--ly); background: var(--ly-nhat); }
+.tc-nut--an { opacity: 0.25; }
+.tc-tro-giup { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 14px; }
+.tc-tro-giup .nut { margin: 0; font: inherit; font-weight: 600; cursor: pointer; }
+.tc-tro-giup .nut:disabled { opacity: 0.4; cursor: default; }
+.tc-goi-y { background: var(--hsg-nhat); border-radius: 8px; padding: 10px 12px; margin: 12px 0 0; }
+.tc-bieu-do { display: flex; gap: 18px; align-items: flex-end; height: 150px; margin-top: 12px; padding: 0 8px; }
+.tc-cot { display: flex; flex-direction: column; align-items: center; gap: 4px; font-size: 14px; }
+.tc-cot i { display: block; width: 34px; background: var(--tin); border-radius: 4px 4px 0 0; }
+.thap { list-style: none; margin: 0; padding: 0; background: var(--sau); color: #d7e0ea; border-radius: 12px; padding: 10px; }
+.thap li { display: flex; justify-content: space-between; gap: 6px; padding: 4px 10px; border-radius: 6px; font-size: 14px; }
+.thap li em { font-style: normal; font-size: 12px; opacity: 0.8; }
+.thap--moc { color: #f6c453; font-weight: 600; }
+.thap--qua { color: #fff; }
+.thap--dang { background: #f0703f; color: #fff !important; font-weight: 700; }
 
 @media (max-width: 760px) {
   .dau-trang { position: static; }
   .dau-trang__hang { flex-wrap: wrap; gap: 8px; }
   .tim { flex: 1 1 100%; }
   .mo-dau { grid-template-columns: 1fr; gap: 16px; }
-  .ba-cua, .thu-muc, .thu-muc--ba, .hai-o { grid-template-columns: 1fr; }
+  .ba-cua, .thu-muc, .thu-muc--ba, .hai-o, .tro-choi, .tc-lc { grid-template-columns: 1fr; }
+  .tro-choi__thap { order: -1; }
+  .thap { display: flex; flex-wrap: wrap; gap: 4px; }
+  .thap li { padding: 3px 7px; font-size: 12px; }
+  .thap li em { display: none; }
   .ket-qua { flex-direction: column; align-items: center; text-align: center; }
   .ket-qua .tom-tat { text-align: left; }
   .ket-qua .hang-nut { justify-content: center; }

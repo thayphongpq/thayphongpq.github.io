@@ -261,6 +261,233 @@
     return hoanVi(tt && tt.lc ? tt.lc[k] : null, c.luaChon.length);
   }
 
+  // tep có thể là một tệp hoặc danh sách tệp (ví dụ phần chung + phần riêng), được ghép thành một đề.
+  function taiDe(d) {
+    const dsTep = Array.isArray(d.tep) ? d.tep : [d.tep];
+    return Promise.all(dsTep.map(function (t) {
+      return fetch(t + (t.indexOf("?") < 0 ? "?" : "&") + "t=" + Date.now())
+        .then(function (r) { if (!r.ok) throw new Error(r.status); return r.text(); });
+    })).then(function (cac) { return cac.join("\n\n"); });
+  }
+
+  /* ----- Hỏi – Đáp ----- */
+  function trangHoiDap() {
+    document.title = "Hỏi – Đáp - " + THONG_TIN.tenTrang;
+    const coLink = !!linkNhanDiem();
+    return dauMuc("Hỏi – Đáp", "Em có thắc mắc về bài học, bài tập hay đề thi? Gửi câu hỏi cho thầy, câu trả lời sẽ được đăng ở đây.") +
+      (coLink ? '<form class="the-bat-dau hoi-form" id="form-hoi" autocomplete="off">' +
+        '<div class="hai-o"><label>Họ và tên<input id="hoi-ten" maxlength="80" required></label><label>Lớp<input id="hoi-lop" maxlength="20" required></label></div>' +
+        '<label class="hoi-mon">Môn<select id="hoi-mon"><option>Vật lý</option><option>Tin học</option><option>Ôn thi HSG</option><option>Khác</option></select></label>' +
+        '<label class="hoi-cau">Câu hỏi của em<textarea id="hoi-noi-dung" rows="4" maxlength="1500" required placeholder="Ghi rõ bài nào, câu nào và em vướng ở đâu…"></textarea></label>' +
+        '<p class="phu">Trên trang chỉ hiện lớp của người hỏi, không hiện họ tên.</p>' +
+        '<p id="hoi-bao" class="gui-diem" role="status"></p><button type="submit" class="nut">Gửi câu hỏi</button></form>' : "") +
+      khoi("Câu hỏi đã được trả lời", '<div id="ds-hoi-dap"><p class="phu">' + (coLink ? "Đang tải…" : "Chưa có câu hỏi nào.") + "</p></div>");
+  }
+  function napHoiDap() {
+    const o = document.getElementById("ds-hoi-dap"), url = linkNhanDiem();
+    if (!o || !url) return;
+    fetch(url + "?loai=hoidap&t=" + Date.now())
+      .then(function (r) { return r.json(); })
+      .then(function (kq) {
+        const ds = (kq && kq.ds) || [];
+        if (!document.body.contains(o)) return;
+        o.innerHTML = ds.length ? ds.map(function (x) {
+          return '<article class="hoi-dap"><div class="phu">' + esc(x.ngay) + (x.lop ? " · Học sinh lớp " + esc(x.lop) : "") + (x.mon ? " · " + esc(x.mon) : "") + "</div>" +
+            '<p class="hoi-dap__hoi"><b>Hỏi:</b> ' + TN.dinhDang(x.cauHoi) + '</p><div class="hoi-dap__tra"><b>Thầy trả lời:</b> ' + TN.dinhDang(x.traLoi) + "</div></article>";
+        }).join("") : '<div class="trong">Chưa có câu hỏi nào được trả lời. Em hãy là người đầu tiên đặt câu hỏi!</div>';
+        toan(o);
+      })
+      .catch(function () { if (document.body.contains(o)) o.innerHTML = '<div class="trong">Chưa tải được danh sách câu hỏi. Em thử tải lại trang sau.</div>'; });
+  }
+  function guiCauHoi(e) {
+    e.preventDefault();
+    const url = linkNhanDiem(), bao = document.getElementById("hoi-bao");
+    const gt = function (id) { return document.getElementById(id).value.trim(); };
+    const goi = { loai: "hoi", ten: gt("hoi-ten"), lop: gt("hoi-lop"), mon: gt("hoi-mon"), cauHoi: gt("hoi-noi-dung") };
+    if (!goi.ten || !goi.lop || goi.cauHoi.length < 10) { bao.className = "gui-diem gui-diem--loi"; bao.textContent = "Em hãy ghi họ tên, lớp và câu hỏi (ít nhất 10 kí tự)."; return; }
+    const nut = e.target.querySelector("button[type=submit]");
+    nut.disabled = true;
+    bao.className = "gui-diem"; bao.textContent = "Đang gửi…";
+    fetch(url, { method: "POST", mode: "no-cors", headers: { "Content-Type": "text/plain;charset=utf-8" }, body: JSON.stringify(goi) })
+      .then(function () {
+        bao.className = "gui-diem gui-diem--xong";
+        bao.textContent = "Đã gửi câu hỏi. Thầy sẽ trả lời sớm, em quay lại trang này để xem nhé!";
+        document.getElementById("hoi-noi-dung").value = "";
+      })
+      .catch(function () { bao.className = "gui-diem gui-diem--loi"; bao.textContent = "Chưa gửi được (mạng có vấn đề). Em thử lại nhé."; })
+      .then(function () { nut.disabled = false; });
+  }
+
+  /* ----- Bộ đếm lượt truy cập ----- */
+  function demLuotTruyCap() {
+    const url = linkNhanDiem();
+    if (!url) return;
+    let daDem = false;
+    try { daDem = sessionStorage.getItem("da-dem-luot") === "1"; } catch (e) { /* bỏ qua */ }
+    fetch(url + "?loai=luot&tang=" + (daDem ? "0" : "1") + "&t=" + Date.now())
+      .then(function (r) { return r.json(); })
+      .then(function (kq) {
+        if (!kq || typeof kq.tong !== "number") return;
+        try { sessionStorage.setItem("da-dem-luot", "1"); } catch (e) { /* bỏ qua */ }
+        const o = document.createElement("span");
+        o.className = "chan-trang__luot";
+        o.textContent = "Lượt truy cập: " + kq.tong.toLocaleString("vi-VN");
+        document.querySelector(".chan-trang__hang").appendChild(o);
+      })
+      .catch(function () { /* không hiện bộ đếm nếu lỗi */ });
+  }
+
+  /* ----- Trò chơi Leo tháp kiến thức ----- */
+  const BAC = 15, MOC = [5, 10];
+  let troChoi = null;
+  function deChoiDuoc() { return dsDe.filter(function (d) { return d.tep; }); }
+  function trangTroChoi(phu) {
+    if (phu) {
+      const d = deChoiDuoc().find(function (x) { return x.slug === phu; });
+      if (!d) return khongThay();
+      document.title = "Leo tháp kiến thức - " + d.ten;
+      return '<div id="tro-choi" data-slug="' + esc(phu) + '"><p class="phu">Đang chuẩn bị câu hỏi…</p></div>';
+    }
+    document.title = "Leo tháp kiến thức - " + THONG_TIN.tenTrang;
+    const ds = deChoiDuoc();
+    return dauMuc("Leo tháp kiến thức", "Trả lời đúng liên tiếp để leo lên đỉnh tháp " + BAC + " bậc. Bậc " + MOC.join(" và ") + " là mốc an toàn. Mỗi lượt có 3 quyền trợ giúp: 50:50, Hỏi cả lớp và Hỏi bạn thân.") +
+      khoi("Chọn bộ câu hỏi", ds.length ? '<ul class="ds">' + ds.map(function (d) {
+        return '<li class="' + mauMon(d.mon, d.lop) + '"><span class="ds__loai">' + esc(d.mon) + '</span><span class="ds__ten"><b>' + esc(d.ten) + '</b><span class="phu">' + esc(tenLop(d)) + "</span></span>" +
+          '<a class="ds__mo" href="#/tro-choi/' + esc(d.slug) + '">Chơi ›</a></li>';
+      }).join("") + "</ul>" : '<div class="trong">Chưa có bộ câu hỏi nào.</div>');
+  }
+  function tronDs(a) {
+    a = a.slice();
+    for (let i = a.length - 1; i > 0; i--) { const j = Math.floor(Math.random() * (i + 1)); const t = a[i]; a[i] = a[j]; a[j] = t; }
+    return a;
+  }
+  function moTroChoi(slug) {
+    const d = deChoiDuoc().find(function (x) { return x.slug === slug; });
+    if (!d || !TN) return;
+    taiDe(d).then(function (text) {
+      const h = document.getElementById("tro-choi");
+      if (!h || h.dataset.slug !== slug) return;
+      const de = TN.phanTich(text);
+      const cau = [];
+      de.phan.forEach(function (p) { p.cau.forEach(function (c) { if (c.loai === "mc" && c.luaChon.length >= 2 && c.luaChon.some(function (o) { return o.dung; })) cau.push(c); }); });
+      if (cau.length < 3) { h.innerHTML = '<div class="trong">Bộ câu hỏi này có quá ít câu nhiều lựa chọn để chơi. Em chọn bộ khác nhé.</div><a class="nut" href="#/tro-choi">Chọn bộ khác</a>'; return; }
+      troChoi = { d: d, ds: tronDs(cau).slice(0, BAC), bac: 0, troGiup: { "5050": true, lop: true, ban: true }, an: [], ketThuc: false, dongHo: 0 };
+      veCauTroChoi();
+    }).catch(function () {
+      const h = document.getElementById("tro-choi");
+      if (h) h.innerHTML = '<div class="loi"><h2>Chưa tải được câu hỏi</h2><p>Kiểm tra kết nối mạng rồi tải lại trang.</p></div>';
+    });
+  }
+  function moc(bac) { let m = 0; MOC.forEach(function (x) { if (bac >= x) m = x; }); return m; }
+  function thapHTML() {
+    const g = troChoi, tong = g.ds.length;
+    let s = '<ol class="thap" reversed>';
+    for (let i = tong; i >= 1; i--) {
+      s += '<li class="' + (i === g.bac + 1 && !g.ketThuc ? "thap--dang " : "") + (i <= g.bac ? "thap--qua " : "") + (MOC.indexOf(i) >= 0 ? "thap--moc" : "") + '"><span>Bậc ' + i + "</span>" + (MOC.indexOf(i) >= 0 ? "<em>mốc an toàn</em>" : "") + (i === tong ? "<em>đỉnh tháp</em>" : "") + "</li>";
+    }
+    return s + "</ol>";
+  }
+  function dungDongHoTroChoi() { if (troChoi && troChoi.dongHo) { clearInterval(troChoi.dongHo); troChoi.dongHo = 0; } }
+  function veCauTroChoi() {
+    const g = troChoi, h = document.getElementById("tro-choi");
+    if (!g || !h) return;
+    dungDongHoTroChoi();
+    const c = g.ds[g.bac];
+    g.thuTu = tronDs(c.luaChon.map(function (o, i) { return i; }));
+    g.an = [];
+    h.innerHTML = '<a class="quay-lai" href="#/tro-choi">‹ Chọn bộ khác</a>' +
+      '<div class="tro-choi"><div class="tro-choi__chinh">' +
+      '<div class="tro-choi__dau"><b>Câu ' + (g.bac + 1) + "/" + g.ds.length + '</b><span class="dong-ho" id="tc-gio">30</span></div>' +
+      '<div class="cau"><div class="cau__de">' + TN.dinhDang(c.deBai) + "</div>" +
+      c.hinh.map(function (x) { return linkAnToan(x) || /^[\w./-]+$/.test(x) ? '<img class="cau__hinh" alt="Hình minh họa" src="' + esc(x) + '">' : ""; }).join("") +
+      '<div class="tc-lc">' + g.thuTu.map(function (li, vt) {
+        return '<button type="button" class="tc-nut" data-tc="chon" data-li="' + li + '"><span class="lc__nhan">' + "ABCDEFGH"[vt] + '</span><span class="lc__chu">' + TN.dinhDang(c.luaChon[li].noiDung) + "</span></button>";
+      }).join("") + '</div></div><div id="tc-tro-giup-kq"></div>' +
+      '<div class="tc-tro-giup">' +
+      '<button type="button" class="nut nut--phu" data-tc="5050"' + (g.troGiup["5050"] ? "" : " disabled") + ">50:50</button>" +
+      '<button type="button" class="nut nut--phu" data-tc="lop"' + (g.troGiup.lop ? "" : " disabled") + ">Hỏi cả lớp</button>" +
+      '<button type="button" class="nut nut--phu" data-tc="ban"' + (g.troGiup.ban ? "" : " disabled") + ">Hỏi bạn thân</button>" +
+      '<button type="button" class="nut nut--phu" data-tc="dung">Dừng cuộc chơi</button></div></div>' +
+      '<aside class="tro-choi__thap">' + thapHTML() + "</aside></div>";
+    toan(h);
+    let con = 30;
+    g.dongHo = setInterval(function () {
+      const o = document.getElementById("tc-gio");
+      if (!o) { dungDongHoTroChoi(); return; }
+      con--;
+      o.textContent = con;
+      o.classList.toggle("dong-ho--gap", con <= 10);
+      if (con <= 0) { dungDongHoTroChoi(); ketThucTroChoi("het-gio"); }
+    }, 1000);
+  }
+  function chonTroChoi(li) {
+    const g = troChoi;
+    if (!g || g.khoa) return;
+    g.khoa = true;
+    dungDongHoTroChoi();
+    const c = g.ds[g.bac], dung = c.luaChon.findIndex(function (o) { return o.dung; });
+    document.querySelectorAll(".tc-nut").forEach(function (b) {
+      b.disabled = true;
+      const x = Number(b.dataset.li);
+      if (x === dung) b.classList.add("tc-nut--dung");
+      else if (x === li) b.classList.add("tc-nut--sai");
+    });
+    setTimeout(function () {
+      g.khoa = false;
+      if (li === dung) {
+        g.bac++;
+        if (g.bac >= g.ds.length) ketThucTroChoi("thang");
+        else veCauTroChoi();
+      } else ketThucTroChoi("sai");
+    }, 1400);
+  }
+  function troGiup(loai) {
+    const g = troChoi;
+    if (!g || !g.troGiup[loai]) return;
+    g.troGiup[loai] = false;
+    const c = g.ds[g.bac], dung = c.luaChon.findIndex(function (o) { return o.dung; });
+    const kq = document.getElementById("tc-tro-giup-kq");
+    const nhan = function (li) { return "ABCDEFGH"[g.thuTu.indexOf(li)]; };
+    if (loai === "5050") {
+      const sai = tronDs(g.thuTu.filter(function (li) { return li !== dung && g.an.indexOf(li) < 0; })).slice(0, Math.max(0, g.thuTu.length - 2));
+      sai.forEach(function (li) { g.an.push(li); const b = document.querySelector('.tc-nut[data-li="' + li + '"]'); if (b) { b.disabled = true; b.classList.add("tc-nut--an"); } });
+      kq.innerHTML = '<p class="tc-goi-y">Đã bỏ bớt ' + sai.length + " phương án sai.</p>";
+    } else if (loai === "lop") {
+      const con = g.thuTu.filter(function (li) { return g.an.indexOf(li) < 0; });
+      const diem = {};
+      let tong = 0;
+      con.forEach(function (li) { diem[li] = (li === dung ? 45 : 0) + Math.random() * 30; tong += diem[li]; });
+      kq.innerHTML = '<div class="tc-bieu-do">' + g.thuTu.map(function (li) {
+        const pt = con.indexOf(li) < 0 ? 0 : Math.round(diem[li] / tong * 100);
+        return '<div class="tc-cot"><span>' + pt + '%</span><i style="height:' + Math.max(2, pt) + 'px"></i><b>' + nhan(li) + "</b></div>";
+      }).join("") + '</div><p class="tc-goi-y">Cả lớp đã bình chọn. Ý kiến số đông chưa chắc đã đúng!</p>';
+    } else if (loai === "ban") {
+      const con = g.thuTu.filter(function (li) { return g.an.indexOf(li) < 0; });
+      const chacChan = Math.random() < 0.8;
+      const goiY = chacChan ? dung : tronDs(con.filter(function (li) { return li !== dung; }))[0];
+      kq.innerHTML = '<p class="tc-goi-y">Bạn thân: "Mình nghĩ là <b>' + nhan(goiY === undefined ? dung : goiY) + "</b>, " + (chacChan ? "khá chắc đấy!" : "nhưng không chắc lắm…") + '"</p>';
+    }
+    const nut = document.querySelector('[data-tc="' + loai + '"]');
+    if (nut) nut.disabled = true;
+  }
+  function ketThucTroChoi(lyDo) {
+    const g = troChoi, h = document.getElementById("tro-choi");
+    if (!g || !h || g.ketThuc) return;
+    g.ketThuc = true;
+    dungDongHoTroChoi();
+    const datDuoc = lyDo === "thang" || lyDo === "dung" ? g.bac : moc(g.bac);
+    const loi = { thang: "Xuất sắc! Em đã lên tới đỉnh tháp!", dung: "Em đã dừng cuộc chơi an toàn.", sai: "Tiếc quá, câu trả lời chưa đúng.", "het-gio": "Hết 30 giây rồi!" }[lyDo];
+    const c = g.ds[Math.min(g.bac, g.ds.length - 1)];
+    h.innerHTML = '<a class="quay-lai" href="#/tro-choi">‹ Chọn bộ khác</a><div class="tro-choi"><div class="tro-choi__chinh">' +
+      '<section class="ket-qua"><div class="ket-qua__diem"><b>' + datDuoc + "</b><span>/ " + g.ds.length + " bậc</span></div><div><h1>" + esc(loi) + "</h1>" +
+      "<p>Em giữ được <b>bậc " + datDuoc + "</b> trên tháp kiến thức của bộ câu hỏi <b>" + esc(g.d.ten) + "</b>.</p>" +
+      ((lyDo === "sai" || lyDo === "het-gio") && c.loiGiai ? '<details class="loi-giai"><summary>Xem lời giải câu vừa rồi</summary><div>' + TN.dinhDang(c.loiGiai) + "</div></details>" : "") +
+      '<div class="hang-nut"><button type="button" class="nut" data-tc="choi-lai">Chơi lại</button><a class="nut nut--phu" href="#/tro-choi">Chọn bộ khác</a></div></div></section></div>' +
+      '<aside class="tro-choi__thap">' + thapHTML() + "</aside></div>";
+    toan(h);
+    window.scrollTo(0, 0);
+  }
+
   function trangLamBai(slug) {
     const d = dsDe.find(function (x) { return x.slug === slug && x.tep; });
     if (!d) return khongThay();
@@ -270,13 +497,8 @@
   function moDe(slug) {
     const d = dsDe.find(function (x) { return x.slug === slug && x.tep; });
     if (!d || !TN) return;
-    // tep có thể là một tệp hoặc danh sách tệp (ví dụ phần chung + phần riêng), được ghép thành một đề.
     const dsTep = Array.isArray(d.tep) ? d.tep : [d.tep];
-    Promise.all(dsTep.map(function (t) {
-      return fetch(t + (t.indexOf("?") < 0 ? "?" : "&") + "t=" + Date.now())
-        .then(function (r) { if (!r.ok) throw new Error(r.status); return r.text(); });
-    }))
-      .then(function (cac) { return cac.join("\n\n"); })
+    taiDe(d)
       .then(function (text) {
         const h = hop();
         if (!h || h.dataset.slug !== slug) return;
@@ -611,12 +833,16 @@
     if (ten === "tim") return timKiem(phu);
     if (ten === "lien-he") return lienHe();
     if (ten === "lam-bai") return trangLamBai(phu);
+    if (ten === "hoi-dap") return trangHoiDap();
+    if (ten === "tro-choi") return trangTroChoi(phu);
     if (ten === "doc") return docTaiLieu(phu);
     return khongThay();
   }
   function hienThi() {
     dungDongHo();
     baiThi = null;
+    dungDongHoTroChoi();
+    troChoi = null;
     app.innerHTML = veTrang();
     const d = phanDuong();
     let ten = d[0];
@@ -629,6 +855,12 @@
       else a.removeAttribute("aria-current");
     });
     if (d[0] === "lam-bai" && hop()) moDe(d[1]);
+    if (d[0] === "tro-choi" && d[1] && document.getElementById("tro-choi")) moTroChoi(d[1]);
+    if (d[0] === "hoi-dap") {
+      const f = document.getElementById("form-hoi");
+      if (f) f.addEventListener("submit", guiCauHoi);
+      napHoiDap();
+    }
   }
 
   function datLocTheoDuong() {
@@ -663,6 +895,15 @@
   app.addEventListener("input", function (e) { if (e.target.type === "text") ghiTraLoi(e); });
 
   app.addEventListener("click", function (e) {
+    const tc = e.target.closest("[data-tc]");
+    if (tc && troChoi) {
+      const v = tc.dataset.tc;
+      if (v === "chon") chonTroChoi(Number(tc.dataset.li));
+      else if (v === "dung") ketThucTroChoi("dung");
+      else if (v === "choi-lai") moTroChoi(troChoi.d.slug);
+      else troGiup(v);
+      return;
+    }
     const viec = e.target.closest("[data-bai]");
     if (viec && baiThi) {
       const v = viec.dataset.bai;
@@ -714,4 +955,5 @@
   }
   datLocTheoDuong();
   hienThi();
+  demLuotTruyCap();
 })();
