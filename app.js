@@ -697,6 +697,13 @@
   const cat = ten.indexOf(" - ");
   document.getElementById("logo").innerHTML = cat > 0 ? esc(ten.slice(0, cat)) + " <span>" + esc(ten.slice(cat + 3)) + "</span>" : esc(ten);
   document.getElementById("chan-ten").textContent = ten + " · " + THONG_TIN.giaoVien + " · " + THONG_TIN.truong;
+  const mxh = [["YouTube", linkAnToan(THONG_TIN.youtube)], ["Facebook", linkAnToan(THONG_TIN.facebook)]].filter(function (x) { return x[1]; });
+  if (mxh.length) {
+    const o = document.createElement("span");
+    o.className = "chan-trang__mxh";
+    o.innerHTML = mxh.map(function (x) { return '<a target="_blank" rel="noopener" href="' + esc(x[1]) + '">' + x[0] + " ↗</a>"; }).join(" · ");
+    document.getElementById("chan-ten").after(o);
+  }
   if (THONG_TIN.thongBao) {
     document.getElementById("thong-bao").innerHTML = '<div class="bang-tin">' + esc(THONG_TIN.thongBao) + "</div>";
   }
