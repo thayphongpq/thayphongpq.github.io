@@ -270,8 +270,13 @@
   function moDe(slug) {
     const d = dsDe.find(function (x) { return x.slug === slug && x.tep; });
     if (!d || !TN) return;
-    fetch(d.tep + (d.tep.indexOf("?") < 0 ? "?" : "&") + "t=" + Date.now())
-      .then(function (r) { if (!r.ok) throw new Error(r.status); return r.text(); })
+    // tep có thể là một tệp hoặc danh sách tệp (ví dụ phần chung + phần riêng), được ghép thành một đề.
+    const dsTep = Array.isArray(d.tep) ? d.tep : [d.tep];
+    Promise.all(dsTep.map(function (t) {
+      return fetch(t + (t.indexOf("?") < 0 ? "?" : "&") + "t=" + Date.now())
+        .then(function (r) { if (!r.ok) throw new Error(r.status); return r.text(); });
+    }))
+      .then(function (cac) { return cac.join("\n\n"); })
       .then(function (text) {
         const h = hop();
         if (!h || h.dataset.slug !== slug) return;
@@ -286,7 +291,7 @@
       })
       .catch(function () {
         const h = hop();
-        if (h) h.innerHTML = '<div class="loi"><h2>Chưa tải được đề</h2><p>Kiểm tra kết nối mạng rồi tải lại trang. Nếu vẫn lỗi, kiểm tra tệp đề: ' + esc(d.tep) + "</p></div>";
+        if (h) h.innerHTML = '<div class="loi"><h2>Chưa tải được đề</h2><p>Kiểm tra kết nối mạng rồi tải lại trang. Nếu vẫn lỗi, kiểm tra tệp đề: ' + esc(dsTep.join(", ")) + "</p></div>";
       });
   }
   function manHinhBatDau() {
