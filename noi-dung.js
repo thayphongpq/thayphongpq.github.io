@@ -16,12 +16,12 @@ const THONG_TIN = {
   truong: "THPT An Thới",
 
   // Dòng thông báo trên đầu trang. Để "" nếu không có thông báo.
-  thongBao: "Trang đang xây dựng: các bài bên dưới là ví dụ mẫu, sẽ được thay bằng bài thật.",
+  thongBao: "Mới cập nhật: loạt video ôn HSG Vật lí - Chuyên đề Chuyển động.",
 
   gioiThieu: "Nơi tập hợp bài giảng, tài liệu và đề ôn luyện môn Vật lý, Tin học dành cho học sinh THPT.",
 
   // Điền link của thầy/cô. Mục nào để "" sẽ tự ẩn.
-  youtube: "",
+  youtube: "https://www.youtube.com/@thephong6695",
   facebook: "",
   zalo: "",
   email: ""
@@ -39,29 +39,23 @@ const LO_TRINH = [
 const VIDEO = [
   // ▼▼▼ DÁN VIDEO MỚI NGAY DƯỚI DÒNG NÀY ▼▼▼
 
-  { ten: "Mẫu: Chuyển động thẳng biến đổi đều", mon: "Vật lý", lop: "10", chuDe: "Động học", youtube: "", taiLieu: "", moTa: "Video mẫu. Dán link YouTube vào mục youtube để video hiện lên.", ngay: "2026-11-10" },
-  { ten: "Mẫu: Dao động điều hòa", mon: "Vật lý", lop: "11", chuDe: "Dao động", youtube: "", taiLieu: "", moTa: "", ngay: "2026-11-09" },
-  { ten: "Mẫu: Python - biến và kiểu dữ liệu", mon: "Tin học", lop: "10", chuDe: "Lập trình Python", youtube: "", taiLieu: "", moTa: "", ngay: "2026-11-08" },
-  { ten: "Mẫu: HSG Vật lý - Cân bằng vật rắn", mon: "Vật lý", lop: "HSG", chuDe: "Cơ học", youtube: "", taiLieu: "", moTa: "", ngay: "2026-11-07" },
-  { ten: "Mẫu: HSG Tin học - Quy hoạch động cơ bản", mon: "Tin học", lop: "HSG", chuDe: "Quy hoạch động", youtube: "", taiLieu: "", moTa: "", ngay: "2026-11-06" }
+  { ten: "CĐ1 (Phần 4): Xuôi ngược dòng, thang cuốn, con chó chạy đi chạy lại", mon: "Vật lý", lop: "HSG", chuDe: "HSG Vật lí THCS - Chuyển động cơ học", youtube: "https://www.youtube.com/watch?v=Zd-T8PD31-Y", taiLieu: "", moTa: "", ngay: "2026-11-10" },
+  { ten: "CĐ1 (Phần 3): Đồ thị s-t (Đề HSG An Giang 2025-2026) và bài toán gặp nhau", mon: "Vật lý", lop: "HSG", chuDe: "HSG Vật lí THCS - Chuyển động cơ học", youtube: "https://www.youtube.com/watch?v=LU8O1lNyUQY", taiLieu: "", moTa: "", ngay: "2026-11-10" },
+  { ten: "CĐ1 (Phần 2): Tốc độ và tốc độ trung bình - 2 dạng chắc chắn có trong đề", mon: "Vật lý", lop: "HSG", chuDe: "HSG Vật lí THCS - Chuyển động cơ học", youtube: "https://www.youtube.com/watch?v=V2MR2Nauw50", taiLieu: "", moTa: "", ngay: "2026-11-10" },
+  { ten: "CĐ1 (Phần 1): Chuyển động cơ học - Lí thuyết trọng tâm", mon: "Vật lý", lop: "HSG", chuDe: "HSG Vật lí THCS - Chuyển động cơ học", youtube: "https://www.youtube.com/watch?v=A8FsdamtcUs", taiLieu: "", moTa: "", ngay: "2026-11-10" },
+  { ten: "Lời giải 12 bài HSG Chuyển động thẳng đều", mon: "Vật lý", lop: "HSG", chuDe: "Vật lí 10 - Chuyên đề 1", youtube: "https://www.youtube.com/watch?v=sP5Ile7C6Rg", taiLieu: "", moTa: "Ôn thi HSG An Giang.", ngay: "2026-11-09" },
+  { ten: "Chuyên đề 3. Chuyển động tròn đều", mon: "Vật lý", lop: "HSG", chuDe: "Vật lí 10", youtube: "https://www.youtube.com/watch?v=patE6JT7RPA", taiLieu: "", moTa: "", ngay: "2026-11-09" },
+  { ten: "Chuyên đề 2. Chuyển động thẳng biến đổi đều - Rơi tự do", mon: "Vật lý", lop: "HSG", chuDe: "Vật lí 10", youtube: "https://www.youtube.com/watch?v=t2CkWlaNOlc", taiLieu: "", moTa: "", ngay: "2026-11-05" },
+  { ten: "Chuyên đề 1. Chuyển động thẳng đều", mon: "Vật lý", lop: "HSG", chuDe: "Vật lí 10", youtube: "https://www.youtube.com/watch?v=q9AwrSVA2_8", taiLieu: "", moTa: "", ngay: "2026-11-05" }
 ];
 
 /* ---------- TÀI LIỆU, BÀI TẬP, ĐỀ THI ----------
    loai nên chọn một trong các chữ sau:
-   Lý thuyết, Thực hành, Bài tập, Trắc nghiệm, Đề kiểm tra, Chuyên đề, Đề thi */
+   Lý thuyết, Thực hành, Bài tập, Trắc nghiệm, Đề kiểm tra, Chuyên đề, Đề thi
+   Ví dụ một dòng:
+   { ten: "Chuyên đề 1. Chuyển động thẳng đều", mon: "Vật lý", lop: "HSG", loai: "Chuyên đề", link: "https://drive.google.com/...", ngay: "2026-11-10" },
+*/
 const TAI_LIEU = [
   // ▼▼▼ DÁN TÀI LIỆU MỚI NGAY DƯỚI DÒNG NÀY ▼▼▼
 
-  { ten: "Mẫu: Tóm tắt lý thuyết Động học", mon: "Vật lý", lop: "10", loai: "Lý thuyết", link: "", ngay: "2026-11-10" },
-  { ten: "Mẫu: Bài tập Động lực học", mon: "Vật lý", lop: "10", loai: "Bài tập", link: "", ngay: "2026-11-09" },
-  { ten: "Mẫu: Bài tập Dao động và Sóng", mon: "Vật lý", lop: "11", loai: "Bài tập", link: "", ngay: "2026-11-08" },
-  { ten: "Mẫu: Đề kiểm tra Vật lý nhiệt", mon: "Vật lý", lop: "12", loai: "Đề kiểm tra", link: "", ngay: "2026-11-07" },
-  { ten: "Mẫu: Thực hành Python - vòng lặp", mon: "Tin học", lop: "10", loai: "Thực hành", link: "", ngay: "2026-11-06" },
-  { ten: "Mẫu: Trắc nghiệm Cơ sở dữ liệu", mon: "Tin học", lop: "11", loai: "Trắc nghiệm", link: "", ngay: "2026-11-05" },
-  { ten: "Mẫu: Lý thuyết HTML và CSS", mon: "Tin học", lop: "12", loai: "Lý thuyết", link: "", ngay: "2026-11-04" },
-  { ten: "Mẫu: Chuyên đề Nhiệt động lực học", mon: "Vật lý", lop: "HSG", loai: "Chuyên đề", link: "", ngay: "2026-11-03" },
-  { ten: "Mẫu: Đề thi HSG Vật lý cấp tỉnh", mon: "Vật lý", lop: "HSG", loai: "Đề thi", link: "", ngay: "2026-11-02" },
-  { ten: "Mẫu: Chuyên đề Đồ thị - BFS, DFS", mon: "Tin học", lop: "HSG", loai: "Chuyên đề", link: "", ngay: "2026-11-01" },
-  { ten: "Mẫu: Bài tập Số học - sàng nguyên tố", mon: "Tin học", lop: "HSG", loai: "Bài tập", link: "", ngay: "2026-10-31" },
-  { ten: "Mẫu: Đề thi HSG Tin học cấp tỉnh", mon: "Tin học", lop: "HSG", loai: "Đề thi", link: "", ngay: "2026-10-30" }
 ];
