@@ -28,7 +28,7 @@ const THONG_TIN = {
   email: "",
 
   // Link ứng dụng web Google Apps Script nhận điểm trắc nghiệm (để "" thì không gửi điểm).
-  linkNhanDiem: ""
+  linkNhanDiem: "https://script.google.com/macros/s/AKfycbwfFsyoTt7uEXSy_38w8kCG1dvWRg61Gx-i4FretcCaKZx7m7czOsKPurP6NkVP3O2g/exec"
 };
 
 // Lộ trình hiển thị ở trang Ôn thi HSG.
