@@ -105,6 +105,9 @@ const DE_THI = [
   { ten: "Bài 2 – Đề 1. Các quy tắc an toàn trong phòng thực hành Vật lí", mon: "Vật lý", lop: "10", loai: "Luyện tập", tep: "de/vl10-bai02-de1.txt", thoiGian: 50, ngay: "2026-11-19" },
   { ten: "Bài 2 – Đề 2. Các quy tắc an toàn trong phòng thực hành Vật lí", mon: "Vật lý", lop: "10", loai: "Luyện tập", tep: "de/vl10-bai02-de2.txt", thoiGian: 50, ngay: "2026-11-19" },
   { ten: "Bài 2 – Đề 3. Các quy tắc an toàn trong phòng thực hành Vật lí", mon: "Vật lý", lop: "10", loai: "Luyện tập", tep: "de/vl10-bai02-de3.txt", thoiGian: 50, ngay: "2026-11-19" },
+  { ten: "Bài 3 – Đề 1. Thực hành tính sai số trong phép đo. Ghi kết quả đo", mon: "Vật lý", lop: "10", loai: "Luyện tập", tep: "de/vl10-bai03-de1.txt", thoiGian: 50, ngay: "2026-11-19" },
+  { ten: "Bài 3 – Đề 2. Thực hành tính sai số trong phép đo. Ghi kết quả đo", mon: "Vật lý", lop: "10", loai: "Luyện tập", tep: "de/vl10-bai03-de2.txt", thoiGian: 50, ngay: "2026-11-19" },
+  { ten: "Bài 3 – Đề 3. Thực hành tính sai số trong phép đo. Ghi kết quả đo", mon: "Vật lý", lop: "10", loai: "Luyện tập", tep: "de/vl10-bai03-de3.txt", thoiGian: 50, ngay: "2026-11-19" },
 
   // ----- Vật lý 10 (sách thống nhất) - Chương II. Động học -----
   { ten: "Bài 4. Độ dịch chuyển và quãng đường đi được", mon: "Vật lý", lop: "10", loai: "Luyện tập", tep: "de/vl10-bai04-do-dich-chuyen.txt", thoiGian: 20, ngay: "2026-11-19" },
