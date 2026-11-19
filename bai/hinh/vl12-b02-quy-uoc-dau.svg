@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 340" font-family="Segoe UI, Arial, sans-serif">
+  <rect width="560" height="340" fill="#ffffff"/>
+  <defs>
+    <marker id="r" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#dc2626"/></marker>
+    <marker id="b" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#2563eb"/></marker>
+  </defs>
+  <!-- vật: tâm (280,170), bán kính 55 -->
+  <circle cx="280" cy="170" r="55" fill="#e0f2fe" stroke="#0f172a" stroke-width="2.5"/>
+  <text x="280" y="168" text-anchor="middle" font-size="20" font-weight="700" fill="#0f172a">Vật</text>
+  <text x="280" y="190" text-anchor="middle" font-size="14" fill="#475569">system</text>
+  <!-- Q: đỏ; A: xanh -->
+  <line x1="90" y1="50" x2="236" y2="137" stroke="#dc2626" stroke-width="3" marker-end="url(#r)"/>
+  <line x1="324" y1="137" x2="470" y2="50" stroke="#dc2626" stroke-width="3" marker-end="url(#r)"/>
+  <line x1="90" y1="290" x2="236" y2="203" stroke="#2563eb" stroke-width="3" marker-end="url(#b)"/>
+  <line x1="324" y1="203" x2="470" y2="290" stroke="#2563eb" stroke-width="3" marker-end="url(#b)"/>
+  <text x="80" y="36" text-anchor="middle" font-size="20" font-weight="700" fill="#dc2626">Q &gt; 0</text>
+  <text x="140" y="105" text-anchor="middle" font-size="13" fill="#475569">nhận nhiệt</text>
+  <text x="480" y="36" text-anchor="middle" font-size="20" font-weight="700" fill="#dc2626">Q &lt; 0</text>
+  <text x="420" y="105" text-anchor="middle" font-size="13" fill="#475569">truyền nhiệt</text>
+  <text x="80" y="318" text-anchor="middle" font-size="20" font-weight="700" fill="#2563eb">A &gt; 0</text>
+  <text x="140" y="245" text-anchor="middle" font-size="13" fill="#475569">nhận công</text>
+  <text x="480" y="318" text-anchor="middle" font-size="20" font-weight="700" fill="#2563eb">A &lt; 0</text>
+  <text x="420" y="245" text-anchor="middle" font-size="13" fill="#475569">thực hiện công</text>
+  <text x="280" y="325" text-anchor="middle" font-size="18" font-style="italic" fill="#0f172a">ΔU = A + Q</text>
+</svg>

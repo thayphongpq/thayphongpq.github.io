@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 330" font-family="Segoe UI, Arial, sans-serif">
+  <rect width="560" height="330" fill="#ffffff"/>
+  <defs>
+    <marker id="m" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#0f172a"/></marker>
+  </defs>
+  <!-- trục: gốc O (80,280) ứng với 0 K; x = 80 + T (K) -->
+  <line x1="80" y1="280" x2="535" y2="280" stroke="#0f172a" stroke-width="2" marker-end="url(#m)"/>
+  <line x1="80" y1="280" x2="80" y2="20" stroke="#0f172a" stroke-width="2" marker-end="url(#m)"/>
+  <text x="512" y="306" font-size="20" font-style="italic" fill="#0f172a">T (K)</text>
+  <text x="90" y="28" font-size="20" font-style="italic" fill="#0f172a">V</text>
+  <text x="80" y="302" text-anchor="middle" font-size="16" fill="#0f172a">0</text>
+  <text x="80" y="322" text-anchor="middle" font-size="13" fill="#2563eb">(−273 °C)</text>
+  <!-- p1: y = 280 - 0.55T ; p2 (lớn hơn): y = 280 - 0.35T -->
+  <line x1="80" y1="280" x2="230" y2="197.5" stroke="#2563eb" stroke-width="2.5" stroke-dasharray="7 6"/>
+  <line x1="230" y1="197.5" x2="500" y2="49" stroke="#2563eb" stroke-width="3.5"/>
+  <line x1="80" y1="280" x2="230" y2="227.5" stroke="#dc2626" stroke-width="2.5" stroke-dasharray="7 6"/>
+  <line x1="230" y1="227.5" x2="500" y2="133" stroke="#dc2626" stroke-width="3.5"/>
+  <text x="508" y="52" font-size="19" font-style="italic" font-weight="700" fill="#2563eb">p₁</text>
+  <text x="508" y="138" font-size="19" font-style="italic" font-weight="700" fill="#dc2626">p₂</text>
+  <!-- mốc 273 K -->
+  <line x1="353" y1="280" x2="353" y2="129.85" stroke="#94a3b8" stroke-width="1.5" stroke-dasharray="4 4"/>
+  <text x="353" y="300" text-anchor="middle" font-size="15" fill="#0f172a">273</text>
+  <text x="250" y="60" text-anchor="middle" font-size="17" fill="#0f172a">p₂ &gt; p₁</text>
+  <text x="250" y="86" text-anchor="middle" font-size="17" font-style="italic" fill="#0f172a">V / T = hằng số (constant)</text>
+</svg>

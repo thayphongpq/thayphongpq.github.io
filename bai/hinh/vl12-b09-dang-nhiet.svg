@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 330" font-family="Segoe UI, Arial, sans-serif">
+  <rect width="560" height="330" fill="#ffffff"/>
+  <defs>
+    <marker id="m" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#0f172a"/></marker>
+  </defs>
+  <!-- trục: gốc (60,290); x = 60 + 55V; y = 290 - 30p -->
+  <line x1="60" y1="290" x2="535" y2="290" stroke="#0f172a" stroke-width="2" marker-end="url(#m)"/>
+  <line x1="60" y1="290" x2="60" y2="20" stroke="#0f172a" stroke-width="2" marker-end="url(#m)"/>
+  <text x="525" y="314" font-size="20" font-style="italic" fill="#0f172a">V</text>
+  <text x="70" y="28" font-size="20" font-style="italic" fill="#0f172a">p</text>
+  <text x="48" y="310" text-anchor="end" font-size="18" fill="#0f172a">O</text>
+  <!-- T1: pV = 8 -->
+  <polyline points="115,50 128.75,98 142.5,130 170,170 197.5,194 225,210 252.5,221.4 280,230 335,242 390,250 445,255.7 500,260" fill="none" stroke="#2563eb" stroke-width="3.5" stroke-linejoin="round"/>
+  <!-- T2: pV = 12 -->
+  <polyline points="142.5,50 156.25,84.3 170,110 197.5,146 225,170 252.5,187.1 280,200 335,218 390,230 445,238.6 500,245" fill="none" stroke="#dc2626" stroke-width="3.5" stroke-linejoin="round"/>
+  <text x="508" y="268" font-size="19" font-style="italic" font-weight="700" fill="#2563eb">T₁</text>
+  <text x="508" y="240" font-size="19" font-style="italic" font-weight="700" fill="#dc2626">T₂</text>
+  <!-- hai trạng thái trên đường T1: A(V=2, p=4), B(V=4, p=2) -->
+  <line x1="60" y1="170" x2="170" y2="170" stroke="#94a3b8" stroke-width="1.5" stroke-dasharray="5 5"/>
+  <line x1="170" y1="170" x2="170" y2="290" stroke="#94a3b8" stroke-width="1.5" stroke-dasharray="5 5"/>
+  <line x1="60" y1="230" x2="280" y2="230" stroke="#94a3b8" stroke-width="1.5" stroke-dasharray="5 5"/>
+  <line x1="280" y1="230" x2="280" y2="290" stroke="#94a3b8" stroke-width="1.5" stroke-dasharray="5 5"/>
+  <circle cx="170" cy="170" r="5.5" fill="#0f172a"/>
+  <circle cx="280" cy="230" r="5.5" fill="#0f172a"/>
+  <text x="178" y="164" font-size="17" font-weight="700" fill="#0f172a">1</text>
+  <text x="288" y="224" font-size="17" font-weight="700" fill="#0f172a">2</text>
+  <text x="52" y="176" text-anchor="end" font-size="16" font-style="italic" fill="#0f172a">p₁</text>
+  <text x="52" y="236" text-anchor="end" font-size="16" font-style="italic" fill="#0f172a">p₂</text>
+  <text x="170" y="310" text-anchor="middle" font-size="16" font-style="italic" fill="#0f172a">V₁</text>
+  <text x="280" y="310" text-anchor="middle" font-size="16" font-style="italic" fill="#0f172a">V₂</text>
+  <text x="400" y="90" text-anchor="middle" font-size="17" fill="#0f172a">T₂ &gt; T₁</text>
+  <text x="400" y="116" text-anchor="middle" font-size="17" font-style="italic" fill="#0f172a">p₁V₁ = p₂V₂</text>
+</svg>
