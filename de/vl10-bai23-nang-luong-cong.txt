@@ -1,0 +1,85 @@
+VẬT LÍ 10 - CHƯƠNG IV. NĂNG LƯỢNG, CÔNG, CÔNG SUẤT - BÀI 23. NĂNG LƯỢNG. CÔNG CƠ HỌC
+Đề luyện tập theo cấu trúc thi tốt nghiệp THPT (biên soạn: thầy Lâm Thế Phong, THPT An Thới)
+Thời gian: 20
+
+PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn
+Câu 1. Trong hệ SI, đơn vị của công là
+A. oát (W).
+*B. jun (J).
+C. niutơn (N).
+D. niutơn trên mét (N/m).
+
+Câu 2. Theo định luật bảo toàn năng lượng, năng lượng
+A. tự sinh ra khi vật bắt đầu chuyển động.
+B. tự mất đi khi vật dừng lại.
+C. luôn giữ nguyên ở dạng ban đầu trong mọi quá trình.
+*D. không tự sinh ra hoặc tự mất đi mà chỉ chuyển hóa từ dạng này sang dạng khác hoặc truyền từ vật này sang vật khác.
+
+Câu 3. Một lực $\vec F$ không đổi tác dụng lên vật làm vật dịch chuyển một đoạn $d$ theo hướng hợp với hướng của lực một góc $\alpha$. Công của lực $\vec F$ là
+*A. $A = Fd\cos\alpha$.
+B. $A = Fd\sin\alpha$.
+C. $A = Fd$.
+D. $A = \dfrac{F\cos\alpha}{d}$.
+
+Câu 4. Công của lực $\vec F$ là công cản (có giá trị âm) khi góc $\alpha$ giữa lực và hướng dịch chuyển thỏa mãn
+A. $\alpha = 0^\circ$.
+B. $0^\circ < \alpha < 90^\circ$.
+*C. $90^\circ < \alpha \le 180^\circ$.
+D. $\alpha = 90^\circ$.
+Lời giải: $A = Fd\cos\alpha < 0$ khi $\cos\alpha < 0$, tức là $90^\circ < \alpha \le 180^\circ$.
+
+Câu 5. Một người đẩy thùng hàng bằng một lực nằm ngang có độ lớn 50 N làm thùng dịch chuyển 4 m theo hướng của lực. Công của lực đẩy là
+A. 12,5 J.
+B. 54 J.
+*C. 200 J.
+D. 100 J.
+Lời giải: $A = Fd = 50 \cdot 4 = 200$ J.
+
+Câu 6. Kéo một chiếc xe trượt bằng sợi dây hợp với phương ngang một góc $60^\circ$, lực kéo có độ lớn 100 N. Xe dịch chuyển 5 m trên mặt đường nằm ngang. Công của lực kéo là
+*A. 250 J.
+B. 500 J.
+C. 433 J.
+D. 50 J.
+Lời giải: $A = Fd\cos 60^\circ = 100 \cdot 5 \cdot 0{,}5 = 250$ J.
+
+Câu 7. Một vật có khối lượng 2 kg rơi từ độ cao 5 m xuống mặt đất. Lấy $g = 10$ m/s². Công của trọng lực trong quá trình rơi là
+A. 10 J.
+B. 20 J.
+C. $-100$ J.
+*D. 100 J.
+Lời giải: Trọng lực cùng hướng với độ dịch chuyển: $A = mgh = 2 \cdot 10 \cdot 5 = 100$ J.
+
+Câu 8. Một thùng gỗ có khối lượng 5 kg trượt 10 m trên sàn nằm ngang. Hệ số ma sát trượt giữa thùng và sàn là 0,2. Lấy $g = 10$ m/s². Công của lực ma sát trượt là
+A. 100 J.
+*B. $-100$ J.
+C. $-10$ J.
+D. 0 J.
+Lời giải: $F_{ms} = \mu mg = 0{,}2 \cdot 5 \cdot 10 = 10$ N, ngược hướng dịch chuyển nên $A = F_{ms}d\cos 180^\circ = -10 \cdot 10 = -100$ J.
+
+PHẦN II. Câu trắc nghiệm đúng sai
+Câu 1. Một người kéo thùng hàng trượt đều 10 m trên sàn nằm ngang bằng sợi dây hợp với phương ngang một góc $30^\circ$, lực kéo có độ lớn 60 N.
+a) Công của trọng lực tác dụng lên thùng bằng 0. (Đ)
+b) Công của lực kéo là 600 J. (S)
+c) Công của lực kéo xấp xỉ 520 J. (Đ)
+d) Công của lực ma sát tác dụng lên thùng xấp xỉ $-520$ J. (Đ)
+Lời giải: Trọng lực vuông góc với hướng dịch chuyển nên sinh công bằng 0. $A_F = 60 \cdot 10 \cdot \cos 30^\circ \approx 519{,}6$ J. Thùng trượt đều nên tổng công các lực bằng 0 (trọng lực và phản lực không sinh công), do đó $A_{ms} = -A_F \approx -520$ J.
+
+Câu 2. Xét các phát biểu về năng lượng và công.
+a) Năng lượng là đại lượng vô hướng, đơn vị trong hệ SI là jun (J). (Đ)
+b) Calo là một đơn vị năng lượng, 1 cal ≈ 4,186 J. (Đ)
+c) Lực có phương vuông góc với hướng dịch chuyển sinh công lớn nhất. (S)
+d) 1 kWh = 3 600 J. (S)
+Lời giải: Lực vuông góc với hướng dịch chuyển có $\cos 90^\circ = 0$ nên không sinh công. $1\ \text{kWh} = 1000\ \text{W} \cdot 3600\ \text{s} = 3{,}6 \cdot 10^6$ J.
+
+PHẦN III. Câu trắc nghiệm trả lời ngắn
+Câu 1. Một người đẩy xe bằng lực nằm ngang có độ lớn 40 N, lực này thực hiện công 320 J. Xe đã dịch chuyển theo hướng của lực một đoạn bao nhiêu mét (m)?
+Đáp án: 8
+Lời giải: $d = \dfrac{A}{F} = \dfrac{320}{40} = 8$ m.
+
+Câu 2. Một thang máy có khối lượng 500 kg được kéo đi lên đều một đoạn 12 m. Lấy $g = 10$ m/s². Công của lực kéo thang máy là bao nhiêu kilôjun (kJ)?
+Đáp án: 60
+Lời giải: Thang đi lên đều nên $F = mg = 5000$ N; $A = Fd = 5000 \cdot 12 = 60\,000$ J = 60 kJ.
+
+Câu 3. Một lực có độ lớn 50 N kéo vật dịch chuyển 20 m theo hướng hợp với hướng của lực một góc $30^\circ$. Công của lực là bao nhiêu jun (J)? (Làm tròn kết quả đến hàng đơn vị.)
+Đáp án: 866|866,0|866,03
+Lời giải: $A = Fd\cos 30^\circ = 50 \cdot 20 \cdot 0{,}866 \approx 866$ J.

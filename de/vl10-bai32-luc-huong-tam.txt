@@ -1,0 +1,84 @@
+VẬT LÍ 10 - CHƯƠNG VI. CHUYỂN ĐỘNG TRÒN ĐỀU - BÀI 32. LỰC HƯỚNG TÂM VÀ GIA TỐC HƯỚNG TÂM
+Đề luyện tập theo cấu trúc thi tốt nghiệp THPT (biên soạn: thầy Lâm Thế Phong, THPT An Thới)
+Thời gian: 20
+
+PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn
+Câu 1. Một vật chuyển động tròn đều trên quỹ đạo bán kính $r$ với tốc độ $v$. Độ lớn gia tốc hướng tâm của vật là
+*A. $a_{ht} = \dfrac{v^2}{r}$.
+B. $a_{ht} = \dfrac{v}{r}$.
+C. $a_{ht} = vr$.
+D. $a_{ht} = v^2r$.
+
+Câu 2. Trong chuyển động tròn đều, vectơ gia tốc của vật
+A. tiếp tuyến với quỹ đạo, cùng chiều chuyển động.
+B. tiếp tuyến với quỹ đạo, ngược chiều chuyển động.
+C. hướng ra xa tâm quỹ đạo.
+*D. luôn hướng vào tâm quỹ đạo.
+
+Câu 3. Một vật có khối lượng $m$ chuyển động tròn đều trên quỹ đạo bán kính $r$ với tốc độ góc $\omega$. Độ lớn lực hướng tâm tác dụng lên vật là
+A. $F_{ht} = \dfrac{m\omega}{r}$.
+B. $F_{ht} = m\omega r^2$.
+*C. $F_{ht} = m\omega^2r$.
+D. $F_{ht} = \dfrac{m\omega^2}{r}$.
+
+Câu 4. Khi ô tô chạy qua một khúc cua trên mặt đường nằm ngang, lực đóng vai trò lực hướng tâm là
+A. trọng lực tác dụng lên xe.
+*B. lực ma sát nghỉ giữa lốp xe và mặt đường.
+C. phản lực của mặt đường.
+D. lực kéo của động cơ.
+
+Câu 5. Một vật chuyển động tròn đều trên quỹ đạo bán kính 2 m với tốc độ 4 m/s. Gia tốc hướng tâm của vật có độ lớn
+A. 2 m/s².
+*B. 8 m/s².
+C. 16 m/s².
+D. 32 m/s².
+Lời giải: $a_{ht} = \dfrac{v^2}{r} = \dfrac{16}{2} = 8$ m/s².
+
+Câu 6. Một vật có khối lượng 0,5 kg chuyển động tròn đều trên quỹ đạo bán kính 0,4 m với tốc độ góc 5 rad/s. Lực hướng tâm tác dụng lên vật có độ lớn
+A. 1 N.
+B. 10 N.
+C. 2 N.
+*D. 5 N.
+Lời giải: $F_{ht} = m\omega^2r = 0{,}5 \cdot 5^2 \cdot 0{,}4 = 5$ N.
+
+Câu 7. Một vật chuyển động tròn đều. Nếu tốc độ của vật tăng gấp đôi và bán kính quỹ đạo không đổi thì gia tốc hướng tâm
+*A. tăng 4 lần.
+B. tăng 2 lần.
+C. giảm 2 lần.
+D. không đổi.
+Lời giải: $a_{ht} = \dfrac{v^2}{r}$ tỉ lệ với $v^2$ nên tăng $2^2 = 4$ lần.
+
+Câu 8. Một ô tô có khối lượng 1 tấn chuyển động đều qua đỉnh một cầu vồng lên (cầu lồi) có bán kính cong 50 m với tốc độ 10 m/s. Lấy $g = 10$ m/s². Áp lực của ô tô lên mặt cầu tại đỉnh cầu có độ lớn
+A. 10 000 N.
+B. 12 000 N.
+*C. 8 000 N.
+D. 2 000 N.
+Lời giải: Tại đỉnh, hợp lực hướng xuống (vào tâm): $mg - N = \dfrac{mv^2}{r} \Rightarrow N = 1000 \cdot \left(10 - \dfrac{100}{50}\right) = 8000$ N.
+
+PHẦN II. Câu trắc nghiệm đúng sai
+Câu 1. Một vật nhỏ có khối lượng 200 g được buộc vào đầu một sợi dây dài 0,5 m và quay tròn đều trên mặt phẳng nằm ngang nhẵn quanh đầu kia của dây, mỗi giây quay được 2 vòng.
+a) Tốc độ góc của vật là $4\pi$ rad/s. (Đ)
+b) Tốc độ của vật xấp xỉ 6,28 m/s. (Đ)
+c) Gia tốc hướng tâm của vật xấp xỉ 39,5 m/s². (S)
+d) Lực căng dây (đóng vai trò lực hướng tâm) xấp xỉ 3,95 N. (S)
+Lời giải: $\omega = 2\pi f = 4\pi$ rad/s; $v = \omega r = 2\pi \approx 6{,}28$ m/s; $a_{ht} = \omega^2r = 16\pi^2 \cdot 0{,}5 \approx 79$ m/s²; $T = ma_{ht} \approx 0{,}2 \cdot 79 \approx 15{,}8$ N.
+
+Câu 2. Xét các phát biểu về lực hướng tâm.
+a) Lực hướng tâm là một loại lực mới, khác với các lực đã học như trọng lực, lực ma sát, lực căng dây. (S)
+b) Khi một vệ tinh nhân tạo chuyển động tròn đều quanh Trái Đất, lực hấp dẫn của Trái Đất đóng vai trò lực hướng tâm. (Đ)
+c) Mặt đường ở các khúc cua thường được làm nghiêng để hợp lực của trọng lực và phản lực của mặt đường góp phần tạo ra lực hướng tâm. (Đ)
+d) Trong chuyển động tròn đều, lực hướng tâm sinh công dương làm vật chuyển động. (S)
+Lời giải: Lực hướng tâm không phải loại lực mới mà là hợp lực (hoặc một lực) gây ra gia tốc hướng tâm. Lực hướng tâm luôn vuông góc với vận tốc nên không sinh công, tốc độ của vật không đổi.
+
+PHẦN III. Câu trắc nghiệm trả lời ngắn
+Câu 1. Một ô tô có khối lượng 1,2 tấn chuyển động đều với tốc độ 36 km/h qua một khúc cua tròn bán kính 100 m trên mặt đường nằm ngang. Độ lớn lực ma sát nghỉ (đóng vai trò lực hướng tâm) tác dụng lên xe là bao nhiêu niutơn (N)?
+Đáp án: 1200
+Lời giải: $v = 10$ m/s; $F_{ht} = \dfrac{mv^2}{r} = \dfrac{1200 \cdot 100}{100} = 1200$ N.
+
+Câu 2. Một vật chuyển động tròn đều trên quỹ đạo bán kính 0,25 m với gia tốc hướng tâm có độ lớn 16 m/s². Tốc độ của vật là bao nhiêu m/s?
+Đáp án: 2
+Lời giải: $v = \sqrt{a_{ht}r} = \sqrt{16 \cdot 0{,}25} = 2$ m/s.
+
+Câu 3. Hệ số ma sát nghỉ cực đại giữa lốp xe và mặt đường nằm ngang là 0,5. Một xe chạy qua khúc cua tròn bán kính 20 m. Lấy $g = 10$ m/s². Tốc độ lớn nhất để xe qua khúc cua mà không bị trượt là bao nhiêu m/s?
+Đáp án: 10
+Lời giải: Điều kiện không trượt: $\dfrac{mv^2}{r} \le \mu mg \Rightarrow v_{max} = \sqrt{\mu gr} = \sqrt{0{,}5 \cdot 10 \cdot 20} = 10$ m/s.

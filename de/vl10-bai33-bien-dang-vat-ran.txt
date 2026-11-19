@@ -1,0 +1,83 @@
+VẬT LÍ 10 - CHƯƠNG VII. BIẾN DẠNG CỦA VẬT RẮN. ÁP SUẤT CHẤT LỎNG - BÀI 33. BIẾN DẠNG CỦA VẬT RẮN
+Đề luyện tập theo cấu trúc thi tốt nghiệp THPT (biên soạn: thầy Lâm Thế Phong, THPT An Thới)
+Thời gian: 20
+
+PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn
+Câu 1. Biến dạng đàn hồi là biến dạng mà
+A. vật không lấy lại được hình dạng và kích thước ban đầu khi ngoại lực thôi tác dụng.
+B. vật bị gãy hoặc bị đứt.
+*C. vật lấy lại được hình dạng và kích thước ban đầu khi ngoại lực thôi tác dụng.
+D. vật chỉ thay đổi khối lượng mà không thay đổi hình dạng.
+
+Câu 2. Trong giới hạn đàn hồi, độ lớn lực đàn hồi của lò xo có độ cứng $k$ khi lò xo biến dạng một đoạn $\Delta l$ là
+A. $F_{\text{đh}} = \dfrac{k}{|\Delta l|}$.
+*B. $F_{\text{đh}} = k|\Delta l|$.
+C. $F_{\text{đh}} = k l_0$.
+D. $F_{\text{đh}} = k(\Delta l)^2$.
+
+Câu 3. Đơn vị của độ cứng lò xo trong hệ SI là
+A. niutơn (N).
+B. niutơn nhân mét (N·m).
+C. kilôgam trên mét (kg/m).
+*D. niutơn trên mét (N/m).
+
+Câu 4. Lực đàn hồi của lò xo có hướng
+*A. ngược với hướng của biến dạng (chống lại sự biến dạng).
+B. cùng hướng với hướng của biến dạng.
+C. luôn thẳng đứng hướng xuống.
+D. vuông góc với trục của lò xo.
+
+Câu 5. Một lò xo có độ cứng 100 N/m bị kéo dãn 5 cm (trong giới hạn đàn hồi). Độ lớn lực đàn hồi của lò xo là
+*A. 5 N.
+B. 500 N.
+C. 0,05 N.
+D. 20 N.
+Lời giải: $F = k|\Delta l| = 100 \cdot 0{,}05 = 5$ N.
+
+Câu 6. Trường hợp nào sau đây là biến dạng dẻo (biến dạng không đàn hồi)?
+A. Lò xo trong bút bi bị nén nhẹ khi bấm bút.
+B. Sợi dây cao su bị kéo dãn nhẹ.
+*C. Thanh thép bị uốn cong vượt quá giới hạn đàn hồi.
+D. Quả bóng bị nén lại trong lúc va chạm với chân cầu thủ.
+
+Câu 7. Một lò xo có chiều dài tự nhiên 20 cm, treo thẳng đứng. Khi treo vào đầu dưới một vật có khối lượng 200 g thì lò xo dài 22 cm. Lấy $g = 10$ m/s². Độ cứng của lò xo là
+A. 10 N/m.
+*B. 100 N/m.
+C. 1 000 N/m.
+D. 9,1 N/m.
+Lời giải: $\Delta l = 0{,}02$ m; $k\Delta l = mg \Rightarrow k = \dfrac{0{,}2 \cdot 10}{0{,}02} = 100$ N/m.
+
+Câu 8. Treo vật có khối lượng 100 g vào một lò xo thì lò xo dãn 2 cm. Nếu treo thêm một vật có khối lượng 150 g nữa thì lò xo dãn tổng cộng (trong giới hạn đàn hồi)
+A. 3 cm.
+B. 4 cm.
+C. 6 cm.
+*D. 5 cm.
+Lời giải: Độ dãn tỉ lệ với khối lượng vật treo: $\Delta l' = 2 \cdot \dfrac{250}{100} = 5$ cm.
+
+PHẦN II. Câu trắc nghiệm đúng sai
+Câu 1. Một lò xo có chiều dài tự nhiên 30 cm, độ cứng 50 N/m, được treo thẳng đứng, đầu trên cố định. Lấy $g = 10$ m/s². Các vật treo đều trong giới hạn đàn hồi, trừ khi có ghi chú khác.
+a) Khi treo vật có khối lượng 0,2 kg, lò xo dãn 4 cm. (Đ)
+b) Khi đó chiều dài của lò xo là 34 cm. (Đ)
+c) Muốn lò xo có chiều dài 40 cm thì phải treo vật có khối lượng 1 kg. (S)
+d) Nếu kéo lò xo vượt quá giới hạn đàn hồi thì định luật Hooke vẫn còn đúng. (S)
+Lời giải: $\Delta l = \dfrac{mg}{k} = \dfrac{2}{50} = 0{,}04$ m = 4 cm; $l = 30 + 4 = 34$ cm. Muốn $l = 40$ cm thì $\Delta l = 0{,}1$ m, $mg = 50 \cdot 0{,}1 = 5$ N nên $m = 0{,}5$ kg. Định luật Hooke chỉ đúng trong giới hạn đàn hồi.
+
+Câu 2. Một nhóm học sinh treo lần lượt các quả nặng vào một lò xo và đo độ dãn, thu được kết quả: khi lực kéo lần lượt là 0 N; 1 N; 2 N; 3 N thì độ dãn tương ứng là 0 cm; 2,0 cm; 4,0 cm; 6,0 cm.
+a) Độ dãn của lò xo tỉ lệ thuận với lực kéo. (Đ)
+b) Độ cứng của lò xo là 50 N/m. (Đ)
+c) Đồ thị biểu diễn lực đàn hồi theo độ dãn là một đoạn thẳng đi qua gốc tọa độ. (Đ)
+d) Khi lực kéo là 5 N (vẫn trong giới hạn đàn hồi) thì lò xo dãn 25 cm. (S)
+Lời giải: Tỉ số $\dfrac{F}{\Delta l}$ không đổi: $k = \dfrac{1}{0{,}02} = 50$ N/m. Với $F = 5$ N: $\Delta l = \dfrac{5}{50} = 0{,}1$ m = 10 cm.
+
+PHẦN III. Câu trắc nghiệm trả lời ngắn
+Câu 1. Một lò xo có độ cứng 80 N/m bị kéo bởi một lực có độ lớn 4 N (trong giới hạn đàn hồi). Độ dãn của lò xo là bao nhiêu xentimét (cm)?
+Đáp án: 5
+Lời giải: $\Delta l = \dfrac{F}{k} = \dfrac{4}{80} = 0{,}05$ m = 5 cm.
+
+Câu 2. Một lò xo có chiều dài tự nhiên 25 cm, độ cứng 100 N/m, bị nén bởi một lực có độ lớn 3 N dọc theo trục lò xo. Chiều dài của lò xo khi bị nén là bao nhiêu xentimét (cm)?
+Đáp án: 22
+Lời giải: $|\Delta l| = \dfrac{3}{100} = 0{,}03$ m = 3 cm; $l = 25 - 3 = 22$ cm.
+
+Câu 3. Treo vật có khối lượng 300 g vào một lò xo thì lò xo dài 31 cm; treo vật có khối lượng 500 g thì lò xo dài 33 cm. Lấy $g = 10$ m/s². Chiều dài tự nhiên của lò xo là bao nhiêu xentimét (cm)?
+Đáp án: 28
+Lời giải: Thêm 2 N thì dãn thêm 2 cm nên $k = 100$ N/m. Với vật 300 g: $\Delta l = \dfrac{3}{100} = 0{,}03$ m = 3 cm, do đó $l_0 = 31 - 3 = 28$ cm.

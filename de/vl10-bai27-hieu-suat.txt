@@ -1,0 +1,85 @@
+VẬT LÍ 10 - CHƯƠNG IV. NĂNG LƯỢNG, CÔNG, CÔNG SUẤT - BÀI 27. HIỆU SUẤT
+Đề luyện tập theo cấu trúc thi tốt nghiệp THPT (biên soạn: thầy Lâm Thế Phong, THPT An Thới)
+Thời gian: 20
+
+PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn
+Câu 1. Gọi $W_{ci}$ là năng lượng có ích, $W_{tp}$ là năng lượng toàn phần. Hiệu suất của một máy (động cơ) được tính bằng
+A. $H = \dfrac{W_{tp}}{W_{ci}} \cdot 100\%$.
+*B. $H = \dfrac{W_{ci}}{W_{tp}} \cdot 100\%$.
+C. $H = W_{ci} \cdot W_{tp}$.
+D. $H = (W_{tp} + W_{ci}) \cdot 100\%$.
+
+Câu 2. Hiệu suất của một động cơ trong thực tế luôn
+*A. nhỏ hơn 100%.
+B. bằng 100%.
+C. lớn hơn 100%.
+D. có thể lớn hơn 100% nếu động cơ chạy nhanh.
+Lời giải: Luôn có một phần năng lượng hao phí nên $W_{ci} < W_{tp}$, do đó $H < 100\%$.
+
+Câu 3. Khi một động cơ điện hoạt động, phần năng lượng hao phí chủ yếu chuyển hóa thành
+A. cơ năng.
+B. hóa năng.
+C. năng lượng ánh sáng.
+*D. nhiệt năng (làm nóng động cơ và môi trường).
+
+Câu 4. Bóng đèn LED có hiệu suất phát sáng cao hơn bóng đèn sợi đốt vì
+A. bóng đèn LED tiêu thụ nhiều điện năng hơn.
+B. bóng đèn LED tỏa nhiều nhiệt hơn.
+*C. phần lớn điện năng được chuyển thành năng lượng ánh sáng, ít hao phí dưới dạng nhiệt.
+D. bóng đèn LED có công suất lớn hơn.
+
+Câu 5. Một động cơ nhận năng lượng toàn phần 1 000 J và sinh ra công có ích 750 J. Hiệu suất của động cơ là
+A. 25%.
+B. 133%.
+*C. 75%.
+D. 7,5%.
+Lời giải: $H = \dfrac{750}{1000} \cdot 100\% = 75\%$.
+
+Câu 6. Một máy có hiệu suất 80%, công suất toàn phần là 5 kW. Công suất có ích của máy là
+A. 400 W.
+*B. 4 kW.
+C. 6,25 kW.
+D. 1 kW.
+Lời giải: $P_{ci} = H \cdot P_{tp} = 0{,}8 \cdot 5 = 4$ kW.
+
+Câu 7. Một động cơ có công suất toàn phần 625 W nâng đều một vật có khối lượng 200 kg lên cao 15 m trong 1 phút. Lấy $g = 10$ m/s². Hiệu suất của động cơ là
+*A. 80%.
+B. 50%.
+C. 125%.
+D. 20%.
+Lời giải: $A_{ci} = mgh = 200 \cdot 10 \cdot 15 = 30\,000$ J; $A_{tp} = Pt = 625 \cdot 60 = 37\,500$ J; $H = \dfrac{30\,000}{37\,500} = 80\%$.
+
+Câu 8. Một máy bơm có công suất toàn phần 2 kW, hiệu suất 60%, dùng để bơm nước lên độ cao 10 m. Lấy $g = 10$ m/s². Khối lượng nước máy bơm lên được trong mỗi giây là
+A. 20 kg.
+B. 1,2 kg.
+C. 120 kg.
+*D. 12 kg.
+Lời giải: $P_{ci} = 0{,}6 \cdot 2000 = 1200$ W; mỗi giây $mgh = 1200$ J nên $m = \dfrac{1200}{10 \cdot 10} = 12$ kg.
+
+PHẦN II. Câu trắc nghiệm đúng sai
+Câu 1. Dùng một mặt phẳng nghiêng dài 5 m, cao 1 m để kéo đều một thùng hàng có khối lượng 50 kg từ chân lên đỉnh. Lực kéo song song với mặt phẳng nghiêng có độ lớn 125 N. Lấy $g = 10$ m/s².
+a) Công có ích (công để nâng thùng hàng lên cao 1 m) là 500 J. (Đ)
+b) Công toàn phần của lực kéo là 625 J. (Đ)
+c) Hiệu suất của mặt phẳng nghiêng là 125%. (S)
+d) Công hao phí để thắng ma sát là 125 J. (Đ)
+Lời giải: $A_{ci} = mgh = 50 \cdot 10 \cdot 1 = 500$ J; $A_{tp} = F\ell = 125 \cdot 5 = 625$ J; $H = \dfrac{500}{625} = 80\%$; $A_{hp} = 625 - 500 = 125$ J.
+
+Câu 2. Xét các phát biểu về hiệu suất.
+a) Hiệu suất cho biết tỉ lệ giữa năng lượng có ích và năng lượng toàn phần mà máy nhận được. (Đ)
+b) Năng lượng hao phí bị mất đi hoàn toàn, không chuyển thành dạng năng lượng nào khác. (S)
+c) Một động cơ có hiệu suất 30% thì 70% năng lượng toàn phần là năng lượng hao phí. (Đ)
+d) Hai máy có cùng công suất toàn phần, máy có hiệu suất lớn hơn thì sinh công có ích nhỏ hơn trong cùng một thời gian. (S)
+Lời giải: Năng lượng hao phí vẫn được bảo toàn, chỉ chuyển thành dạng không mong muốn (thường là nhiệt). Cùng $P_{tp}$ và thời gian, $A_{ci} = H \cdot P_{tp} \cdot t$ nên máy có $H$ lớn hơn sinh công có ích lớn hơn.
+
+PHẦN III. Câu trắc nghiệm trả lời ngắn
+Câu 1. Một động cơ ô tô có hiệu suất 25%. Để sinh ra công có ích 50 kJ, động cơ cần nhận năng lượng toàn phần (từ nhiên liệu) là bao nhiêu kilôjun (kJ)?
+Đáp án: 200
+Lời giải: $W_{tp} = \dfrac{W_{ci}}{H} = \dfrac{50}{0{,}25} = 200$ kJ.
+
+Câu 2. Một cần cẩu có công suất toàn phần 10 kW, hiệu suất 80%, nâng đều một kiện hàng có khối lượng 2 tấn lên cao 12 m. Lấy $g = 10$ m/s². Thời gian nâng kiện hàng là bao nhiêu giây (s)?
+Đáp án: 30
+Lời giải: $A_{ci} = 2000 \cdot 10 \cdot 12 = 240\,000$ J; $P_{ci} = 0{,}8 \cdot 10\,000 = 8000$ W; $t = \dfrac{240\,000}{8000} = 30$ s.
+
+Câu 3. Ở một nhà máy thủy điện nhỏ, mỗi giây có 1 000 kg nước chảy từ độ cao 50 m xuống làm quay tua bin, công suất điện phát ra là 400 kW. Lấy $g = 10$ m/s². Hiệu suất của nhà máy là bao nhiêu phần trăm (%)?
+Đáp án: 80
+Lời giải: Công suất toàn phần $P_{tp} = \dfrac{mgh}{t} = 1000 \cdot 10 \cdot 50 = 500\,000$ W; $H = \dfrac{400\,000}{500\,000} = 80\%$.

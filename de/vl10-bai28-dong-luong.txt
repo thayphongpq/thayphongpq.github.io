@@ -1,0 +1,84 @@
+VẬT LÍ 10 - CHƯƠNG V. ĐỘNG LƯỢNG - BÀI 28. ĐỘNG LƯỢNG
+Đề luyện tập theo cấu trúc thi tốt nghiệp THPT (biên soạn: thầy Lâm Thế Phong, THPT An Thới)
+Thời gian: 20
+
+PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn
+Câu 1. Một vật có khối lượng $m$ chuyển động với vận tốc $\vec v$. Động lượng của vật là
+*A. $\vec p = m\vec v$.
+B. $p = \dfrac{1}{2}mv^2$.
+C. $p = \dfrac{m}{v}$.
+D. $\vec p = m\vec a$.
+
+Câu 2. Đơn vị của động lượng trong hệ SI là
+A. kg·m/s².
+B. N/s.
+C. J.
+*D. kg·m/s.
+
+Câu 3. Xung lượng của lực $\vec F$ không đổi tác dụng lên vật trong khoảng thời gian $\Delta t$ là
+A. $\dfrac{\vec F}{\Delta t}$.
+*B. $\vec F\Delta t$.
+C. $\vec F \cdot \vec s$.
+D. $m\vec a$.
+
+Câu 4. Mối liên hệ giữa độ biến thiên động lượng của vật và lực tác dụng lên vật là
+A. $\Delta\vec p = \vec F \cdot s$.
+B. $\Delta\vec p = m\vec a$.
+*C. $\Delta\vec p = \vec F\Delta t$.
+D. $\Delta\vec p = \dfrac{\vec F}{\Delta t}$.
+Lời giải: Độ biến thiên động lượng của vật trong một khoảng thời gian bằng xung lượng của lực tác dụng lên vật trong khoảng thời gian đó.
+
+Câu 5. Một vật có khối lượng 2 kg chuyển động với tốc độ 5 m/s. Độ lớn động lượng của vật là
+A. 25 kg·m/s.
+B. 2,5 kg·m/s.
+C. 7 kg·m/s.
+*D. 10 kg·m/s.
+Lời giải: $p = mv = 2 \cdot 5 = 10$ kg·m/s.
+
+Câu 6. Vectơ động lượng của một vật luôn
+*A. cùng hướng với vectơ vận tốc của vật.
+B. ngược hướng với vectơ vận tốc của vật.
+C. cùng hướng với vectơ gia tốc của vật.
+D. vuông góc với vectơ vận tốc của vật.
+
+Câu 7. Một quả bóng có khối lượng 0,5 kg bay theo phương ngang với tốc độ 10 m/s đến đập vuông góc vào bức tường rồi bật ngược trở lại với cùng tốc độ. Độ lớn độ biến thiên động lượng của quả bóng là
+A. 0.
+B. 5 kg·m/s.
+*C. 10 kg·m/s.
+D. 2,5 kg·m/s.
+Lời giải: Chọn chiều dương là chiều bật ra: $\Delta p = mv - (-mv) = 2mv = 2 \cdot 0{,}5 \cdot 10 = 10$ kg·m/s.
+
+Câu 8. Hai vật, mỗi vật có khối lượng 1 kg, chuyển động với tốc độ lần lượt là 3 m/s và 4 m/s theo hai hướng vuông góc với nhau. Độ lớn tổng động lượng của hệ hai vật là
+A. 7 kg·m/s.
+*B. 5 kg·m/s.
+C. 1 kg·m/s.
+D. 12 kg·m/s.
+Lời giải: $p_1 = 3$ kg·m/s, $p_2 = 4$ kg·m/s, $\vec p_1 \perp \vec p_2$ nên $p = \sqrt{3^2 + 4^2} = 5$ kg·m/s.
+
+PHẦN II. Câu trắc nghiệm đúng sai
+Câu 1. Một quả bóng có khối lượng 400 g đang nằm yên trên sân. Sau cú sút, quả bóng bay đi với tốc độ 25 m/s. Thời gian chân tiếp xúc với bóng là 0,02 s.
+a) Động lượng của quả bóng ngay sau cú sút có độ lớn 10 kg·m/s. (Đ)
+b) Độ biến thiên động lượng của quả bóng có độ lớn 10 kg·m/s. (Đ)
+c) Lực trung bình do chân tác dụng lên quả bóng có độ lớn 200 N. (S)
+d) Với cùng độ biến thiên động lượng, nếu thời gian tiếp xúc dài hơn thì lực trung bình tác dụng lên bóng lớn hơn. (S)
+Lời giải: $p = 0{,}4 \cdot 25 = 10$ kg·m/s; $\Delta p = 10 - 0 = 10$ kg·m/s; $F = \dfrac{\Delta p}{\Delta t} = \dfrac{10}{0{,}02} = 500$ N. Cùng $\Delta p$, $\Delta t$ càng lớn thì $F$ càng nhỏ.
+
+Câu 2. Xét các phát biểu về động lượng.
+a) Động lượng là một đại lượng vectơ. (Đ)
+b) Hai vật có cùng động năng thì luôn có cùng động lượng. (S)
+c) Khi nhảy từ trên cao xuống, người ta thường khuỵu gối để kéo dài thời gian va chạm, nhờ đó giảm lực tác dụng lên chân. (Đ)
+d) Một ô tô con có khối lượng 1 tấn chạy với tốc độ 20 m/s có động lượng lớn hơn một xe tải có khối lượng 5 tấn chạy với tốc độ 3 m/s. (Đ)
+Lời giải: $W_{\text{đ}} = \dfrac{p^2}{2m}$ nên hai vật khác khối lượng có cùng động năng thì động lượng khác nhau. Ô tô con: $p = 1000 \cdot 20 = 20\,000$ kg·m/s; xe tải: $p = 5000 \cdot 3 = 15\,000$ kg·m/s.
+
+PHẦN III. Câu trắc nghiệm trả lời ngắn
+Câu 1. Một ô tô có khối lượng 1,5 tấn chuyển động với tốc độ 54 km/h. Độ lớn động lượng của ô tô là bao nhiêu kg·m/s?
+Đáp án: 22500
+Lời giải: $v = 54$ km/h = 15 m/s; $p = 1500 \cdot 15 = 22\,500$ kg·m/s.
+
+Câu 2. Một vật có khối lượng 2 kg đang đứng yên trên mặt phẳng nằm ngang nhẵn thì chịu tác dụng của lực nằm ngang có độ lớn 50 N trong thời gian 0,4 s. Tốc độ của vật ngay sau đó là bao nhiêu m/s?
+Đáp án: 10
+Lời giải: $\Delta p = F\Delta t = 50 \cdot 0{,}4 = 20$ kg·m/s; $v = \dfrac{\Delta p}{m} = \dfrac{20}{2} = 10$ m/s.
+
+Câu 3. Một vật có khối lượng 1 kg rơi tự do. Lấy $g = 10$ m/s². Độ lớn độ biến thiên động lượng của vật trong 3 s đầu tiên là bao nhiêu kg·m/s?
+Đáp án: 30
+Lời giải: $\Delta p = F\Delta t = mg\Delta t = 1 \cdot 10 \cdot 3 = 30$ kg·m/s.

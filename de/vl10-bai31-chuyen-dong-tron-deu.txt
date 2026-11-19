@@ -1,0 +1,84 @@
+VẬT LÍ 10 - CHƯƠNG VI. CHUYỂN ĐỘNG TRÒN ĐỀU - BÀI 31. ĐỘNG HỌC CỦA CHUYỂN ĐỘNG TRÒN ĐỀU
+Đề luyện tập theo cấu trúc thi tốt nghiệp THPT (biên soạn: thầy Lâm Thế Phong, THPT An Thới)
+Thời gian: 20
+
+PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn
+Câu 1. Chuyển động tròn đều là chuyển động
+A. có quỹ đạo tròn và tốc độ tăng đều theo thời gian.
+*B. có quỹ đạo tròn và vật đi được những cung tròn có độ dài bằng nhau trong những khoảng thời gian bằng nhau bất kì.
+C. có vectơ vận tốc không đổi cả về hướng và độ lớn.
+D. có quỹ đạo tròn và gia tốc bằng 0.
+
+Câu 2. Góc 1 rad là góc ở tâm chắn một cung có độ dài
+A. bằng đường kính của đường tròn.
+B. bằng $\pi$ lần bán kính của đường tròn.
+*C. bằng bán kính của đường tròn.
+D. bằng chu vi của đường tròn.
+
+Câu 3. Một vật chuyển động tròn đều trên quỹ đạo bán kính $r$ với tốc độ góc $\omega$. Tốc độ (tốc độ dài) của vật là
+*A. $v = \omega r$.
+B. $v = \dfrac{\omega}{r}$.
+C. $v = \omega r^2$.
+D. $v = \dfrac{r}{\omega}$.
+
+Câu 4. Chu kì $T$ của chuyển động tròn đều liên hệ với tốc độ góc $\omega$ theo công thức
+A. $T = 2\pi\omega$.
+B. $T = \dfrac{\omega}{2\pi}$.
+C. $T = \dfrac{1}{\omega}$.
+*D. $T = \dfrac{2\pi}{\omega}$.
+
+Câu 5. Góc $120^\circ$ đổi ra radian là
+A. $\dfrac{\pi}{3}$ rad.
+B. $\dfrac{3\pi}{4}$ rad.
+*C. $\dfrac{2\pi}{3}$ rad.
+D. 1,2 rad.
+Lời giải: $\alpha = 120 \cdot \dfrac{\pi}{180} = \dfrac{2\pi}{3}$ rad.
+
+Câu 6. Kim phút của một đồng hồ chạy đúng quay đều. Chu kì quay của kim phút là
+*A. 3 600 s.
+B. 60 s.
+C. 43 200 s.
+D. 86 400 s.
+Lời giải: Kim phút quay hết một vòng trong 1 giờ = 3 600 s.
+
+Câu 7. Một đĩa tròn quay đều với 300 vòng/phút. Tốc độ góc của đĩa là
+A. 300 rad/s.
+B. 5 rad/s.
+C. $5\pi$ rad/s.
+*D. $10\pi$ rad/s.
+Lời giải: $f = \dfrac{300}{60} = 5$ Hz; $\omega = 2\pi f = 10\pi$ rad/s.
+
+Câu 8. Một bánh xe có bán kính 0,3 m quay đều với tốc độ góc 10 rad/s. Tốc độ của một điểm trên vành bánh xe là
+A. 33,3 m/s.
+*B. 3 m/s.
+C. 0,03 m/s.
+D. 30 m/s.
+Lời giải: $v = \omega r = 10 \cdot 0{,}3 = 3$ m/s.
+
+PHẦN II. Câu trắc nghiệm đúng sai
+Câu 1. Một điểm nằm trên vành một đĩa tròn bán kính 20 cm. Đĩa quay đều, mỗi giây quay được 2 vòng.
+a) Tần số quay của đĩa là 2 Hz. (Đ)
+b) Chu kì quay của đĩa là 2 s. (S)
+c) Tốc độ góc của đĩa là $4\pi$ rad/s, xấp xỉ 12,6 rad/s. (Đ)
+d) Tốc độ của điểm trên vành đĩa xấp xỉ 2,5 m/s. (Đ)
+Lời giải: $f = 2$ Hz; $T = \dfrac{1}{f} = 0{,}5$ s; $\omega = 2\pi f = 4\pi \approx 12{,}6$ rad/s; $v = \omega r = 4\pi \cdot 0{,}2 \approx 2{,}51$ m/s.
+
+Câu 2. Trái Đất tự quay quanh trục của nó với chu kì 24 giờ. Coi Trái Đất là quả cầu bán kính 6 400 km.
+a) Tốc độ góc tự quay của Trái Đất xấp xỉ $7{,}27 \cdot 10^{-5}$ rad/s. (Đ)
+b) Mọi điểm trên mặt đất đều có cùng tốc độ dài do Trái Đất tự quay. (S)
+c) Một điểm trên đường xích đạo có tốc độ dài xấp xỉ 465 m/s. (Đ)
+d) Vectơ vận tốc của một vật chuyển động tròn đều không thay đổi theo thời gian. (S)
+Lời giải: $\omega = \dfrac{2\pi}{T} = \dfrac{2\pi}{86\,400} \approx 7{,}27 \cdot 10^{-5}$ rad/s. Các điểm có cùng $\omega$ nhưng bán kính quỹ đạo khác nhau (nhỏ dần về phía hai cực) nên tốc độ dài khác nhau. Ở xích đạo: $v = \omega R \approx 7{,}27 \cdot 10^{-5} \cdot 6{,}4 \cdot 10^6 \approx 465$ m/s. Vận tốc có độ lớn không đổi nhưng hướng luôn thay đổi (tiếp tuyến với quỹ đạo).
+
+PHẦN III. Câu trắc nghiệm trả lời ngắn
+Câu 1. Một cánh quạt quay đều với 1 200 vòng/phút. Tốc độ góc của cánh quạt là bao nhiêu rad/s? (Làm tròn kết quả đến hàng đơn vị.)
+Đáp án: 126|125,7|125,66
+Lời giải: $f = \dfrac{1200}{60} = 20$ Hz; $\omega = 2\pi f = 40\pi \approx 125{,}66 \approx 126$ rad/s.
+
+Câu 2. Một vật chuyển động tròn đều trên quỹ đạo bán kính 50 cm, cứ sau 0,5 s bán kính nối vật với tâm quét được một góc $\dfrac{\pi}{2}$ rad. Tốc độ của vật là bao nhiêu m/s? (Làm tròn kết quả đến hai chữ số thập phân.)
+Đáp án: 1,57|1,6|1,571
+Lời giải: $\omega = \dfrac{\Delta\theta}{\Delta t} = \dfrac{\pi/2}{0{,}5} = \pi$ rad/s; $v = \omega r = \pi \cdot 0{,}5 \approx 1{,}57$ m/s.
+
+Câu 3. Một vật chuyển động trên đường tròn bán kính 2 m, đi được một cung tròn có độ dài 3 m. Độ dịch chuyển góc của vật là bao nhiêu radian (rad)?
+Đáp án: 1,5
+Lời giải: $\theta = \dfrac{s}{r} = \dfrac{3}{2} = 1{,}5$ rad.

@@ -1,0 +1,85 @@
+VẬT LÍ 10 - CHƯƠNG IV. NĂNG LƯỢNG, CÔNG, CÔNG SUẤT - BÀI 25. ĐỘNG NĂNG, THẾ NĂNG
+Đề luyện tập theo cấu trúc thi tốt nghiệp THPT (biên soạn: thầy Lâm Thế Phong, THPT An Thới)
+Thời gian: 20
+
+PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn
+Câu 1. Một vật có khối lượng $m$ chuyển động với tốc độ $v$. Động năng của vật là
+A. $W_{\text{đ}} = mv$.
+B. $W_{\text{đ}} = mv^2$.
+*C. $W_{\text{đ}} = \dfrac{1}{2}mv^2$.
+D. $W_{\text{đ}} = \dfrac{1}{2}mv$.
+
+Câu 2. Một vật có khối lượng $m$ ở độ cao $h$ so với mặt đất (chọn gốc thế năng tại mặt đất). Thế năng trọng trường của vật là
+*A. $W_t = mgh$.
+B. $W_t = \dfrac{1}{2}mgh$.
+C. $W_t = \dfrac{mg}{h}$.
+D. $W_t = -mgh$.
+
+Câu 3. Động năng của một vật tăng khi
+A. vật chuyển động thẳng đều.
+B. tổng công của các lực tác dụng lên vật có giá trị âm.
+C. vật chuyển động chậm dần.
+*D. tổng công của các lực tác dụng lên vật có giá trị dương.
+Lời giải: Độ biến thiên động năng bằng tổng công của các lực tác dụng: $\Delta W_{\text{đ}} = A > 0$ thì động năng tăng.
+
+Câu 4. Phát biểu nào sau đây về thế năng trọng trường là đúng?
+A. Thế năng trọng trường luôn có giá trị dương.
+*B. Giá trị thế năng trọng trường phụ thuộc vào cách chọn gốc thế năng.
+C. Thế năng trọng trường không phụ thuộc vào vị trí của vật.
+D. Thế năng trọng trường tỉ lệ nghịch với độ cao của vật.
+
+Câu 5. Một vật có khối lượng 2 kg chuyển động với tốc độ 3 m/s. Động năng của vật là
+*A. 9 J.
+B. 6 J.
+C. 18 J.
+D. 3 J.
+Lời giải: $W_{\text{đ}} = \dfrac{1}{2}mv^2 = \dfrac{1}{2} \cdot 2 \cdot 3^2 = 9$ J.
+
+Câu 6. Một quả cầu có khối lượng 0,5 kg ở độ cao 4 m so với mặt đất. Chọn gốc thế năng tại mặt đất, lấy $g = 10$ m/s². Thế năng trọng trường của quả cầu là
+A. 2 J.
+B. 200 J.
+*C. 20 J.
+D. 40 J.
+Lời giải: $W_t = mgh = 0{,}5 \cdot 10 \cdot 4 = 20$ J.
+
+Câu 7. Nếu khối lượng của vật giảm một nửa và tốc độ của vật tăng gấp đôi thì động năng của vật
+A. không đổi.
+*B. tăng gấp 2 lần.
+C. tăng gấp 4 lần.
+D. giảm một nửa.
+Lời giải: $W_{\text{đ}}' = \dfrac{1}{2} \cdot \dfrac{m}{2} \cdot (2v)^2 = 2 \cdot \dfrac{1}{2}mv^2 = 2W_{\text{đ}}$.
+
+Câu 8. Một ô tô có khối lượng 1 tấn tăng tốc từ 10 m/s lên 20 m/s. Tổng công của các lực tác dụng lên ô tô trong quá trình này là
+A. 50 kJ.
+B. 100 kJ.
+C. 200 kJ.
+*D. 150 kJ.
+Lời giải: $A = \Delta W_{\text{đ}} = \dfrac{1}{2} \cdot 1000 \cdot (20^2 - 10^2) = 150\,000$ J = 150 kJ.
+
+PHẦN II. Câu trắc nghiệm đúng sai
+Câu 1. Một quyển sách có khối lượng 2 kg đặt trên mặt bàn cao 0,8 m so với sàn nhà; sàn nhà ở tầng hai, cao 4 m so với mặt đất. Lấy $g = 10$ m/s².
+a) Chọn gốc thế năng tại sàn nhà, thế năng của quyển sách là 16 J. (Đ)
+b) Chọn gốc thế năng tại mặt đất, thế năng của quyển sách là 96 J. (Đ)
+c) Chọn gốc thế năng tại mặt bàn, thế năng của quyển sách là 16 J. (S)
+d) Thế năng của quyển sách có cùng một giá trị với mọi cách chọn gốc thế năng. (S)
+Lời giải: Gốc tại sàn: $W_t = 2 \cdot 10 \cdot 0{,}8 = 16$ J. Gốc tại mặt đất: $h = 4{,}8$ m nên $W_t = 96$ J. Gốc tại mặt bàn: $h = 0$ nên $W_t = 0$. Thế năng phụ thuộc cách chọn gốc.
+
+Câu 2. Một viên đạn có khối lượng 20 g bay ngang với tốc độ 400 m/s xuyên qua một tấm gỗ dày 5 cm. Khi ra khỏi tấm gỗ, tốc độ của viên đạn là 200 m/s.
+a) Động năng của viên đạn trước khi xuyên vào gỗ là 1 600 J. (Đ)
+b) Động năng của viên đạn khi ra khỏi tấm gỗ là 400 J. (Đ)
+c) Công của lực cản do tấm gỗ tác dụng lên viên đạn là 1 200 J. (S)
+d) Lực cản trung bình của tấm gỗ có độ lớn 24 000 N. (Đ)
+Lời giải: $W_1 = \dfrac{1}{2} \cdot 0{,}02 \cdot 400^2 = 1600$ J; $W_2 = \dfrac{1}{2} \cdot 0{,}02 \cdot 200^2 = 400$ J. $A_c = W_2 - W_1 = -1200$ J (công cản, âm). $F_c = \dfrac{1200}{0{,}05} = 24\,000$ N.
+
+PHẦN III. Câu trắc nghiệm trả lời ngắn
+Câu 1. Một vật có khối lượng 400 g có động năng 20 J. Tốc độ của vật là bao nhiêu m/s?
+Đáp án: 10
+Lời giải: $v = \sqrt{\dfrac{2W_{\text{đ}}}{m}} = \sqrt{\dfrac{2 \cdot 20}{0{,}4}} = 10$ m/s.
+
+Câu 2. Một ô tô có khối lượng 1,2 tấn đang chạy với tốc độ 54 km/h thì hãm phanh và dừng lại sau khi đi thêm 30 m. Độ lớn lực hãm trung bình tác dụng lên ô tô là bao nhiêu niutơn (N)?
+Đáp án: 4500
+Lời giải: $v = 15$ m/s; $W_{\text{đ}} = \dfrac{1}{2} \cdot 1200 \cdot 15^2 = 135\,000$ J. Công lực hãm $-F s = 0 - W_{\text{đ}}$ nên $F = \dfrac{135\,000}{30} = 4500$ N.
+
+Câu 3. Một vật có khối lượng 1 kg được nâng từ độ cao 2 m lên độ cao 7 m so với mặt đất. Lấy $g = 10$ m/s². Thế năng trọng trường của vật tăng thêm bao nhiêu jun (J)?
+Đáp án: 50
+Lời giải: $\Delta W_t = mg(h_2 - h_1) = 1 \cdot 10 \cdot (7 - 2) = 50$ J (không phụ thuộc cách chọn gốc thế năng).

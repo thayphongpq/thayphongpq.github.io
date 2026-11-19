@@ -1,0 +1,83 @@
+VẬT LÍ 10 - CHƯƠNG V. ĐỘNG LƯỢNG - BÀI 30. THỰC HÀNH: XÁC ĐỊNH ĐỘNG LƯỢNG CỦA VẬT TRƯỚC VÀ SAU VA CHẠM
+Đề luyện tập theo cấu trúc thi tốt nghiệp THPT (biên soạn: thầy Lâm Thế Phong, THPT An Thới)
+Thời gian: 20
+
+PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn
+Câu 1. Trong thí nghiệm xác định động lượng của hai xe trước và sau va chạm, người ta cho hai xe chuyển động trên máng đệm khí nhằm
+A. tăng ma sát để xe dừng lại nhanh.
+B. tăng tốc độ của các xe.
+C. giữ cho các xe không bị lệch khỏi máng.
+*D. giảm ma sát đến mức có thể bỏ qua, để hệ hai xe gần đúng là hệ kín theo phương chuyển động.
+
+Câu 2. Khi xe đi qua cổng quang điện, đồng hồ đo được thời gian $\Delta t$ tấm chắn sáng có chiều rộng $d$ che chùm sáng. Tốc độ của xe được tính bằng
+*A. $v = \dfrac{d}{\Delta t}$.
+B. $v = \dfrac{\Delta t}{d}$.
+C. $v = d \cdot \Delta t$.
+D. $v = \dfrac{d}{2\Delta t}$.
+
+Câu 3. Dụng cụ dùng để xác định khối lượng của mỗi xe trong thí nghiệm là
+A. đồng hồ đo thời gian hiện số.
+B. thước đo chiều dài.
+*C. cân điện tử.
+D. cổng quang điện.
+
+Câu 4. Để tạo ra va chạm mềm giữa hai xe trên máng đệm khí, người ta
+A. gắn lò xo đàn hồi vào đầu va chạm của hai xe.
+*B. gắn vật liệu dính (băng dính, đất nặn hoặc khớp nối) vào đầu va chạm để hai xe dính vào nhau sau va chạm.
+C. cho hai xe chuyển động cùng chiều với cùng tốc độ.
+D. tắt bơm khí để hai xe chạm nhau chậm hơn.
+
+Câu 5. Một xe trượt có gắn tấm chắn sáng rộng 1,0 cm đi qua cổng quang điện, đồng hồ chỉ thời gian chắn sáng 0,020 s. Tốc độ của xe là
+*A. 0,5 m/s.
+B. 2 m/s.
+C. 0,05 m/s.
+D. 5 m/s.
+Lời giải: $v = \dfrac{d}{\Delta t} = \dfrac{0{,}01}{0{,}02} = 0{,}5$ m/s.
+
+Câu 6. Một xe trượt có khối lượng 0,25 kg chuyển động trên máng đệm khí với tốc độ 0,5 m/s. Động lượng của xe có độ lớn
+A. 2 kg·m/s.
+B. 0,5 kg·m/s.
+C. 0,0125 kg·m/s.
+*D. 0,125 kg·m/s.
+Lời giải: $p = mv = 0{,}25 \cdot 0{,}5 = 0{,}125$ kg·m/s.
+
+Câu 7. Kết quả thí nghiệm cho thấy tổng động lượng của hệ sau va chạm nhỏ hơn một chút so với trước va chạm. Nguyên nhân hợp lí nhất là
+A. đồng hồ đo thời gian chạy nhanh hơn thực tế.
+*B. vẫn còn ma sát nhỏ và lực cản của không khí tác dụng lên các xe.
+C. khối lượng các xe tăng lên sau va chạm.
+D. luồng khí của máng đệm khí quá mạnh.
+
+Câu 8. Xe 1 có khối lượng 0,2 kg chuyển động với tốc độ 0,6 m/s đến va chạm với xe 2 có khối lượng 0,1 kg đang đứng yên; sau va chạm hai xe dính vào nhau. Khi đi qua cổng quang điện thứ hai, tấm chắn sáng rộng 1,0 cm che chùm sáng trong 0,025 s. Tổng động lượng của hệ ngay sau va chạm đo được là
+A. 0,04 kg·m/s.
+B. 0,06 kg·m/s.
+*C. 0,12 kg·m/s.
+D. 0,18 kg·m/s.
+Lời giải: $v' = \dfrac{0{,}01}{0{,}025} = 0{,}4$ m/s; $p' = (0{,}2 + 0{,}1) \cdot 0{,}4 = 0{,}12$ kg·m/s (bằng $p = 0{,}2 \cdot 0{,}6 = 0{,}12$ kg·m/s trước va chạm).
+
+PHẦN II. Câu trắc nghiệm đúng sai
+Câu 1. Trong một lần thí nghiệm va chạm mềm: xe A có khối lượng 0,30 kg chuyển động đến va chạm với xe B có khối lượng 0,20 kg đang đứng yên. Tấm chắn sáng gắn trên xe A rộng 1,0 cm. Trước va chạm, thời gian chắn sáng ở cổng quang điện 1 là 0,020 s; sau va chạm hai xe dính vào nhau và thời gian chắn sáng ở cổng quang điện 2 là 0,034 s.
+a) Tốc độ của xe A trước va chạm là 0,5 m/s. (Đ)
+b) Tổng động lượng của hệ trước va chạm là 0,15 kg·m/s. (Đ)
+c) Tổng động lượng của hệ sau va chạm xấp xỉ 0,147 kg·m/s. (Đ)
+d) Động lượng trước và sau va chạm chênh lệch nhau hơn 10% nên kết quả không phù hợp với định luật bảo toàn động lượng. (S)
+Lời giải: $v_A = \dfrac{0{,}01}{0{,}020} = 0{,}5$ m/s; $p = 0{,}30 \cdot 0{,}5 = 0{,}15$ kg·m/s. $v' = \dfrac{0{,}01}{0{,}034} \approx 0{,}294$ m/s; $p' = 0{,}50 \cdot 0{,}294 \approx 0{,}147$ kg·m/s. Chênh lệch $\dfrac{0{,}003}{0{,}15} = 2\%$, nằm trong sai số thí nghiệm.
+
+Câu 2. Xét các lưu ý khi tiến hành thí nghiệm.
+a) Trước khi đo, cần điều chỉnh để máng đệm khí nằm ngang. (Đ)
+b) Hai cổng quang điện đều phải đặt ở phía sau vị trí va chạm của hai xe. (S)
+c) Nên lặp lại phép đo nhiều lần và lấy giá trị trung bình để giảm sai số. (Đ)
+d) Để tạo va chạm đàn hồi, có thể gắn lò xo hoặc dây cao su đàn hồi vào đầu va chạm của xe. (Đ)
+Lời giải: Cổng quang điện 1 đặt trước vị trí va chạm để đo tốc độ xe trước va chạm, cổng quang điện 2 đặt sau vị trí va chạm để đo tốc độ sau va chạm.
+
+PHẦN III. Câu trắc nghiệm trả lời ngắn
+Câu 1. Tấm chắn sáng gắn trên xe có chiều rộng 2,0 cm, khi xe đi qua cổng quang điện thì thời gian chắn sáng là 0,050 s. Tốc độ của xe là bao nhiêu m/s?
+Đáp án: 0,4
+Lời giải: $v = \dfrac{0{,}02}{0{,}05} = 0{,}4$ m/s.
+
+Câu 2. Một xe trượt có khối lượng 0,4 kg chuyển động trên máng đệm khí với tốc độ 0,4 m/s. Độ lớn động lượng của xe là bao nhiêu kg·m/s?
+Đáp án: 0,16
+Lời giải: $p = mv = 0{,}4 \cdot 0{,}4 = 0{,}16$ kg·m/s.
+
+Câu 3. Xe 1 có khối lượng 0,2 kg chuyển động với tốc độ 0,45 m/s đến va chạm mềm với xe 2 có khối lượng 0,1 kg đang đứng yên trên máng đệm khí. Bỏ qua ma sát. Tốc độ của hai xe ngay sau va chạm là bao nhiêu m/s?
+Đáp án: 0,3
+Lời giải: $v = \dfrac{m_1v_1}{m_1 + m_2} = \dfrac{0{,}2 \cdot 0{,}45}{0{,}3} = 0{,}3$ m/s.

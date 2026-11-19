@@ -1,0 +1,85 @@
+VẬT LÍ 10 - CHƯƠNG VII. BIẾN DẠNG CỦA VẬT RẮN. ÁP SUẤT CHẤT LỎNG - BÀI 34. KHỐI LƯỢNG RIÊNG. ÁP SUẤT CHẤT LỎNG
+Đề luyện tập theo cấu trúc thi tốt nghiệp THPT (biên soạn: thầy Lâm Thế Phong, THPT An Thới)
+Thời gian: 20
+
+PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn
+Câu 1. Một vật đồng chất có khối lượng $m$ và thể tích $V$. Khối lượng riêng của chất làm vật là
+A. $\rho = mV$.
+B. $\rho = \dfrac{V}{m}$.
+C. $\rho = \dfrac{m}{g}$.
+*D. $\rho = \dfrac{m}{V}$.
+
+Câu 2. Đơn vị của áp suất trong hệ SI là
+A. niutơn (N).
+B. niutơn nhân mét vuông (N·m²).
+*C. paxcan (Pa), với 1 Pa = 1 N/m².
+D. jun (J).
+
+Câu 3. Áp suất do chất lỏng đứng yên gây ra tại một điểm trong lòng chất lỏng phụ thuộc vào
+*A. khối lượng riêng của chất lỏng và độ sâu của điểm đó.
+B. diện tích đáy bình chứa.
+C. hình dạng của bình chứa.
+D. tổng khối lượng chất lỏng trong bình.
+Lời giải: $p = \rho gh$ chỉ phụ thuộc $\rho$ (và $g$) cùng độ sâu $h$.
+
+Câu 4. Trong một chất lỏng đứng yên, các điểm nằm ở cùng một độ sâu thì
+A. có áp suất khác nhau tùy vị trí.
+*B. có áp suất bằng nhau.
+C. điểm gần thành bình có áp suất lớn hơn.
+D. điểm gần giữa bình có áp suất lớn hơn.
+
+Câu 5. Một khối gỗ có khối lượng 600 g và thể tích 1 000 cm³. Khối lượng riêng của gỗ là
+A. 0,6 kg/m³.
+B. 6 000 kg/m³.
+C. 60 kg/m³.
+*D. 600 kg/m³.
+Lời giải: $\rho = \dfrac{m}{V} = \dfrac{0{,}6}{10^{-3}} = 600$ kg/m³.
+
+Câu 6. Lấy khối lượng riêng của nước là 1 000 kg/m³, $g = 10$ m/s². Áp suất do nước gây ra tại độ sâu 5 m là
+A. 5 000 Pa.
+*B. $5 \cdot 10^4$ Pa.
+C. $5 \cdot 10^5$ Pa.
+D. 500 Pa.
+Lời giải: $p = \rho gh = 1000 \cdot 10 \cdot 5 = 5 \cdot 10^4$ Pa.
+
+Câu 7. Một người có khối lượng 50 kg đứng trên sàn nhà, tổng diện tích tiếp xúc của hai bàn chân với sàn là 0,025 m². Lấy $g = 10$ m/s². Áp suất người đó tác dụng lên sàn là
+A. 2 000 Pa.
+B. 1,25 Pa.
+*C. $2 \cdot 10^4$ Pa.
+D. $2 \cdot 10^5$ Pa.
+Lời giải: $p = \dfrac{F}{S} = \dfrac{mg}{S} = \dfrac{500}{0{,}025} = 2 \cdot 10^4$ Pa.
+
+Câu 8. Áp suất khí quyển tại mặt biển là $1{,}01 \cdot 10^5$ Pa, khối lượng riêng của nước biển là 1 030 kg/m³, lấy $g = 10$ m/s². Áp suất tại điểm ở độ sâu 10 m dưới mặt biển là
+*A. $2{,}04 \cdot 10^5$ Pa.
+B. $1{,}03 \cdot 10^5$ Pa.
+C. $1{,}01 \cdot 10^5$ Pa.
+D. $3{,}05 \cdot 10^5$ Pa.
+Lời giải: $p = p_a + \rho gh = 1{,}01 \cdot 10^5 + 1030 \cdot 10 \cdot 10 = 1{,}01 \cdot 10^5 + 1{,}03 \cdot 10^5 = 2{,}04 \cdot 10^5$ Pa.
+
+PHẦN II. Câu trắc nghiệm đúng sai
+Câu 1. Một bể chứa nước sâu 2 m. Khối lượng riêng của nước là 1 000 kg/m³, áp suất khí quyển là $10^5$ Pa, lấy $g = 10$ m/s².
+a) Áp suất do nước gây ra tại đáy bể là $2 \cdot 10^4$ Pa. (Đ)
+b) Áp suất toàn phần tại đáy bể là $1{,}2 \cdot 10^5$ Pa. (Đ)
+c) Hiệu áp suất giữa đáy bể và một điểm ở độ sâu 0,5 m là $2{,}5 \cdot 10^4$ Pa. (S)
+d) Nếu thay nước bằng dầu có khối lượng riêng 800 kg/m³ với cùng độ sâu thì áp suất do chất lỏng gây ra tại đáy bể tăng lên. (S)
+Lời giải: $p_{\text{nước}} =1000 \cdot 10 \cdot 2 = 2 \cdot 10^4$ Pa; $p = 10^5 + 2 \cdot 10^4 = 1{,}2 \cdot 10^5$ Pa. $\Delta p = \rho g\Delta h = 1000 \cdot 10 \cdot 1{,}5 = 1{,}5 \cdot 10^4$ Pa. Dầu có $\rho$ nhỏ hơn nên áp suất tại đáy giảm ($1{,}6 \cdot 10^4$ Pa).
+
+Câu 2. Xét các phát biểu về khối lượng riêng và áp suất chất lỏng.
+a) Chất lỏng gây áp suất theo mọi phương lên đáy bình, thành bình và các vật ở trong lòng nó. (Đ)
+b) Khối lượng riêng của một chất phụ thuộc vào khối lượng của vật làm bằng chất đó. (S)
+c) Người thợ lặn càng lặn xuống sâu thì chịu áp suất càng lớn. (Đ)
+d) 1 g/cm³ = 1 000 kg/m³. (Đ)
+Lời giải: Khối lượng riêng là đặc trưng của chất, vật làm bằng cùng một chất (cùng điều kiện) có cùng khối lượng riêng dù khối lượng khác nhau. $1\ \text{g/cm}^3 = \dfrac{10^{-3}\ \text{kg}}{10^{-6}\ \text{m}^3} = 1000$ kg/m³.
+
+PHẦN III. Câu trắc nghiệm trả lời ngắn
+Câu 1. Một khối kim loại đặc có khối lượng 2,7 kg và thể tích 1 dm³. Khối lượng riêng của kim loại là bao nhiêu kg/m³?
+Đáp án: 2700
+Lời giải: $\rho = \dfrac{m}{V} = \dfrac{2{,}7}{10^{-3}} = 2700$ kg/m³.
+
+Câu 2. Áp suất do nước gây ra tại đáy một hồ nước là $3 \cdot 10^4$ Pa. Khối lượng riêng của nước là 1 000 kg/m³, lấy $g = 10$ m/s². Độ sâu của hồ là bao nhiêu mét (m)?
+Đáp án: 3
+Lời giải: $h = \dfrac{p}{\rho g} = \dfrac{3 \cdot 10^4}{1000 \cdot 10} = 3$ m.
+
+Câu 3. Hai điểm A và B trong nước đứng yên có độ sâu chênh lệch nhau 40 cm. Khối lượng riêng của nước là 1 000 kg/m³, lấy $g = 10$ m/s². Hiệu áp suất giữa hai điểm là bao nhiêu paxcan (Pa)?
+Đáp án: 4000
+Lời giải: $\Delta p = \rho g\Delta h = 1000 \cdot 10 \cdot 0{,}4 = 4000$ Pa.

@@ -1,0 +1,86 @@
+VẬT LÍ 10 - CHƯƠNG IV. NĂNG LƯỢNG, CÔNG, CÔNG SUẤT - BÀI 24. CÔNG SUẤT
+Đề luyện tập theo cấu trúc thi tốt nghiệp THPT (biên soạn: thầy Lâm Thế Phong, THPT An Thới)
+Thời gian: 20
+
+PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn
+Câu 1. Công suất là đại lượng đặc trưng cho
+*A. tốc độ thực hiện công (công thực hiện được trong một đơn vị thời gian).
+B. độ lớn của công thực hiện được.
+C. năng lượng dự trữ của vật.
+D. độ lớn của lực tác dụng lên vật.
+
+Câu 2. Đơn vị nào sau đây KHÔNG phải là đơn vị của công suất?
+A. oát (W).
+B. jun trên giây (J/s).
+*C. kilôoát giờ (kWh).
+D. mã lực (HP).
+Lời giải: kWh là đơn vị của công (năng lượng): $1\ \text{kWh} = 3{,}6 \cdot 10^6$ J.
+
+Câu 3. Một lực $\vec F$ không đổi cùng hướng với vận tốc $\vec v$ của vật. Công suất của lực được tính bằng
+A. $P = \dfrac{F}{v}$.
+*B. $P = Fv$.
+C. $P = Fv^2$.
+D. $P = \dfrac{v}{F}$.
+
+Câu 4. Một máy thực hiện công 1 200 J trong 1 phút. Công suất của máy là
+A. 1 200 W.
+B. 72 kW.
+C. 200 W.
+*D. 20 W.
+Lời giải: $P = \dfrac{A}{t} = \dfrac{1200}{60} = 20$ W.
+
+Câu 5. Một cần cẩu nâng đều một kiện hàng có khối lượng 500 kg lên cao 10 m trong 20 s. Lấy $g = 10$ m/s². Công suất của cần cẩu là
+A. 250 W.
+B. 25 kW.
+C. 50 kW.
+*D. 2,5 kW.
+Lời giải: $A = mgh = 500 \cdot 10 \cdot 10 = 50\,000$ J; $P = \dfrac{A}{t} = \dfrac{50\,000}{20} = 2500$ W = 2,5 kW.
+
+Câu 6. Một ô tô chuyển động thẳng đều với tốc độ 72 km/h, lực kéo của động cơ là 2 000 N. Công suất của động cơ là
+A. 144 kW.
+*B. 40 kW.
+C. 4 kW.
+D. 400 kW.
+Lời giải: $v = 72$ km/h = 20 m/s; $P = Fv = 2000 \cdot 20 = 40\,000$ W = 40 kW.
+
+Câu 7. Khi ô tô lên dốc, người lái xe thường chuyển về số thấp. Với công suất động cơ gần như không đổi, việc này nhằm
+A. tăng công suất của động cơ.
+B. tăng tốc độ của xe.
+*C. giảm tốc độ để tăng lực kéo của động cơ.
+D. giảm lực kéo để tiết kiệm nhiên liệu.
+Lời giải: Từ $P = Fv$, khi $P$ không đổi, giảm $v$ thì $F$ tăng, giúp xe đủ lực kéo để lên dốc.
+
+Câu 8. Một động cơ có công suất 1,5 kW nâng đều một vật có khối lượng 100 kg lên cao 6 m. Bỏ qua mọi hao phí, lấy $g = 10$ m/s². Thời gian nâng vật là
+*A. 4 s.
+B. 0,4 s.
+C. 40 s.
+D. 9 s.
+Lời giải: $A = mgh = 100 \cdot 10 \cdot 6 = 6000$ J; $t = \dfrac{A}{P} = \dfrac{6000}{1500} = 4$ s.
+
+PHẦN II. Câu trắc nghiệm đúng sai
+Câu 1. Một người kéo đều một thùng nước có khối lượng 10 kg từ đáy giếng sâu 8 m lên miệng giếng trong 20 s. Lấy $g = 10$ m/s².
+a) Lực kéo của người có độ lớn 100 N. (Đ)
+b) Công của lực kéo là 800 J. (Đ)
+c) Công suất trung bình của người là 40 W. (Đ)
+d) Nếu người đó kéo thùng nước lên trong 10 s thì công của lực kéo tăng gấp đôi. (S)
+Lời giải: Kéo đều nên $F = mg = 100$ N; $A = Fh = 100 \cdot 8 = 800$ J; $P = \dfrac{800}{20} = 40$ W. Công chỉ phụ thuộc lực và độ dịch chuyển nên vẫn là 800 J; kéo nhanh hơn thì công suất tăng gấp đôi (80 W).
+
+Câu 2. Một ô tô có khối lượng 1 tấn chạy trên đường nằm ngang, động cơ có công suất không đổi 30 kW. Lực cản tác dụng lên xe có độ lớn không đổi 1 500 N.
+a) Khi ô tô chạy thẳng đều, lực kéo của động cơ có độ lớn 1 500 N. (Đ)
+b) Tốc độ lớn nhất (khi xe chạy đều) của ô tô là 20 m/s. (Đ)
+c) Công mà động cơ thực hiện trong 1 phút là 30 kJ. (S)
+d) Khi xe có tốc độ 10 m/s, gia tốc của xe là 3 m/s². (S)
+Lời giải: Chạy đều: $F = F_c = 1500$ N; $v_{max} = \dfrac{P}{F} = \dfrac{30\,000}{1500} = 20$ m/s. $A = Pt = 30\,000 \cdot 60 = 1{,}8 \cdot 10^6$ J. Khi $v = 10$ m/s: $F = \dfrac{P}{v} = 3000$ N; $a = \dfrac{3000 - 1500}{1000} = 1{,}5$ m/s².
+
+PHẦN III. Câu trắc nghiệm trả lời ngắn
+Câu 1. Một máy bơm có công suất 2 kW hoạt động liên tục trong 30 phút. Công mà máy bơm thực hiện được là bao nhiêu megajun (MJ)?
+Đáp án: 3,6
+Lời giải: $A = Pt = 2000 \cdot 1800 = 3{,}6 \cdot 10^6$ J = 3,6 MJ.
+
+Câu 2. Một xe máy chuyển động thẳng đều với tốc độ 36 km/h, công suất có ích của động cơ là 1,5 kW. Lực kéo của động cơ là bao nhiêu niutơn (N)?
+Đáp án: 150
+Lời giải: $v = 36$ km/h = 10 m/s; $F = \dfrac{P}{v} = \dfrac{1500}{10} = 150$ N.
+
+Câu 3. Một học sinh có khối lượng 50 kg đi lên cầu thang cao 6 m hết 12 s. Lấy $g = 10$ m/s². Công suất trung bình của học sinh để thắng trọng lực là bao nhiêu oát (W)?
+Đáp án: 250
+Lời giải: $A = mgh = 50 \cdot 10 \cdot 6 = 3000$ J; $P = \dfrac{3000}{12} = 250$ W.

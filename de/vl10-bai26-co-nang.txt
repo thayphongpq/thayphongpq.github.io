@@ -1,0 +1,84 @@
+VẬT LÍ 10 - CHƯƠNG IV. NĂNG LƯỢNG, CÔNG, CÔNG SUẤT - BÀI 26. CƠ NĂNG VÀ ĐỊNH LUẬT BẢO TOÀN CƠ NĂNG
+Đề luyện tập theo cấu trúc thi tốt nghiệp THPT (biên soạn: thầy Lâm Thế Phong, THPT An Thới)
+Thời gian: 20
+
+PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn
+Câu 1. Cơ năng của một vật chuyển động trong trọng trường bằng
+A. hiệu của động năng và thế năng của vật.
+B. tích của động năng và thế năng của vật.
+C. thế năng của vật.
+*D. tổng động năng và thế năng của vật.
+
+Câu 2. Cơ năng của một vật được bảo toàn khi
+A. vật chịu tác dụng của lực ma sát.
+*B. vật chỉ chịu tác dụng của trọng lực.
+C. vật chuyển động thẳng đều theo phương thẳng đứng.
+D. vật chịu tác dụng của lực cản không khí.
+
+Câu 3. Một vật được ném thẳng đứng lên cao, bỏ qua lực cản của không khí. Trong quá trình vật đi lên
+A. động năng tăng, thế năng giảm.
+B. động năng và thế năng đều tăng.
+*C. động năng giảm, thế năng tăng.
+D. cơ năng của vật giảm.
+
+Câu 4. Một con lắc đơn dao động, bỏ qua mọi lực cản. Khi vật nặng đi qua vị trí thấp nhất thì
+*A. động năng lớn nhất, thế năng nhỏ nhất.
+B. động năng bằng 0.
+C. thế năng lớn nhất.
+D. cơ năng lớn nhất.
+
+Câu 5. Một vật có khối lượng 1 kg rơi tự do từ độ cao 20 m. Lấy $g = 10$ m/s². Tốc độ của vật ngay trước khi chạm đất là
+A. 10 m/s.
+*B. 20 m/s.
+C. 400 m/s.
+D. 14,1 m/s.
+Lời giải: $mgh = \dfrac{1}{2}mv^2 \Rightarrow v = \sqrt{2gh} = \sqrt{2 \cdot 10 \cdot 20} = 20$ m/s.
+
+Câu 6. Một vật có khối lượng 0,2 kg được ném từ độ cao 5 m so với mặt đất với tốc độ 10 m/s. Chọn gốc thế năng tại mặt đất, lấy $g = 10$ m/s². Cơ năng của vật là
+A. 10 J.
+B. 1 J.
+C. 30 J.
+*D. 20 J.
+Lời giải: $W = \dfrac{1}{2}mv^2 + mgh = \dfrac{1}{2} \cdot 0{,}2 \cdot 10^2 + 0{,}2 \cdot 10 \cdot 5 = 10 + 10 = 20$ J.
+
+Câu 7. Một vật được ném thẳng đứng lên từ mặt đất với tốc độ 8 m/s. Bỏ qua lực cản, lấy $g = 10$ m/s². Độ cao cực đại mà vật đạt được là
+*A. 3,2 m.
+B. 6,4 m.
+C. 0,8 m.
+D. 1,6 m.
+Lời giải: $\dfrac{1}{2}mv_0^2 = mgh_{max} \Rightarrow h_{max} = \dfrac{v_0^2}{2g} = \dfrac{64}{20} = 3{,}2$ m.
+
+Câu 8. Một vật rơi tự do từ độ cao 30 m so với mặt đất. Chọn gốc thế năng tại mặt đất. Vị trí mà tại đó động năng của vật bằng hai lần thế năng có độ cao
+A. 15 m.
+B. 20 m.
+*C. 10 m.
+D. 5 m.
+Lời giải: $W = W_{\text{đ}} + W_t = 3W_t \Rightarrow mgH = 3mgh \Rightarrow h = \dfrac{H}{3} = 10$ m.
+
+PHẦN II. Câu trắc nghiệm đúng sai
+Câu 1. Ném một vật có khối lượng 0,5 kg thẳng đứng lên từ mặt đất với tốc độ 20 m/s. Bỏ qua lực cản của không khí, chọn gốc thế năng tại mặt đất, lấy $g = 10$ m/s².
+a) Cơ năng của vật là 100 J. (Đ)
+b) Độ cao cực đại mà vật đạt được là 40 m. (S)
+c) Khi vật ở độ cao 10 m, tốc độ của vật xấp xỉ 14,1 m/s. (Đ)
+d) Khi rơi trở lại mặt đất, tốc độ của vật lớn hơn 20 m/s. (S)
+Lời giải: $W = \dfrac{1}{2} \cdot 0{,}5 \cdot 20^2 = 100$ J; $h_{max} = \dfrac{W}{mg} = \dfrac{100}{5} = 20$ m. Ở $h = 10$ m: $v^2 = v_0^2 - 2gh = 400 - 200 = 200 \Rightarrow v \approx 14{,}1$ m/s. Cơ năng bảo toàn nên khi về mặt đất tốc độ vẫn là 20 m/s.
+
+Câu 2. Một vật có khối lượng 2 kg trượt không vận tốc đầu từ đỉnh một con dốc cao 5 m, đến chân dốc có tốc độ 8 m/s. Chọn gốc thế năng tại chân dốc, lấy $g = 10$ m/s².
+a) Cơ năng của vật tại đỉnh dốc là 100 J. (Đ)
+b) Động năng của vật tại chân dốc là 64 J. (Đ)
+c) Cơ năng của vật được bảo toàn trong quá trình trượt. (S)
+d) Công của lực ma sát tác dụng lên vật trên dốc là $-36$ J. (Đ)
+Lời giải: $W_1 = mgh = 2 \cdot 10 \cdot 5 = 100$ J; $W_2 = \dfrac{1}{2} \cdot 2 \cdot 8^2 = 64$ J. Cơ năng giảm nên có ma sát: $A_{ms} = W_2 - W_1 = -36$ J.
+
+PHẦN III. Câu trắc nghiệm trả lời ngắn
+Câu 1. Một vật rơi tự do từ độ cao 45 m. Lấy $g = 10$ m/s². Tốc độ của vật ngay trước khi chạm đất là bao nhiêu m/s?
+Đáp án: 30
+Lời giải: $v = \sqrt{2gh} = \sqrt{2 \cdot 10 \cdot 45} = 30$ m/s.
+
+Câu 2. Kéo vật nặng của một con lắc đơn lệch khỏi vị trí cân bằng sao cho vật lên cao 0,45 m so với vị trí cân bằng rồi thả nhẹ. Bỏ qua lực cản, lấy $g = 10$ m/s². Tốc độ của vật khi đi qua vị trí cân bằng là bao nhiêu m/s?
+Đáp án: 3
+Lời giải: $mgh = \dfrac{1}{2}mv^2 \Rightarrow v = \sqrt{2gh} = \sqrt{2 \cdot 10 \cdot 0{,}45} = 3$ m/s.
+
+Câu 3. Từ độ cao 15 m so với mặt đất, một vật được ném với tốc độ 10 m/s. Bỏ qua lực cản, lấy $g = 10$ m/s². Tốc độ của vật ngay trước khi chạm đất là bao nhiêu m/s?
+Đáp án: 20
+Lời giải: $\dfrac{1}{2}mv_0^2 + mgh = \dfrac{1}{2}mv^2 \Rightarrow v = \sqrt{v_0^2 + 2gh} = \sqrt{100 + 300} = 20$ m/s (không phụ thuộc hướng ném).

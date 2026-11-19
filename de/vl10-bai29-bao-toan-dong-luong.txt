@@ -1,0 +1,83 @@
+VẬT LÍ 10 - CHƯƠNG V. ĐỘNG LƯỢNG - BÀI 29. ĐỊNH LUẬT BẢO TOÀN ĐỘNG LƯỢNG
+Đề luyện tập theo cấu trúc thi tốt nghiệp THPT (biên soạn: thầy Lâm Thế Phong, THPT An Thới)
+Thời gian: 20
+
+PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn
+Câu 1. Một hệ vật được gọi là hệ kín (hệ cô lập) khi
+A. hệ chỉ gồm một vật.
+B. các vật trong hệ chịu tác dụng của ngoại lực rất lớn.
+*C. các vật trong hệ không chịu tác dụng của ngoại lực hoặc các ngoại lực cân bằng nhau.
+D. các vật trong hệ đều đứng yên.
+
+Câu 2. Nội dung của định luật bảo toàn động lượng là
+A. động lượng của từng vật trong hệ luôn không đổi.
+*B. tổng động lượng của một hệ kín được bảo toàn.
+C. tổng động năng của một hệ kín được bảo toàn.
+D. động lượng của hệ luôn bằng 0.
+
+Câu 3. Va chạm mềm là va chạm mà
+*A. sau va chạm, hai vật dính vào nhau và chuyển động với cùng một vận tốc.
+B. sau va chạm, hai vật tách rời nhau và động năng của hệ được bảo toàn.
+C. tổng động lượng của hệ sau va chạm bằng 0.
+D. tổng động năng của hệ sau va chạm tăng lên.
+
+Câu 4. Chuyển động bằng phản lực là chuyển động
+A. do lực ma sát giữa vật và mặt đường gây ra.
+B. do lực hấp dẫn của Trái Đất gây ra.
+C. do lực đẩy của không khí phía trước vật gây ra.
+*D. của một phần của hệ theo một hướng khi phần còn lại tách ra chuyển động theo hướng ngược lại.
+
+Câu 5. Một xe lăn có khối lượng 2 kg chuyển động với tốc độ 3 m/s đến va chạm với một xe lăn có khối lượng 1 kg đang đứng yên. Sau va chạm, hai xe dính vào nhau. Bỏ qua ma sát. Tốc độ của hai xe ngay sau va chạm là
+A. 1 m/s.
+*B. 2 m/s.
+C. 3 m/s.
+D. 1,5 m/s.
+Lời giải: $m_1v_1 = (m_1 + m_2)v \Rightarrow v = \dfrac{2 \cdot 3}{3} = 2$ m/s.
+
+Câu 6. Một khẩu súng có khối lượng 4 kg bắn ra một viên đạn có khối lượng 20 g với tốc độ 500 m/s theo phương ngang. Tốc độ giật lùi của súng là
+A. 25 m/s.
+B. 0,25 m/s.
+*C. 2,5 m/s.
+D. 10 m/s.
+Lời giải: $0 = mv + MV \Rightarrow |V| = \dfrac{0{,}02 \cdot 500}{4} = 2{,}5$ m/s.
+
+Câu 7. Trong va chạm đàn hồi giữa hai vật của một hệ kín thì
+A. tổng động năng của hệ tăng lên.
+B. tổng động năng của hệ giảm về 0.
+C. toàn bộ động năng chuyển hết thành nhiệt.
+*D. cả tổng động lượng và tổng động năng của hệ đều được bảo toàn.
+
+Câu 8. Viên bi thứ nhất có khối lượng 1 kg chuyển động với tốc độ 4 m/s đến va chạm trực diện với viên bi thứ hai có khối lượng 2 kg đang chuyển động ngược chiều với tốc độ 1 m/s. Sau va chạm, hai viên bi dính vào nhau. Bỏ qua ma sát. Vận tốc của hai viên bi ngay sau va chạm
+*A. có độ lớn xấp xỉ 0,67 m/s, cùng chiều chuyển động ban đầu của viên bi thứ nhất.
+B. có độ lớn 2 m/s, cùng chiều chuyển động ban đầu của viên bi thứ nhất.
+C. có độ lớn xấp xỉ 0,67 m/s, cùng chiều chuyển động ban đầu của viên bi thứ hai.
+D. có độ lớn 2 m/s, cùng chiều chuyển động ban đầu của viên bi thứ hai.
+Lời giải: Chọn chiều dương theo chiều chuyển động của bi thứ nhất: $1 \cdot 4 + 2 \cdot (-1) = 3v \Rightarrow v = \dfrac{2}{3} \approx 0{,}67$ m/s > 0.
+
+PHẦN II. Câu trắc nghiệm đúng sai
+Câu 1. Một người có khối lượng 60 kg đang chạy với tốc độ 4 m/s thì nhảy lên một chiếc xe goòng có khối lượng 40 kg đang đứng yên trên đường ray nằm ngang. Bỏ qua ma sát.
+a) Tổng động lượng của hệ người và xe trước khi người nhảy lên xe là 240 kg·m/s. (Đ)
+b) Ngay sau khi người nhảy lên xe, người và xe chuyển động với tốc độ 2,4 m/s. (Đ)
+c) Tổng động năng của hệ người và xe được bảo toàn trong quá trình này. (S)
+d) Nếu ban đầu xe đang chạy ngược chiều với người với tốc độ 1 m/s thì sau đó người và xe chuyển động với tốc độ 2,8 m/s. (S)
+Lời giải: $p = 60 \cdot 4 = 240$ kg·m/s; $v = \dfrac{240}{100} = 2{,}4$ m/s. Động năng trước 480 J, sau $\dfrac{1}{2} \cdot 100 \cdot 2{,}4^2 = 288$ J (va chạm mềm). Trường hợp xe chạy ngược chiều: $v = \dfrac{240 - 40 \cdot 1}{100} = 2$ m/s.
+
+Câu 2. Một tên lửa có tổng khối lượng 10 tấn đang bay với tốc độ 200 m/s thì phụt tức thời ra phía sau 2 tấn khí với tốc độ 500 m/s so với mặt đất. Bỏ qua tác dụng của trọng lực và lực cản trong thời gian phụt khí.
+a) Động lượng của tên lửa trước khi phụt khí có độ lớn $2 \cdot 10^6$ kg·m/s. (Đ)
+b) Hệ gồm tên lửa và khí phụt ra được coi là hệ kín trong thời gian phụt khí. (Đ)
+c) Ngay sau khi phụt khí, phần còn lại của tên lửa có tốc độ 375 m/s. (Đ)
+d) Sau khi phụt khí, phần còn lại của tên lửa chuyển động chậm lại. (S)
+Lời giải: $p = 10\,000 \cdot 200 = 2 \cdot 10^6$ kg·m/s. Chọn chiều dương theo chiều bay: $2 \cdot 10^6 = 8000V + 2000 \cdot (-500) \Rightarrow V = \dfrac{3 \cdot 10^6}{8000} = 375$ m/s, tức là tên lửa tăng tốc.
+
+PHẦN III. Câu trắc nghiệm trả lời ngắn
+Câu 1. Một viên đạn có khối lượng 10 g bay theo phương ngang với tốc độ 600 m/s đến cắm vào một bao cát có khối lượng 2,99 kg đang treo đứng yên. Tốc độ của bao cát và viên đạn ngay sau va chạm là bao nhiêu m/s?
+Đáp án: 2
+Lời giải: $mv = (m + M)V \Rightarrow V = \dfrac{0{,}01 \cdot 600}{3} = 2$ m/s.
+
+Câu 2. Hai xe lăn có khối lượng 0,6 kg và 0,4 kg đứng yên trên mặt phẳng ngang nhẵn, giữa hai xe có một lò xo bị nén. Khi thả cho lò xo bung ra, xe 0,6 kg chuyển động với tốc độ 2 m/s. Tốc độ của xe 0,4 kg là bao nhiêu m/s?
+Đáp án: 3
+Lời giải: $0 = m_1v_1 + m_2v_2 \Rightarrow |v_2| = \dfrac{0{,}6 \cdot 2}{0{,}4} = 3$ m/s, hai xe chuyển động ngược chiều nhau.
+
+Câu 3. Viên bi A có khối lượng 0,2 kg chuyển động với tốc độ 5 m/s đến va chạm trực diện với viên bi B có khối lượng 0,3 kg đang đứng yên. Sau va chạm, viên bi A đứng yên. Tốc độ của viên bi B ngay sau va chạm là bao nhiêu m/s? (Làm tròn kết quả đến hai chữ số thập phân.)
+Đáp án: 3,33|3,3|3,333
+Lời giải: $m_Av_A = m_Bv_B \Rightarrow v_B = \dfrac{0{,}2 \cdot 5}{0{,}3} \approx 3{,}33$ m/s.
