@@ -1,0 +1,88 @@
+VẬT LÍ 11 - CHƯƠNG IV. DÒNG ĐIỆN. MẠCH ĐIỆN - BÀI 26. THỰC HÀNH: ĐO SUẤT ĐIỆN ĐỘNG VÀ ĐIỆN TRỞ TRONG CỦA PIN ĐIỆN HOÁ
+Đề luyện tập theo cấu trúc thi tốt nghiệp THPT (biên soạn: thầy Lâm Thế Phong, THPT An Thới)
+Thời gian: 20
+
+PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn
+Câu 1. Trong bài thực hành đo suất điện động và điện trở trong của pin điện hoá, dụng cụ nào sau đây KHÔNG cần dùng?
+A. Pin điện hoá cần đo.
+B. Biến trở.
+C. Đồng hồ đo điện đa năng (dùng làm ampe kế, vôn kế).
+*D. Lực kế.
+Lời giải: Mạch đo gồm pin, biến trở, điện trở bảo vệ, công tắc, ampe kế, vôn kế và dây nối; không cần lực kế.
+
+Câu 2. Trong mạch đo, ampe kế được mắc
+A. song song với pin.
+*B. nối tiếp với pin và biến trở.
+C. song song với biến trở.
+D. song song với vôn kế.
+Lời giải: Ampe kế đo cường độ dòng điện chạy trong mạch nên mắc nối tiếp.
+
+Câu 3. Để đo hiệu điện thế U giữa hai cực của pin, vôn kế được mắc
+A. nối tiếp với pin.
+B. nối tiếp với ampe kế.
+*C. song song với hai cực của pin.
+D. nối tiếp với biến trở.
+Lời giải: Vôn kế luôn mắc song song với đoạn mạch cần đo hiệu điện thế.
+
+Câu 4. Hiệu điện thế giữa hai cực của pin phụ thuộc vào cường độ dòng điện theo hệ thức $U = \mathcal{E} - Ir$. Đồ thị biểu diễn U theo I có dạng
+*A. một đoạn thẳng dốc xuống, không đi qua gốc tọa độ.
+B. một đoạn thẳng đi qua gốc tọa độ.
+C. một đường parabol.
+D. một đường thẳng song song với trục hoành.
+Lời giải: U là hàm bậc nhất của I với hệ số góc $-r < 0$ và tung độ gốc $\mathcal{E}$.
+
+Câu 5. Trên đồ thị U theo I, khi kéo dài đường thẳng cắt trục tung (ứng với $I = 0$) thì giá trị U tại giao điểm cho biết
+A. điện trở trong của pin.
+B. cường độ dòng điện đoản mạch.
+*C. suất điện động của pin.
+D. điện trở của biến trở.
+Lời giải: $I = 0 \Rightarrow U = \mathcal{E}$.
+
+Câu 6. Trong mạch đo, người ta mắc thêm một điện trở bảo vệ $R_0$ nối tiếp với biến trở nhằm
+A. làm tăng suất điện động của pin.
+B. làm giảm sai số của vôn kế.
+C. làm tăng điện trở trong của pin.
+*D. tránh dòng điện quá lớn khi biến trở có giá trị nhỏ, bảo vệ pin và ampe kế.
+Lời giải: Nếu biến trở về gần 0 mà không có $R_0$ thì mạch gần như đoản mạch, dòng điện lớn làm hỏng pin và đồng hồ đo.
+
+Câu 7. Khi đo, một nhóm học sinh thu được: với $I_1 = 0{,}2$ A thì $U_1 = 1{,}4$ V; với $I_2 = 0{,}4$ A thì $U_2 = 1{,}3$ V. Điện trở trong của pin là
+A. 1 $\Omega$.
+*B. 0,5 $\Omega$.
+C. 0,25 $\Omega$.
+D. 2 $\Omega$.
+Lời giải: $r = \dfrac{U_1 - U_2}{I_2 - I_1} = \dfrac{1{,}4 - 1{,}3}{0{,}4 - 0{,}2} = 0{,}5\ \Omega$.
+
+Câu 8. Với số liệu ở câu trên ($I_1 = 0{,}2$ A, $U_1 = 1{,}4$ V; $I_2 = 0{,}4$ A, $U_2 = 1{,}3$ V), suất điện động của pin là
+*A. 1,5 V.
+B. 1,4 V.
+C. 1,2 V.
+D. 1,6 V.
+Lời giải: $\mathcal{E} = U_1 + I_1 r = 1{,}4 + 0{,}2 \cdot 0{,}5 = 1{,}5$ V.
+
+PHẦN II. Câu trắc nghiệm đúng sai
+Câu 1. Một nhóm học sinh đo hiệu điện thế U giữa hai cực một pin ứng với các giá trị cường độ dòng điện I khác nhau, thu được: I = 0,10 A thì U = 1,45 V; I = 0,20 A thì U = 1,40 V; I = 0,30 A thì U = 1,35 V; I = 0,40 A thì U = 1,30 V.
+a) Điện trở trong của pin là 0,5 $\Omega$. (Đ)
+b) Suất điện động của pin là 1,45 V. (S)
+c) Khi cường độ dòng điện là 0,6 A thì hiệu điện thế giữa hai cực pin là 1,2 V. (Đ)
+d) Nếu nối tắt hai cực của pin thì cường độ dòng điện đoản mạch là 3 A. (Đ)
+Lời giải: Mỗi khi I tăng 0,1 A thì U giảm 0,05 V nên $r = \dfrac{0{,}05}{0{,}1} = 0{,}5\ \Omega$; $\mathcal{E} = 1{,}45 + 0{,}1 \cdot 0{,}5 = 1{,}50$ V. Với $I = 0{,}6$ A: $U = 1{,}5 - 0{,}6 \cdot 0{,}5 = 1{,}2$ V. $I_{\text{đm}} = \dfrac{\mathcal{E}}{r} = 3$ A.
+
+Câu 2. Xét các thao tác và cách xử lí số liệu trong bài thực hành.
+a) Trước khi đóng công tắc, nên điều chỉnh biến trở để mạch có điện trở lớn (dòng điện nhỏ). (Đ)
+b) Nên để công tắc đóng liên tục trong suốt quá trình thí nghiệm để số liệu ổn định. (S)
+c) Đo nhiều cặp giá trị (I, U) rồi vẽ đường thẳng đi gần các điểm nhất giúp giảm sai số ngẫu nhiên. (Đ)
+d) Khi dùng đồng hồ đa năng làm ampe kế, có thể để núm xoay ở thang đo hiệu điện thế mà không ảnh hưởng gì. (S)
+Lời giải: Dòng điện chạy lâu làm pin nóng, bị phân cực, $\mathcal{E}$ và r thay đổi; chỉ đóng công tắc khi đọc số liệu rồi ngắt ngay. Phải chọn đúng chức năng và thang đo của đồng hồ, nếu không sẽ đo sai hoặc hỏng đồng hồ.
+
+PHẦN III. Câu trắc nghiệm trả lời ngắn
+Câu 1. Mắc pin với mạch ngoài có tổng điện trở 4 $\Omega$ thì dòng điện là 0,3 A; thay mạch ngoài bằng tổng điện trở 9 $\Omega$ thì dòng điện là 0,15 A. Điện trở trong của pin là bao nhiêu ôm ($\Omega$)?
+Đáp án: 1
+Lời giải: $\mathcal{E} = 0{,}3(4 + r) = 0{,}15(9 + r) \Rightarrow 1{,}2 + 0{,}3r = 1{,}35 + 0{,}15r \Rightarrow r = 1\ \Omega$ (và $\mathcal{E} = 1{,}5$ V).
+
+Câu 2. Từ số liệu đo, một học sinh vẽ được đồ thị U theo I là đường thẳng; kéo dài đường thẳng thì nó cắt trục tung tại U = 1,6 V và cắt trục hoành tại I = 2 A. Điện trở trong của pin là bao nhiêu ôm ($\Omega$)?
+Đáp án: 0,8
+Lời giải: Giao với trục tung cho $\mathcal{E} = 1{,}6$ V; giao với trục hoành ($U = 0$) cho $I = \dfrac{\mathcal{E}}{r} = 2$ A $\Rightarrow r = \dfrac{1{,}6}{2} = 0{,}8\ \Omega$.
+
+Câu 3. Ba lần đo suất điện động của một pin cho kết quả 1,48 V; 1,52 V; 1,50 V. Sai số tuyệt đối trung bình của phép đo là bao nhiêu vôn (V) (làm tròn đến ba chữ số sau dấu phẩy)?
+Đáp án: 0,013|0,0133
+Lời giải: Giá trị trung bình $\overline{\mathcal{E}} = \dfrac{1{,}48 + 1{,}52 + 1{,}50}{3} = 1{,}50$ V. Sai số tuyệt đối từng lần: 0,02; 0,02; 0. $\overline{\Delta \mathcal{E}} = \dfrac{0{,}02 + 0{,}02 + 0}{3} \approx 0{,}013$ V.

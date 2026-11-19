@@ -1,0 +1,83 @@
+VẬT LÍ 11 - CHƯƠNG II. SÓNG - BÀI 15. THỰC HÀNH: ĐO TỐC ĐỘ TRUYỀN ÂM
+Đề luyện tập theo cấu trúc thi tốt nghiệp THPT (biên soạn: thầy Lâm Thế Phong, THPT An Thới)
+Thời gian: 20
+
+PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn
+Câu 1. Mục đích của bài thực hành "Đo tốc độ truyền âm" là
+A. đo tần số của âm thoa bằng dao động kí điện tử.
+B. đo cường độ âm tại một điểm.
+C. đo bước sóng của ánh sáng đơn sắc.
+*D. đo tốc độ truyền âm trong không khí.
+
+Câu 2. Bộ dụng cụ chính dùng trong bài thực hành đo tốc độ truyền âm gồm
+A. lò xo, vật nặng, đồng hồ bấm giây.
+B. nguồn sáng laser, khe Y-âng, màn chắn.
+*C. ống cộng hưởng có pit-tông và thước đo, loa nhỏ, máy phát tần số.
+D. dây đàn hồi, cần rung, thước kẹp.
+
+Câu 3. Phương pháp đo tốc độ truyền âm trong bài thực hành dựa trên hiện tượng
+A. tán sắc ánh sáng.
+*B. sóng dừng (cộng hưởng âm) trong cột không khí.
+C. phản xạ toàn phần.
+D. dao động tắt dần.
+
+Câu 4. Khi dịch chuyển pit-tông trong ống cộng hưởng, khoảng cách giữa hai vị trí liên tiếp của pit-tông mà tại đó nghe thấy âm to nhất bằng
+*A. $\dfrac{\lambda}{2}$.
+B. $\lambda$.
+C. $\dfrac{\lambda}{4}$.
+D. $2\lambda$.
+
+Câu 5. Máy phát tần số đặt ở 500 Hz. Khoảng cách giữa hai vị trí liên tiếp của pit-tông nghe thấy âm to nhất là 34 cm. Tốc độ truyền âm trong không khí là
+A. 170 m/s.
+B. 680 m/s.
+*C. 340 m/s.
+D. 17 m/s.
+Lời giải: $\dfrac{\lambda}{2} = 0{,}34$ m $\Rightarrow \lambda = 0{,}68$ m; $v = \lambda f = 0{,}68 \cdot 500 = 340$ m/s.
+
+Câu 6. Tốc độ truyền âm được tính theo công thức $v = \lambda f$. Sai số tỉ đối của $v$ được tính theo công thức
+A. $\delta v = \delta\lambda - \delta f$.
+*B. $\delta v = \delta\lambda + \delta f$.
+C. $\delta v = \delta\lambda \cdot \delta f$.
+D. $\delta v = \dfrac{\delta\lambda}{\delta f}$.
+Lời giải: Với đại lượng đo gián tiếp dạng tích, sai số tỉ đối bằng tổng sai số tỉ đối của các thừa số.
+
+Câu 7. Để kết quả đo tốc độ truyền âm chính xác hơn, cần
+*A. đo nhiều lần (có thể với nhiều tần số khác nhau) rồi lấy giá trị trung bình.
+B. chỉ đo một lần với tần số thật lớn.
+C. bật loa với âm lượng lớn nhất có thể.
+D. tiến hành ở nơi có nhiều tiếng ồn.
+
+Câu 8. Giữ nguyên các điều kiện khác, nếu tăng tần số âm do loa phát ra thì khoảng cách giữa hai vị trí liên tiếp của pit-tông nghe thấy âm to nhất sẽ
+A. tăng.
+B. không đổi.
+C. bằng 0.
+*D. giảm.
+Lời giải: Tốc độ truyền âm trong không khí không đổi, $\lambda = \dfrac{v}{f}$ giảm khi $f$ tăng, nên khoảng cách $\dfrac{\lambda}{2}$ giảm.
+
+PHẦN II. Câu trắc nghiệm đúng sai
+Câu 1. Một nhóm học sinh dùng ống cộng hưởng với loa nối máy phát tần số đặt ở 680 Hz. Dịch chuyển pit-tông, nhóm đo được khoảng cách giữa hai vị trí liên tiếp nghe thấy âm to nhất là 25 cm.
+a) Bước sóng của âm trong không khí là 50 cm. (Đ)
+b) Tốc độ truyền âm đo được là 340 m/s. (Đ)
+c) Tại vị trí nghe âm to nhất, mặt pit-tông là một bụng sóng của dao động các phần tử không khí. (S)
+d) Nếu đặt máy phát ở 340 Hz thì khoảng cách giữa hai vị trí liên tiếp nghe âm to nhất là 50 cm. (Đ)
+Lời giải: $\lambda = 2 \cdot 25 = 50$ cm; $v = \lambda f = 0{,}5 \cdot 680 = 340$ m/s. Mặt pit-tông là vật cản cố định nên tại đó là nút sóng. Với $f = 340$ Hz: $\lambda = 1$ m, $\dfrac{\lambda}{2} = 50$ cm.
+
+Câu 2. Xét các phát biểu liên quan đến bài thực hành đo tốc độ truyền âm.
+a) Tốc độ truyền âm trong không khí phụ thuộc vào nhiệt độ của không khí. (Đ)
+b) Tần số âm càng lớn thì tốc độ truyền âm trong không khí càng lớn. (S)
+c) Nên để âm lượng của loa vừa phải và làm thí nghiệm ở nơi yên tĩnh để dễ nhận ra vị trí âm to nhất. (Đ)
+d) Kết quả đo được viết dưới dạng $v = \bar v \pm \Delta v$. (Đ)
+Lời giải: Tốc độ truyền âm phụ thuộc vào môi trường (bản chất, nhiệt độ), không phụ thuộc tần số; khi $f$ tăng thì $\lambda$ giảm, $v$ không đổi.
+
+PHẦN III. Câu trắc nghiệm trả lời ngắn
+Câu 1. Máy phát tần số đặt ở 1000 Hz. Khoảng cách giữa hai vị trí liên tiếp của pit-tông nghe thấy âm to nhất đo được là 17,2 cm. Tốc độ truyền âm đo được là bao nhiêu m/s?
+Đáp án: 344
+Lời giải: $\lambda = 2 \cdot 0{,}172 = 0{,}344$ m; $v = \lambda f = 0{,}344 \cdot 1000 = 344$ m/s.
+
+Câu 2. Trong một lần đo, học sinh xác định được bước sóng $\lambda = 0{,}680 \pm 0{,}010$ m, tần số $f = 500 \pm 5$ Hz. Sai số tuyệt đối $\Delta v$ của tốc độ truyền âm là bao nhiêu m/s (làm tròn đến một chữ số sau dấu phẩy)?
+Đáp án: 8,4
+Lời giải: $\bar v = 0{,}68 \cdot 500 = 340$ m/s; $\delta v = \dfrac{\Delta\lambda}{\lambda} + \dfrac{\Delta f}{f} = \dfrac{0{,}01}{0{,}68} + \dfrac{5}{500}$; $\Delta v = \bar v \cdot \delta v = 340 \cdot \dfrac{0{,}01}{0{,}68} + 340 \cdot 0{,}01 = 5 + 3{,}4 = 8{,}4$ m/s.
+
+Câu 3. Một nhóm học sinh đo tốc độ truyền âm ba lần, được các giá trị 338 m/s, 342 m/s và 343 m/s. Giá trị trung bình của tốc độ truyền âm là bao nhiêu m/s?
+Đáp án: 341
+Lời giải: $\bar v = \dfrac{338 + 342 + 343}{3} = \dfrac{1023}{3} = 341$ m/s.

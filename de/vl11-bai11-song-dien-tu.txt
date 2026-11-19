@@ -1,0 +1,82 @@
+VẬT LÍ 11 - CHƯƠNG II. SÓNG - BÀI 11. SÓNG ĐIỆN TỪ
+Đề luyện tập theo cấu trúc thi tốt nghiệp THPT (biên soạn: thầy Lâm Thế Phong, THPT An Thới)
+Thời gian: 20
+
+PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn
+Câu 1. Sóng điện từ là
+A. dao động cơ lan truyền trong môi trường đàn hồi.
+B. sóng âm có tần số rất lớn.
+C. dòng các electron chuyển động trong không gian.
+*D. điện từ trường lan truyền trong không gian.
+
+Câu 2. Trong chân không, sóng điện từ truyền với tốc độ xấp xỉ
+*A. $3 \cdot 10^8$ m/s.
+B. 340 m/s.
+C. $3 \cdot 10^5$ m/s.
+D. 1500 m/s.
+
+Câu 3. Sóng điện từ là sóng ngang vì
+A. nó truyền được trong chân không.
+B. nó có tốc độ rất lớn.
+*C. vectơ cường độ điện trường và vectơ cảm ứng từ luôn vuông góc với phương truyền sóng.
+D. nó chỉ truyền theo phương nằm ngang.
+
+Câu 4. Sắp xếp theo thứ tự bước sóng giảm dần, dãy nào sau đây đúng?
+A. Tia X, tử ngoại, ánh sáng nhìn thấy, hồng ngoại.
+*B. Sóng vô tuyến, hồng ngoại, ánh sáng nhìn thấy, tử ngoại.
+C. Hồng ngoại, sóng vô tuyến, tử ngoại, tia X.
+D. Tia gamma, tia X, tử ngoại, sóng vô tuyến.
+
+Câu 5. Ánh sáng nhìn thấy có bước sóng trong chân không nằm trong khoảng
+A. từ 1 mm đến 1 m.
+B. từ 10 nm đến 100 nm.
+*C. từ khoảng 380 nm đến khoảng 760 nm.
+D. từ 1 m đến 100 km.
+
+Câu 6. Bộ điều khiển từ xa của ti vi thường sử dụng
+A. tia X.
+B. tia tử ngoại.
+C. tia gamma.
+*D. tia hồng ngoại.
+
+Câu 7. Một sóng vô tuyến có tần số 100 MHz truyền trong không khí với tốc độ $3 \cdot 10^8$ m/s. Bước sóng của sóng này là
+*A. 3 m.
+B. 30 m.
+C. 0,3 m.
+D. 300 m.
+Lời giải: $\lambda = \dfrac{c}{f} = \dfrac{3 \cdot 10^8}{10^8} = 3$ m.
+
+Câu 8. Một bức xạ có bước sóng 600 nm trong chân không. Lấy $c = 3 \cdot 10^8$ m/s. Tần số của bức xạ này là
+A. $2 \cdot 10^{14}$ Hz.
+*B. $5 \cdot 10^{14}$ Hz.
+C. $1{,}8 \cdot 10^{17}$ Hz.
+D. $5 \cdot 10^{15}$ Hz.
+Lời giải: $f = \dfrac{c}{\lambda} = \dfrac{3 \cdot 10^8}{600 \cdot 10^{-9}} = 5 \cdot 10^{14}$ Hz (ánh sáng nhìn thấy).
+
+PHẦN II. Câu trắc nghiệm đúng sai
+Câu 1. Xét các phát biểu về sóng điện từ.
+a) Sóng điện từ truyền được trong chân không. (Đ)
+b) Sóng điện từ là sóng dọc. (S)
+c) Lò vi sóng dùng sóng vi ba (thuộc vùng sóng vô tuyến) để làm nóng thức ăn. (Đ)
+d) Tia X có bước sóng dài hơn tia hồng ngoại. (S)
+Lời giải: Sóng điện từ là sóng ngang, truyền được cả trong chân không. Trong thang sóng điện từ, tia X có bước sóng rất ngắn (cỡ $10^{-11}$ m đến $10^{-8}$ m), ngắn hơn nhiều so với tia hồng ngoại.
+
+Câu 2. Một máy bộ đàm phát sóng điện từ có tần số 150 MHz. Lấy tốc độ truyền sóng trong không khí là $c = 3 \cdot 10^8$ m/s.
+a) Bước sóng của sóng này là 2 m. (Đ)
+b) Chu kì của sóng xấp xỉ $6{,}67 \cdot 10^{-9}$ s. (Đ)
+c) Sóng này truyền trong không khí với tốc độ xấp xỉ bằng tốc độ ánh sáng. (Đ)
+d) Sóng này thuộc vùng tia tử ngoại. (S)
+Lời giải: $\lambda = \dfrac{c}{f} = \dfrac{3 \cdot 10^8}{1{,}5 \cdot 10^8} = 2$ m; $T = \dfrac{1}{f} \approx 6{,}67 \cdot 10^{-9}$ s. Bước sóng cỡ mét nên thuộc vùng sóng vô tuyến.
+
+PHẦN III. Câu trắc nghiệm trả lời ngắn
+Câu 1. Bộ phát Wi-Fi phát sóng điện từ có tần số 2,4 GHz. Lấy $c = 3 \cdot 10^8$ m/s. Bước sóng của sóng này là bao nhiêu xentimét (cm)?
+Đáp án: 12,5
+Lời giải: $\lambda = \dfrac{c}{f} = \dfrac{3 \cdot 10^8}{2{,}4 \cdot 10^9} = 0{,}125$ m $= 12{,}5$ cm.
+
+Câu 2. Khoảng cách từ Mặt Trời đến Trái Đất xấp xỉ $1{,}5 \cdot 10^{11}$ m. Lấy $c = 3 \cdot 10^8$ m/s. Ánh sáng đi từ Mặt Trời đến Trái Đất mất bao nhiêu giây (s)?
+Đáp án: 500
+Lời giải: $t = \dfrac{s}{c} = \dfrac{1{,}5 \cdot 10^{11}}{3 \cdot 10^8} = 500$ s (khoảng 8 phút 20 giây).
+
+Câu 3. Một bức xạ có bước sóng 0,5 μm trong chân không. Lấy $c = 3 \cdot 10^8$ m/s. Tần số của bức xạ là $x \cdot 10^{14}$ Hz. Giá trị của $x$ là bao nhiêu?
+Đáp án: 6
+Lời giải: $f = \dfrac{c}{\lambda} = \dfrac{3 \cdot 10^8}{0{,}5 \cdot 10^{-6}} = 6 \cdot 10^{14}$ Hz $\Rightarrow x = 6$.

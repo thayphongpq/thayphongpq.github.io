@@ -1,0 +1,88 @@
+VẬT LÍ 11 - CHƯƠNG IV. DÒNG ĐIỆN. MẠCH ĐIỆN - BÀI 22. CƯỜNG ĐỘ DÒNG ĐIỆN
+Đề luyện tập theo cấu trúc thi tốt nghiệp THPT (biên soạn: thầy Lâm Thế Phong, THPT An Thới)
+Thời gian: 20
+
+PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn
+Câu 1. Dòng điện là
+*A. dòng chuyển dời có hướng của các hạt mang điện.
+B. dòng chuyển động hỗn loạn của các electron.
+C. dòng chuyển dời của các nguyên tử trung hòa.
+D. dòng chuyển động nhiệt của các ion.
+Lời giải: Dòng điện là dòng các hạt mang điện (electron, ion) chuyển dời có hướng.
+
+Câu 2. Chiều quy ước của dòng điện là
+A. chiều chuyển động của các electron.
+B. chiều chuyển động của các ion âm.
+C. chiều từ cực âm đến cực dương ở mạch ngoài.
+*D. chiều chuyển động của các hạt mang điện dương.
+Lời giải: Quy ước chiều dòng điện là chiều dịch chuyển của điện tích dương, ngược chiều chuyển động của electron.
+
+Câu 3. Trong hệ SI, đơn vị của cường độ dòng điện là
+A. vôn (V).
+B. culông (C).
+*C. ampe (A).
+D. oát (W).
+Lời giải: Cường độ dòng điện đo bằng ampe (A); 1 A = 1 C/s.
+
+Câu 4. Dòng điện trong kim loại là dòng chuyển dời có hướng của
+A. các ion dương.
+*B. các electron tự do.
+C. các ion âm.
+D. các nguyên tử kim loại.
+Lời giải: Hạt tải điện trong kim loại là electron tự do.
+
+Câu 5. Trong 4 s có một điện lượng 12 C chuyển qua tiết diện thẳng của một dây dẫn. Cường độ dòng điện chạy qua dây là
+A. 48 A.
+B. 0,33 A.
+*C. 3 A.
+D. 16 A.
+Lời giải: $I = \dfrac{\Delta q}{\Delta t} = \dfrac{12}{4} = 3$ A.
+
+Câu 6. Một dòng điện không đổi có cường độ 0,8 A chạy qua dây dẫn. Biết $e = 1{,}6 \cdot 10^{-19}$ C. Số electron chuyển qua tiết diện thẳng của dây trong 10 s là
+*A. $5 \cdot 10^{19}$.
+B. $5 \cdot 10^{18}$.
+C. $1{,}28 \cdot 10^{-18}$.
+D. $8 \cdot 10^{19}$.
+Lời giải: $N = \dfrac{It}{e} = \dfrac{0{,}8 \cdot 10}{1{,}6 \cdot 10^{-19}} = 5 \cdot 10^{19}$.
+
+Câu 7. Một dây đồng có tiết diện $1$ mm², mật độ electron tự do $n = 8{,}5 \cdot 10^{28}$ m⁻³, có dòng điện 2,72 A chạy qua. Biết $e = 1{,}6 \cdot 10^{-19}$ C. Tốc độ trôi (tốc độ dịch chuyển có hướng) của electron là
+A. $2 \cdot 10^{-3}$ m/s.
+B. $2 \cdot 10^{-5}$ m/s.
+C. $5 \cdot 10^{-4}$ m/s.
+*D. $2 \cdot 10^{-4}$ m/s.
+Lời giải: $I = Snve \Rightarrow v = \dfrac{I}{Sne} = \dfrac{2{,}72}{10^{-6} \cdot 8{,}5 \cdot 10^{28} \cdot 1{,}6 \cdot 10^{-19}} = 2 \cdot 10^{-4}$ m/s.
+
+Câu 8. Trên một viên pin sạc dự phòng có ghi dung lượng 3000 mAh. Điện lượng tối đa mà pin có thể cung cấp là
+A. 3000 C.
+*B. 10800 C.
+C. 180 C.
+D. 3 C.
+Lời giải: $q = It = 3 \text{ A} \cdot 3600 \text{ s} = 10800$ C.
+
+PHẦN II. Câu trắc nghiệm đúng sai
+Câu 1. Một dây dẫn kim loại có dòng điện không đổi cường độ 1,6 A chạy qua. Biết $e = 1{,}6 \cdot 10^{-19}$ C.
+a) Điện lượng chuyển qua tiết diện thẳng của dây trong 1 phút là 96 C. (Đ)
+b) Số electron chuyển qua tiết diện thẳng của dây trong 1 s là $10^{19}$. (Đ)
+c) Các electron trong dây chuyển động có hướng cùng chiều với chiều dòng điện. (S)
+d) Nếu cường độ dòng điện qua dây tăng gấp đôi thì tốc độ trôi của electron giảm một nửa. (S)
+Lời giải: $q = It = 1{,}6 \cdot 60 = 96$ C; $N = \dfrac{I \cdot 1}{e} = 10^{19}$. Electron mang điện âm nên chuyển động ngược chiều dòng điện. $v = \dfrac{I}{Sne}$: I tăng gấp đôi thì v tăng gấp đôi.
+
+Câu 2. Xét các phát biểu về cường độ dòng điện.
+a) Để đo cường độ dòng điện qua một đoạn mạch, ta mắc ampe kế nối tiếp với đoạn mạch đó. (Đ)
+b) Cường độ dòng điện được xác định bằng điện lượng chuyển qua tiết diện thẳng của vật dẫn trong một đơn vị thời gian. (Đ)
+c) Dòng điện không đổi là dòng điện có chiều không đổi nhưng cường độ có thể thay đổi theo thời gian. (S)
+d) 1 A = 1 C/s. (Đ)
+Lời giải: $I = \dfrac{\Delta q}{\Delta t}$. Dòng điện không đổi có cả chiều và cường độ không đổi theo thời gian.
+
+PHẦN III. Câu trắc nghiệm trả lời ngắn
+Câu 1. Dòng điện không đổi có cường độ 0,5 A chạy qua một bóng đèn trong 2 phút. Điện lượng chuyển qua bóng đèn là bao nhiêu culông (C)?
+Đáp án: 60
+Lời giải: $q = It = 0{,}5 \cdot 120 = 60$ C.
+
+Câu 2. Trong 2 s có $2{,}5 \cdot 10^{19}$ electron chuyển qua tiết diện thẳng của một dây dẫn. Biết $e = 1{,}6 \cdot 10^{-19}$ C. Cường độ dòng điện chạy qua dây là bao nhiêu ampe (A)?
+Đáp án: 2
+Lời giải: $I = \dfrac{Ne}{t} = \dfrac{2{,}5 \cdot 10^{19} \cdot 1{,}6 \cdot 10^{-19}}{2} = 2$ A.
+
+Câu 3. Một dây đồng có tiết diện 2 mm², mật độ electron tự do $8{,}5 \cdot 10^{28}$ m⁻³, có dòng điện 3,4 A chạy qua. Biết $e = 1{,}6 \cdot 10^{-19}$ C. Tốc độ trôi của electron trong dây là bao nhiêu milimét trên giây (mm/s)?
+Đáp án: 0,125
+Lời giải: $v = \dfrac{I}{Sne} = \dfrac{3{,}4}{2 \cdot 10^{-6} \cdot 8{,}5 \cdot 10^{28} \cdot 1{,}6 \cdot 10^{-19}} = 1{,}25 \cdot 10^{-4}$ m/s $= 0{,}125$ mm/s.

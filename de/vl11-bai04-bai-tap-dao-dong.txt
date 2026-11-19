@@ -1,0 +1,87 @@
+VẬT LÍ 11 - CHƯƠNG I. DAO ĐỘNG - BÀI 4. BÀI TẬP VỀ DAO ĐỘNG ĐIỀU HOÀ
+Đề luyện tập theo cấu trúc thi tốt nghiệp THPT (biên soạn: thầy Lâm Thế Phong, THPT An Thới)
+Thời gian: 25
+
+PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn
+Câu 1. Một vật dao động điều hoà với phương trình $x = 10\cos\left(\pi t - \dfrac{\pi}{6}\right)$ (cm). Pha ban đầu của dao động là
+A. $\dfrac{\pi}{6}$ rad.
+B. $\left(\pi t - \dfrac{\pi}{6}\right)$ rad.
+*C. $-\dfrac{\pi}{6}$ rad.
+D. $\pi$ rad.
+
+Câu 2. Một vật dao động điều hoà với biên độ 5 cm và chu kì 2 s. Quãng đường vật đi được trong một chu kì là
+*A. 20 cm.
+B. 10 cm.
+C. 5 cm.
+D. 40 cm.
+Lời giải: Trong một chu kì vật đi được quãng đường $s = 4A = 4 \cdot 5 = 20$ cm.
+
+Câu 3. Một vật dao động điều hoà, khoảng thời gian ngắn nhất để vật đi từ vị trí cân bằng đến vị trí biên là 0,25 s. Chu kì dao động của vật là
+A. 0,25 s.
+B. 0,5 s.
+C. 2 s.
+*D. 1 s.
+Lời giải: Thời gian ngắn nhất từ vị trí cân bằng đến biên là $\dfrac{T}{4} = 0{,}25$ s $\Rightarrow T = 1$ s.
+
+Câu 4. Một vật dao động điều hoà với biên độ 4 cm, chu kì 1 s. Chọn gốc thời gian lúc vật ở vị trí biên dương. Phương trình dao động của vật là
+A. $x = 4\cos(2\pi t + \pi)$ (cm).
+*B. $x = 4\cos(2\pi t)$ (cm).
+C. $x = 4\cos(\pi t)$ (cm).
+D. $x = 4\cos\left(2\pi t - \dfrac{\pi}{2}\right)$ (cm).
+Lời giải: $\omega = \dfrac{2\pi}{T} = 2\pi$ rad/s. Tại $t = 0$: $x = A \Rightarrow \cos\varphi = 1 \Rightarrow \varphi = 0$.
+
+Câu 5. Một vật dao động điều hoà với biên độ 4 cm, tốc độ cực đại $20\pi$ cm/s. Tần số dao động của vật là
+A. 5 Hz.
+*B. 2,5 Hz.
+C. 0,4 Hz.
+D. 10 Hz.
+Lời giải: $\omega = \dfrac{v_{max}}{A} = \dfrac{20\pi}{4} = 5\pi$ rad/s $\Rightarrow f = \dfrac{\omega}{2\pi} = 2{,}5$ Hz.
+
+Câu 6. Một vật dao động điều hoà với biên độ 6 cm và tần số góc 10 rad/s. Khi tốc độ của vật là 48 cm/s thì vật cách vị trí cân bằng một đoạn
+A. 4,8 cm.
+B. 2,4 cm.
+*C. 3,6 cm.
+D. 6 cm.
+Lời giải: $|x| = \sqrt{A^2 - \dfrac{v^2}{\omega^2}} = \sqrt{36 - 4{,}8^2} = \sqrt{36 - 23{,}04} = \sqrt{12{,}96} = 3{,}6$ cm.
+
+Câu 7. Một vật dao động điều hoà, khi vật ở li độ 2 cm thì gia tốc của vật là $-2$ m/s². Tần số góc của dao động là
+*A. 10 rad/s.
+B. 100 rad/s.
+C. 1 rad/s.
+D. 20 rad/s.
+Lời giải: $a = -\omega^2 x \Rightarrow \omega^2 = \dfrac{-a}{x} = \dfrac{2}{0{,}02} = 100 \Rightarrow \omega = 10$ rad/s.
+
+Câu 8. Hai dao động điều hoà cùng tần số 5 Hz, lệch pha nhau $\dfrac{\pi}{3}$. Khoảng thời gian lệch nhau giữa hai dao động là
+A. $\dfrac{1}{10}$ s.
+B. $\dfrac{1}{15}$ s.
+C. $\dfrac{1}{60}$ s.
+*D. $\dfrac{1}{30}$ s.
+Lời giải: $\Delta t = \dfrac{\Delta\varphi}{2\pi f} = \dfrac{\pi/3}{10\pi} = \dfrac{1}{30}$ s.
+
+PHẦN II. Câu trắc nghiệm đúng sai
+Câu 1. Một vật dao động điều hoà với phương trình $x = 8\cos\left(2\pi t - \dfrac{\pi}{3}\right)$ (cm), $t$ tính bằng giây. Lấy $\pi^2 = 10$ khi cần.
+a) Tại thời điểm $t = 0$, li độ của vật là 4 cm. (Đ)
+b) Tại thời điểm $t = 0$, vật đang chuyển động theo chiều âm. (S)
+c) Tốc độ cực đại của vật là $16\pi$ cm/s. (Đ)
+d) Khi vật ở li độ 4 cm, độ lớn gia tốc của vật là 1,6 m/s². (Đ)
+Lời giải: $x_0 = 8\cos\left(-\dfrac{\pi}{3}\right) = 4$ cm; $v_0 = -\omega A\sin\left(-\dfrac{\pi}{3}\right) > 0$ nên vật chuyển động theo chiều dương. $v_{max} = 2\pi \cdot 8 = 16\pi$ cm/s. $|a| = \omega^2|x| = 4\pi^2 \cdot 4 = 160$ cm/s² $= 1{,}6$ m/s².
+
+Câu 2. Một vật dao động điều hoà có tốc độ cực đại $10\pi$ cm/s và độ lớn gia tốc cực đại $10\pi^2$ cm/s².
+a) Tần số góc của dao động là $\pi$ rad/s. (Đ)
+b) Biên độ dao động của vật là 5 cm. (S)
+c) Chu kì dao động của vật là 2 s. (Đ)
+d) Khi vật ở li độ 6 cm thì tốc độ của vật là $6\pi$ cm/s. (S)
+Lời giải: $\omega = \dfrac{a_{max}}{v_{max}} = \pi$ rad/s; $A = \dfrac{v_{max}}{\omega} = 10$ cm; $T = \dfrac{2\pi}{\omega} = 2$ s. Tại $x = 6$ cm: $|v| = \pi\sqrt{100 - 36} = 8\pi$ cm/s.
+
+PHẦN III. Câu trắc nghiệm trả lời ngắn
+Câu 1. Một vật dao động điều hoà với phương trình $x = 5\cos\left(4\pi t + \dfrac{\pi}{2}\right)$ (cm). Quãng đường vật đi được trong 2 s đầu tiên là bao nhiêu xentimét (cm)?
+Đáp án: 80
+Lời giải: $T = \dfrac{2\pi}{4\pi} = 0{,}5$ s nên 2 s $= 4T$; $s = 4 \cdot 4A = 16 \cdot 5 = 80$ cm.
+
+Câu 2. Một vật dao động điều hoà với biên độ 10 cm và chu kì 1 s. Tốc độ trung bình của vật trong một chu kì là bao nhiêu cm/s?
+Đáp án: 40
+Lời giải: $v_{tb} = \dfrac{4A}{T} = \dfrac{40}{1} = 40$ cm/s.
+
+Câu 3. Một vật dao động điều hoà với tần số góc 10 rad/s. Tại một thời điểm vật có li độ 3 cm và vận tốc 40 cm/s. Biên độ dao động của vật là bao nhiêu xentimét (cm)?
+Đáp án: 5
+Lời giải: $A = \sqrt{x^2 + \dfrac{v^2}{\omega^2}} = \sqrt{3^2 + 4^2} = 5$ cm.

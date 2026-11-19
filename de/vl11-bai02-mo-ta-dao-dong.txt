@@ -1,0 +1,84 @@
+VẬT LÍ 11 - CHƯƠNG I. DAO ĐỘNG - BÀI 2. MÔ TẢ DAO ĐỘNG ĐIỀU HOÀ
+Đề luyện tập theo cấu trúc thi tốt nghiệp THPT (biên soạn: thầy Lâm Thế Phong, THPT An Thới)
+Thời gian: 20
+
+PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn
+Câu 1. Chu kì của dao động điều hoà là
+*A. khoảng thời gian để vật thực hiện được một dao động toàn phần.
+B. số dao động toàn phần vật thực hiện được trong một giây.
+C. khoảng thời gian vật đi từ vị trí cân bằng ra biên.
+D. độ lệch lớn nhất của vật so với vị trí cân bằng.
+
+Câu 2. Trong hệ SI, đơn vị của tần số góc $\omega$ là
+A. héc (Hz).
+B. giây (s).
+*C. rađian trên giây (rad/s).
+D. rađian (rad).
+
+Câu 3. Hệ thức liên hệ giữa tần số góc $\omega$ và tần số $f$ của dao động điều hoà là
+A. $\omega = \dfrac{2\pi}{f}$.
+*B. $\omega = 2\pi f$.
+C. $\omega = \dfrac{f}{2\pi}$.
+D. $\omega = \pi f$.
+
+Câu 4. Trong phương trình $x = A\cos(\omega t + \varphi)$, đại lượng $(\omega t + \varphi)$ được gọi là
+A. biên độ của dao động.
+B. tần số góc của dao động.
+C. pha ban đầu của dao động.
+*D. pha của dao động tại thời điểm $t$.
+
+Câu 5. Một vật dao động điều hoà thực hiện được 30 dao động toàn phần trong 15 s. Tần số dao động của vật là
+A. 0,5 Hz.
+B. 15 Hz.
+*C. 2 Hz.
+D. 450 Hz.
+Lời giải: $f = \dfrac{N}{\Delta t} = \dfrac{30}{15} = 2$ Hz.
+
+Câu 6. Một vật dao động điều hoà với phương trình $x = 4\cos\left(10\pi t + \dfrac{\pi}{6}\right)$ (cm). Chu kì dao động của vật là
+*A. 0,2 s.
+B. 5 s.
+C. 10 s.
+D. 0,1 s.
+Lời giải: $T = \dfrac{2\pi}{\omega} = \dfrac{2\pi}{10\pi} = 0{,}2$ s.
+
+Câu 7. Hai dao động điều hoà cùng tần số có phương trình $x_1 = A\cos\left(\omega t + \dfrac{\pi}{3}\right)$ và $x_2 = A\cos\left(\omega t - \dfrac{\pi}{6}\right)$. Độ lệch pha giữa hai dao động có độ lớn là
+A. $\dfrac{\pi}{6}$.
+B. $\dfrac{\pi}{3}$.
+C. $\pi$.
+*D. $\dfrac{\pi}{2}$.
+Lời giải: $\Delta\varphi = \varphi_1 - \varphi_2 = \dfrac{\pi}{3} - \left(-\dfrac{\pi}{6}\right) = \dfrac{\pi}{2}$ (hai dao động vuông pha).
+
+Câu 8. Một vật dao động điều hoà với tần số góc $4\pi$ rad/s. Số dao động toàn phần vật thực hiện được trong 1 phút là
+A. 60.
+*B. 120.
+C. 240.
+D. 2.
+Lời giải: $f = \dfrac{\omega}{2\pi} = \dfrac{4\pi}{2\pi} = 2$ Hz; trong 60 s vật thực hiện $N = f\Delta t = 2 \cdot 60 = 120$ dao động.
+
+PHẦN II. Câu trắc nghiệm đúng sai
+Câu 1. Một vật dao động điều hoà với phương trình $x = 5\cos\left(4\pi t - \dfrac{\pi}{3}\right)$ (cm).
+a) Biên độ dao động của vật là 5 cm. (Đ)
+b) Tần số dao động của vật là 4 Hz. (S)
+c) Chu kì dao động của vật là 0,5 s. (Đ)
+d) Pha ban đầu của dao động là $\dfrac{\pi}{3}$ rad. (S)
+Lời giải: $A = 5$ cm; $\omega = 4\pi$ rad/s $\Rightarrow f = \dfrac{\omega}{2\pi} = 2$ Hz, $T = \dfrac{1}{f} = 0{,}5$ s; pha ban đầu $\varphi = -\dfrac{\pi}{3}$ rad.
+
+Câu 2. Hai vật dao động điều hoà cùng tần số với phương trình $x_1 = 3\cos(\pi t)$ (cm) và $x_2 = 4\cos(\pi t + \pi)$ (cm).
+a) Hai dao động có cùng chu kì là 2 s. (Đ)
+b) Hai dao động cùng pha. (S)
+c) Khi vật 1 có li độ 3 cm thì vật 2 có li độ $-4$ cm. (Đ)
+d) Độ lệch pha giữa hai dao động không thay đổi theo thời gian. (Đ)
+Lời giải: $T = \dfrac{2\pi}{\pi} = 2$ s. $\Delta\varphi = \pi$ nên hai dao động ngược pha: khi $x_1 = 3$ cm thì $\cos(\pi t) = 1$, suy ra $x_2 = 4\cos(\pi t + \pi) = -4$ cm. Hai dao động cùng tần số nên độ lệch pha là hằng số.
+
+PHẦN III. Câu trắc nghiệm trả lời ngắn
+Câu 1. Một con lắc thực hiện được 50 dao động toàn phần trong 25 s. Chu kì dao động của con lắc là bao nhiêu giây (s)?
+Đáp án: 0,5
+Lời giải: $T = \dfrac{\Delta t}{N} = \dfrac{25}{50} = 0{,}5$ s.
+
+Câu 2. Một vật dao động điều hoà với chu kì 0,4 s. Tần số góc của dao động là bao nhiêu rad/s (làm tròn đến một chữ số sau dấu phẩy)?
+Đáp án: 15,7|15,71|15,708
+Lời giải: $\omega = \dfrac{2\pi}{T} = \dfrac{2\pi}{0{,}4} = 5\pi \approx 15{,}7$ rad/s.
+
+Câu 3. Hai dao động điều hoà cùng tần số 2 Hz, dao động thứ hai trễ pha $\dfrac{\pi}{2}$ so với dao động thứ nhất. Dao động thứ hai trễ hơn dao động thứ nhất một khoảng thời gian bao nhiêu giây (s)?
+Đáp án: 0,125
+Lời giải: $\Delta\varphi = \omega\Delta t = 2\pi f\Delta t \Rightarrow \Delta t = \dfrac{\Delta\varphi}{2\pi f} = \dfrac{\pi/2}{4\pi} = 0{,}125$ s (bằng $\dfrac{T}{4}$).

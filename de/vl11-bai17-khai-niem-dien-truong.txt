@@ -1,0 +1,88 @@
+VẬT LÍ 11 - CHƯƠNG III. ĐIỆN TRƯỜNG - BÀI 17. KHÁI NIỆM ĐIỆN TRƯỜNG
+Đề luyện tập theo cấu trúc thi tốt nghiệp THPT (biên soạn: thầy Lâm Thế Phong, THPT An Thới)
+Thời gian: 20
+
+PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn
+Câu 1. Điện trường là
+*A. dạng vật chất bao quanh điện tích, gắn liền với điện tích và tác dụng lực điện lên điện tích khác đặt trong nó.
+B. môi trường không khí bao quanh điện tích.
+C. môi trường chứa các electron tự do.
+D. khoảng không gian chỉ tồn tại giữa hai bản kim loại tích điện.
+Lời giải: Điện trường là một dạng vật chất tồn tại xung quanh điện tích và truyền tương tác điện.
+
+Câu 2. Cường độ điện trường tại một điểm là đại lượng đặc trưng cho
+A. thể tích vùng có điện trường.
+B. tốc độ của điện tích đặt tại điểm đó.
+*C. điện trường tại điểm đó về phương diện tác dụng lực.
+D. năng lượng của điện tích đặt tại điểm đó.
+Lời giải: $E = \dfrac{F}{q}$ đặc trưng cho điện trường về phương diện tác dụng lực.
+
+Câu 3. Đơn vị của cường độ điện trường là
+A. N.m.
+*B. V/m.
+C. C/m.
+D. J/C.
+Lời giải: Cường độ điện trường có đơn vị V/m (hay N/C).
+
+Câu 4. Vectơ cường độ điện trường do một điện tích điểm $Q > 0$ gây ra tại điểm M có
+A. phương vuông góc với đường thẳng nối Q và M.
+B. chiều hướng từ M về phía Q.
+C. độ lớn không phụ thuộc khoảng cách từ Q đến M.
+*D. chiều hướng ra xa Q.
+Lời giải: Điện tích dương gây ra điện trường hướng ra xa nó; điện tích âm gây ra điện trường hướng về phía nó.
+
+Câu 5. Một điện tích thử $q = 2 \cdot 10^{-6}$ C đặt tại một điểm trong điện trường chịu tác dụng của lực điện có độ lớn 0,4 N. Cường độ điện trường tại điểm đó có độ lớn là
+*A. $2 \cdot 10^5$ V/m.
+B. $8 \cdot 10^{-7}$ V/m.
+C. $5 \cdot 10^4$ V/m.
+D. $2 \cdot 10^6$ V/m.
+Lời giải: $E = \dfrac{F}{q} = \dfrac{0{,}4}{2 \cdot 10^{-6}} = 2 \cdot 10^5$ V/m.
+
+Câu 6. Một điện tích điểm $Q = 4 \cdot 10^{-9}$ C đặt trong chân không. Lấy $k = 9 \cdot 10^9$ N.m²/C². Cường độ điện trường do Q gây ra tại điểm cách nó 3 cm có độ lớn là
+A. $1{,}2 \cdot 10^3$ V/m.
+B. $4 \cdot 10^2$ V/m.
+*C. $4 \cdot 10^4$ V/m.
+D. $4 \cdot 10^6$ V/m.
+Lời giải: $E = k\dfrac{|Q|}{r^2} = 9 \cdot 10^9 \cdot \dfrac{4 \cdot 10^{-9}}{0{,}03^2} = 4 \cdot 10^4$ V/m.
+
+Câu 7. Tại điểm M cách một điện tích điểm Q một khoảng r, cường độ điện trường có độ lớn 900 V/m. Tại điểm N cách Q một khoảng 3r (cùng môi trường), cường độ điện trường có độ lớn là
+A. 300 V/m.
+*B. 100 V/m.
+C. 2700 V/m.
+D. 8100 V/m.
+Lời giải: $E \sim \dfrac{1}{r^2}$ nên $E_N = \dfrac{E_M}{9} = 100$ V/m.
+
+Câu 8. Hai điện tích điểm $Q_1 = +4 \cdot 10^{-9}$ C và $Q_2 = -4 \cdot 10^{-9}$ C đặt tại A và B cách nhau 6 cm trong chân không. Lấy $k = 9 \cdot 10^9$ N.m²/C². Cường độ điện trường tổng hợp tại trung điểm của AB có độ lớn là
+A. 0 V/m.
+B. $4 \cdot 10^4$ V/m.
+C. $2 \cdot 10^4$ V/m.
+*D. $8 \cdot 10^4$ V/m.
+Lời giải: Mỗi điện tích gây ra $E_1 = E_2 = 9 \cdot 10^9 \cdot \dfrac{4 \cdot 10^{-9}}{0{,}03^2} = 4 \cdot 10^4$ V/m, cả hai cùng hướng từ A sang B nên $E = E_1 + E_2 = 8 \cdot 10^4$ V/m.
+
+PHẦN II. Câu trắc nghiệm đúng sai
+Câu 1. Một điện tích điểm $Q = -8 \cdot 10^{-9}$ C đặt tại điểm O trong không khí. Điểm M cách O 6 cm, điểm N cách O 12 cm. Lấy $k = 9 \cdot 10^9$ N.m²/C².
+a) Vectơ cường độ điện trường tại M hướng từ M về O. (Đ)
+b) Cường độ điện trường tại M có độ lớn $2 \cdot 10^4$ V/m. (Đ)
+c) Đặt tại M điện tích $q = +2 \cdot 10^{-9}$ C thì lực điện tác dụng lên q có độ lớn $4 \cdot 10^{-5}$ N và hướng ra xa O. (S)
+d) Cường độ điện trường tại N có độ lớn $5 \cdot 10^3$ V/m. (Đ)
+Lời giải: Q âm nên $\vec E$ hướng về Q. $E_M = 9 \cdot 10^9 \cdot \dfrac{8 \cdot 10^{-9}}{0{,}06^2} = 2 \cdot 10^4$ V/m. $F = qE_M = 4 \cdot 10^{-5}$ N, q dương nên lực cùng chiều $\vec E$, tức hướng về O. $r_N = 2r_M \Rightarrow E_N = \dfrac{E_M}{4} = 5 \cdot 10^3$ V/m.
+
+Câu 2. Xét các phát biểu về đường sức điện.
+a) Các đường sức điện không cắt nhau. (Đ)
+b) Đường sức điện của điện trường do các điện tích đứng yên gây ra là những đường cong khép kín. (S)
+c) Ở nơi các đường sức điện mau (dày) thì cường độ điện trường lớn. (Đ)
+d) Đường sức điện xuất phát từ điện tích âm và kết thúc ở điện tích dương. (S)
+Lời giải: Đường sức điện của điện trường tĩnh là đường không khép kín, đi ra từ điện tích dương và kết thúc ở điện tích âm (hoặc ở vô cực). Tiếp tuyến tại mỗi điểm cho phương của $\vec E$.
+
+PHẦN III. Câu trắc nghiệm trả lời ngắn
+Câu 1. Một điện tích điểm Q đặt trong chân không gây ra tại điểm cách nó 2 cm một điện trường có cường độ $4{,}5 \cdot 10^4$ V/m. Lấy $k = 9 \cdot 10^9$ N.m²/C². Độ lớn của Q là bao nhiêu nanôculông (nC)?
+Đáp án: 2
+Lời giải: $|Q| = \dfrac{E r^2}{k} = \dfrac{4{,}5 \cdot 10^4 \cdot 0{,}02^2}{9 \cdot 10^9} = 2 \cdot 10^{-9}$ C $= 2$ nC.
+
+Câu 2. Một điện tích điểm $Q = 10^{-8}$ C đặt trong dầu có hằng số điện môi $\varepsilon = 2$. Lấy $k = 9 \cdot 10^9$ N.m²/C². Cường độ điện trường do Q gây ra tại điểm cách nó 5 cm là bao nhiêu kV/m?
+Đáp án: 18
+Lời giải: $E = k\dfrac{|Q|}{\varepsilon r^2} = 9 \cdot 10^9 \cdot \dfrac{10^{-8}}{2 \cdot 0{,}05^2} = 1{,}8 \cdot 10^4$ V/m $= 18$ kV/m.
+
+Câu 3. Hai điện tích điểm $Q_1 = Q_2 = +10^{-9}$ C đặt tại A và B cách nhau 8 cm trong không khí. Điểm M nằm trên đường trung trực của AB và cách trung điểm H của AB một đoạn 3 cm. Lấy $k = 9 \cdot 10^9$ N.m²/C². Cường độ điện trường tổng hợp tại M là bao nhiêu V/m?
+Đáp án: 4320
+Lời giải: $AM = BM = \sqrt{4^2 + 3^2} = 5$ cm; $E_1 = E_2 = 9 \cdot 10^9 \cdot \dfrac{10^{-9}}{0{,}05^2} = 3600$ V/m. Các thành phần song song với AB triệt tiêu, còn lại $E = 2E_1\cos\alpha = 2 \cdot 3600 \cdot \dfrac{3}{5} = 4320$ V/m.

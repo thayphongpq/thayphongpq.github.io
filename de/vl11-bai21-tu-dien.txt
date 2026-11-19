@@ -1,0 +1,88 @@
+VẬT LÍ 11 - CHƯƠNG III. ĐIỆN TRƯỜNG - BÀI 21. TỤ ĐIỆN
+Đề luyện tập theo cấu trúc thi tốt nghiệp THPT (biên soạn: thầy Lâm Thế Phong, THPT An Thới)
+Thời gian: 20
+
+PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn
+Câu 1. Tụ điện là
+A. một vật dẫn tích điện đặt cô lập.
+*B. hệ hai vật dẫn đặt gần nhau và ngăn cách nhau bằng một lớp cách điện.
+C. hệ hai vật cách điện đặt tiếp xúc với nhau.
+D. một nguồn điện tạo ra dòng điện không đổi.
+Lời giải: Tụ điện gồm hai vật dẫn (hai bản tụ) đặt gần nhau, ngăn cách bằng lớp điện môi; dùng để tích và phóng điện.
+
+Câu 2. Điện dung của tụ điện là đại lượng
+A. đặc trưng cho khả năng cản trở dòng điện của tụ.
+B. bằng tích của điện tích và hiệu điện thế giữa hai bản tụ.
+C. tỉ lệ thuận với hiệu điện thế đặt vào tụ.
+*D. đặc trưng cho khả năng tích điện của tụ ở một hiệu điện thế nhất định, đo bằng $C = \dfrac{Q}{U}$.
+Lời giải: $C = \dfrac{Q}{U}$, không phụ thuộc Q và U mà phụ thuộc cấu tạo của tụ.
+
+Câu 3. Đơn vị của điện dung là
+*A. fara (F).
+B. vôn (V).
+C. culông (C).
+D. ôm ($\Omega$).
+Lời giải: 1 F = 1 C/V; thực tế thường dùng $\mu$F, nF, pF.
+
+Câu 4. Hai tụ điện có điện dung $C_1$ và $C_2$ ghép nối tiếp. Điện dung tương đương $C_b$ của bộ tụ thỏa mãn
+A. $C_b = C_1 + C_2$.
+B. $C_b = C_1 C_2$.
+*C. $\dfrac{1}{C_b} = \dfrac{1}{C_1} + \dfrac{1}{C_2}$.
+D. $C_b = C_1 - C_2$.
+Lời giải: Ghép nối tiếp: $\dfrac{1}{C_b} = \dfrac{1}{C_1} + \dfrac{1}{C_2}$; ghép song song: $C_b = C_1 + C_2$.
+
+Câu 5. Một tụ điện có điện dung $20\ \mu$F được nối vào hiệu điện thế 50 V. Điện tích của tụ là
+*A. $10^{-3}$ C.
+B. $4 \cdot 10^{-7}$ C.
+C. $10^{3}$ C.
+D. $2{,}5 \cdot 10^{-6}$ C.
+Lời giải: $Q = CU = 20 \cdot 10^{-6} \cdot 50 = 10^{-3}$ C.
+
+Câu 6. Hai tụ điện có điện dung $3\ \mu$F và $6\ \mu$F ghép nối tiếp. Điện dung của bộ tụ là
+A. $9\ \mu$F.
+B. $4{,}5\ \mu$F.
+*C. $2\ \mu$F.
+D. $18\ \mu$F.
+Lời giải: $C_b = \dfrac{C_1 C_2}{C_1 + C_2} = \dfrac{3 \cdot 6}{3 + 6} = 2\ \mu$F.
+
+Câu 7. Hai tụ điện có điện dung $2\ \mu$F và $4\ \mu$F ghép song song rồi nối vào hiệu điện thế 10 V. Tổng điện tích của bộ tụ là
+A. $2 \cdot 10^{-5}$ C.
+*B. $6 \cdot 10^{-5}$ C.
+C. $4 \cdot 10^{-5}$ C.
+D. $1{,}3 \cdot 10^{-5}$ C.
+Lời giải: $C_b = 2 + 4 = 6\ \mu$F; $Q = C_b U = 6 \cdot 10^{-6} \cdot 10 = 6 \cdot 10^{-5}$ C.
+
+Câu 8. Một tụ điện có điện dung $10\ \mu$F được tích điện đến hiệu điện thế 200 V. Năng lượng của tụ điện là
+A. 2 J.
+B. $2 \cdot 10^{-3}$ J.
+C. 0,1 J.
+*D. 0,2 J.
+Lời giải: $W = \dfrac{1}{2}CU^2 = \dfrac{1}{2} \cdot 10^{-5} \cdot 200^2 = 0{,}2$ J.
+
+PHẦN II. Câu trắc nghiệm đúng sai
+Câu 1. Hai tụ điện $C_1 = 4\ \mu$F và $C_2 = 12\ \mu$F ghép nối tiếp rồi mắc vào hiệu điện thế 20 V.
+a) Điện dung của bộ tụ là $3\ \mu$F. (Đ)
+b) Điện tích của mỗi tụ là $6 \cdot 10^{-5}$ C. (Đ)
+c) Hiệu điện thế giữa hai bản tụ $C_1$ là 5 V. (S)
+d) Năng lượng của bộ tụ là $1{,}2 \cdot 10^{-3}$ J. (S)
+Lời giải: $C_b = \dfrac{4 \cdot 12}{4 + 12} = 3\ \mu$F; ghép nối tiếp nên $Q_1 = Q_2 = C_b U = 6 \cdot 10^{-5}$ C. $U_1 = \dfrac{Q}{C_1} = 15$ V, $U_2 = 5$ V. $W = \dfrac{1}{2}C_b U^2 = \dfrac{1}{2} \cdot 3 \cdot 10^{-6} \cdot 400 = 6 \cdot 10^{-4}$ J.
+
+Câu 2. Xét các phát biểu về tụ điện.
+a) Điện dung của một tụ điện phụ thuộc vào hiệu điện thế đặt vào hai bản tụ. (S)
+b) Khi tụ điện được tích điện, hai bản tụ mang điện tích trái dấu và có độ lớn bằng nhau. (Đ)
+c) Mỗi tụ điện có một hiệu điện thế giới hạn; nếu vượt quá giá trị này thì lớp điện môi có thể bị đánh thủng. (Đ)
+d) Khi ghép song song các tụ điện, điện dung của bộ lớn hơn điện dung của từng tụ. (Đ)
+Lời giải: C chỉ phụ thuộc cấu tạo tụ (kích thước, khoảng cách hai bản, điện môi). Ghép song song: $C_b = C_1 + C_2 + \dots$ lớn hơn mỗi tụ.
+
+PHẦN III. Câu trắc nghiệm trả lời ngắn
+Câu 1. Một tụ điện có điện dung $5\ \mu$F tích được điện tích $6 \cdot 10^{-4}$ C. Hiệu điện thế giữa hai bản tụ là bao nhiêu vôn (V)?
+Đáp án: 120
+Lời giải: $U = \dfrac{Q}{C} = \dfrac{6 \cdot 10^{-4}}{5 \cdot 10^{-6}} = 120$ V.
+
+Câu 2. Tụ $C_2 = 1\ \mu$F ghép song song với tụ $C_3 = 3\ \mu$F, rồi cả cụm ghép nối tiếp với tụ $C_1 = 2\ \mu$F. Điện dung của bộ tụ là bao nhiêu $\mu$F (làm tròn đến hai chữ số sau dấu phẩy)?
+Đáp án: 1,33|1,3|1,333
+Lời giải: $C_{23} = 1 + 3 = 4\ \mu$F; $C_b = \dfrac{C_1 C_{23}}{C_1 + C_{23}} = \dfrac{2 \cdot 4}{2 + 4} \approx 1{,}33\ \mu$F.
+
+Câu 3. Tụ điện trong đèn flash của một máy ảnh có điện dung $2000\ \mu$F, được tích điện đến hiệu điện thế 300 V. Năng lượng tụ giải phóng khi phóng hết điện là bao nhiêu jun (J)?
+Đáp án: 90
+Lời giải: $W = \dfrac{1}{2}CU^2 = \dfrac{1}{2} \cdot 2 \cdot 10^{-3} \cdot 300^2 = 90$ J.

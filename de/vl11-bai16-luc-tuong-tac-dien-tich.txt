@@ -1,0 +1,88 @@
+VẬT LÍ 11 - CHƯƠNG III. ĐIỆN TRƯỜNG - BÀI 16. LỰC TƯƠNG TÁC GIỮA CÁC ĐIỆN TÍCH
+Đề luyện tập theo cấu trúc thi tốt nghiệp THPT (biên soạn: thầy Lâm Thế Phong, THPT An Thới)
+Thời gian: 20
+
+PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn
+Câu 1. Hai điện tích điểm cùng dấu đặt gần nhau thì chúng
+A. hút nhau.
+*B. đẩy nhau.
+C. không tương tác với nhau.
+D. lúc hút nhau, lúc đẩy nhau.
+Lời giải: Các điện tích cùng dấu thì đẩy nhau, trái dấu thì hút nhau.
+
+Câu 2. Theo định luật Coulomb, độ lớn lực tương tác giữa hai điện tích điểm đặt trong chân không
+*A. tỉ lệ thuận với tích độ lớn hai điện tích và tỉ lệ nghịch với bình phương khoảng cách giữa chúng.
+B. tỉ lệ thuận với tổng độ lớn hai điện tích và tỉ lệ nghịch với khoảng cách giữa chúng.
+C. tỉ lệ nghịch với tích độ lớn hai điện tích và tỉ lệ thuận với bình phương khoảng cách giữa chúng.
+D. không phụ thuộc vào khoảng cách giữa hai điện tích.
+Lời giải: $F = k\dfrac{|q_1 q_2|}{r^2}$.
+
+Câu 3. Trong hệ SI, đơn vị của điện tích là
+A. vôn (V).
+B. niutơn (N).
+C. fara (F).
+*D. culông (C).
+Lời giải: Điện tích đo bằng culông (C).
+
+Câu 4. Hai điện tích điểm đặt cố định trong chân không. Nếu đưa cả hệ vào một điện môi đồng chất có hằng số điện môi $\varepsilon$ (giữ nguyên khoảng cách) thì lực tương tác giữa chúng
+A. tăng $\varepsilon$ lần.
+B. tăng $\varepsilon^2$ lần.
+*C. giảm $\varepsilon$ lần.
+D. không thay đổi.
+Lời giải: $F = k\dfrac{|q_1 q_2|}{\varepsilon r^2}$ nên lực giảm $\varepsilon$ lần so với trong chân không.
+
+Câu 5. Hai điện tích điểm $q_1 = 2 \cdot 10^{-6}$ C và $q_2 = 3 \cdot 10^{-6}$ C đặt cách nhau 30 cm trong chân không. Lấy $k = 9 \cdot 10^9$ N.m²/C². Độ lớn lực tương tác giữa chúng là
+A. 0,06 N.
+*B. 0,6 N.
+C. 1,8 N.
+D. 0,18 N.
+Lời giải: $F = k\dfrac{|q_1 q_2|}{r^2} = 9 \cdot 10^9 \cdot \dfrac{2 \cdot 10^{-6} \cdot 3 \cdot 10^{-6}}{0{,}3^2} = 0{,}6$ N.
+
+Câu 6. Hai điện tích điểm đặt trong không khí hút nhau bằng một lực 16 N. Nếu tăng khoảng cách giữa chúng lên gấp đôi thì lực hút giữa chúng có độ lớn
+*A. 4 N.
+B. 8 N.
+C. 32 N.
+D. 64 N.
+Lời giải: $F \sim \dfrac{1}{r^2}$: khi $r' = 2r$ thì $F' = \dfrac{F}{4} = 4$ N.
+
+Câu 7. Hai điện tích điểm $q_1 = q_2 = 4 \cdot 10^{-8}$ C đặt cách nhau 3 cm trong dầu có hằng số điện môi $\varepsilon = 2$. Lấy $k = 9 \cdot 10^9$ N.m²/C². Độ lớn lực tương tác giữa chúng là
+A. $1{,}6 \cdot 10^{-2}$ N.
+B. $4 \cdot 10^{-3}$ N.
+C. $8 \cdot 10^{-5}$ N.
+*D. $8 \cdot 10^{-3}$ N.
+Lời giải: $F = k\dfrac{|q_1 q_2|}{\varepsilon r^2} = 9 \cdot 10^9 \cdot \dfrac{16 \cdot 10^{-16}}{2 \cdot (0{,}03)^2} = 8 \cdot 10^{-3}$ N.
+
+Câu 8. Hai điện tích điểm $q_1 = +4\ \mu$C và $q_2 = -4\ \mu$C đặt lần lượt tại A và B cách nhau 20 cm trong chân không. Đặt điện tích $q_3 = +1\ \mu$C tại trung điểm M của AB. Lấy $k = 9 \cdot 10^9$ N.m²/C². Độ lớn lực điện tổng hợp tác dụng lên $q_3$ là
+A. 0 N.
+B. 3,6 N.
+*C. 7,2 N.
+D. 14,4 N.
+Lời giải: Mỗi lực có độ lớn $F = 9 \cdot 10^9 \cdot \dfrac{4 \cdot 10^{-6} \cdot 10^{-6}}{0{,}1^2} = 3{,}6$ N. $q_1$ đẩy $q_3$ về phía B, $q_2$ hút $q_3$ về phía B nên hai lực cùng chiều: $F = 3{,}6 + 3{,}6 = 7{,}2$ N.
+
+PHẦN II. Câu trắc nghiệm đúng sai
+Câu 1. Hai điện tích điểm $q_1 = 6 \cdot 10^{-9}$ C và $q_2 = -2 \cdot 10^{-9}$ C đặt tại hai điểm A, B cách nhau 3 cm trong không khí. Lấy $k = 9 \cdot 10^9$ N.m²/C².
+a) Hai điện tích hút nhau. (Đ)
+b) Lực tương tác giữa hai điện tích có độ lớn $1{,}2 \cdot 10^{-4}$ N. (Đ)
+c) Nếu giảm khoảng cách giữa hai điện tích còn 1 cm thì lực tương tác tăng 3 lần. (S)
+d) Cho hai quả cầu nhỏ mang hai điện tích trên (giống hệt nhau) chạm vào nhau rồi đưa về vị trí cũ thì chúng đẩy nhau bằng lực $4 \cdot 10^{-5}$ N. (Đ)
+Lời giải: Hai điện tích trái dấu nên hút nhau. $F = 9 \cdot 10^9 \cdot \dfrac{6 \cdot 10^{-9} \cdot 2 \cdot 10^{-9}}{0{,}03^2} = 1{,}2 \cdot 10^{-4}$ N. Khoảng cách giảm 3 lần thì lực tăng 9 lần. Sau khi chạm: $q' = \dfrac{6 - 2}{2} \cdot 10^{-9} = 2 \cdot 10^{-9}$ C (cùng dấu, đẩy nhau), $F' = 9 \cdot 10^9 \cdot \dfrac{(2 \cdot 10^{-9})^2}{0{,}03^2} = 4 \cdot 10^{-5}$ N.
+
+Câu 2. Xét các phát biểu về tương tác giữa các điện tích.
+a) Điện tích điểm là vật mang điện có kích thước rất nhỏ so với khoảng cách tới điểm mà ta xét. (Đ)
+b) Lực tương tác giữa hai điện tích điểm có phương trùng với đường thẳng nối hai điện tích đó. (Đ)
+c) Hằng số điện môi của chân không nhỏ hơn 1. (S)
+d) Độ lớn lực tương tác giữa hai điện tích điểm tỉ lệ nghịch với khoảng cách giữa chúng. (S)
+Lời giải: Chân không có $\varepsilon = 1$, các điện môi khác có $\varepsilon > 1$. Lực Coulomb tỉ lệ nghịch với bình phương khoảng cách: $F = k\dfrac{|q_1 q_2|}{\varepsilon r^2}$.
+
+PHẦN III. Câu trắc nghiệm trả lời ngắn
+Câu 1. Hai điện tích điểm bằng nhau đặt cách nhau 10 cm trong chân không thì đẩy nhau bằng một lực 0,9 N. Lấy $k = 9 \cdot 10^9$ N.m²/C². Độ lớn mỗi điện tích là bao nhiêu micrôculông ($\mu$C)?
+Đáp án: 1
+Lời giải: $q^2 = \dfrac{F r^2}{k} = \dfrac{0{,}9 \cdot 0{,}1^2}{9 \cdot 10^9} = 10^{-12} \Rightarrow q = 10^{-6}$ C $= 1\ \mu$C.
+
+Câu 2. Hai điện tích điểm đặt cách nhau 6 cm trong chân không. Khi đặt chúng trong dầu có hằng số điện môi $\varepsilon = 2{,}25$, để lực tương tác vẫn như cũ thì khoảng cách giữa chúng phải bằng bao nhiêu xentimét (cm)?
+Đáp án: 4
+Lời giải: $\dfrac{k|q_1 q_2|}{r^2} = \dfrac{k|q_1 q_2|}{\varepsilon r'^2} \Rightarrow r' = \dfrac{r}{\sqrt{\varepsilon}} = \dfrac{6}{1{,}5} = 4$ cm.
+
+Câu 3. Hai điện tích điểm $q_1 = +2 \cdot 10^{-8}$ C và $q_2 = +8 \cdot 10^{-8}$ C đặt cố định tại A và B cách nhau 9 cm trong không khí. Phải đặt một điện tích $q_3$ tại điểm C trên đoạn AB cách A bao nhiêu xentimét (cm) để $q_3$ nằm cân bằng?
+Đáp án: 3
+Lời giải: Lực do $q_1$ và $q_2$ tác dụng lên $q_3$ phải cân bằng: $\dfrac{k|q_1 q_3|}{x^2} = \dfrac{k|q_2 q_3|}{(9 - x)^2} \Rightarrow \dfrac{9 - x}{x} = \sqrt{\dfrac{q_2}{q_1}} = 2 \Rightarrow x = 3$ cm.

@@ -1,0 +1,88 @@
+VẬT LÍ 11 - CHƯƠNG IV. DÒNG ĐIỆN. MẠCH ĐIỆN - BÀI 25. NĂNG LƯỢNG VÀ CÔNG SUẤT ĐIỆN
+Đề luyện tập theo cấu trúc thi tốt nghiệp THPT (biên soạn: thầy Lâm Thế Phong, THPT An Thới)
+Thời gian: 20
+
+PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn
+Câu 1. Điện năng tiêu thụ của một đoạn mạch có hiệu điện thế U, dòng điện I chạy qua trong thời gian t được tính bằng
+A. $A = \dfrac{UI}{t}$.
+*B. $A = UIt$.
+C. $A = \dfrac{Ut}{I}$.
+D. $A = U^2 I t$.
+Lời giải: Điện năng tiêu thụ bằng công của lực điện: $A = qU = UIt$.
+
+Câu 2. Đơn vị của công suất điện là
+*A. oát (W).
+B. jun (J).
+C. kilôoát giờ (kWh).
+D. vôn (V).
+Lời giải: $P = UI$, đơn vị W; kWh là đơn vị của điện năng.
+
+Câu 3. Theo định luật Joule – Lenz, nhiệt lượng tỏa ra trên vật dẫn có điện trở R, dòng điện I chạy qua trong thời gian t là
+A. $Q = RIt$.
+B. $Q = R^2 I t$.
+C. $Q = \dfrac{I^2 t}{R}$.
+*D. $Q = RI^2 t$.
+Lời giải: Nhiệt lượng tỏa ra tỉ lệ thuận với điện trở, bình phương cường độ dòng điện và thời gian: $Q = RI^2 t$.
+
+Câu 4. Một kilôoát giờ (1 kWh) bằng
+A. 1000 J.
+B. 3600 J.
+*C. $3{,}6 \cdot 10^6$ J.
+D. $3{,}6 \cdot 10^5$ J.
+Lời giải: 1 kWh = 1000 W · 3600 s = $3{,}6 \cdot 10^6$ J.
+
+Câu 5. Một bóng đèn có ghi 220 V – 110 W đang sáng bình thường. Cường độ dòng điện chạy qua đèn là
+A. 2 A.
+*B. 0,5 A.
+C. 110 A.
+D. 0,25 A.
+Lời giải: $I = \dfrac{P}{U} = \dfrac{110}{220} = 0{,}5$ A.
+
+Câu 6. Dòng điện có cường độ 2 A chạy qua một điện trở 10 $\Omega$ trong 1 phút. Nhiệt lượng tỏa ra trên điện trở là
+A. 1200 J.
+B. 40 J.
+C. 400 J.
+*D. 2400 J.
+Lời giải: $Q = RI^2 t = 10 \cdot 2^2 \cdot 60 = 2400$ J.
+
+Câu 7. Một nồi cơm điện có công suất 800 W, mỗi ngày dùng 30 phút. Điện năng nồi tiêu thụ trong 30 ngày là
+*A. 12 kWh.
+B. 24 kWh.
+C. 720 kWh.
+D. 0,4 kWh.
+Lời giải: $A = Pt = 0{,}8 \text{ kW} \cdot 0{,}5 \text{ h} \cdot 30 = 12$ kWh.
+
+Câu 8. Một nguồn điện có suất điện động 12 V, điện trở trong 1 $\Omega$ nối với điện trở mạch ngoài 5 $\Omega$. Hiệu suất của nguồn điện là
+A. 16,7%.
+B. 90%.
+*C. 83,3%.
+D. 50%.
+Lời giải: $I = \dfrac{12}{5 + 1} = 2$ A; $U = IR = 10$ V; $H = \dfrac{U}{\mathcal{E}} = \dfrac{10}{12} \approx 83{,}3\%$.
+
+PHẦN II. Câu trắc nghiệm đúng sai
+Câu 1. Một ấm điện có ghi 220 V – 1000 W được dùng ở hiệu điện thế 220 V để đun sôi 1 kg nước từ 25 °C. Nhiệt dung riêng của nước là 4200 J/(kg.K).
+a) Cường độ dòng điện chạy qua ấm xấp xỉ 4,55 A. (Đ)
+b) Điện trở của dây nung trong ấm là 48,4 $\Omega$. (Đ)
+c) Nhiệt lượng nước cần thu vào để sôi là 315 kJ. (Đ)
+d) Nếu thời gian đun sôi nước là 350 s thì hiệu suất của ấm là 80%. (S)
+Lời giải: $I = \dfrac{1000}{220} \approx 4{,}55$ A; $R = \dfrac{U^2}{P} = \dfrac{220^2}{1000} = 48{,}4\ \Omega$. $Q = mc\Delta t = 1 \cdot 4200 \cdot 75 = 315000$ J. $H = \dfrac{Q}{Pt} = \dfrac{315000}{1000 \cdot 350} = 90\%$.
+
+Câu 2. Một nguồn điện có suất điện động 12 V, điện trở trong 2 $\Omega$ được nối với điện trở mạch ngoài R = 4 $\Omega$.
+a) Công suất của nguồn điện là 24 W. (Đ)
+b) Công suất tiêu thụ ở mạch ngoài là 18 W. (S)
+c) Trong 10 phút, nguồn điện sản ra công 14,4 kJ. (Đ)
+d) Muốn công suất tiêu thụ ở mạch ngoài lớn nhất thì phải thay R bằng điện trở 2 $\Omega$. (Đ)
+Lời giải: $I = \dfrac{12}{4 + 2} = 2$ A; $P_{ng} = \mathcal{E}I = 24$ W; $P_R = RI^2 = 16$ W. $A = \mathcal{E}It = 24 \cdot 600 = 14400$ J. $P_R = \dfrac{\mathcal{E}^2 R}{(R + r)^2}$ lớn nhất khi $R = r = 2\ \Omega$.
+
+PHẦN III. Câu trắc nghiệm trả lời ngắn
+Câu 1. Một bóng đèn có ghi 6 V – 3 W. Điện trở của đèn khi sáng bình thường là bao nhiêu ôm ($\Omega$)?
+Đáp án: 12
+Lời giải: $R = \dfrac{U^2}{P} = \dfrac{6^2}{3} = 12\ \Omega$.
+
+Câu 2. Một chiếc tivi có công suất 100 W, mỗi ngày dùng 5 giờ. Giá điện trung bình là 2000 đồng/kWh. Tiền điện phải trả cho tivi trong 30 ngày là bao nhiêu nghìn đồng?
+Đáp án: 30
+Lời giải: $A = 0{,}1 \cdot 5 \cdot 30 = 15$ kWh; tiền điện $= 15 \cdot 2000 = 30000$ đồng $= 30$ nghìn đồng.
+
+Câu 3. Hai điện trở $R_1 = 3\ \Omega$ và $R_2 = 6\ \Omega$ mắc nối tiếp vào hiệu điện thế 18 V. Nhiệt lượng tỏa ra trên $R_2$ trong 5 phút là bao nhiêu kilôjun (kJ)?
+Đáp án: 7,2
+Lời giải: $I = \dfrac{18}{3 + 6} = 2$ A; $Q_2 = R_2 I^2 t = 6 \cdot 4 \cdot 300 = 7200$ J $= 7{,}2$ kJ.

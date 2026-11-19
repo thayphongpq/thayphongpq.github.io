@@ -1,0 +1,86 @@
+VẬT LÍ 11 - CHƯƠNG I. DAO ĐỘNG - BÀI 3. VẬN TỐC, GIA TỐC TRONG DAO ĐỘNG ĐIỀU HOÀ
+Đề luyện tập theo cấu trúc thi tốt nghiệp THPT (biên soạn: thầy Lâm Thế Phong, THPT An Thới)
+Thời gian: 20
+
+PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn
+Câu 1. Một vật dao động điều hoà với phương trình $x = A\cos(\omega t + \varphi)$. Tốc độ cực đại của vật là
+A. $v_{max} = \omega^2 A$.
+B. $v_{max} = \dfrac{A}{\omega}$.
+C. $v_{max} = \omega A^2$.
+*D. $v_{max} = \omega A$.
+
+Câu 2. Trong dao động điều hoà, vectơ gia tốc của vật luôn
+A. hướng ra xa vị trí cân bằng.
+*B. hướng về vị trí cân bằng.
+C. cùng chiều chuyển động của vật.
+D. ngược chiều với vectơ vận tốc.
+Lời giải: $a = -\omega^2 x$ nên gia tốc luôn ngược dấu với li độ, tức là luôn hướng về vị trí cân bằng.
+
+Câu 3. Khi một vật dao động điều hoà đi qua vị trí cân bằng thì
+*A. tốc độ của vật cực đại, gia tốc bằng 0.
+B. tốc độ của vật bằng 0, gia tốc cực đại.
+C. tốc độ và gia tốc đều cực đại.
+D. tốc độ và gia tốc đều bằng 0.
+
+Câu 4. Trong dao động điều hoà, so với li độ thì vận tốc của vật biến thiên
+A. cùng pha.
+B. ngược pha.
+*C. sớm pha $\dfrac{\pi}{2}$.
+D. trễ pha $\dfrac{\pi}{2}$.
+Lời giải: $v = -\omega A\sin(\omega t + \varphi) = \omega A\cos\left(\omega t + \varphi + \dfrac{\pi}{2}\right)$.
+
+Câu 5. Một vật dao động điều hoà với phương trình $x = 5\cos(4t)$ (cm), $t$ tính bằng giây. Tốc độ cực đại của vật là
+*A. 20 cm/s.
+B. 80 cm/s.
+C. 1,25 cm/s.
+D. 9 cm/s.
+Lời giải: $v_{max} = \omega A = 4 \cdot 5 = 20$ cm/s.
+
+Câu 6. Một vật dao động điều hoà với biên độ 4 cm và tần số góc 10 rad/s. Độ lớn gia tốc cực đại của vật là
+A. 40 m/s².
+B. 0,4 m/s².
+C. 400 m/s².
+*D. 4 m/s².
+Lời giải: $a_{max} = \omega^2 A = 10^2 \cdot 0{,}04 = 4$ m/s².
+
+Câu 7. Một vật dao động điều hoà với tần số góc 5 rad/s. Khi vật có li độ 2 cm thì gia tốc của vật là
+A. 50 cm/s².
+*B. $-50$ cm/s².
+C. $-10$ cm/s².
+D. 10 cm/s².
+Lời giải: $a = -\omega^2 x = -25 \cdot 2 = -50$ cm/s².
+
+Câu 8. Một vật dao động điều hoà với biên độ 10 cm và tần số góc 2 rad/s. Khi vật có li độ 6 cm thì tốc độ của vật là
+A. 20 cm/s.
+B. 12 cm/s.
+*C. 16 cm/s.
+D. 8 cm/s.
+Lời giải: $|v| = \omega\sqrt{A^2 - x^2} = 2\sqrt{10^2 - 6^2} = 2 \cdot 8 = 16$ cm/s.
+
+PHẦN II. Câu trắc nghiệm đúng sai
+Câu 1. Một vật dao động điều hoà với phương trình $x = 6\cos(10t)$ (cm), $t$ tính bằng giây.
+a) Tốc độ cực đại của vật là 60 cm/s. (Đ)
+b) Độ lớn gia tốc cực đại của vật là 6 m/s². (Đ)
+c) Tại thời điểm $t = 0$, vận tốc của vật bằng 60 cm/s. (S)
+d) Phương trình vận tốc của vật là $v = -60\sin(10t)$ (cm/s). (Đ)
+Lời giải: $v_{max} = \omega A = 60$ cm/s; $a_{max} = \omega^2 A = 100 \cdot 6 = 600$ cm/s² $= 6$ m/s². Tại $t = 0$ vật ở biên dương ($x = 6$ cm) nên $v = -60\sin 0 = 0$.
+
+Câu 2. Xét các phát biểu về vận tốc và gia tốc trong dao động điều hoà.
+a) Gia tốc của vật biến thiên điều hoà ngược pha với li độ. (Đ)
+b) Khi vật đi từ vị trí cân bằng ra vị trí biên, vật chuyển động nhanh dần. (S)
+c) Đồ thị vận tốc – thời gian của vật dao động điều hoà là một đường hình sin. (Đ)
+d) Vận tốc và gia tốc của vật luôn cùng chiều nhau. (S)
+Lời giải: $a = -\omega^2 x$ nên $a$ ngược pha với $x$. Từ vị trí cân bằng ra biên, tốc độ giảm (chậm dần), lúc đó $\vec v$ và $\vec a$ ngược chiều; từ biên về vị trí cân bằng thì $\vec v$ và $\vec a$ cùng chiều.
+
+PHẦN III. Câu trắc nghiệm trả lời ngắn
+Câu 1. Một vật dao động điều hoà với biên độ 5 cm và chu kì 0,5 s. Tốc độ cực đại của vật là bao nhiêu cm/s (làm tròn đến hàng đơn vị)?
+Đáp án: 63|62,8|62,83
+Lời giải: $\omega = \dfrac{2\pi}{T} = 4\pi$ rad/s; $v_{max} = \omega A = 4\pi \cdot 5 = 20\pi \approx 63$ cm/s.
+
+Câu 2. Một vật dao động điều hoà có tốc độ cực đại 40 cm/s và độ lớn gia tốc cực đại 4 m/s². Biên độ dao động của vật là bao nhiêu xentimét (cm)?
+Đáp án: 4
+Lời giải: $\omega = \dfrac{a_{max}}{v_{max}} = \dfrac{400}{40} = 10$ rad/s; $A = \dfrac{v_{max}}{\omega} = \dfrac{40}{10} = 4$ cm.
+
+Câu 3. Một vật dao động điều hoà với biên độ 10 cm và tần số góc 4 rad/s. Khi vật ở li độ $-5$ cm thì gia tốc của vật là bao nhiêu m/s²?
+Đáp án: 0,8
+Lời giải: $a = -\omega^2 x = -16 \cdot (-0{,}05) = 0{,}8$ m/s².

@@ -1,0 +1,84 @@
+VẬT LÍ 11 - CHƯƠNG I. DAO ĐỘNG - BÀI 5. ĐỘNG NĂNG. THẾ NĂNG. SỰ CHUYỂN HOÁ NĂNG LƯỢNG TRONG DAO ĐỘNG ĐIỀU HOÀ
+Đề luyện tập theo cấu trúc thi tốt nghiệp THPT (biên soạn: thầy Lâm Thế Phong, THPT An Thới)
+Thời gian: 20
+
+PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn
+Câu 1. Một vật có khối lượng $m$ dao động điều hoà với tần số góc $\omega$ và biên độ $A$. Cơ năng của vật là
+A. $W = m\omega A^2$.
+*B. $W = \dfrac{1}{2}m\omega^2 A^2$.
+C. $W = \dfrac{1}{2}m\omega A^2$.
+D. $W = m\omega^2 A$.
+
+Câu 2. Khi một vật dao động điều hoà đi từ vị trí biên về vị trí cân bằng thì
+A. động năng giảm, thế năng tăng.
+B. động năng và thế năng đều tăng.
+C. động năng và thế năng đều giảm.
+*D. động năng tăng, thế năng giảm.
+
+Câu 3. Trong dao động điều hoà của con lắc lò xo, bỏ qua mọi lực cản, cơ năng của vật
+*A. không đổi và tỉ lệ với bình phương biên độ.
+B. biến thiên tuần hoàn theo thời gian.
+C. tỉ lệ với biên độ dao động.
+D. bằng 0 khi vật đi qua vị trí cân bằng.
+
+Câu 4. Con lắc lò xo có độ cứng $k$, vật ở li độ $x$. Thế năng đàn hồi của con lắc là
+A. $W_t = kx$.
+B. $W_t = kx^2$.
+*C. $W_t = \dfrac{1}{2}kx^2$.
+D. $W_t = \dfrac{1}{2}kx$.
+
+Câu 5. Một con lắc lò xo có độ cứng 100 N/m dao động điều hoà với biên độ 5 cm. Cơ năng của con lắc là
+A. 250 J.
+B. 0,25 J.
+C. 12,5 J.
+*D. 0,125 J.
+Lời giải: $W = \dfrac{1}{2}kA^2 = \dfrac{1}{2} \cdot 100 \cdot 0{,}05^2 = 0{,}125$ J.
+
+Câu 6. Một vật dao động điều hoà. Nếu biên độ dao động tăng lên 2 lần (tần số không đổi) thì cơ năng của vật
+*A. tăng 4 lần.
+B. tăng 2 lần.
+C. giảm 2 lần.
+D. không đổi.
+Lời giải: $W = \dfrac{1}{2}m\omega^2 A^2 \sim A^2$ nên $A$ tăng 2 lần thì $W$ tăng 4 lần.
+
+Câu 7. Một vật có khối lượng 100 g dao động điều hoà với tần số góc 10 rad/s và biên độ 4 cm. Cơ năng của vật là
+A. 80 mJ.
+B. 0,8 mJ.
+*C. 8 mJ.
+D. 16 mJ.
+Lời giải: $W = \dfrac{1}{2}m\omega^2 A^2 = \dfrac{1}{2} \cdot 0{,}1 \cdot 100 \cdot 0{,}04^2 = 0{,}008$ J $= 8$ mJ.
+
+Câu 8. Một vật dao động điều hoà với biên độ $A$. Động năng của vật bằng thế năng khi vật ở li độ
+A. $x = \pm\dfrac{A}{2}$.
+*B. $x = \pm\dfrac{A}{\sqrt{2}}$.
+C. $x = \pm A$.
+D. $x = 0$.
+Lời giải: $W_{\text{đ}} = W_t \Rightarrow W = 2W_t \Rightarrow \dfrac{1}{2}kA^2 = kx^2 \Rightarrow x = \pm\dfrac{A}{\sqrt{2}}$.
+
+PHẦN II. Câu trắc nghiệm đúng sai
+Câu 1. Một con lắc lò xo gồm vật nặng khối lượng 200 g và lò xo có độ cứng 80 N/m, dao động điều hoà với biên độ 5 cm. Bỏ qua mọi lực cản.
+a) Cơ năng của con lắc là 0,1 J. (Đ)
+b) Tốc độ cực đại của vật là 1 m/s. (Đ)
+c) Khi vật ở li độ 3 cm, động năng của vật là 0,036 J. (S)
+d) Thế năng cực đại của con lắc bằng cơ năng của nó. (Đ)
+Lời giải: $W = \dfrac{1}{2}kA^2 = \dfrac{1}{2} \cdot 80 \cdot 0{,}05^2 = 0{,}1$ J; $v_{max} = \sqrt{\dfrac{2W}{m}} = \sqrt{\dfrac{0{,}2}{0{,}2}} = 1$ m/s. Tại $x = 3$ cm: $W_t = \dfrac{1}{2} \cdot 80 \cdot 0{,}03^2 = 0{,}036$ J nên $W_{\text{đ}} = 0{,}1 - 0{,}036 = 0{,}064$ J. Ở biên, động năng bằng 0 nên thế năng cực đại bằng cơ năng.
+
+Câu 2. Xét các phát biểu về năng lượng của vật dao động điều hoà (bỏ qua lực cản).
+a) Động năng và thế năng của vật biến thiên tuần hoàn với tần số gấp đôi tần số dao động. (Đ)
+b) Tại vị trí biên, động năng của vật đạt cực đại. (S)
+c) Với cùng độ cứng lò xo và cùng biên độ, cơ năng của con lắc lò xo không phụ thuộc vào khối lượng vật nặng. (Đ)
+d) Khi vật ở li độ $x = \dfrac{A}{2}$ thì động năng bằng thế năng. (S)
+Lời giải: Tại biên $v = 0$ nên động năng bằng 0. $W = \dfrac{1}{2}kA^2$ không chứa $m$. Tại $x = \dfrac{A}{2}$: $W_t = \dfrac{W}{4}$, $W_{\text{đ}} = \dfrac{3W}{4} = 3W_t$.
+
+PHẦN III. Câu trắc nghiệm trả lời ngắn
+Câu 1. Một con lắc lò xo có độ cứng 50 N/m dao động điều hoà với biên độ 4 cm. Cơ năng của con lắc là bao nhiêu milijun (mJ)?
+Đáp án: 40
+Lời giải: $W = \dfrac{1}{2}kA^2 = \dfrac{1}{2} \cdot 50 \cdot 0{,}04^2 = 0{,}04$ J $= 40$ mJ.
+
+Câu 2. Một vật có khối lượng 0,5 kg dao động điều hoà với cơ năng 0,25 J. Tốc độ của vật khi đi qua vị trí cân bằng là bao nhiêu m/s?
+Đáp án: 1
+Lời giải: Ở vị trí cân bằng $W = W_{\text{đ}max} = \dfrac{1}{2}mv_{max}^2 \Rightarrow v_{max} = \sqrt{\dfrac{2 \cdot 0{,}25}{0{,}5}} = 1$ m/s.
+
+Câu 3. Một con lắc lò xo dao động điều hoà với biên độ 6 cm. Khi động năng của vật bằng 3 lần thế năng thì vật cách vị trí cân bằng một đoạn bao nhiêu xentimét (cm)?
+Đáp án: 3
+Lời giải: $W = W_{\text{đ}} + W_t = 4W_t \Rightarrow \dfrac{1}{2}kA^2 = 4 \cdot \dfrac{1}{2}kx^2 \Rightarrow |x| = \dfrac{A}{2} = 3$ cm.

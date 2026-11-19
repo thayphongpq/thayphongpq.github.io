@@ -1,0 +1,88 @@
+VẬT LÍ 11 - CHƯƠNG IV. DÒNG ĐIỆN. MẠCH ĐIỆN - BÀI 24. NGUỒN ĐIỆN
+Đề luyện tập theo cấu trúc thi tốt nghiệp THPT (biên soạn: thầy Lâm Thế Phong, THPT An Thới)
+Thời gian: 20
+
+PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn
+Câu 1. Nguồn điện là thiết bị
+A. chỉ có tác dụng tích điện cho các vật.
+B. tạo ra các điện tích mới.
+C. làm giảm điện trở của mạch điện.
+*D. duy trì hiệu điện thế giữa hai cực để duy trì dòng điện trong mạch.
+Lời giải: Nguồn điện duy trì hiệu điện thế giữa hai cực nhờ lực lạ, nhờ đó duy trì dòng điện trong mạch kín.
+
+Câu 2. Suất điện động $\mathcal{E}$ của nguồn điện là đại lượng đặc trưng cho
+A. khả năng tích điện của nguồn.
+*B. khả năng thực hiện công của lực lạ bên trong nguồn, đo bằng $\mathcal{E} = \dfrac{A}{q}$.
+C. mức độ cản trở dòng điện bên trong nguồn.
+D. công suất tiêu thụ của mạch ngoài.
+Lời giải: $\mathcal{E} = \dfrac{A}{q}$: công của lực lạ khi dịch chuyển một đơn vị điện tích dương ngược chiều điện trường bên trong nguồn.
+
+Câu 3. Bên trong nguồn điện, lực lạ làm các điện tích dương dịch chuyển
+*A. từ cực âm sang cực dương, ngược chiều lực điện.
+B. từ cực dương sang cực âm, cùng chiều lực điện.
+C. theo chiều bất kì.
+D. từ cực dương sang cực âm, ngược chiều lực điện.
+Lời giải: Lực lạ thắng lực điện, đưa điện tích dương từ cực âm về cực dương bên trong nguồn.
+
+Câu 4. Đơn vị của suất điện động là
+A. ampe (A).
+B. oát (W).
+*C. vôn (V).
+D. jun (J).
+Lời giải: $\mathcal{E} = \dfrac{A}{q}$ nên đơn vị là J/C = V.
+
+Câu 5. Một nguồn điện có suất điện động 12 V. Công của lực lạ khi dịch chuyển điện lượng 0,5 C bên trong nguồn từ cực âm đến cực dương là
+A. 24 J.
+B. 12,5 J.
+*C. 6 J.
+D. 0,042 J.
+Lời giải: $A = q\mathcal{E} = 0{,}5 \cdot 12 = 6$ J.
+
+Câu 6. Một nguồn điện có suất điện động 6 V, điện trở trong 1 $\Omega$ được nối với mạch ngoài là điện trở 5 $\Omega$. Cường độ dòng điện trong mạch là
+*A. 1 A.
+B. 1,2 A.
+C. 6 A.
+D. 36 A.
+Lời giải: $I = \dfrac{\mathcal{E}}{R + r} = \dfrac{6}{5 + 1} = 1$ A.
+
+Câu 7. Một nguồn điện có suất điện động 9 V, điện trở trong 2 $\Omega$ được nối với điện trở mạch ngoài 16 $\Omega$. Hiệu điện thế giữa hai cực của nguồn là
+A. 9 V.
+B. 1 V.
+C. 7 V.
+*D. 8 V.
+Lời giải: $I = \dfrac{9}{16 + 2} = 0{,}5$ A; $U = \mathcal{E} - Ir = 9 - 0{,}5 \cdot 2 = 8$ V (hoặc $U = IR = 8$ V).
+
+Câu 8. Một viên pin có suất điện động 1,5 V, điện trở trong 0,5 $\Omega$. Nếu nối tắt hai cực của pin bằng một dây dẫn có điện trở không đáng kể (đoản mạch) thì cường độ dòng điện qua pin là
+A. 0,75 A.
+*B. 3 A.
+C. 1,5 A.
+D. 0,33 A.
+Lời giải: $R \approx 0 \Rightarrow I = \dfrac{\mathcal{E}}{r} = \dfrac{1{,}5}{0{,}5} = 3$ A.
+
+PHẦN II. Câu trắc nghiệm đúng sai
+Câu 1. Một nguồn điện có suất điện động 12 V, điện trở trong 2 $\Omega$ được nối với mạch ngoài là một điện trở R = 10 $\Omega$.
+a) Cường độ dòng điện chạy trong mạch là 1 A. (Đ)
+b) Hiệu điện thế giữa hai cực của nguồn là 10 V. (Đ)
+c) Nếu xảy ra đoản mạch (R gần bằng 0) thì cường độ dòng điện qua nguồn là 6 A. (Đ)
+d) Khi tăng giá trị của R thì hiệu điện thế mạch ngoài giảm. (S)
+Lời giải: $I = \dfrac{12}{10 + 2} = 1$ A; $U = IR = 10$ V. Đoản mạch: $I = \dfrac{\mathcal{E}}{r} = 6$ A. $U = \mathcal{E} - Ir$: R tăng thì I giảm nên U tăng.
+
+Câu 2. Xét các phát biểu về nguồn điện.
+a) Khi mạch ngoài để hở, hiệu điện thế giữa hai cực của nguồn bằng suất điện động của nguồn. (Đ)
+b) Pin và acquy hoạt động dựa trên sự chuyển hóa cơ năng thành điện năng. (S)
+c) Suất điện động của nguồn phụ thuộc vào điện trở của mạch ngoài. (S)
+d) Tích $Ir$ là độ giảm điện thế bên trong nguồn điện. (Đ)
+Lời giải: Mạch hở $I = 0$ nên $U = \mathcal{E}$. Pin, acquy chuyển hóa hóa năng thành điện năng. $\mathcal{E}$ là đặc trưng của nguồn, không phụ thuộc mạch ngoài. $\mathcal{E} = U + Ir$.
+
+PHẦN III. Câu trắc nghiệm trả lời ngắn
+Câu 1. Một nguồn điện có suất điện động 4,5 V, điện trở trong 1 $\Omega$ được nối với điện trở mạch ngoài R thì dòng điện trong mạch là 0,5 A. Giá trị của R là bao nhiêu ôm ($\Omega$)?
+Đáp án: 8
+Lời giải: $R + r = \dfrac{\mathcal{E}}{I} = \dfrac{4{,}5}{0{,}5} = 9\ \Omega \Rightarrow R = 8\ \Omega$.
+
+Câu 2. Mắc lần lượt hai điện trở $R_1 = 2\ \Omega$ và $R_2 = 5\ \Omega$ vào cùng một nguồn điện thì cường độ dòng điện trong mạch lần lượt là 1 A và 0,5 A. Suất điện động của nguồn là bao nhiêu vôn (V)?
+Đáp án: 3
+Lời giải: $\mathcal{E} = I_1(R_1 + r) = I_2(R_2 + r) \Rightarrow 2 + r = 0{,}5(5 + r) \Rightarrow r = 1\ \Omega$; $\mathcal{E} = 1 \cdot (2 + 1) = 3$ V.
+
+Câu 3. Một nguồn điện có suất điện động 6 V cung cấp dòng điện 0,4 A cho mạch ngoài trong 5 phút. Công của lực lạ bên trong nguồn trong thời gian đó là bao nhiêu jun (J)?
+Đáp án: 720
+Lời giải: $q = It = 0{,}4 \cdot 300 = 120$ C; $A = q\mathcal{E} = 120 \cdot 6 = 720$ J.

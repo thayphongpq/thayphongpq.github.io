@@ -1,0 +1,82 @@
+VẬT LÍ 11 - CHƯƠNG II. SÓNG - BÀI 9. SÓNG NGANG. SÓNG DỌC. SỰ TRUYỀN NĂNG LƯỢNG CỦA SÓNG CƠ
+Đề luyện tập theo cấu trúc thi tốt nghiệp THPT (biên soạn: thầy Lâm Thế Phong, THPT An Thới)
+Thời gian: 20
+
+PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn
+Câu 1. Sóng ngang là sóng mà các phần tử môi trường dao động theo phương
+*A. vuông góc với phương truyền sóng.
+B. trùng với phương truyền sóng.
+C. thẳng đứng trong mọi trường hợp.
+D. nằm ngang trong mọi trường hợp.
+
+Câu 2. Sóng dọc truyền được trong
+A. chất rắn và bề mặt chất lỏng.
+B. chân không.
+C. chỉ chất khí.
+*D. chất rắn, chất lỏng và chất khí.
+
+Câu 3. Sóng âm truyền trong không khí là
+A. sóng ngang.
+*B. sóng dọc.
+C. sóng điện từ.
+D. không phải là sóng cơ.
+
+Câu 4. Sóng ngang truyền được trong
+A. chất khí.
+B. chân không.
+*C. chất rắn và trên bề mặt chất lỏng.
+D. lòng chất lỏng và chất khí.
+
+Câu 5. Trường hợp nào sau đây tạo ra sóng dọc?
+A. Rung một đầu sợi dây đàn hồi căng ngang theo phương thẳng đứng.
+B. Thả một hòn đá xuống mặt hồ nước yên lặng.
+C. Kéo một đầu lò xo dài qua lại theo phương vuông góc với trục lò xo.
+*D. Nén rồi giãn liên tục một đầu lò xo dài theo phương dọc trục lò xo.
+
+Câu 6. Quá trình truyền sóng cơ là quá trình
+A. truyền các phần tử vật chất từ nguồn đi xa.
+*B. truyền năng lượng (truyền dao động) từ nguồn đi xa.
+C. truyền khối lượng của môi trường.
+D. tạo ra năng lượng mới trong môi trường.
+
+Câu 7. Trong hệ SI, đơn vị của cường độ sóng là
+*A. W/m².
+B. J/m².
+C. W.
+D. J/s.
+Lời giải: $I = \dfrac{E}{S\Delta t}$ (năng lượng truyền qua một đơn vị diện tích vuông góc với phương truyền trong một đơn vị thời gian), đơn vị J/(m².s) $=$ W/m².
+
+Câu 8. Một sóng truyền năng lượng 6 J qua một diện tích 2 m² vuông góc với phương truyền sóng trong thời gian 3 s. Cường độ của sóng là
+A. 9 W/m².
+B. 4 W/m².
+*C. 1 W/m².
+D. 36 W/m².
+Lời giải: $I = \dfrac{E}{S\Delta t} = \dfrac{6}{2 \cdot 3} = 1$ W/m².
+
+PHẦN II. Câu trắc nghiệm đúng sai
+Câu 1. Xét các phát biểu về sóng ngang và sóng dọc.
+a) Sóng trên mặt nước thường được coi là sóng ngang. (Đ)
+b) Sóng dọc không truyền được trong chất khí. (S)
+c) Sóng âm không truyền được trong chân không. (Đ)
+d) Trong sóng dọc, các phần tử môi trường dao động theo phương trùng với phương truyền sóng. (Đ)
+Lời giải: Sóng dọc truyền được trong cả chất rắn, lỏng và khí (ví dụ sóng âm trong không khí). Sóng cơ cần môi trường vật chất nên không truyền được trong chân không.
+
+Câu 2. Một học sinh làm thí nghiệm với một lò xo dài đặt trên mặt bàn nhẵn. Học sinh kéo một đầu lò xo qua lại theo phương vuông góc với trục lò xo với tần số 2 Hz, thấy sóng trên lò xo có bước sóng 0,5 m.
+a) Sóng tạo ra trên lò xo là sóng ngang. (Đ)
+b) Tốc độ truyền sóng trên lò xo là 1 m/s. (Đ)
+c) Nếu nén rồi giãn đầu lò xo theo phương dọc trục thì trên lò xo xuất hiện các vùng nén, vùng giãn và sóng tạo ra là sóng dọc. (Đ)
+d) Các vòng lò xo ở gần đầu bị kéo sẽ di chuyển theo sóng đến đầu kia của lò xo. (S)
+Lời giải: Phương dao động vuông góc với phương truyền nên là sóng ngang; $v = \lambda f = 0{,}5 \cdot 2 = 1$ m/s. Các vòng lò xo chỉ dao động quanh vị trí cân bằng, sóng truyền năng lượng chứ không truyền vật chất.
+
+PHẦN III. Câu trắc nghiệm trả lời ngắn
+Câu 1. Một sóng có cường độ 0,5 W/m² truyền qua một diện tích 4 m² vuông góc với phương truyền sóng. Năng lượng sóng truyền qua diện tích đó trong 10 s là bao nhiêu jun (J)?
+Đáp án: 20
+Lời giải: $E = IS\Delta t = 0{,}5 \cdot 4 \cdot 10 = 20$ J.
+
+Câu 2. Một sóng âm truyền trong không khí với tốc độ 340 m/s. Khoảng cách giữa hai vùng nén liên tiếp là 0,85 m. Tần số của sóng âm là bao nhiêu héc (Hz)?
+Đáp án: 400
+Lời giải: Hai vùng nén liên tiếp cách nhau một bước sóng: $\lambda = 0{,}85$ m; $f = \dfrac{v}{\lambda} = \dfrac{340}{0{,}85} = 400$ Hz.
+
+Câu 3. Khi xảy ra động đất, sóng dọc (sóng P) truyền trong lòng đất với tốc độ 8 km/s, sóng ngang (sóng S) truyền với tốc độ 4,5 km/s. Một trạm địa chấn cách tâm chấn 360 km. Trạm ghi nhận được sóng dọc sớm hơn sóng ngang bao nhiêu giây (s)?
+Đáp án: 35
+Lời giải: $\Delta t = \dfrac{d}{v_S} - \dfrac{d}{v_P} = \dfrac{360}{4{,}5} - \dfrac{360}{8} = 80 - 45 = 35$ s.

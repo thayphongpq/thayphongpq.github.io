@@ -1,0 +1,83 @@
+VẬT LÍ 11 - CHƯƠNG I. DAO ĐỘNG - BÀI 1. DAO ĐỘNG ĐIỀU HOÀ
+Đề luyện tập theo cấu trúc thi tốt nghiệp THPT (biên soạn: thầy Lâm Thế Phong, THPT An Thới)
+Thời gian: 20
+
+PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn
+Câu 1. Dao động cơ là
+A. chuyển động thẳng đều của vật.
+*B. chuyển động qua lại của vật quanh một vị trí đặc biệt gọi là vị trí cân bằng.
+C. chuyển động tròn đều của vật.
+D. chuyển động của vật có quỹ đạo là một đường parabol.
+
+Câu 2. Dao động tuần hoàn là dao động mà
+A. vật luôn chuyển động theo một chiều.
+B. tốc độ của vật không đổi.
+C. vật chỉ chuyển động một lần rồi dừng lại.
+*D. trạng thái chuyển động của vật được lặp lại như cũ sau những khoảng thời gian bằng nhau.
+
+Câu 3. Dao động điều hoà là dao động trong đó li độ của vật là
+*A. một hàm côsin (hay sin) của thời gian.
+B. một hàm bậc nhất của thời gian.
+C. một hàm bậc hai của thời gian.
+D. một hằng số.
+
+Câu 4. Trong phương trình dao động điều hoà $x = A\cos(\omega t + \varphi)$, đại lượng $x$ được gọi là
+A. biên độ của dao động.
+B. pha ban đầu của dao động.
+*C. li độ của vật.
+D. tần số góc của dao động.
+
+Câu 5. Đồ thị li độ – thời gian của một vật dao động điều hoà có dạng
+A. đường thẳng đi qua gốc toạ độ.
+*B. đường hình sin.
+C. đường parabol.
+D. đường tròn.
+
+Câu 6. Một vật dao động điều hoà với phương trình $x = 5\cos\left(4\pi t + \dfrac{\pi}{3}\right)$ (cm). Biên độ dao động của vật là
+*A. 5 cm.
+B. 10 cm.
+C. $4\pi$ cm.
+D. 2,5 cm.
+Lời giải: So sánh với $x = A\cos(\omega t + \varphi)$ ta có $A = 5$ cm.
+
+Câu 7. Một vật dao động điều hoà với phương trình $x = 6\cos(\pi t)$ (cm). Tại thời điểm $t = \dfrac{1}{3}$ s, li độ của vật là
+A. 6 cm.
+B. $-3$ cm.
+C. 0 cm.
+*D. 3 cm.
+Lời giải: $x = 6\cos\left(\pi \cdot \dfrac{1}{3}\right) = 6 \cdot \dfrac{1}{2} = 3$ cm.
+
+Câu 8. Một vật dao động điều hoà trên một đoạn thẳng (quỹ đạo) dài 12 cm. Biên độ dao động của vật là
+A. 12 cm.
+B. 24 cm.
+*C. 6 cm.
+D. 3 cm.
+Lời giải: Vật đi từ biên $-A$ đến biên $+A$ nên chiều dài quỹ đạo $L = 2A \Rightarrow A = \dfrac{12}{2} = 6$ cm.
+
+PHẦN II. Câu trắc nghiệm đúng sai
+Câu 1. Một vật dao động điều hoà với phương trình $x = 4\cos\left(2\pi t - \dfrac{\pi}{2}\right)$ (cm).
+a) Biên độ dao động của vật là 4 cm. (Đ)
+b) Tại thời điểm $t = 0$, vật đi qua vị trí cân bằng. (Đ)
+c) Tại thời điểm $t = 0{,}25$ s, li độ của vật là 4 cm. (Đ)
+d) Vật dao động giữa hai vị trí có li độ $-8$ cm và $8$ cm. (S)
+Lời giải: $A = 4$ cm. Tại $t = 0$: $x = 4\cos\left(-\dfrac{\pi}{2}\right) = 0$ (vị trí cân bằng). Tại $t = 0{,}25$ s: $x = 4\cos\left(\dfrac{\pi}{2} - \dfrac{\pi}{2}\right) = 4\cos 0 = 4$ cm. Vật dao động giữa $-4$ cm và $4$ cm.
+
+Câu 2. Xét các phát biểu về dao động.
+a) Chuyển động của quả lắc đồng hồ là một dao động cơ. (Đ)
+b) Mọi dao động tuần hoàn đều là dao động điều hoà. (S)
+c) Con lắc đơn dao động với biên độ góc nhỏ, bỏ qua mọi lực cản, được coi là dao động điều hoà. (Đ)
+d) Trong dao động điều hoà, li độ của vật luôn có giá trị dương. (S)
+Lời giải: Dao động điều hoà là trường hợp riêng của dao động tuần hoàn (li độ là hàm côsin của thời gian), nhưng không phải dao động tuần hoàn nào cũng điều hoà. Li độ $x$ có thể âm, dương hoặc bằng 0 tuỳ vị trí của vật so với vị trí cân bằng.
+
+PHẦN III. Câu trắc nghiệm trả lời ngắn
+Câu 1. Một vật dao động điều hoà với phương trình $x = 10\cos\left(2\pi t + \dfrac{\pi}{3}\right)$ (cm). Li độ của vật tại thời điểm $t = 0$ là bao nhiêu xentimét (cm)?
+Đáp án: 5
+Lời giải: $x = 10\cos\dfrac{\pi}{3} = 10 \cdot \dfrac{1}{2} = 5$ cm.
+
+Câu 2. Một vật dao động điều hoà với phương trình $x = 8\cos\left(\pi t - \dfrac{\pi}{3}\right)$ (cm). Li độ của vật tại thời điểm $t = 1$ s là bao nhiêu xentimét (cm)?
+Đáp án: -4|−4
+Lời giải: $x = 8\cos\left(\pi - \dfrac{\pi}{3}\right) = 8\cos\dfrac{2\pi}{3} = 8 \cdot \left(-\dfrac{1}{2}\right) = -4$ cm.
+
+Câu 3. Một vật dao động điều hoà với phương trình $x = 5\cos(\pi t + \pi)$ (cm). Li độ của vật tại thời điểm $t = 2$ s là bao nhiêu xentimét (cm)?
+Đáp án: -5|−5
+Lời giải: $x = 5\cos(2\pi + \pi) = 5\cos 3\pi = -5$ cm (vật ở biên âm).

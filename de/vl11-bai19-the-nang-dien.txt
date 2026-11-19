@@ -1,0 +1,88 @@
+VẬT LÍ 11 - CHƯƠNG III. ĐIỆN TRƯỜNG - BÀI 19. THẾ NĂNG ĐIỆN
+Đề luyện tập theo cấu trúc thi tốt nghiệp THPT (biên soạn: thầy Lâm Thế Phong, THPT An Thới)
+Thời gian: 20
+
+PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn
+Câu 1. Công của lực điện làm dịch chuyển một điện tích trong điện trường
+A. phụ thuộc vào hình dạng đường đi của điện tích.
+B. luôn luôn dương.
+*C. không phụ thuộc vào hình dạng đường đi, chỉ phụ thuộc vào vị trí điểm đầu và điểm cuối.
+D. tỉ lệ với độ dài quãng đường mà điện tích đi được.
+Lời giải: Lực điện là lực thế: công của nó không phụ thuộc hình dạng đường đi.
+
+Câu 2. Trong điện trường đều, công của lực điện khi điện tích q di chuyển từ M đến N là $A_{MN} = qEd$, trong đó d là
+*A. hình chiếu của độ dời MN lên phương đường sức (lấy chiều đường sức làm chiều dương).
+B. độ dài quãng đường mà điện tích đi được.
+C. khoảng cách từ M đến bản dương.
+D. khoảng cách giữa hai bản tạo ra điện trường.
+Lời giải: d là độ dài đại số của hình chiếu MN lên một đường sức, có thể dương, âm hoặc bằng 0.
+
+Câu 3. Thế năng điện của một điện tích q tại điểm M trong điện trường đặc trưng cho
+A. độ lớn của lực điện tác dụng lên q tại M.
+B. tốc độ của điện tích q tại M.
+C. điện trường tại M về phương diện tác dụng lực.
+*D. khả năng sinh công của điện trường khi đặt điện tích q tại M.
+Lời giải: Thế năng điện $W_M$ bằng công của lực điện khi dịch chuyển q từ M ra xa vô cực (mốc thế năng).
+
+Câu 4. Khi một điện tích dịch chuyển từ M đến N trong điện trường, công của lực điện liên hệ với thế năng điện theo hệ thức
+A. $A_{MN} = W_N - W_M$.
+*B. $A_{MN} = W_M - W_N$.
+C. $A_{MN} = W_M + W_N$.
+D. $A_{MN} = W_M \cdot W_N$.
+Lời giải: Công của lực điện bằng độ giảm thế năng điện: $A_{MN} = W_M - W_N$.
+
+Câu 5. Một điện tích $q = 2 \cdot 10^{-6}$ C di chuyển 5 cm dọc theo chiều một đường sức của điện trường đều có cường độ 4000 V/m. Công của lực điện là
+A. $4 \cdot 10^{-2}$ J.
+B. $8 \cdot 10^{-3}$ J.
+*C. $4 \cdot 10^{-4}$ J.
+D. $1{,}6 \cdot 10^{-4}$ J.
+Lời giải: $A = qEd = 2 \cdot 10^{-6} \cdot 4000 \cdot 0{,}05 = 4 \cdot 10^{-4}$ J.
+
+Câu 6. Một electron ($q = -1{,}6 \cdot 10^{-19}$ C) di chuyển 1 cm ngược chiều đường sức của một điện trường đều có cường độ 1000 V/m. Công của lực điện là
+*A. $1{,}6 \cdot 10^{-18}$ J.
+B. $-1{,}6 \cdot 10^{-18}$ J.
+C. $1{,}6 \cdot 10^{-16}$ J.
+D. $-1{,}6 \cdot 10^{-20}$ J.
+Lời giải: Đi ngược chiều đường sức nên $d = -0{,}01$ m; $A = qEd = (-1{,}6 \cdot 10^{-19}) \cdot 1000 \cdot (-0{,}01) = 1{,}6 \cdot 10^{-18}$ J.
+
+Câu 7. Một điện tích di chuyển từ M đến N trong điện trường, lực điện sinh công $6 \cdot 10^{-5}$ J. Thế năng điện của điện tích tại M là $10^{-4}$ J. Thế năng điện của điện tích tại N là
+A. $1{,}6 \cdot 10^{-4}$ J.
+*B. $4 \cdot 10^{-5}$ J.
+C. $6 \cdot 10^{-5}$ J.
+D. $-4 \cdot 10^{-5}$ J.
+Lời giải: $W_N = W_M - A_{MN} = 10^{-4} - 6 \cdot 10^{-5} = 4 \cdot 10^{-5}$ J.
+
+Câu 8. Điện tích $q = 10^{-8}$ C di chuyển dọc theo các cạnh của tam giác đều ABC cạnh 10 cm đặt trong điện trường đều có cường độ 3000 V/m, vectơ cường độ điện trường song song với AB. Công của lực điện khi q đi hết một vòng A → B → C → A là
+A. $3 \cdot 10^{-6}$ J.
+B. $9 \cdot 10^{-6}$ J.
+C. $1{,}5 \cdot 10^{-6}$ J.
+*D. 0 J.
+Lời giải: Điểm đầu và điểm cuối trùng nhau nên $d = 0$, công của lực điện trên đường cong kín bằng 0.
+
+PHẦN II. Câu trắc nghiệm đúng sai
+Câu 1. Một điện tích $q = +4 \cdot 10^{-8}$ C di chuyển trong điện trường đều có cường độ 5000 V/m: đầu tiên đi từ M đến N dọc theo chiều đường sức với MN = 2 cm, sau đó đi từ N đến P theo phương vuông góc với đường sức với NP = 3 cm.
+a) Công của lực điện khi q đi từ M đến N là $4 \cdot 10^{-6}$ J. (Đ)
+b) Công của lực điện khi q đi từ N đến P bằng 0. (Đ)
+c) Thế năng điện của q tại M nhỏ hơn thế năng điện của q tại N. (S)
+d) Nếu q đi thẳng từ M đến P thì công của lực điện lớn hơn $4 \cdot 10^{-6}$ J. (S)
+Lời giải: $A_{MN} = qE \cdot MN = 4 \cdot 10^{-8} \cdot 5000 \cdot 0{,}02 = 4 \cdot 10^{-6}$ J. NP vuông góc đường sức nên $A_{NP} = 0$. $W_M - W_N = A_{MN} > 0$ nên $W_M > W_N$. Công không phụ thuộc đường đi: $A_{MP} = A_{MN} + A_{NP} = 4 \cdot 10^{-6}$ J.
+
+Câu 2. Xét các phát biểu về thế năng điện.
+a) Lực điện trường tĩnh là lực thế. (Đ)
+b) Giá trị thế năng điện của một điện tích tại một điểm phụ thuộc vào cách chọn mốc thế năng. (Đ)
+c) Khi lực điện sinh công dương thì thế năng điện của điện tích tăng. (S)
+d) Thế năng điện của điện tích q tại một điểm M tỉ lệ thuận với q. (Đ)
+Lời giải: $A_{MN} = W_M - W_N$: công dương thì thế năng giảm. $W_M = A_{M\infty}$ tỉ lệ với q và phụ thuộc mốc thế năng.
+
+PHẦN III. Câu trắc nghiệm trả lời ngắn
+Câu 1. Một điện tích $q = 5 \cdot 10^{-6}$ C di chuyển 4 cm dọc theo chiều đường sức của một điện trường đều có cường độ $2 \cdot 10^4$ V/m. Công của lực điện là bao nhiêu milijun (mJ)?
+Đáp án: 4
+Lời giải: $A = qEd = 5 \cdot 10^{-6} \cdot 2 \cdot 10^4 \cdot 0{,}04 = 4 \cdot 10^{-3}$ J $= 4$ mJ.
+
+Câu 2. Một điện tích $q = 2 \cdot 10^{-8}$ C di chuyển một đoạn thẳng dài 10 cm trong điện trường đều có cường độ 3000 V/m, theo hướng hợp với chiều đường sức một góc $60^\circ$. Công của lực điện là bao nhiêu micrôjun ($\mu$J)?
+Đáp án: 3
+Lời giải: $d = s\cos 60^\circ = 0{,}1 \cdot 0{,}5 = 0{,}05$ m; $A = qEd = 2 \cdot 10^{-8} \cdot 3000 \cdot 0{,}05 = 3 \cdot 10^{-6}$ J $= 3\ \mu$J.
+
+Câu 3. Khi một điện tích di chuyển từ M đến N trong điện trường, lực điện sinh công $-2{,}4 \cdot 10^{-5}$ J. Thế năng điện của điện tích tại M là $1{,}5 \cdot 10^{-5}$ J. Thế năng điện của điện tích tại N là bao nhiêu micrôjun ($\mu$J)?
+Đáp án: 39
+Lời giải: $W_N = W_M - A_{MN} = 1{,}5 \cdot 10^{-5} - (-2{,}4 \cdot 10^{-5}) = 3{,}9 \cdot 10^{-5}$ J $= 39\ \mu$J.

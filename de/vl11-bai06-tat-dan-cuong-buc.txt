@@ -1,0 +1,82 @@
+VẬT LÍ 11 - CHƯƠNG I. DAO ĐỘNG - BÀI 6. DAO ĐỘNG TẮT DẦN. DAO ĐỘNG CƯỠNG BỨC. HIỆN TƯỢNG CỘNG HƯỞNG
+Đề luyện tập theo cấu trúc thi tốt nghiệp THPT (biên soạn: thầy Lâm Thế Phong, THPT An Thới)
+Thời gian: 20
+
+PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn
+Câu 1. Dao động tắt dần là dao động có
+*A. biên độ giảm dần theo thời gian.
+B. biên độ tăng dần theo thời gian.
+C. chu kì tăng dần theo thời gian.
+D. biên độ không đổi theo thời gian.
+
+Câu 2. Nguyên nhân gây ra dao động tắt dần của con lắc dao động trong không khí là
+A. do trọng lực tác dụng lên vật.
+B. do lực đàn hồi của lò xo.
+*C. do lực cản của môi trường (lực ma sát, lực cản không khí).
+D. do ngoại lực tuần hoàn tác dụng lên vật.
+
+Câu 3. Khi ổn định, dao động cưỡng bức có tần số
+A. bằng tần số dao động riêng của hệ.
+B. luôn lớn hơn tần số của ngoại lực.
+C. giảm dần theo thời gian.
+*D. bằng tần số của ngoại lực cưỡng bức.
+
+Câu 4. Hiện tượng cộng hưởng xảy ra khi
+A. tần số của ngoại lực rất lớn so với tần số riêng của hệ.
+*B. tần số của ngoại lực cưỡng bức bằng tần số dao động riêng của hệ.
+C. biên độ của ngoại lực bằng 0.
+D. lực cản của môi trường rất lớn.
+
+Câu 5. Thiết bị nào sau đây là ứng dụng của dao động tắt dần?
+A. Hộp đàn của đàn ghi-ta.
+B. Lò vi sóng.
+*C. Bộ phận giảm xóc của ô tô, xe máy.
+D. Con lắc của đồng hồ quả lắc.
+
+Câu 6. Biên độ của dao động cưỡng bức KHÔNG phụ thuộc vào
+*A. pha ban đầu của ngoại lực cưỡng bức.
+B. biên độ của ngoại lực cưỡng bức.
+C. tần số của ngoại lực cưỡng bức.
+D. lực cản của môi trường.
+
+Câu 7. Một người xách một xô nước đi trên đường, mỗi bước đi dài 60 cm. Chu kì dao động riêng của nước trong xô là 0,8 s. Nước trong xô bị sóng sánh mạnh nhất khi người đó đi với tốc độ
+A. 1,33 m/s.
+*B. 0,75 m/s.
+C. 0,48 m/s.
+D. 1,5 m/s.
+Lời giải: Nước sóng sánh mạnh nhất khi xảy ra cộng hưởng: thời gian mỗi bước bằng chu kì riêng $T_0 = 0{,}8$ s, nên $v = \dfrac{s}{T_0} = \dfrac{0{,}6}{0{,}8} = 0{,}75$ m/s.
+
+Câu 8. Một hệ dao động có chu kì dao động riêng 0,5 s chịu tác dụng của một ngoại lực cưỡng bức tuần hoàn. Biên độ dao động cưỡng bức lớn nhất khi tần số của ngoại lực bằng
+A. 0,5 Hz.
+B. 1 Hz.
+C. 4 Hz.
+*D. 2 Hz.
+Lời giải: Cộng hưởng khi $f = f_0 = \dfrac{1}{T_0} = \dfrac{1}{0{,}5} = 2$ Hz.
+
+PHẦN II. Câu trắc nghiệm đúng sai
+Câu 1. Xét các phát biểu về dao động tắt dần và dao động duy trì.
+a) Cơ năng của vật dao động tắt dần giảm dần theo thời gian. (Đ)
+b) Lực cản của môi trường càng lớn thì dao động tắt dần càng nhanh. (Đ)
+c) Dao động duy trì có tần số bằng tần số dao động riêng của hệ. (Đ)
+d) Dao động tắt dần có biên độ không đổi theo thời gian. (S)
+Lời giải: Lực cản sinh công âm làm cơ năng (và biên độ) giảm dần; lực cản càng lớn thì cơ năng giảm càng nhanh. Dao động duy trì được bổ sung năng lượng đúng bằng phần bị mất sau mỗi chu kì, vẫn dao động với tần số riêng.
+
+Câu 2. Một xe máy chạy trên một con đường có các gờ giảm tốc cách đều nhau 8 m. Chu kì dao động riêng của khung xe trên các lò xo giảm xóc là 1,6 s.
+a) Khi xe chạy qua các gờ, khung xe dao động cưỡng bức với chu kì bằng thời gian xe đi giữa hai gờ liên tiếp. (Đ)
+b) Xe bị xóc mạnh nhất khi chạy với tốc độ 5 m/s. (Đ)
+c) Xe bị xóc mạnh nhất khi chạy với tốc độ 10 m/s. (S)
+d) Hiện tượng cộng hưởng luôn có hại nên cần tránh trong mọi trường hợp. (S)
+Lời giải: Chu kì ngoại lực $T = \dfrac{s}{v}$. Cộng hưởng khi $T = T_0 \Rightarrow v = \dfrac{8}{1{,}6} = 5$ m/s. Cộng hưởng cũng có lợi, ví dụ hộp đàn khuếch đại âm, lò vi sóng.
+
+PHẦN III. Câu trắc nghiệm trả lời ngắn
+Câu 1. Một con lắc dao động tắt dần, sau mỗi chu kì biên độ giảm 2% so với biên độ ở đầu chu kì đó. Phần trăm cơ năng của con lắc bị mất đi trong một chu kì là bao nhiêu phần trăm (làm tròn đến hàng đơn vị)?
+Đáp án: 4|3,96|4,0
+Lời giải: $A' = 0{,}98A \Rightarrow \dfrac{W'}{W} = \left(\dfrac{A'}{A}\right)^2 = 0{,}9604$. Phần cơ năng mất đi là $1 - 0{,}9604 = 0{,}0396 \approx 4\%$.
+
+Câu 2. Một con lắc lò xo có độ cứng 100 N/m dao động tắt dần. Biên độ dao động giảm từ 5 cm xuống còn 3 cm. Cơ năng con lắc bị mất trong quá trình đó là bao nhiêu milijun (mJ)?
+Đáp án: 80
+Lời giải: $\Delta W = \dfrac{1}{2}k(A_1^2 - A_2^2) = \dfrac{1}{2} \cdot 100 \cdot (0{,}05^2 - 0{,}03^2) = 50 \cdot 0{,}0016 = 0{,}08$ J $= 80$ mJ.
+
+Câu 3. Một đoàn tàu chạy trên đường ray, mỗi thanh ray dài 12,5 m, ở chỗ nối hai thanh ray có một khe hở nhỏ. Chu kì dao động riêng của toa tàu trên các lò xo giảm xóc là 1 s. Toa tàu rung mạnh nhất khi tàu chạy với tốc độ bao nhiêu km/h?
+Đáp án: 45
+Lời giải: Cộng hưởng khi thời gian đi hết một thanh ray bằng chu kì riêng: $v = \dfrac{\ell}{T_0} = \dfrac{12{,}5}{1} = 12{,}5$ m/s $= 45$ km/h.

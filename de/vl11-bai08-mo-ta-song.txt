@@ -1,0 +1,83 @@
+VẬT LÍ 11 - CHƯƠNG II. SÓNG - BÀI 8. MÔ TẢ SÓNG
+Đề luyện tập theo cấu trúc thi tốt nghiệp THPT (biên soạn: thầy Lâm Thế Phong, THPT An Thới)
+Thời gian: 20
+
+PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn
+Câu 1. Sóng cơ là
+A. sự chuyển động của các phần tử vật chất theo phương truyền sóng.
+B. dao động điện từ lan truyền trong chân không.
+*C. dao động cơ lan truyền trong một môi trường.
+D. sự chuyển động thẳng đều của một vật trong môi trường.
+
+Câu 2. Bước sóng là
+A. quãng đường sóng truyền được trong một giây.
+*B. quãng đường sóng truyền được trong một chu kì.
+C. khoảng cách giữa hai điểm bất kì trên phương truyền sóng.
+D. độ lệch lớn nhất của phần tử môi trường so với vị trí cân bằng.
+
+Câu 3. Một sóng có tần số $f$, bước sóng $\lambda$, truyền với tốc độ $v$. Hệ thức đúng là
+*A. $v = \lambda f$.
+B. $v = \dfrac{\lambda}{f}$.
+C. $\lambda = vf$.
+D. $f = \lambda v$.
+
+Câu 4. Sóng cơ KHÔNG truyền được trong
+A. chất rắn.
+B. chất lỏng.
+C. chất khí.
+*D. chân không.
+
+Câu 5. Một sóng truyền trên mặt nước với tần số 50 Hz và tốc độ 2 m/s. Bước sóng của sóng là
+A. 100 cm.
+*B. 4 cm.
+C. 25 cm.
+D. 0,4 cm.
+Lời giải: $\lambda = \dfrac{v}{f} = \dfrac{2}{50} = 0{,}04$ m $= 4$ cm.
+
+Câu 6. Một người quan sát một chiếc phao trên mặt biển thấy nó nhô lên cao 10 lần trong 18 s. Chu kì của sóng biển là
+A. 1,8 s.
+B. 0,5 s.
+*C. 2 s.
+D. 18 s.
+Lời giải: 10 lần nhô lên ứng với 9 khoảng thời gian bằng chu kì: $T = \dfrac{18}{9} = 2$ s.
+
+Câu 7. Trên mặt nước, khoảng cách giữa hai đỉnh sóng liên tiếp là 2 m, chu kì sóng là 0,5 s. Tốc độ truyền sóng là
+A. 1 m/s.
+B. 0,25 m/s.
+C. 2,5 m/s.
+*D. 4 m/s.
+Lời giải: Hai đỉnh sóng liên tiếp cách nhau một bước sóng: $\lambda = 2$ m; $v = \dfrac{\lambda}{T} = \dfrac{2}{0{,}5} = 4$ m/s.
+
+Câu 8. Khi sóng cơ truyền trong một môi trường, các phần tử của môi trường
+*A. dao động tại chỗ quanh vị trí cân bằng của chúng, không bị truyền đi theo sóng.
+B. chuyển động theo sóng với tốc độ bằng tốc độ truyền sóng.
+C. đứng yên hoàn toàn.
+D. chuyển động tròn đều quanh nguồn sóng.
+
+PHẦN II. Câu trắc nghiệm đúng sai
+Câu 1. Một sóng truyền trên mặt nước với tần số 10 Hz và tốc độ 40 cm/s.
+a) Chu kì của sóng là 0,1 s. (Đ)
+b) Bước sóng của sóng là 4 cm. (Đ)
+c) Hai điểm gần nhau nhất trên cùng một phương truyền sóng dao động cùng pha cách nhau 2 cm. (S)
+d) Trong 2 s, sóng truyền đi được quãng đường 80 cm. (Đ)
+Lời giải: $T = \dfrac{1}{f} = 0{,}1$ s; $\lambda = \dfrac{v}{f} = 4$ cm. Hai điểm gần nhất dao động cùng pha cách nhau một bước sóng, tức 4 cm. $s = vt = 40 \cdot 2 = 80$ cm.
+
+Câu 2. Xét các phát biểu về các đại lượng đặc trưng của sóng.
+a) Tốc độ truyền sóng là tốc độ lan truyền dao động trong môi trường. (Đ)
+b) Tần số của sóng bằng tần số dao động của các phần tử môi trường có sóng truyền qua. (Đ)
+c) Biên độ sóng tại một điểm là biên độ dao động của phần tử môi trường tại điểm đó. (Đ)
+d) Khi sóng âm truyền từ không khí vào nước thì tần số của sóng thay đổi. (S)
+Lời giải: Tần số sóng do nguồn quyết định nên không đổi khi sóng truyền sang môi trường khác; chỉ tốc độ truyền và bước sóng thay đổi.
+
+PHẦN III. Câu trắc nghiệm trả lời ngắn
+Câu 1. Một sóng âm có tần số 680 Hz truyền trong không khí với tốc độ 340 m/s. Bước sóng của sóng âm này là bao nhiêu mét (m)?
+Đáp án: 0,5
+Lời giải: $\lambda = \dfrac{v}{f} = \dfrac{340}{680} = 0{,}5$ m.
+
+Câu 2. Một cần rung dao động với tần số 8 Hz tạo ra sóng trên mặt nước. Khoảng cách giữa 5 gợn lồi liên tiếp trên một phương truyền sóng là 20 cm. Tốc độ truyền sóng là bao nhiêu cm/s?
+Đáp án: 40
+Lời giải: 5 gợn lồi liên tiếp ứng với 4 bước sóng: $4\lambda = 20 \Rightarrow \lambda = 5$ cm; $v = \lambda f = 5 \cdot 8 = 40$ cm/s.
+
+Câu 3. Một sóng âm có tần số 440 Hz truyền trong nước với tốc độ 1480 m/s. Bước sóng của sóng âm trong nước là bao nhiêu mét (làm tròn đến hai chữ số sau dấu phẩy)?
+Đáp án: 3,36|3,364
+Lời giải: $\lambda = \dfrac{v}{f} = \dfrac{1480}{440} \approx 3{,}36$ m.

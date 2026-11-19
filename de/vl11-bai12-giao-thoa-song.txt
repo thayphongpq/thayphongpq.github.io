@@ -1,0 +1,84 @@
+VẬT LÍ 11 - CHƯƠNG II. SÓNG - BÀI 12. GIAO THOA SÓNG
+Đề luyện tập theo cấu trúc thi tốt nghiệp THPT (biên soạn: thầy Lâm Thế Phong, THPT An Thới)
+Thời gian: 20
+
+PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn
+Câu 1. Hai nguồn sóng kết hợp là hai nguồn dao động
+A. cùng biên độ nhưng khác tần số.
+*B. cùng phương, cùng tần số và có hiệu số pha không đổi theo thời gian.
+C. có pha ban đầu thay đổi ngẫu nhiên theo thời gian.
+D. khác phương, khác tần số.
+
+Câu 2. Trong giao thoa sóng trên mặt nước với hai nguồn kết hợp cùng pha, bước sóng $\lambda$, những điểm dao động với biên độ cực đại có hiệu đường đi $d_2 - d_1$ thoả mãn ($k$ là số nguyên)
+*A. $d_2 - d_1 = k\lambda$.
+B. $d_2 - d_1 = \left(k + \dfrac{1}{2}\right)\lambda$.
+C. $d_2 - d_1 = \dfrac{k\lambda}{4}$.
+D. $d_2 - d_1 = (2k + 1)\lambda$.
+
+Câu 3. Trong giao thoa sóng với hai nguồn kết hợp cùng pha, những điểm dao động với biên độ cực tiểu có hiệu đường đi thoả mãn ($k$ là số nguyên)
+A. $d_2 - d_1 = k\lambda$.
+B. $d_2 - d_1 = 2k\lambda$.
+C. $d_2 - d_1 = \dfrac{k\lambda}{4}$.
+*D. $d_2 - d_1 = \left(k + \dfrac{1}{2}\right)\lambda$.
+
+Câu 4. Trong thí nghiệm Y-âng về giao thoa ánh sáng, khoảng cách giữa hai khe là $a$, khoảng cách từ hai khe đến màn là $D$, bước sóng ánh sáng là $\lambda$. Khoảng vân được tính bằng công thức
+A. $i = \dfrac{\lambda a}{D}$.
+B. $i = \dfrac{aD}{\lambda}$.
+*C. $i = \dfrac{\lambda D}{a}$.
+D. $i = \dfrac{D}{\lambda a}$.
+
+Câu 5. Trong giao thoa sóng trên mặt nước với hai nguồn cùng pha, bước sóng là 2 cm. Khoảng cách giữa hai cực đại giao thoa liên tiếp trên đoạn thẳng nối hai nguồn là
+*A. 1 cm.
+B. 2 cm.
+C. 4 cm.
+D. 0,5 cm.
+Lời giải: Trên đoạn nối hai nguồn, hai cực đại liên tiếp cách nhau $\dfrac{\lambda}{2} = 1$ cm.
+
+Câu 6. Trong thí nghiệm Y-âng, ánh sáng có bước sóng 0,6 μm, khoảng cách giữa hai khe là 1 mm, khoảng cách từ hai khe đến màn là 2 m. Khoảng vân là
+A. 0,3 mm.
+B. 3 mm.
+*C. 1,2 mm.
+D. 12 mm.
+Lời giải: $i = \dfrac{\lambda D}{a} = \dfrac{0{,}6 \cdot 10^{-6} \cdot 2}{10^{-3}} = 1{,}2 \cdot 10^{-3}$ m $= 1{,}2$ mm.
+
+Câu 7. Trên mặt nước có hai nguồn kết hợp cùng pha, bước sóng 2 cm. Điểm M cách hai nguồn lần lượt 12 cm và 18 cm. Điểm M thuộc
+A. một vân cực tiểu.
+*B. vân cực đại bậc 3.
+C. vân cực đại bậc 6.
+D. vân cực đại bậc 2.
+Lời giải: $d_2 - d_1 = 18 - 12 = 6$ cm $= 3\lambda$ nên M thuộc vân cực đại bậc 3.
+
+Câu 8. Trong thí nghiệm Y-âng, khoảng vân là 1,5 mm. Vân sáng bậc 3 cách vân sáng trung tâm một khoảng
+A. 3 mm.
+B. 1,5 mm.
+C. 6 mm.
+*D. 4,5 mm.
+Lời giải: $x_3 = 3i = 3 \cdot 1{,}5 = 4{,}5$ mm.
+
+PHẦN II. Câu trắc nghiệm đúng sai
+Câu 1. Trên mặt nước có hai nguồn kết hợp $S_1$, $S_2$ dao động cùng pha với tần số 20 Hz, cách nhau 10 cm. Tốc độ truyền sóng trên mặt nước là 60 cm/s.
+a) Bước sóng là 3 cm. (Đ)
+b) Điểm M cách $S_1$, $S_2$ lần lượt 8 cm và 14 cm dao động với biên độ cực đại. (Đ)
+c) Điểm N cách $S_1$, $S_2$ lần lượt 10 cm và 14,5 cm dao động với biên độ cực đại. (S)
+d) Trên đoạn $S_1S_2$ có 7 điểm dao động với biên độ cực đại. (Đ)
+Lời giải: $\lambda = \dfrac{v}{f} = 3$ cm. M: $\Delta d = 6 = 2\lambda$ (cực đại). N: $\Delta d = 4{,}5 = 1{,}5\lambda$ (cực tiểu). Số cực đại trên $S_1S_2$: $-10 < k\lambda < 10 \Rightarrow -3{,}33 < k < 3{,}33 \Rightarrow k = -3, \dots, 3$: 7 điểm.
+
+Câu 2. Trong thí nghiệm Y-âng về giao thoa ánh sáng, khoảng cách giữa hai khe là 0,5 mm, khoảng cách từ hai khe đến màn là 1,5 m, ánh sáng có bước sóng 0,5 μm.
+a) Khoảng vân là 1,5 mm. (Đ)
+b) Vân tối thứ nhất cách vân sáng trung tâm 0,75 mm. (Đ)
+c) Nếu tăng khoảng cách từ hai khe đến màn lên 2 lần thì khoảng vân giảm 2 lần. (S)
+d) Tại điểm trên màn cách vân sáng trung tâm 6 mm là vân sáng bậc 4. (Đ)
+Lời giải: $i = \dfrac{\lambda D}{a} = \dfrac{0{,}5 \cdot 10^{-6} \cdot 1{,}5}{0{,}5 \cdot 10^{-3}} = 1{,}5$ mm. Vân tối thứ nhất ở $\dfrac{i}{2} = 0{,}75$ mm. $i \sim D$ nên $D$ tăng 2 lần thì $i$ tăng 2 lần. $\dfrac{6}{1{,}5} = 4$: vân sáng bậc 4.
+
+PHẦN III. Câu trắc nghiệm trả lời ngắn
+Câu 1. Trong thí nghiệm Y-âng, khoảng cách giữa hai khe là 1,2 mm, khoảng cách từ hai khe đến màn là 2 m. Khoảng cách giữa 6 vân sáng liên tiếp là 5 mm. Bước sóng của ánh sáng là bao nhiêu micrômét (μm)?
+Đáp án: 0,6
+Lời giải: 6 vân sáng liên tiếp có 5 khoảng vân: $i = \dfrac{5}{5} = 1$ mm; $\lambda = \dfrac{ia}{D} = \dfrac{10^{-3} \cdot 1{,}2 \cdot 10^{-3}}{2} = 0{,}6 \cdot 10^{-6}$ m $= 0{,}6$ μm.
+
+Câu 2. Trên mặt nước có hai nguồn kết hợp cùng pha, dao động với tần số 15 Hz. Điểm M cách hai nguồn lần lượt 14 cm và 20 cm dao động với biên độ cực đại; giữa M và đường trung trực của đoạn nối hai nguồn còn có 2 dãy cực đại khác. Tốc độ truyền sóng trên mặt nước là bao nhiêu cm/s?
+Đáp án: 30
+Lời giải: Đường trung trực là cực đại $k = 0$, giữa có 2 dãy cực đại ($k = 1, 2$) nên M thuộc cực đại $k = 3$: $20 - 14 = 3\lambda \Rightarrow \lambda = 2$ cm; $v = \lambda f = 2 \cdot 15 = 30$ cm/s.
+
+Câu 3. Trong thí nghiệm Y-âng, ánh sáng có bước sóng 0,45 μm, khoảng cách giữa hai khe là 1 mm, khoảng cách từ hai khe đến màn là 2 m. Khoảng cách từ vân sáng bậc 2 đến vân tối thứ 5 nằm cùng một phía so với vân sáng trung tâm là bao nhiêu milimét (mm)?
+Đáp án: 2,25
+Lời giải: $i = \dfrac{0{,}45 \cdot 10^{-6} \cdot 2}{10^{-3}} = 0{,}9$ mm. Vân sáng bậc 2: $x_s = 2i = 1{,}8$ mm; vân tối thứ 5: $x_t = 4{,}5i = 4{,}05$ mm. Khoảng cách: $4{,}05 - 1{,}8 = 2{,}25$ mm.

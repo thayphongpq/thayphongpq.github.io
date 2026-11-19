@@ -1,0 +1,88 @@
+VẬT LÍ 11 - CHƯƠNG III. ĐIỆN TRƯỜNG - BÀI 20. ĐIỆN THẾ
+Đề luyện tập theo cấu trúc thi tốt nghiệp THPT (biên soạn: thầy Lâm Thế Phong, THPT An Thới)
+Thời gian: 20
+
+PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn
+Câu 1. Điện thế tại một điểm M trong điện trường là đại lượng
+*A. đặc trưng cho điện trường tại M về phương diện tạo ra thế năng khi đặt tại đó một điện tích q.
+B. đặc trưng cho điện trường tại M về phương diện tác dụng lực.
+C. bằng lực điện tác dụng lên một đơn vị điện tích đặt tại M.
+D. luôn có giá trị dương.
+Lời giải: $V_M = \dfrac{W_M}{q} = \dfrac{A_{M\infty}}{q}$, đặc trưng cho điện trường về phương diện năng lượng (thế năng).
+
+Câu 2. Đơn vị của điện thế là
+A. vôn trên mét (V/m).
+B. culông (C).
+*C. vôn (V).
+D. jun (J).
+Lời giải: Điện thế và hiệu điện thế đều có đơn vị vôn (V).
+
+Câu 3. Hiệu điện thế giữa hai điểm M và N trong điện trường được xác định bởi
+A. $U_{MN} = V_M + V_N$.
+B. $U_{MN} = V_N - V_M$.
+C. $U_{MN} = V_M \cdot V_N$.
+*D. $U_{MN} = V_M - V_N$.
+Lời giải: $U_{MN} = V_M - V_N = \dfrac{A_{MN}}{q}$.
+
+Câu 4. Một vôn (1 V) bằng
+A. 1 N/C.
+*B. 1 J/C.
+C. 1 C/J.
+D. 1 J.C.
+Lời giải: Từ $U = \dfrac{A}{q}$: 1 V = 1 J/C.
+
+Câu 5. Một điện tích $q = 2 \cdot 10^{-6}$ C di chuyển giữa hai điểm có hiệu điện thế $U_{MN} = 50$ V (từ M đến N). Công của lực điện là
+*A. $10^{-4}$ J.
+B. $4 \cdot 10^{-8}$ J.
+C. $2{,}5 \cdot 10^{7}$ J.
+D. $10^{-2}$ J.
+Lời giải: $A_{MN} = qU_{MN} = 2 \cdot 10^{-6} \cdot 50 = 10^{-4}$ J.
+
+Câu 6. Điện thế tại hai điểm M và N lần lượt là $V_M = 20$ V và $V_N = -10$ V. Hiệu điện thế $U_{MN}$ bằng
+A. 10 V.
+B. $-30$ V.
+*C. 30 V.
+D. 20 V.
+Lời giải: $U_{MN} = V_M - V_N = 20 - (-10) = 30$ V.
+
+Câu 7. Một electron ($q = -1{,}6 \cdot 10^{-19}$ C) di chuyển từ M đến N, biết $U_{MN} = 100$ V. Công của lực điện là
+A. $1{,}6 \cdot 10^{-17}$ J.
+B. $1{,}6 \cdot 10^{-21}$ J.
+C. $-1{,}6 \cdot 10^{-21}$ J.
+*D. $-1{,}6 \cdot 10^{-17}$ J.
+Lời giải: $A_{MN} = qU_{MN} = -1{,}6 \cdot 10^{-19} \cdot 100 = -1{,}6 \cdot 10^{-17}$ J.
+
+Câu 8. Một điện tích $q = 4 \cdot 10^{-8}$ C đặt tại điểm M có điện thế $V_M = 250$ V. Thế năng điện của q tại M là
+A. $1{,}6 \cdot 10^{-10}$ J.
+*B. $10^{-5}$ J.
+C. $6{,}25 \cdot 10^{9}$ J.
+D. $10^{-3}$ J.
+Lời giải: $W_M = qV_M = 4 \cdot 10^{-8} \cdot 250 = 10^{-5}$ J.
+
+PHẦN II. Câu trắc nghiệm đúng sai
+Câu 1. Hai bản kim loại phẳng song song cách nhau 5 cm, hiệu điện thế giữa hai bản là 100 V, bản âm được nối đất (chọn làm mốc điện thế, V = 0). Điểm M nằm giữa hai bản, cách bản âm 2 cm. Biết $e = 1{,}6 \cdot 10^{-19}$ C.
+a) Cường độ điện trường giữa hai bản là 2000 V/m. (Đ)
+b) Điện thế tại M là 60 V. (S)
+c) Thế năng điện của một electron đặt tại M là $-6{,}4 \cdot 10^{-18}$ J. (Đ)
+d) Khi electron di chuyển từ M đến bản dương, lực điện sinh công $9{,}6 \cdot 10^{-18}$ J. (Đ)
+Lời giải: $E = \dfrac{100}{0{,}05} = 2000$ V/m. Điện thế tăng dần từ bản âm sang bản dương: $V_M = E \cdot 0{,}02 = 40$ V. $W_M = qV_M = -1{,}6 \cdot 10^{-19} \cdot 40 = -6{,}4 \cdot 10^{-18}$ J. $U = V_M - V_+ = 40 - 100 = -60$ V; $A = qU = (-1{,}6 \cdot 10^{-19}) \cdot (-60) = 9{,}6 \cdot 10^{-18}$ J.
+
+Câu 2. Xét các phát biểu về điện thế và hiệu điện thế.
+a) Hiệu điện thế giữa hai điểm đặc trưng cho khả năng sinh công của điện trường khi có một điện tích di chuyển giữa hai điểm đó. (Đ)
+b) $U_{MN} = -U_{NM}$. (Đ)
+c) Giá trị điện thế tại một điểm không phụ thuộc vào cách chọn mốc điện thế. (S)
+d) Một điện tích dương được thả tự do trong điện trường sẽ chuyển động từ nơi có điện thế thấp đến nơi có điện thế cao. (S)
+Lời giải: $U_{MN} = V_M - V_N = -(V_N - V_M)$. Điện thế phụ thuộc mốc, hiệu điện thế thì không. Điện tích dương tự do chịu lực cùng chiều $\vec E$, tức đi từ nơi điện thế cao đến nơi điện thế thấp.
+
+PHẦN III. Câu trắc nghiệm trả lời ngắn
+Câu 1. Khi điện tích $q = 2 \cdot 10^{-8}$ C di chuyển từ M đến N, lực điện sinh công $6 \cdot 10^{-6}$ J. Hiệu điện thế $U_{MN}$ là bao nhiêu vôn (V)?
+Đáp án: 300
+Lời giải: $U_{MN} = \dfrac{A_{MN}}{q} = \dfrac{6 \cdot 10^{-6}}{2 \cdot 10^{-8}} = 300$ V.
+
+Câu 2. Một electron được tăng tốc từ trạng thái nghỉ qua hiệu điện thế 200 V. Biết $e = 1{,}6 \cdot 10^{-19}$ C. Động năng của electron sau khi được tăng tốc là bao nhiêu $10^{-17}$ J?
+Đáp án: 3,2
+Lời giải: Công của lực điện chuyển thành động năng: $W_{\text{đ}} = eU = 1{,}6 \cdot 10^{-19} \cdot 200 = 3{,}2 \cdot 10^{-17}$ J.
+
+Câu 3. Trong một điện trường đều có cường độ 4000 V/m, hai điểm M và N nằm trên cùng một đường sức, MN = 3 cm và chiều từ M đến N cùng chiều đường sức. Biết điện thế tại N là 20 V. Điện thế tại M là bao nhiêu vôn (V)?
+Đáp án: 140
+Lời giải: $U_{MN} = E \cdot MN = 4000 \cdot 0{,}03 = 120$ V; $V_M = V_N + U_{MN} = 20 + 120 = 140$ V.

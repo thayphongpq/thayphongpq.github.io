@@ -1,0 +1,88 @@
+VẬT LÍ 11 - CHƯƠNG III. ĐIỆN TRƯỜNG - BÀI 18. ĐIỆN TRƯỜNG ĐỀU
+Đề luyện tập theo cấu trúc thi tốt nghiệp THPT (biên soạn: thầy Lâm Thế Phong, THPT An Thới)
+Thời gian: 20
+
+PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn
+Câu 1. Điện trường đều là điện trường mà vectơ cường độ điện trường
+A. có độ lớn giảm dần theo khoảng cách.
+*B. có cùng phương, cùng chiều và cùng độ lớn tại mọi điểm.
+C. luôn hướng về một điểm cố định.
+D. có độ lớn bằng nhau nhưng hướng khác nhau tại mọi điểm.
+Lời giải: Điện trường đều có $\vec E$ như nhau tại mọi điểm; đường sức là những đường thẳng song song cách đều.
+
+Câu 2. Điện trường giữa hai bản kim loại phẳng, song song, đặt gần nhau, tích điện trái dấu và có độ lớn bằng nhau (bỏ qua vùng gần mép) có đường sức là
+A. các đường cong xuất phát từ bản âm.
+B. các đường thẳng song song với hai bản.
+C. các đường tròn đồng tâm.
+*D. các đường thẳng song song, cách đều, vuông góc với hai bản và hướng từ bản dương sang bản âm.
+Lời giải: Giữa hai bản phẳng tích điện trái dấu là điện trường đều, $\vec E$ vuông góc với các bản, hướng từ bản dương sang bản âm.
+
+Câu 3. Trong hệ thức $E = \dfrac{U}{d}$ của điện trường đều giữa hai bản phẳng song song, d là
+*A. khoảng cách giữa hai bản.
+B. diện tích của mỗi bản.
+C. chiều dài của mỗi bản.
+D. độ dày của mỗi bản kim loại.
+Lời giải: U là hiệu điện thế giữa hai bản, d là khoảng cách giữa hai bản.
+
+Câu 4. Một electron bay vào điện trường đều với vận tốc ban đầu vuông góc với các đường sức điện. Bỏ qua tác dụng của trọng lực. Quỹ đạo của electron trong điện trường là
+A. đường thẳng song song với đường sức.
+B. đường tròn.
+*C. một phần đường parabol.
+D. đường thẳng vuông góc với đường sức.
+Lời giải: Theo phương ban đầu electron chuyển động thẳng đều, theo phương đường sức chuyển động nhanh dần đều, giống chuyển động ném ngang nên quỹ đạo là parabol.
+
+Câu 5. Hai bản kim loại phẳng song song cách nhau 4 cm, hiệu điện thế giữa hai bản là 200 V. Cường độ điện trường giữa hai bản là
+*A. 5000 V/m.
+B. 50 V/m.
+C. 8 V/m.
+D. 800 V/m.
+Lời giải: $E = \dfrac{U}{d} = \dfrac{200}{0{,}04} = 5000$ V/m.
+
+Câu 6. Một điện tích $q = 2 \cdot 10^{-6}$ C đặt trong điện trường đều có cường độ $E = 10^4$ V/m. Lực điện tác dụng lên điện tích có độ lớn là
+A. $2 \cdot 10^{-10}$ N.
+B. $5 \cdot 10^{-3}$ N.
+*C. $2 \cdot 10^{-2}$ N.
+D. $5 \cdot 10^{9}$ N.
+Lời giải: $F = |q|E = 2 \cdot 10^{-6} \cdot 10^4 = 2 \cdot 10^{-2}$ N.
+
+Câu 7. Một giọt dầu tích điện có khối lượng $4 \cdot 10^{-15}$ kg nằm lơ lửng giữa hai bản kim loại phẳng nằm ngang cách nhau 2 cm, hiệu điện thế giữa hai bản là 500 V. Lấy $g = 10$ m/s². Độ lớn điện tích của giọt dầu là
+A. $1{,}6 \cdot 10^{-19}$ C.
+*B. $1{,}6 \cdot 10^{-18}$ C.
+C. $8 \cdot 10^{-19}$ C.
+D. $6{,}4 \cdot 10^{-18}$ C.
+Lời giải: $E = \dfrac{U}{d} = \dfrac{500}{0{,}02} = 2{,}5 \cdot 10^4$ V/m. Lơ lửng: $|q|E = mg \Rightarrow |q| = \dfrac{4 \cdot 10^{-14}}{2{,}5 \cdot 10^4} = 1{,}6 \cdot 10^{-18}$ C.
+
+Câu 8. Hai bản kim loại phẳng song song cách nhau 5 cm, hiệu điện thế giữa hai bản là 100 V. Hai điểm M, N nằm trên cùng một đường sức giữa hai bản, cách nhau 2 cm (đi từ M đến N theo chiều đường sức). Hiệu điện thế $U_{MN}$ bằng
+A. 100 V.
+B. 20 V.
+C. 250 V.
+*D. 40 V.
+Lời giải: $E = \dfrac{100}{0{,}05} = 2000$ V/m; $U_{MN} = E \cdot MN = 2000 \cdot 0{,}02 = 40$ V.
+
+PHẦN II. Câu trắc nghiệm đúng sai
+Câu 1. Hai tấm kim loại phẳng đặt song song, cách nhau 2 cm, được nối với hai cực của một nguồn điện có hiệu điện thế 120 V.
+a) Điện trường giữa hai tấm (bỏ qua vùng gần mép) là điện trường đều. (Đ)
+b) Cường độ điện trường giữa hai tấm là 60 V/m. (S)
+c) Lực điện tác dụng lên điện tích $q = 5 \cdot 10^{-9}$ C đặt giữa hai tấm có độ lớn $3 \cdot 10^{-5}$ N. (Đ)
+d) Nếu tăng khoảng cách giữa hai tấm lên gấp đôi mà vẫn giữ nguyên hiệu điện thế thì cường độ điện trường tăng gấp đôi. (S)
+Lời giải: $E = \dfrac{U}{d} = \dfrac{120}{0{,}02} = 6000$ V/m; $F = qE = 5 \cdot 10^{-9} \cdot 6000 = 3 \cdot 10^{-5}$ N. Giữ U, tăng d gấp đôi thì E giảm một nửa.
+
+Câu 2. Một electron được thả không vận tốc đầu trong điện trường đều giữa hai bản kim loại phẳng tích điện trái dấu. Bỏ qua tác dụng của trọng lực.
+a) Electron chuyển động về phía bản tích điện dương. (Đ)
+b) Lực điện tác dụng lên electron cùng chiều với vectơ cường độ điện trường. (S)
+c) Electron chuyển động thẳng nhanh dần đều. (Đ)
+d) Nếu electron bay vào điện trường với vận tốc đầu vuông góc với đường sức thì thành phần vận tốc theo phương ban đầu không thay đổi. (Đ)
+Lời giải: Electron mang điện âm nên $\vec F = q\vec E$ ngược chiều $\vec E$, tức hướng về bản dương. Lực không đổi nên $a = \dfrac{eE}{m}$ không đổi: chuyển động thẳng nhanh dần đều. Theo phương vuông góc đường sức không có lực nên vận tốc theo phương đó không đổi.
+
+PHẦN III. Câu trắc nghiệm trả lời ngắn
+Câu 1. Giữa hai bản kim loại phẳng song song cách nhau 4 mm có điện trường đều với cường độ $2{,}5 \cdot 10^4$ V/m. Hiệu điện thế giữa hai bản là bao nhiêu vôn (V)?
+Đáp án: 100
+Lời giải: $U = Ed = 2{,}5 \cdot 10^4 \cdot 4 \cdot 10^{-3} = 100$ V.
+
+Câu 2. Một hạt bụi có khối lượng 0,1 mg mang điện tích $10^{-9}$ C nằm lơ lửng giữa hai bản kim loại phẳng nằm ngang cách nhau 1 cm. Lấy $g = 10$ m/s². Hiệu điện thế giữa hai bản là bao nhiêu vôn (V)?
+Đáp án: 10
+Lời giải: $m = 10^{-7}$ kg; $qE = mg \Rightarrow E = \dfrac{10^{-7} \cdot 10}{10^{-9}} = 1000$ V/m; $U = Ed = 1000 \cdot 0{,}01 = 10$ V.
+
+Câu 3. Một electron được thả không vận tốc đầu tại bản âm của hai bản kim loại phẳng song song cách nhau 1 cm, hiệu điện thế giữa hai bản là 91 V. Biết $e = 1{,}6 \cdot 10^{-19}$ C, $m_e = 9{,}1 \cdot 10^{-31}$ kg, bỏ qua trọng lực. Tốc độ của electron khi tới bản dương là bao nhiêu $10^6$ m/s (làm tròn đến hai chữ số sau dấu phẩy)?
+Đáp án: 5,66|5,7|5,657
+Lời giải: $E = \dfrac{91}{0{,}01} = 9100$ V/m; $a = \dfrac{eE}{m_e} = \dfrac{1{,}6 \cdot 10^{-19} \cdot 9100}{9{,}1 \cdot 10^{-31}} = 1{,}6 \cdot 10^{15}$ m/s²; $v = \sqrt{2ad} = \sqrt{2 \cdot 1{,}6 \cdot 10^{15} \cdot 0{,}01} \approx 5{,}66 \cdot 10^6$ m/s.

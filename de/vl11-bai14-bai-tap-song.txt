@@ -1,0 +1,87 @@
+VẬT LÍ 11 - CHƯƠNG II. SÓNG - BÀI 14. BÀI TẬP VỀ SÓNG
+Đề luyện tập theo cấu trúc thi tốt nghiệp THPT (biên soạn: thầy Lâm Thế Phong, THPT An Thới)
+Thời gian: 25
+
+PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn
+Câu 1. Một sóng âm có tần số 500 Hz truyền trong không khí với tốc độ 340 m/s. Bước sóng của sóng âm là
+*A. 0,68 m.
+B. 1,47 m.
+C. 170 m.
+D. 0,34 m.
+Lời giải: $\lambda = \dfrac{v}{f} = \dfrac{340}{500} = 0{,}68$ m.
+
+Câu 2. Một sóng cơ có tần số 10 Hz. Hai điểm gần nhau nhất trên cùng một phương truyền sóng dao động ngược pha cách nhau 25 cm. Tốc độ truyền sóng là
+A. 2,5 m/s.
+*B. 5 m/s.
+C. 10 m/s.
+D. 0,5 m/s.
+Lời giải: Hai điểm gần nhất dao động ngược pha cách nhau $\dfrac{\lambda}{2} = 25$ cm $\Rightarrow \lambda = 0{,}5$ m; $v = \lambda f = 5$ m/s.
+
+Câu 3. Một sóng điện từ có bước sóng 25 m trong không khí. Lấy $c = 3 \cdot 10^8$ m/s. Tần số của sóng là
+A. 7,5 MHz.
+B. 1,2 MHz.
+*C. 12 MHz.
+D. 120 MHz.
+Lời giải: $f = \dfrac{c}{\lambda} = \dfrac{3 \cdot 10^8}{25} = 1{,}2 \cdot 10^7$ Hz $= 12$ MHz.
+
+Câu 4. Trong thí nghiệm Y-âng, khoảng cách giữa hai khe là 2 mm, khoảng cách từ hai khe đến màn là 1,6 m, khoảng vân đo được là 0,4 mm. Bước sóng của ánh sáng là
+A. 0,4 μm.
+B. 0,6 μm.
+C. 0,64 μm.
+*D. 0,5 μm.
+Lời giải: $\lambda = \dfrac{ia}{D} = \dfrac{0{,}4 \cdot 10^{-3} \cdot 2 \cdot 10^{-3}}{1{,}6} = 0{,}5 \cdot 10^{-6}$ m.
+
+Câu 5. Trên mặt nước có hai nguồn kết hợp cùng pha, bước sóng 1,5 cm. Điểm M là điểm dao động với biên độ cực tiểu nằm trên vân cực tiểu gần đường trung trực của đoạn nối hai nguồn nhất. Hiệu khoảng cách từ M đến hai nguồn là
+A. 1,5 cm.
+*B. 0,75 cm.
+C. 3 cm.
+D. 0,375 cm.
+Lời giải: Cực tiểu gần trung trực nhất ứng với $|d_2 - d_1| = \dfrac{\lambda}{2} = 0{,}75$ cm.
+
+Câu 6. Một sợi dây dài 2 m có hai đầu cố định, tốc độ truyền sóng trên dây là 40 m/s. Khi dây dao động với tần số 30 Hz thì trên dây có sóng dừng với số bụng sóng là
+A. 2.
+B. 4.
+C. 6.
+*D. 3.
+Lời giải: $\ell = \dfrac{k\lambda}{2} = \dfrac{kv}{2f} \Rightarrow k = \dfrac{2\ell f}{v} = \dfrac{2 \cdot 2 \cdot 30}{40} = 3$.
+
+Câu 7. Sóng nào sau đây là sóng dọc?
+*A. Sóng âm truyền trong không khí.
+B. Sóng ánh sáng.
+C. Sóng trên dây đàn đang rung.
+D. Sóng vô tuyến.
+
+Câu 8. Một người quan sát chiếc phao trên mặt biển thấy nó nhô lên cao 6 lần trong 10 s, và đo được khoảng cách giữa 3 đỉnh sóng liên tiếp là 8 m. Tốc độ truyền sóng biển là
+A. 4 m/s.
+B. 0,8 m/s.
+*C. 2 m/s.
+D. 1,6 m/s.
+Lời giải: $5T = 10 \Rightarrow T = 2$ s; $2\lambda = 8 \Rightarrow \lambda = 4$ m; $v = \dfrac{\lambda}{T} = 2$ m/s.
+
+PHẦN II. Câu trắc nghiệm đúng sai
+Câu 1. Tại điểm O trên mặt nước có một nguồn sóng dao động với tần số 5 Hz, tạo ra các gợn sóng tròn đồng tâm. Khoảng cách giữa hai gợn lồi liên tiếp là 6 cm.
+a) Bước sóng là 6 cm. (Đ)
+b) Tốc độ truyền sóng là 30 cm/s. (Đ)
+c) Hai điểm trên cùng một phương truyền sóng cách nhau 9 cm dao động cùng pha. (S)
+d) Sau 2 s, sóng truyền đi được 60 cm. (Đ)
+Lời giải: $\lambda = 6$ cm; $v = \lambda f = 30$ cm/s. $\Delta\varphi = \dfrac{2\pi d}{\lambda} = \dfrac{2\pi \cdot 9}{6} = 3\pi$ nên hai điểm dao động ngược pha. $s = vt = 60$ cm.
+
+Câu 2. Một dây đàn dài 0,8 m có hai đầu cố định. Khi dây dao động với tần số 250 Hz thì trên dây có sóng dừng với 4 bụng sóng.
+a) Bước sóng của sóng trên dây là 0,4 m. (Đ)
+b) Tốc độ truyền sóng trên dây là 100 m/s. (Đ)
+c) Tần số nhỏ nhất để trên dây có sóng dừng là 50 Hz. (S)
+d) Khoảng cách giữa một nút sóng và bụng sóng gần nó nhất là 10 cm. (Đ)
+Lời giải: $\lambda = \dfrac{2\ell}{k} = \dfrac{1{,}6}{4} = 0{,}4$ m; $v = \lambda f = 100$ m/s. Tần số nhỏ nhất ($k = 1$): $f_1 = \dfrac{v}{2\ell} = \dfrac{100}{1{,}6} = 62{,}5$ Hz. Nút – bụng gần nhất: $\dfrac{\lambda}{4} = 0{,}1$ m.
+
+PHẦN III. Câu trắc nghiệm trả lời ngắn
+Câu 1. Trong thí nghiệm Y-âng, ánh sáng có bước sóng 0,5 μm, khoảng cách giữa hai khe là 1 mm, khoảng cách từ hai khe đến màn là 2 m. Vùng giao thoa trên màn rộng 9 mm, đối xứng qua vân sáng trung tâm. Số vân sáng quan sát được trong vùng giao thoa là bao nhiêu?
+Đáp án: 9
+Lời giải: $i = \dfrac{\lambda D}{a} = 1$ mm. Vân sáng: $|x| = |k|i \le 4{,}5$ mm $\Rightarrow k = -4, \dots, 4$: có 9 vân sáng.
+
+Câu 2. Trên mặt nước có hai nguồn kết hợp $S_1$, $S_2$ dao động cùng pha, cách nhau 11 cm, bước sóng 2 cm. Số điểm dao động với biên độ cực đại trên đoạn $S_1S_2$ (không kể hai nguồn) là bao nhiêu?
+Đáp án: 11
+Lời giải: $-11 < k\lambda < 11 \Rightarrow -5{,}5 < k < 5{,}5 \Rightarrow k = -5, \dots, 5$: có 11 điểm.
+
+Câu 3. Một sợi dây dài 1,8 m có hai đầu cố định, tốc độ truyền sóng trên dây là 36 m/s. Để trên dây có sóng dừng với 6 nút sóng (kể cả hai đầu dây) thì tần số dao động của dây là bao nhiêu héc (Hz)?
+Đáp án: 50
+Lời giải: 6 nút ứng với $k = 5$ bụng: $f = \dfrac{kv}{2\ell} = \dfrac{5 \cdot 36}{2 \cdot 1{,}8} = 50$ Hz.

@@ -1,0 +1,88 @@
+VẬT LÍ 11 - CHƯƠNG IV. DÒNG ĐIỆN. MẠCH ĐIỆN - BÀI 23. ĐIỆN TRỞ. ĐỊNH LUẬT OHM
+Đề luyện tập theo cấu trúc thi tốt nghiệp THPT (biên soạn: thầy Lâm Thế Phong, THPT An Thới)
+Thời gian: 20
+
+PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn
+Câu 1. Điện trở của một vật dẫn là đại lượng đặc trưng cho
+A. khả năng tích điện của vật dẫn.
+B. khả năng sinh công của nguồn điện.
+*C. mức độ cản trở dòng điện của vật dẫn.
+D. tốc độ chuyển động của electron trong vật dẫn.
+Lời giải: Điện trở R đặc trưng cho mức độ cản trở dòng điện; đơn vị là ôm ($\Omega$).
+
+Câu 2. Hệ thức của định luật Ohm đối với một đoạn mạch chỉ có điện trở R là
+*A. $I = \dfrac{U}{R}$.
+B. $I = UR$.
+C. $I = \dfrac{R}{U}$.
+D. $U = \dfrac{I}{R}$.
+Lời giải: Cường độ dòng điện tỉ lệ thuận với hiệu điện thế và tỉ lệ nghịch với điện trở: $I = \dfrac{U}{R}$.
+
+Câu 3. Khi nhiệt độ tăng thì điện trở của một dây kim loại
+A. giảm.
+B. không đổi.
+C. giảm đến 0.
+*D. tăng.
+Lời giải: Nhiệt độ tăng, các ion kim loại dao động mạnh hơn, cản trở chuyển động của electron nhiều hơn nên điện trở tăng.
+
+Câu 4. Điện trở của một dây dẫn kim loại hình trụ đồng chất
+A. tỉ lệ nghịch với chiều dài và tỉ lệ thuận với tiết diện của dây.
+*B. tỉ lệ thuận với chiều dài và tỉ lệ nghịch với tiết diện của dây.
+C. không phụ thuộc vào vật liệu làm dây.
+D. tỉ lệ thuận với cả chiều dài và tiết diện của dây.
+Lời giải: $R = \rho\dfrac{\ell}{S}$.
+
+Câu 5. Đặt hiệu điện thế 12 V vào hai đầu một điện trở 24 $\Omega$. Cường độ dòng điện chạy qua điện trở là
+*A. 0,5 A.
+B. 2 A.
+C. 288 A.
+D. 12 A.
+Lời giải: $I = \dfrac{U}{R} = \dfrac{12}{24} = 0{,}5$ A.
+
+Câu 6. Một dây nhôm dài 100 m, tiết diện 1,4 mm², điện trở suất của nhôm là $2{,}8 \cdot 10^{-8}\ \Omega$.m. Điện trở của dây là
+A. 0,2 $\Omega$.
+B. 20 $\Omega$.
+*C. 2 $\Omega$.
+D. 0,02 $\Omega$.
+Lời giải: $R = \rho\dfrac{\ell}{S} = 2{,}8 \cdot 10^{-8} \cdot \dfrac{100}{1{,}4 \cdot 10^{-6}} = 2\ \Omega$.
+
+Câu 7. Điện trở nhiệt loại NTC được dùng trong các mạch cảm biến nhiệt độ. Khi nhiệt độ tăng thì điện trở của NTC
+A. tăng.
+*B. giảm.
+C. không đổi.
+D. tăng rồi giảm.
+Lời giải: NTC (hệ số nhiệt điện trở âm) có điện trở giảm khi nhiệt độ tăng; PTC thì ngược lại.
+
+Câu 8. Một dây dẫn có điện trở 5 $\Omega$. Kéo dây cho dài gấp đôi (thể tích và vật liệu không đổi) thì điện trở của dây là
+A. 10 $\Omega$.
+B. 2,5 $\Omega$.
+C. 5 $\Omega$.
+*D. 20 $\Omega$.
+Lời giải: Thể tích không đổi: $\ell' = 2\ell$ thì $S' = \dfrac{S}{2}$, nên $R' = \rho\dfrac{2\ell}{S/2} = 4R = 20\ \Omega$.
+
+PHẦN II. Câu trắc nghiệm đúng sai
+Câu 1. Một điện trở $R = 20\ \Omega$ (có giá trị không đổi) được mắc vào hai đầu một hiệu điện thế U có thể điều chỉnh.
+a) Khi $U = 10$ V thì cường độ dòng điện qua điện trở là 0,5 A. (Đ)
+b) Đồ thị biểu diễn I theo U (đường đặc trưng vôn – ampe) của điện trở này là một đoạn thẳng đi qua gốc tọa độ. (Đ)
+c) Khi U tăng gấp đôi thì điện trở R tăng gấp đôi. (S)
+d) Để cường độ dòng điện qua điện trở là 0,8 A thì cần đặt hiệu điện thế 25 V. (S)
+Lời giải: $I = \dfrac{U}{R} = \dfrac{10}{20} = 0{,}5$ A; I tỉ lệ thuận với U nên đồ thị là đường thẳng qua gốc. R không phụ thuộc U. $U = IR = 0{,}8 \cdot 20 = 16$ V.
+
+Câu 2. Một dây đồng dài 50 m, tiết diện 0,5 mm², điện trở suất của đồng là $1{,}7 \cdot 10^{-8}\ \Omega$.m.
+a) Điện trở của dây là 1,7 $\Omega$. (Đ)
+b) Cắt dây thành hai đoạn bằng nhau thì mỗi đoạn có điện trở 3,4 $\Omega$. (S)
+c) Đặt hiệu điện thế 3,4 V vào hai đầu dây thì cường độ dòng điện qua dây là 2 A. (Đ)
+d) Điện trở suất của đồng phụ thuộc vào chiều dài của dây. (S)
+Lời giải: $R = 1{,}7 \cdot 10^{-8} \cdot \dfrac{50}{0{,}5 \cdot 10^{-6}} = 1{,}7\ \Omega$. Mỗi nửa dây có $R' = \dfrac{R}{2} = 0{,}85\ \Omega$. $I = \dfrac{3{,}4}{1{,}7} = 2$ A. Điện trở suất chỉ phụ thuộc vật liệu và nhiệt độ.
+
+PHẦN III. Câu trắc nghiệm trả lời ngắn
+Câu 1. Đặt hiệu điện thế 6 V vào hai đầu một điện trở thì cường độ dòng điện qua nó là 0,3 A. Giá trị điện trở là bao nhiêu ôm ($\Omega$)?
+Đáp án: 20
+Lời giải: $R = \dfrac{U}{I} = \dfrac{6}{0{,}3} = 20\ \Omega$.
+
+Câu 2. Một dây nicrom dài 2 m, tiết diện 0,2 mm² có điện trở 11 $\Omega$. Điện trở suất của nicrom là bao nhiêu $10^{-6}\ \Omega$.m?
+Đáp án: 1,1
+Lời giải: $\rho = \dfrac{RS}{\ell} = \dfrac{11 \cdot 0{,}2 \cdot 10^{-6}}{2} = 1{,}1 \cdot 10^{-6}\ \Omega$.m.
+
+Câu 3. Một bóng đèn sợi đốt khi chưa thắp sáng (ở nhiệt độ phòng) có điện trở 40 $\Omega$. Khi đèn sáng bình thường ở hiệu điện thế 220 V thì cường độ dòng điện qua đèn là 0,5 A. Điện trở của đèn khi sáng bình thường lớn gấp bao nhiêu lần điện trở khi chưa thắp sáng?
+Đáp án: 11
+Lời giải: Khi sáng: $R = \dfrac{U}{I} = \dfrac{220}{0{,}5} = 440\ \Omega$; $\dfrac{440}{40} = 11$ lần (do điện trở kim loại tăng mạnh theo nhiệt độ).
