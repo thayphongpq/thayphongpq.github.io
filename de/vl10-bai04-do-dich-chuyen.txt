@@ -1,0 +1,86 @@
+VẬT LÍ 10 - CHƯƠNG II. ĐỘNG HỌC - BÀI 4. ĐỘ DỊCH CHUYỂN VÀ QUÃNG ĐƯỜNG ĐI ĐƯỢC
+Đề luyện tập theo cấu trúc thi tốt nghiệp THPT (biên soạn: thầy Lâm Thế Phong, THPT An Thới)
+Thời gian: 20
+
+PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn
+Câu 1. Độ dịch chuyển là
+*A. đại lượng vectơ, cho biết độ dài và hướng của sự thay đổi vị trí của vật.
+B. đại lượng vô hướng, cho biết độ dài quãng đường vật đi được.
+C. đại lượng vectơ, luôn có độ lớn bằng quãng đường vật đi được.
+D. đại lượng vô hướng, chỉ cho biết hướng chuyển động của vật.
+Lời giải: Độ dịch chuyển $\vec{d}$ là vectơ nối vị trí đầu với vị trí cuối của vật.
+
+Câu 2. Một hệ quy chiếu gồm
+A. vật làm gốc và hệ tọa độ gắn với vật làm gốc.
+B. hệ tọa độ, mốc thời gian và đồng hồ.
+*C. vật làm gốc, hệ tọa độ gắn với vật làm gốc, mốc thời gian và đồng hồ.
+D. vật làm gốc, mốc thời gian và đồng hồ.
+
+Câu 3. Độ lớn của độ dịch chuyển bằng quãng đường đi được khi vật
+*A. chuyển động thẳng và không đổi chiều.
+B. chuyển động tròn đều.
+C. chuyển động thẳng rồi quay ngược lại.
+D. chuyển động theo một đường cong bất kì.
+
+Câu 4. Một người đi bộ 300 m về phía đông, rồi quay lại đi 100 m về phía tây. Độ dịch chuyển của người đó có
+A. độ lớn 400 m, hướng đông.
+*B. độ lớn 200 m, hướng đông.
+C. độ lớn 200 m, hướng tây.
+D. độ lớn 400 m, hướng tây.
+Lời giải: Vị trí cuối cách vị trí đầu $300 - 100 = 200$ m về phía đông.
+
+Câu 5. Một vận động viên chạy đúng một vòng sân có chu vi 400 m và về đúng vị trí xuất phát. Quãng đường đi được và độ lớn độ dịch chuyển lần lượt là
+A. 0 m và 400 m.
+*B. 400 m và 0 m.
+C. 400 m và 400 m.
+D. 200 m và 0 m.
+Lời giải: Vị trí cuối trùng vị trí đầu nên $d = 0$, còn quãng đường là chu vi sân.
+
+Câu 6. Một ô tô đi 6 km về phía bắc, rồi rẽ sang đi 8 km về phía đông. Độ lớn độ dịch chuyển của ô tô là
+A. 14 km.
+B. 2 km.
+*C. 10 km.
+D. 48 km.
+Lời giải: Hai độ dịch chuyển vuông góc: $d = \sqrt{6^2 + 8^2} = 10$ km.
+
+Câu 7. Trên trục Ox, một vật đi từ vị trí $x_1 = 2$ m đến vị trí $x_2 = -3$ m. Độ dịch chuyển của vật là
+A. 5 m.
+*B. −5 m.
+C. −1 m.
+D. 1 m.
+Lời giải: $d = x_2 - x_1 = -3 - 2 = -5$ m; dấu trừ cho biết vật dịch chuyển ngược chiều dương.
+
+Câu 8. Phát biểu nào sau đây là sai?
+A. Trên trục tọa độ, độ dịch chuyển có thể mang giá trị dương, âm hoặc bằng 0.
+B. Quãng đường đi được không bao giờ âm.
+*C. Quãng đường đi được luôn nhỏ hơn độ lớn của độ dịch chuyển.
+D. Khi vật quay về đúng vị trí ban đầu thì độ dịch chuyển bằng 0.
+Lời giải: Quãng đường luôn lớn hơn hoặc bằng độ lớn độ dịch chuyển, không thể nhỏ hơn.
+
+PHẦN II. Câu trắc nghiệm đúng sai
+Câu 1. Bạn An đi thẳng từ nhà (A) đến trường (B) cách nhà 1,2 km về phía đông, đi tiếp 0,4 km về phía đông đến nhà sách (C), rồi quay lại trường theo đường cũ.
+a) Quãng đường An đi từ nhà đến nhà sách là 1,6 km. (Đ)
+b) Độ dịch chuyển của An từ nhà đến nhà sách có độ lớn 1,6 km, hướng đông. (Đ)
+c) Cả hành trình từ nhà đến nhà sách rồi quay về trường, quãng đường An đi được là 1,6 km. (S)
+d) Cả hành trình từ nhà đến nhà sách rồi quay về trường, độ dịch chuyển của An có độ lớn 1,2 km, hướng đông. (Đ)
+Lời giải: Quãng đường cả hành trình là $1{,}2 + 0{,}4 + 0{,}4 = 2{,}0$ km. Vị trí cuối là trường nên độ dịch chuyển là 1,2 km về phía đông.
+
+Câu 2. Một người bơi dọc bể bơi dài 50 m: bơi từ đầu A đến đầu B rồi bơi quay về A. Chọn trục Ox có gốc tại A, chiều dương từ A đến B.
+a) Khi vừa đến B, độ dịch chuyển của người đó là 50 m. (Đ)
+b) Khi về lại A, quãng đường người đó đã bơi là 100 m. (Đ)
+c) Khi về lại A, độ dịch chuyển của người đó là 100 m. (S)
+d) Khi đang bơi về và cách A 20 m, độ dịch chuyển của người đó (tính từ lúc xuất phát) là 30 m. (S)
+Lời giải: Về lại A thì $d = 0$. Khi cách A 20 m trên đường về: $d = 20$ m, còn quãng đường đã bơi là $50 + 30 = 80$ m.
+
+PHẦN III. Câu trắc nghiệm trả lời ngắn
+Câu 1. Một con kiến bò 3 m về hướng tây rồi bò 4 m về hướng nam. Độ lớn độ dịch chuyển của con kiến là bao nhiêu mét?
+Đáp án: 5
+Lời giải: $d = \sqrt{3^2 + 4^2} = 5$ m.
+
+Câu 2. Một vật chuyển động trên trục Ox, đi từ vị trí $x = 5$ m đến vị trí $x = 15$ m rồi quay lại vị trí $x = 8$ m. Quãng đường vật đi được là bao nhiêu mét?
+Đáp án: 17
+Lời giải: $s = (15 - 5) + (15 - 8) = 10 + 7 = 17$ m.
+
+Câu 3. Với vật ở Câu 2, độ dịch chuyển của vật trong cả quá trình là bao nhiêu mét?
+Đáp án: 3
+Lời giải: $d = x_{\text{cuối}} - x_{\text{đầu}} = 8 - 5 = 3$ m.

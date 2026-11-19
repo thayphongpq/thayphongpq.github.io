@@ -1,0 +1,88 @@
+VẬT LÍ 10 - CHƯƠNG II. ĐỘNG HỌC - BÀI 7. ĐỒ THỊ ĐỘ DỊCH CHUYỂN – THỜI GIAN
+Đề luyện tập theo cấu trúc thi tốt nghiệp THPT (biên soạn: thầy Lâm Thế Phong, THPT An Thới)
+Thời gian: 20
+
+PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn
+Câu 1. Đồ thị độ dịch chuyển – thời gian của một vật chuyển động thẳng đều là
+*A. một đoạn thẳng.
+B. một đường parabol.
+C. một đường tròn.
+D. một đường hypebol.
+Lời giải: Chuyển động thẳng đều có $d = v t$ với $v$ không đổi, nên đồ thị là đường thẳng.
+
+Câu 2. Độ dốc của đồ thị độ dịch chuyển – thời gian cho biết
+*A. vận tốc của vật.
+B. gia tốc của vật.
+C. quãng đường vật đi được.
+D. khối lượng của vật.
+Lời giải: Độ dốc $= \dfrac{\Delta d}{\Delta t} = v$.
+
+Câu 3. Đồ thị độ dịch chuyển – thời gian của một vật là đoạn thẳng song song với trục thời gian. Trong khoảng thời gian đó, vật
+A. chuyển động thẳng đều.
+*B. đứng yên.
+C. chuyển động nhanh dần.
+D. chuyển động ngược chiều dương.
+
+Câu 4. Một vật chuyển động thẳng đều có độ dịch chuyển $d = 5t$ ($d$ tính bằng m, $t$ tính bằng s). Vận tốc của vật là
+*A. 5 m/s.
+B. 5t m/s.
+C. 0,2 m/s.
+D. 10 m/s.
+
+Câu 5. Đồ thị độ dịch chuyển – thời gian của một vật chuyển động thẳng đều là đường thẳng đi qua gốc tọa độ và điểm (5 s; 30 m). Vận tốc của vật là
+*A. 6 m/s.
+B. 150 m/s.
+C. 0,17 m/s.
+D. 30 m/s.
+Lời giải: $v = \dfrac{30}{5} = 6$ m/s.
+
+Câu 6. Đồ thị độ dịch chuyển – thời gian của một vật là đường thẳng dốc xuống (độ dịch chuyển giảm dần theo thời gian). Điều đó cho biết vật
+A. đứng yên.
+B. chuyển động chậm dần theo chiều dương.
+*C. chuyển động thẳng đều ngược chiều dương.
+D. chuyển động nhanh dần theo chiều dương.
+Lời giải: Độ dốc âm nên vận tốc âm: vật chuyển động đều theo chiều âm.
+
+Câu 7. Hai xe A và B chuyển động thẳng đều theo chiều dương. Trên cùng một hệ trục, đồ thị độ dịch chuyển – thời gian của xe A dốc hơn của xe B. Kết luận nào sau đây là đúng?
+*A. Xe A có vận tốc lớn hơn xe B.
+B. Xe A có vận tốc nhỏ hơn xe B.
+C. Hai xe có vận tốc bằng nhau.
+D. Xe A chuyển động ngược chiều xe B.
+
+Câu 8. Một ô tô chuyển động thẳng đều với vận tốc 36 km/h. Sau 2 phút, độ dịch chuyển của ô tô có độ lớn là
+*A. 1 200 m.
+B. 72 m.
+C. 1,2 m.
+D. 720 m.
+Lời giải: $v = 36$ km/h $= 10$ m/s; $d = 10 \cdot 120 = 1\,200$ m.
+
+PHẦN II. Câu trắc nghiệm đúng sai
+Câu 1. Một vật chuyển động trên một đường thẳng. Độ dịch chuyển của vật (so với vị trí xuất phát) tại các thời điểm được ghi trong bảng:
+t (s): 0 | 1 | 2 | 3 | 4 | 5
+d (m): 0 | 2 | 4 | 4 | 4 | 1
+Biết trong mỗi giai đoạn 0 – 2 s, 2 – 4 s và 4 – 5 s, vật chuyển động thẳng đều hoặc đứng yên.
+a) Trong 2 s đầu, vật chuyển động thẳng đều với vận tốc 2 m/s. (Đ)
+b) Từ thời điểm 2 s đến 4 s, vật đứng yên. (Đ)
+c) Từ thời điểm 4 s đến 5 s, vật chuyển động ngược chiều dương với vận tốc có độ lớn 3 m/s. (Đ)
+d) Quãng đường vật đi được trong 5 s là 1 m. (S)
+Lời giải: Từ 4 s đến 5 s: $v = \dfrac{1 - 4}{1} = -3$ m/s. Quãng đường $s = 4 + 0 + 3 = 7$ m; còn 1 m là độ dịch chuyển.
+
+Câu 2. Trên một đường thẳng, lúc $t = 0$ xe A xuất phát từ điểm O, chuyển động thẳng đều với vận tốc 10 m/s về phía B. Cùng lúc đó, xe B xuất phát từ điểm B cách O 300 m, chuyển động thẳng đều với tốc độ 5 m/s về phía O. Chọn gốc tọa độ tại O, chiều dương từ O đến B.
+a) Đồ thị độ dịch chuyển – thời gian của xe A là đường thẳng đi qua gốc tọa độ. (Đ)
+b) Đồ thị vị trí – thời gian của xe B là đường thẳng dốc xuống. (Đ)
+c) Hai xe gặp nhau tại thời điểm $t = 20$ s. (Đ)
+d) Vị trí hai xe gặp nhau cách O 100 m. (S)
+Lời giải: $x_A = 10t$; $x_B = 300 - 5t$. Gặp nhau khi $10t = 300 - 5t$ nên $t = 20$ s, tại $x = 200$ m.
+
+PHẦN III. Câu trắc nghiệm trả lời ngắn
+Câu 1. Đồ thị độ dịch chuyển – thời gian của một vật chuyển động thẳng đều đi qua hai điểm (2 s; 10 m) và (6 s; 30 m). Vận tốc của vật là bao nhiêu m/s?
+Đáp án: 5
+Lời giải: $v = \dfrac{30 - 10}{6 - 2} = 5$ m/s.
+
+Câu 2. Một người đi xe đạp chuyển động thẳng đều với vận tốc 18 km/h, xuất phát từ điểm O. Sau bao nhiêu giây người đó cách O 150 m?
+Đáp án: 30
+Lời giải: $v = 18$ km/h $= 5$ m/s; $t = \dfrac{150}{5} = 30$ s.
+
+Câu 3. Một người đi bộ thẳng đều với vận tốc 1,5 m/s. Độ dịch chuyển của người đó sau 4 phút có độ lớn là bao nhiêu mét?
+Đáp án: 360
+Lời giải: $d = 1{,}5 \cdot 240 = 360$ m.

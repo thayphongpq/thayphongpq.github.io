@@ -1,0 +1,86 @@
+VẬT LÍ 10 - CHƯƠNG II. ĐỘNG HỌC - BÀI 6. THỰC HÀNH: ĐO TỐC ĐỘ CỦA VẬT CHUYỂN ĐỘNG
+Đề luyện tập theo cấu trúc thi tốt nghiệp THPT (biên soạn: thầy Lâm Thế Phong, THPT An Thới)
+Thời gian: 20
+
+PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn
+Câu 1. Để đo tốc độ tức thời của một viên bi tại một vị trí bằng cổng quang điện, ta cần đo
+*A. đường kính viên bi và thời gian viên bi chắn cổng quang điện.
+B. khoảng cách giữa hai cổng quang điện và thời gian bi đi giữa hai cổng.
+C. khối lượng viên bi và thời gian bi chắn cổng quang điện.
+D. quãng đường bi lăn kể từ lúc thả và thời gian lăn.
+Lời giải: Viên bi đi qua cổng trong thời gian rất ngắn nên $v \approx \dfrac{d}{t}$ với $d$ là đường kính bi.
+
+Câu 2. Khi dùng đồng hồ đo thời gian hiện số ở chế độ A ↔ B, đồng hồ đo
+*A. khoảng thời gian từ lúc vật bắt đầu chắn cổng A đến lúc vật bắt đầu chắn cổng B.
+B. khoảng thời gian vật chắn cổng A.
+C. khoảng thời gian vật chắn cổng B.
+D. tổng thời gian vật chắn cổng A và cổng B.
+
+Câu 3. Một viên bi có đường kính 2,0 cm chắn cổng quang điện trong 0,050 s. Tốc độ tức thời của viên bi khi đi qua cổng là
+*A. 0,40 m/s.
+B. 4,0 m/s.
+C. 0,10 m/s.
+D. 1,0 m/s.
+Lời giải: $v = \dfrac{0{,}020}{0{,}050} = 0{,}40$ m/s.
+
+Câu 4. Hai cổng quang điện đặt cách nhau 50 cm. Viên bi đi từ cổng này đến cổng kia hết 0,25 s. Tốc độ trung bình của bi giữa hai cổng là
+*A. 2,0 m/s.
+B. 0,50 m/s.
+C. 12,5 m/s.
+D. 0,20 m/s.
+Lời giải: $v = \dfrac{0{,}50}{0{,}25} = 2{,}0$ m/s.
+
+Câu 5. So với đồng hồ bấm giây, ưu điểm chính của đồng hồ đo thời gian hiện số dùng cổng quang điện là
+*A. giảm được sai số do thời gian phản ứng của người bấm đồng hồ.
+B. không cần dùng nguồn điện.
+C. đo được cả quãng đường đi của vật.
+D. không bao giờ có sai số.
+
+Câu 6. Phép đo tốc độ bằng công thức $v = \dfrac{d}{t}$, trong đó $d$ và $t$ đo bằng dụng cụ, là
+A. phép đo trực tiếp.
+*B. phép đo gián tiếp.
+C. phép đo không có sai số.
+D. phép đo bằng cảm quan.
+Lời giải: Tốc độ được tính qua công thức từ các đại lượng đo trực tiếp nên là phép đo gián tiếp.
+
+Câu 7. Đo thời gian bi chắn cổng quang điện 5 lần được: 0,251 s; 0,250 s; 0,252 s; 0,249 s; 0,248 s. Giá trị trung bình của thời gian là
+*A. 0,250 s.
+B. 0,251 s.
+C. 0,249 s.
+D. 0,252 s.
+Lời giải: $\bar{t} = \dfrac{1{,}250}{5} = 0{,}250$ s.
+
+Câu 8. Tốc độ được tính bằng $v = \dfrac{d}{t}$. Sai số tỉ đối của tốc độ là
+*A. $\delta v = \delta d + \delta t$.
+B. $\delta v = \delta d - \delta t$.
+C. $\delta v = \delta d \cdot \delta t$.
+D. $\delta v = \dfrac{\delta d}{\delta t}$.
+Lời giải: Với đại lượng là thương (hoặc tích), sai số tỉ đối bằng tổng các sai số tỉ đối.
+
+PHẦN II. Câu trắc nghiệm đúng sai
+Câu 1. Một nhóm học sinh thả viên bi lăn trên máng nghiêng, trên máng có hai cổng quang điện E (ở trên) và F (ở dưới) nối với đồng hồ đo thời gian hiện số.
+a) Để đo tốc độ tức thời của bi tại cổng E, nhóm đặt đồng hồ ở chế độ đo thời gian bi chắn cổng E và đo đường kính viên bi. (Đ)
+b) Vì đồng hồ hiện số rất chính xác nên tốc độ đo được không có sai số. (S)
+c) Nên đo đường kính viên bi bằng thước kẹp để giảm sai số. (Đ)
+d) Nếu tốc độ tức thời của bi tại F lớn hơn tại E thì bi chuyển động nhanh dần khi lăn xuống. (Đ)
+Lời giải: Mọi phép đo đều có sai số (sai số dụng cụ, sai số ngẫu nhiên). Tốc độ tăng dần theo thời gian nghĩa là chuyển động nhanh dần.
+
+Câu 2. Kết quả đo: đường kính viên bi $d = 20{,}0 \pm 0{,}1$ mm, thời gian bi chắn cổng $t = 0{,}040 \pm 0{,}001$ s.
+a) Tốc độ của viên bi là 0,50 m/s. (Đ)
+b) Sai số tỉ đối của phép đo đường kính là 0,5%. (Đ)
+c) Sai số tỉ đối của phép đo thời gian là 2,5%. (Đ)
+d) Sai số tỉ đối của tốc độ là 2,0%. (S)
+Lời giải: $v = \dfrac{0{,}020}{0{,}040} = 0{,}50$ m/s; $\delta d = \dfrac{0{,}1}{20{,}0} = 0{,}5\%$; $\delta t = \dfrac{0{,}001}{0{,}040} = 2{,}5\%$; $\delta v = 0{,}5\% + 2{,}5\% = 3{,}0\%$.
+
+PHẦN III. Câu trắc nghiệm trả lời ngắn
+Câu 1. Một viên bi có đường kính 1,5 cm chắn cổng quang điện trong 0,030 s. Tốc độ của viên bi khi đi qua cổng là bao nhiêu m/s?
+Đáp án: 0,5
+Lời giải: $v = \dfrac{0{,}015}{0{,}030} = 0{,}5$ m/s.
+
+Câu 2. Tốc độ của một viên bi đo được là $v = 0{,}50$ m/s với sai số tỉ đối 3%. Sai số tuyệt đối của tốc độ là bao nhiêu cm/s?
+Đáp án: 1,5
+Lời giải: $\Delta v = 0{,}03 \cdot 0{,}50 = 0{,}015$ m/s $= 1{,}5$ cm/s.
+
+Câu 3. Hai cổng quang điện đặt cách nhau 40 cm. Viên bi đi giữa hai cổng hết 0,20 s. Tốc độ trung bình của bi giữa hai cổng là bao nhiêu m/s?
+Đáp án: 2
+Lời giải: $v = \dfrac{0{,}40}{0{,}20} = 2$ m/s.

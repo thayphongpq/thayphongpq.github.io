@@ -1,0 +1,85 @@
+VẬT LÍ 10 - CHƯƠNG II. ĐỘNG HỌC - BÀI 5. TỐC ĐỘ VÀ VẬN TỐC
+Đề luyện tập theo cấu trúc thi tốt nghiệp THPT (biên soạn: thầy Lâm Thế Phong, THPT An Thới)
+Thời gian: 20
+
+PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn
+Câu 1. Tốc độ trung bình của một vật được tính bằng
+*A. thương số giữa quãng đường đi được và thời gian đi hết quãng đường đó.
+B. thương số giữa độ dịch chuyển và thời gian thực hiện độ dịch chuyển đó.
+C. tích của quãng đường đi được và thời gian chuyển động.
+D. trung bình cộng của tốc độ lớn nhất và tốc độ nhỏ nhất.
+Lời giải: $v_{tb} = \dfrac{s}{t}$.
+
+Câu 2. Biểu thức của vận tốc trung bình là
+A. $v = \dfrac{s}{t}$.
+*B. $\vec{v} = \dfrac{\vec{d}}{t}$.
+C. $\vec{v} = \vec{d} \cdot t$.
+D. $v = s \cdot t$.
+
+Câu 3. Trong hệ SI, đơn vị của vận tốc là
+A. km/h.
+*B. m/s.
+C. m/s².
+D. m.s.
+
+Câu 4. Tốc độ 72 km/h bằng
+*A. 20 m/s.
+B. 7,2 m/s.
+C. 36 m/s.
+D. 259,2 m/s.
+Lời giải: $72 \text{ km/h} = \dfrac{72\,000 \text{ m}}{3\,600 \text{ s}} = 20$ m/s.
+
+Câu 5. Một xe khách đi được 60 km trong 1,5 giờ. Tốc độ trung bình của xe là
+*A. 40 km/h.
+B. 90 km/h.
+C. 45 km/h.
+D. 30 km/h.
+Lời giải: $v_{tb} = \dfrac{60}{1{,}5} = 40$ km/h.
+
+Câu 6. Một người đi xe đạp trên nửa quãng đường đầu với tốc độ 12 km/h và nửa quãng đường sau với tốc độ 6 km/h. Tốc độ trung bình trên cả quãng đường là
+A. 9 km/h.
+*B. 8 km/h.
+C. 6 km/h.
+D. 10 km/h.
+Lời giải: Gọi mỗi nửa quãng đường là $s$: $t = \dfrac{s}{12} + \dfrac{s}{6} = \dfrac{s}{4}$, nên $v_{tb} = \dfrac{2s}{s/4} = 8$ km/h (không phải trung bình cộng 9 km/h).
+
+Câu 7. Số chỉ trên đồng hồ tốc độ của xe máy cho biết
+A. tốc độ trung bình của xe trên cả chặng đường.
+*B. tốc độ tức thời của xe.
+C. vận tốc trung bình của xe.
+D. quãng đường xe đã đi được.
+
+Câu 8. Một thuyền chạy xuôi dòng. Vận tốc của thuyền so với nước là 10 km/h, vận tốc của nước so với bờ là 2 km/h. Vận tốc của thuyền so với bờ có độ lớn là
+*A. 12 km/h.
+B. 8 km/h.
+C. 10 km/h.
+D. 20 km/h.
+Lời giải: $\vec{v}_{13} = \vec{v}_{12} + \vec{v}_{23}$; xuôi dòng thì hai vận tốc cùng chiều: $10 + 2 = 12$ km/h.
+
+PHẦN II. Câu trắc nghiệm đúng sai
+Câu 1. Một người đi bộ thẳng từ A đến B (B ở phía đông A, AB = 3 km) hết 0,5 giờ, rồi chạy quay về A theo đường cũ hết 0,25 giờ.
+a) Tốc độ trung bình của người đó khi đi từ A đến B là 6 km/h. (Đ)
+b) Tốc độ trung bình trên cả đường đi và về là 8 km/h. (Đ)
+c) Vận tốc trung bình trên cả đường đi và về có độ lớn là 8 km/h. (S)
+d) Tốc độ trung bình lúc về lớn hơn lúc đi. (Đ)
+Lời giải: Đi: $3/0{,}5 = 6$ km/h; về: $3/0{,}25 = 12$ km/h. Cả đi và về: $s = 6$ km, $t = 0{,}75$ h nên $v_{tb} = 8$ km/h; nhưng $d = 0$ nên vận tốc trung bình bằng 0.
+
+Câu 2. Một đoàn tàu chạy thẳng đều với vận tốc 10 m/s so với mặt đất. Một hành khách đi trên tàu với vận tốc 1 m/s so với tàu.
+a) Nếu hành khách đi về phía đầu tàu thì vận tốc của hành khách so với mặt đất là 11 m/s. (Đ)
+b) Nếu hành khách đi về phía cuối tàu thì vận tốc của hành khách so với mặt đất là 9 m/s, cùng chiều chuyển động của tàu. (Đ)
+c) Khi hành khách đi về phía đầu tàu, vận tốc của tàu so với hành khách có độ lớn 10 m/s. (S)
+d) Khi đi về phía đầu tàu, trong 10 s hành khách dịch chuyển được 110 m so với mặt đất. (Đ)
+Lời giải: Dùng công thức cộng vận tốc $\vec{v}_{13} = \vec{v}_{12} + \vec{v}_{23}$. Vận tốc của tàu so với hành khách ngược với vận tốc của hành khách so với tàu, có độ lớn 1 m/s. Trong 10 s: $d = 11 \cdot 10 = 110$ m.
+
+PHẦN III. Câu trắc nghiệm trả lời ngắn
+Câu 1. Một ô tô chạy với tốc độ 54 km/h. Tốc độ này bằng bao nhiêu m/s?
+Đáp án: 15
+Lời giải: $54 : 3{,}6 = 15$ m/s.
+
+Câu 2. Một xe chạy trong 2 giờ đầu với tốc độ trung bình 50 km/h và trong 3 giờ tiếp theo với tốc độ trung bình 40 km/h. Tốc độ trung bình của xe trong cả thời gian chuyển động là bao nhiêu km/h?
+Đáp án: 44
+Lời giải: $s = 50 \cdot 2 + 40 \cdot 3 = 220$ km; $v_{tb} = \dfrac{220}{5} = 44$ km/h.
+
+Câu 3. Một ca nô có vận tốc 15 km/h so với nước, nước chảy với vận tốc 3 km/h so với bờ. Ca nô đi xuôi dòng từ A đến B cách nhau 36 km rồi đi ngược dòng về A. Tổng thời gian đi và về là bao nhiêu giờ?
+Đáp án: 5
+Lời giải: Xuôi dòng: $15 + 3 = 18$ km/h, mất 2 h. Ngược dòng: $15 - 3 = 12$ km/h, mất 3 h. Tổng 5 h.
