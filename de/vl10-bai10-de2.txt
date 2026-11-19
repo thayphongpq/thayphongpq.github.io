@@ -1,0 +1,164 @@
+VẬT LÍ 10 - CHƯƠNG II. ĐỘNG HỌC - BÀI 10. SỰ RƠI TỰ DO - ĐỀ 2
+Đề kiểm tra theo cấu trúc thi tốt nghiệp THPT (biên soạn: thầy Lâm Thế Phong, THPT An Thới)
+Thời gian: 50
+
+PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn
+Câu 1. Trong các chuyển động sau, chuyển động nào có thể coi là rơi tự do?
+A. Hạt bụi chuyển động trong không khí.
+B. Chiếc lông chim rơi trong không khí.
+*C. Viên bi thép nhỏ rơi từ mép bàn xuống sàn.
+D. Quả bóng bay bay lên.
+
+Câu 2. Một vật rơi trong không khí. Lực cản không khí càng nhỏ so với trọng lực tác dụng lên vật thì vật
+*A. rơi càng nhanh.
+B. rơi càng chậm.
+C. không rơi.
+D. rơi theo phương nằm ngang.
+
+Câu 3. Hai tờ giấy giống nhau, nặng như nhau; một tờ vo tròn, một tờ để nguyên. Khi thả từ cùng một độ cao trong không khí thì
+A. hai tờ giấy rơi nhanh như nhau.
+*B. tờ giấy vo tròn rơi nhanh hơn.
+C. tờ giấy để nguyên rơi nhanh hơn.
+D. tờ giấy vo tròn không rơi.
+
+Câu 4. Vì trọng lực có phương thẳng đứng, chiều từ trên xuống nên chuyển động rơi tự do
+A. có phương nằm ngang.
+B. có chiều từ dưới lên.
+C. có phương xiên.
+*D. có phương thẳng đứng, chiều từ trên xuống.
+
+Câu 5. Để kiểm tra bề mặt bức tường trong lớp học có phải là mặt phẳng thẳng đứng hay không, có thể dùng
+*A. dây dọi.
+B. nhiệt kế.
+C. đồng hồ bấm giây.
+D. lực kế.
+
+Câu 6. Dùng êke tam giác vuông cân và dây dọi có thể kiểm tra được
+A. sàn lớp có sạch không.
+B. độ cao của trần nhà.
+*C. sàn lớp có phẳng (nằm ngang) hay không.
+D. khối lượng của bàn.
+
+Câu 7. Hệ thức liên hệ giữa vận tốc lúc chạm đất và quãng đường rơi của vật rơi tự do là
+A. $v_t = 2.g.s$.
+*B. $v_t^2 = 2.g.s$.
+C. $v_t^2 = g.s$.
+D. $v_t = \dfrac{1}{2}g.s^2$.
+
+Câu 8. Một vật rơi tự do tại nơi có g = 9,8 m/s². Vận tốc của vật sau 3 s kể từ lúc bắt đầu rơi là
+A. 9,8 m/s.
+B. 44,1 m/s.
+*C. 29,4 m/s.
+D. 14,7 m/s.
+
+Câu 9. Một vật rơi tự do tại nơi có g = 9,8 m/s². Quãng đường vật rơi được trong giây đầu tiên là
+*A. 4,9 m.
+B. 9,8 m.
+C. 19,6 m.
+D. 2,45 m.
+
+Câu 10. Một vật rơi tự do từ độ cao 20 m xuống đất, lấy g = 10 m/s². Thời gian rơi của vật là
+A. 4 s.
+B. 1 s.
+C. 10 s.
+*D. 2 s.
+
+Câu 11. Một vật rơi tự do, vận tốc lúc chạm đất là 30 m/s. Lấy g = 10 m/s². Độ cao nơi thả vật là
+A. 30 m.
+*B. 45 m.
+C. 90 m.
+D. 15 m.
+Lời giải: $s = \dfrac{v_t^2}{2g} = \dfrac{900}{20} = 45$ m.
+
+Câu 12. Hai vật có khối lượng khác nhau được thả rơi tự do cùng lúc từ cùng một độ cao (bỏ qua lực cản không khí). Kết luận nào đúng?
+A. Vật nặng chạm đất trước.
+B. Vật nhẹ chạm đất trước.
+*C. Hai vật chạm đất cùng lúc.
+D. Không xác định được.
+
+Câu 13. Thả rơi tự do một vật từ độ cao h. Nếu độ cao thả vật tăng gấp 4 lần thì thời gian rơi
+A. tăng gấp 4 lần.
+*B. tăng gấp 2 lần.
+C. tăng gấp 16 lần.
+D. không đổi.
+Lời giải: $t = \sqrt{\dfrac{2h}{g}}$ tỉ lệ với $\sqrt{h}$.
+
+Câu 14. Trên ảnh hoạt nghiệm của một vật rơi tự do (chụp sau những khoảng thời gian bằng nhau), khoảng cách giữa các vị trí liên tiếp của vật
+A. bằng nhau.
+B. giảm dần.
+*C. tăng dần, chứng tỏ vật chuyển động nhanh dần.
+D. bằng 0.
+
+Câu 15. Để nghiên cứu tính chất của chuyển động rơi tự do, người ta thường dùng phương pháp chụp ảnh hoạt nghiệm vì
+*A. vật rơi tự do rất nhanh.
+B. vật rơi tự do rất chậm.
+C. vật rơi tự do không chịu tác dụng của lực nào.
+D. không thể dùng thước để đo độ cao.
+
+Câu 16. Để đo gần đúng độ sâu của một cái giếng mỏ cạn, có thể thả một hòn đá nhỏ từ miệng giếng và đo
+A. khối lượng hòn đá.
+*B. thời gian từ lúc thả đến lúc nghe tiếng hòn đá chạm đáy (biết vận tốc truyền âm).
+C. nhiệt độ ở đáy giếng.
+D. đường kính giếng.
+
+Câu 17. Một vật rơi tự do không vận tốc đầu. Quãng đường vật rơi được trong giây thứ hai so với quãng đường rơi được trong giây thứ nhất thì
+A. bằng nhau.
+B. gấp đôi.
+*C. gấp 3 lần.
+D. gấp 4 lần.
+Lời giải: Giây thứ nhất: $\dfrac{1}{2}g$; hai giây đầu: $2g$; giây thứ hai: $\dfrac{3}{2}g$, gấp 3 lần.
+
+Câu 18. Tốc độ của một vật rơi tự do tăng thêm bao nhiêu sau mỗi giây (lấy g = 9,8 m/s²)?
+A. 4,9 m/s.
+*B. 9,8 m/s.
+C. 19,6 m/s.
+D. 0 m/s.
+
+PHẦN II. Câu trắc nghiệm đúng sai
+Câu 1. Một hòn đá rơi tự do từ độ cao 45 m xuống đất, lấy g = 10 m/s².
+a) Thời gian rơi của hòn đá là 3 s. (Đ)
+b) Vận tốc của hòn đá lúc chạm đất là 30 m/s. (Đ)
+c) Quãng đường hòn đá rơi được trong giây cuối cùng là 25 m. (Đ)
+d) Quãng đường hòn đá rơi được trong giây đầu tiên là 10 m. (S)
+Lời giải: Giây đầu: $\dfrac{1}{2}\cdot 10\cdot 1 = 5$ m; giây cuối: 45 − 20 = 25 m.
+
+Câu 2. Trong thí nghiệm với ống hút (ống Newton), người ta cho viên bi chì và chiếc lông chim rơi trong ống.
+a) Khi trong ống còn không khí, chiếc lông chim rơi chậm hơn viên bi chì. (Đ)
+b) Khi đã hút hết không khí, hai vật rơi nhanh như nhau. (Đ)
+c) Kết quả thí nghiệm chứng tỏ trong chân không vật nặng rơi nhanh hơn vật nhẹ. (S)
+d) Chuyển động của hai vật trong ống chân không là rơi tự do. (Đ)
+Lời giải: Trong chân không mọi vật rơi nhanh như nhau, chỉ chịu tác dụng của trọng lực.
+
+Câu 3. Ảnh hoạt nghiệm của một hòn bi thép rơi tự do cho số liệu: t = 0,1 s: s = 0,049 m; t = 0,2 s: s = 0,197 m; t = 0,3 s: s = 0,441 m; t = 0,4 s: s = 0,785 m.
+a) Trong mỗi khoảng 0,1 s liên tiếp, quãng đường rơi được tăng dần. (Đ)
+b) Tính theo số liệu tại t = 0,4 s, gia tốc rơi tự do khoảng 9,81 m/s². (Đ)
+c) Hòn bi chuyển động chậm dần. (S)
+d) Quãng đường hòn bi rơi được từ t = 0,3 s đến t = 0,4 s là 0,344 m. (Đ)
+Lời giải: $g = \dfrac{2\cdot 0{,}785}{0{,}16} \approx 9{,}81$ m/s²; 0,785 − 0,441 = 0,344 m.
+
+Câu 4. Về cách xác định phương thẳng đứng và phương nằm ngang:
+a) Dây dọi (sợi dây treo vật nặng) chỉ phương thẳng đứng. (Đ)
+b) Đặt êke tam giác vuông cân sao cho một cạnh góc vuông dọc theo dây dọi thì cạnh góc vuông còn lại chỉ phương nằm ngang. (Đ)
+c) Phương của chuyển động rơi tự do vuông góc với dây dọi. (S)
+d) Dây dọi chỉ phương thẳng đứng vì vật nặng ở đầu dây chịu tác dụng của trọng lực có phương thẳng đứng. (Đ)
+Lời giải: Rơi tự do có phương thẳng đứng, trùng với phương của dây dọi.
+
+PHẦN III. Câu trắc nghiệm trả lời ngắn
+Câu 1. Một vật rơi tự do tại nơi có g = 9,8 m/s². Vận tốc của vật sau 2,5 s kể từ lúc bắt đầu rơi là bao nhiêu m/s?
+Đáp án: 24,5|24.5
+
+Câu 2. Một vật rơi tự do từ độ cao 20 m xuống đất, lấy g = 10 m/s². Vận tốc của vật lúc chạm đất là bao nhiêu m/s?
+Đáp án: 20
+
+Câu 3. Một vật rơi tự do từ độ cao 180 m xuống đất, lấy g = 10 m/s². Thời gian rơi của vật là bao nhiêu giây?
+Đáp án: 6
+
+Câu 4. Một vật rơi tự do tại nơi có g = 10 m/s². Quãng đường vật rơi được trong giây thứ 4 (từ t = 3 s đến t = 4 s) là bao nhiêu mét?
+Đáp án: 35
+Lời giải: 80 − 45 = 35 m.
+
+Câu 5. Một vật rơi tự do tại nơi có g = 10 m/s². Quãng đường vật rơi được trong 0,5 s đầu là bao nhiêu mét?
+Đáp án: 1,25|1.25
+
+Câu 6. Thả một hòn đá nhỏ rơi tự do từ miệng một cái giếng cạn; sau 2 s hòn đá chạm đáy giếng. Bỏ qua lực cản không khí, lấy g = 10 m/s². Độ sâu của giếng là bao nhiêu mét?
+Đáp án: 20
