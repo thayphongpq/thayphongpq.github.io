@@ -17,7 +17,7 @@ const THONG_TIN = {
   truong: "THPT An Thới",
 
   // Dòng thông báo trên đầu trang. Để "" nếu không có thông báo.
-  thongBao: "Mới cập nhật: đủ 5 chuyên đề video ôn HSG Vật lí THCS (19 video) và Chuyên đề 3 HSG THPT bản mới.",
+  thongBao: "Mới cập nhật: đủ 5 chuyên đề video ôn HSG Vật lí THCS (20 video) và Chuyên đề 3 HSG THPT bản mới.",
 
   gioiThieu: "Nơi tập hợp bài giảng, tài liệu và đề ôn luyện môn Vật lý, Tin học dành cho học sinh THPT.",
 
