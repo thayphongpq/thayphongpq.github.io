@@ -12,7 +12,8 @@
      # Tiêu đề lớn, ## Tiêu đề nhỏ, - gạch đầu dòng, **chữ đậm**, `mã`,
      công thức $...$ hoặc $$...$$, khối mã ```python ... ```, ảnh: dòng "Hình: link | chú thích",
      video YouTube: dòng "Video: link | chú thích", mô phỏng PhET: dòng "Mô phỏng: tên-mô-phỏng | chú thích"
-     (mỗi dòng này đứng riêng thành một đoạn; phần "| chú thích" có thể bỏ).
+     (mỗi dòng này đứng riêng thành một đoạn; phần "| chú thích" có thể bỏ),
+     khung ghi nhớ: các dòng bắt đầu bằng ">", đáp án ẩn: đoạn bắt đầu bằng "**Gợi ý đáp án:**".
    Ở chế độ song ngữ, đoạn thứ n tiếng Việt đứng cạnh đoạn thứ n tiếng Anh,
    vì vậy hai bên nên có cùng số đoạn. */
 (function () {
@@ -63,7 +64,7 @@
       const src = linkAnh(m[1]);
       if (!src) return "";
       const chu = (m[2] || "").trim();
-      return '<figure style="margin:8px 0 16px"><img class="bh-hinh" style="margin:0 auto 6px;background:#fff" loading="lazy" alt="' + esc(chu || "Hình minh họa") + '" src="' + esc(src) + '">' +
+      return '<figure style="margin:8px 0 16px"><img class="bh-hinh" style="width:100%;max-width:600px;margin:0 auto 6px;background:#fff" loading="lazy" alt="' + esc(chu || "Hình minh họa") + '" src="' + esc(src) + '">' +
         (chu ? '<figcaption class="phu" style="text-align:center;font-style:italic">' + TN.dongChu(chu) + "</figcaption>" : "") + "</figure>";
     }
     // Video: link YouTube (hoặc mã video 11 kí tự) | chú thích
@@ -79,6 +80,25 @@
       const ten = m[1].toLowerCase(), chu = (m[2] || "").trim();
       return '<figure style="margin:8px 0 16px"><div class="khung-tn" style="margin:0"><iframe loading="lazy" src="https://phet.colorado.edu/sims/html/' + ten + "/latest/" + ten + '_vi.html" title="' + esc(chu || "Mô phỏng PhET") + '" allowfullscreen></iframe></div>' +
         (chu ? '<figcaption class="phu" style="text-align:center;font-style:italic;margin-top:6px">' + TN.dongChu(chu) + "</figcaption>" : "") + "</figure>";
+    }
+    // Đáp án / lời giải ẩn: đoạn bắt đầu bằng **Gợi ý đáp án:** (hoặc **Đáp án:**, **Suggested answers:**, **Answers:**) → bấm mới hiện.
+    if ((m = dau.match(/^\*\*(g[ợo]i ý đáp án|đáp án|suggested answers?|answers?)\s*:?\s*\*\*\s*:?\s*/i))) {
+      const tiengAnh = /^(suggested|answer)/i.test(m[1]);
+      const than = k.dong.join("\n").trim().slice(m[0].length);
+      return '<details style="margin:10px 0 16px;border:1px dashed currentColor;border-radius:8px;padding:8px 12px">' +
+        '<summary style="cursor:pointer;font-weight:700">' + (tiengAnh ? "Show answers" : "Xem gợi ý đáp án") + "</summary>" +
+        '<p style="margin:8px 0 0">' + TN.dongChu(than) + "</p></details>";
+    }
+    // Khung ghi nhớ: mọi dòng bắt đầu bằng ">" (bên trong viết như bình thường, kể cả gạch đầu dòng).
+    if (k.dong.every(function (d) { return /^\s*>/.test(d); })) {
+      // Gom các dòng liền nhau cùng loại (gạch đầu dòng / chữ thường) thành từng khối nhỏ.
+      const nhom = [];
+      k.dong.map(function (d) { return d.replace(/^\s*>\s?/, ""); }).filter(function (d) { return d.trim(); }).forEach(function (d) {
+        const ds = /^\s*([-*]|\d+[.)])\s+/.test(d), cuoi = nhom[nhom.length - 1];
+        if (cuoi && cuoi.ds === ds && ds) cuoi.dong.push(d); else nhom.push({ ds: ds, dong: [d] });
+      });
+      return '<div style="border-left:5px solid #0284c7;background:rgba(2,132,199,.08);padding:4px 14px;border-radius:8px;margin:10px 0 16px">' +
+        nhom.map(function (g) { return veKhoi({ loai: "doan", dong: g.dong }); }).join("") + "</div>";
     }
     if (k.dong.every(function (d) { return /^\s*([-*]|\d+[.)])\s+/.test(d); })) {
       const so = /^\s*\d+[.)]/.test(dau);
