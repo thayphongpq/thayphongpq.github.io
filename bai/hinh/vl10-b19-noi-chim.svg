@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 420" font-family="Segoe UI, Arial, sans-serif">
+  <rect width="520" height="420" fill="#ffffff"/>
+  <defs>
+    <marker id="r" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#dc2626"/></marker>
+    <marker id="b" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#1d4ed8"/></marker>
+  </defs>
+  <text x="260" y="34" text-anchor="middle" font-size="22" font-weight="700" fill="#0f172a">Vật chìm, lơ lửng, nổi</text>
+  <text x="260" y="62" text-anchor="middle" font-size="16" fill="#475569">P: trọng lực · F<tspan font-size="12" dy="4">A</tspan><tspan dy="-4">: lực đẩy Archimedes</tspan></text>
+  <!-- nước -->
+  <rect x="25" y="130" width="140" height="200" fill="#bfdbfe"/>
+  <rect x="190" y="130" width="140" height="200" fill="#bfdbfe"/>
+  <rect x="355" y="130" width="140" height="200" fill="#bfdbfe"/>
+  <!-- thành bình -->
+  <g fill="none" stroke="#334155" stroke-width="3">
+    <path d="M25,100 L25,330 L165,330 L165,100"/>
+    <path d="M190,100 L190,330 L330,330 L330,100"/>
+    <path d="M355,100 L355,330 L495,330 L495,100"/>
+  </g>
+  <!-- bình 1: chìm, P > F_A -->
+  <circle cx="95" cy="230" r="20" fill="#64748b"/>
+  <line x1="95" y1="230" x2="95" y2="190" stroke="#1d4ed8" stroke-width="4" marker-end="url(#b)"/>
+  <line x1="95" y1="230" x2="95" y2="300" stroke="#dc2626" stroke-width="4" marker-end="url(#r)"/>
+  <text x="106" y="198" font-size="17" font-weight="700" fill="#1d4ed8">F<tspan font-size="12" dy="4">A</tspan></text>
+  <text x="106" y="296" font-size="17" font-weight="700" fill="#dc2626">P</text>
+  <!-- bình 2: lơ lửng, P = F_A -->
+  <circle cx="260" cy="230" r="20" fill="#f59e0b"/>
+  <line x1="260" y1="230" x2="260" y2="175" stroke="#1d4ed8" stroke-width="4" marker-end="url(#b)"/>
+  <line x1="260" y1="230" x2="260" y2="285" stroke="#dc2626" stroke-width="4" marker-end="url(#r)"/>
+  <text x="271" y="184" font-size="17" font-weight="700" fill="#1d4ed8">F<tspan font-size="12" dy="4">A</tspan></text>
+  <text x="271" y="282" font-size="17" font-weight="700" fill="#dc2626">P</text>
+  <!-- bình 3: nổi, 60% thể tích chìm, P = F_A -->
+  <rect x="400" y="110" width="50" height="50" fill="#fbbf24" fill-opacity="0.85" stroke="#b45309" stroke-width="2"/>
+  <line x1="355" y1="130" x2="495" y2="130" stroke="#2563eb" stroke-width="1.5"/>
+  <line x1="425" y1="135" x2="425" y2="85" stroke="#1d4ed8" stroke-width="4" marker-end="url(#b)"/>
+  <line x1="425" y1="135" x2="425" y2="185" stroke="#dc2626" stroke-width="4" marker-end="url(#r)"/>
+  <text x="436" y="94" font-size="17" font-weight="700" fill="#1d4ed8">F<tspan font-size="12" dy="4">A</tspan></text>
+  <text x="436" y="182" font-size="17" font-weight="700" fill="#dc2626">P</text>
+  <!-- chú thích -->
+  <g text-anchor="middle" fill="#0f172a">
+    <text x="95" y="355" font-size="18" font-weight="700">Chìm</text>
+    <text x="260" y="355" font-size="18" font-weight="700">Lơ lửng</text>
+    <text x="425" y="355" font-size="18" font-weight="700">Nổi</text>
+    <text x="95" y="380" font-size="16">P &gt; F<tspan font-size="12" dy="4">A</tspan></text>
+    <text x="260" y="380" font-size="16">P = F<tspan font-size="12" dy="4">A</tspan></text>
+    <text x="425" y="380" font-size="16">P = F<tspan font-size="12" dy="4">A</tspan><tspan dy="-4"> (khi đã nổi)</tspan></text>
+    <text x="95" y="405" font-size="15">ρ<tspan font-size="11" dy="4">vật</tspan><tspan dy="-4"> &gt; ρ</tspan><tspan font-size="11" dy="4">lỏng</tspan></text>
+    <text x="260" y="405" font-size="15">ρ<tspan font-size="11" dy="4">vật</tspan><tspan dy="-4"> = ρ</tspan><tspan font-size="11" dy="4">lỏng</tspan></text>
+    <text x="425" y="405" font-size="15">ρ<tspan font-size="11" dy="4">vật</tspan><tspan dy="-4"> &lt; ρ</tspan><tspan font-size="11" dy="4">lỏng</tspan></text>
+  </g>
+</svg>

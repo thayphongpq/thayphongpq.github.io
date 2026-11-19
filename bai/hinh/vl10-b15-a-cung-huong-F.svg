@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 400" font-family="Segoe UI, Arial, sans-serif">
+  <rect width="520" height="400" fill="#ffffff"/>
+  <defs>
+    <marker id="r" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#dc2626"/></marker>
+    <marker id="b" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#2563eb"/></marker>
+  </defs>
+  <text x="260" y="30" text-anchor="middle" font-size="22" font-weight="700" fill="#0f172a">Định luật 2 Newton: a = F/m</text>
+  <text x="260" y="56" text-anchor="middle" font-size="16" fill="#475569">Bỏ qua ma sát; F: 1 N = 10 px; a: 1 m/s² = 20 px</text>
+
+  <!-- Trường hợp 1: m = 2 kg -->
+  <rect x="30" y="160" width="460" height="10" fill="#e2e8f0"/>
+  <line x1="30" y1="160" x2="490" y2="160" stroke="#334155" stroke-width="2"/>
+  <rect x="150" y="110" width="70" height="50" rx="4" fill="#fde68a" stroke="#92400e" stroke-width="2"/>
+  <text x="185" y="141" text-anchor="middle" font-size="17" font-weight="700" fill="#0f172a">2 kg</text>
+  <line x1="220" y1="135" x2="320" y2="135" stroke="#dc2626" stroke-width="5" marker-end="url(#r)"/>
+  <text x="330" y="141" font-size="18" font-weight="700" fill="#dc2626">F = 10 N</text>
+  <line x1="185" y1="92" x2="285" y2="92" stroke="#2563eb" stroke-width="4" marker-end="url(#b)"/>
+  <text x="295" y="98" font-size="18" font-weight="700" fill="#2563eb">a = 5 m/s²</text>
+
+  <!-- Trường hợp 2: m = 4 kg -->
+  <rect x="30" y="320" width="460" height="10" fill="#e2e8f0"/>
+  <line x1="30" y1="320" x2="490" y2="320" stroke="#334155" stroke-width="2"/>
+  <rect x="130" y="270" width="110" height="50" rx="4" fill="#fde68a" stroke="#92400e" stroke-width="2"/>
+  <text x="185" y="301" text-anchor="middle" font-size="17" font-weight="700" fill="#0f172a">4 kg</text>
+  <line x1="240" y1="295" x2="340" y2="295" stroke="#dc2626" stroke-width="5" marker-end="url(#r)"/>
+  <text x="350" y="301" font-size="18" font-weight="700" fill="#dc2626">F = 10 N</text>
+  <line x1="185" y1="252" x2="235" y2="252" stroke="#2563eb" stroke-width="4" marker-end="url(#b)"/>
+  <text x="245" y="258" font-size="18" font-weight="700" fill="#2563eb">a = 2,5 m/s²</text>
+
+  <text x="260" y="365" text-anchor="middle" font-size="16" fill="#0f172a">Vectơ a luôn cùng hướng với hợp lực F.</text>
+  <text x="260" y="389" text-anchor="middle" font-size="16" fill="#0f172a">Cùng lực F, khối lượng gấp đôi thì gia tốc giảm một nửa.</text>
+</svg>

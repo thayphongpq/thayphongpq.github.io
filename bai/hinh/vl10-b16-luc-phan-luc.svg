@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 380" font-family="Segoe UI, Arial, sans-serif">
+  <rect width="520" height="380" fill="#ffffff"/>
+  <defs>
+    <marker id="r" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#dc2626"/></marker>
+    <marker id="b" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#2563eb"/></marker>
+  </defs>
+  <text x="260" y="30" text-anchor="middle" font-size="22" font-weight="700" fill="#0f172a">Lực và phản lực</text>
+  <text x="260" y="58" text-anchor="middle" font-size="17" fill="#475569">Hai vật A và B đẩy vào nhau: F<tspan font-size="12" dy="4">BA</tspan><tspan dy="-4"> = − F</tspan><tspan font-size="12" dy="4">AB</tspan></text>
+  <!-- vật A và vật B tiếp xúc tại x = 260 -->
+  <rect x="40" y="110" width="220" height="110" rx="6" fill="#dbeafe" stroke="#1e40af" stroke-width="2"/>
+  <rect x="260" y="110" width="220" height="110" rx="6" fill="#fee2e2" stroke="#991b1b" stroke-width="2"/>
+  <text x="70" y="148" font-size="26" font-weight="700" fill="#1e40af">A</text>
+  <text x="434" y="148" font-size="26" font-weight="700" fill="#991b1b">B</text>
+  <!-- giá chung của hai lực -->
+  <line x1="40" y1="180" x2="480" y2="180" stroke="#94a3b8" stroke-width="1.2" stroke-dasharray="5 4"/>
+  <!-- F_BA đặt vào A, hướng sang trái; F_AB đặt vào B, hướng sang phải (cùng độ dài 120 px) -->
+  <line x1="258" y1="180" x2="138" y2="180" stroke="#2563eb" stroke-width="5" marker-end="url(#b)"/>
+  <line x1="262" y1="180" x2="382" y2="180" stroke="#dc2626" stroke-width="5" marker-end="url(#r)"/>
+  <circle cx="260" cy="180" r="5" fill="#0f172a"/>
+  <text x="198" y="168" text-anchor="middle" font-size="20" font-weight="700" fill="#2563eb">F<tspan font-size="14" dy="5">BA</tspan></text>
+  <text x="322" y="168" text-anchor="middle" font-size="20" font-weight="700" fill="#dc2626">F<tspan font-size="14" dy="5">AB</tspan></text>
+  <text x="150" y="246" text-anchor="middle" font-size="16" fill="#2563eb">Lực do B tác dụng lên A</text>
+  <text x="370" y="246" text-anchor="middle" font-size="16" fill="#dc2626">Lực do A tác dụng lên B</text>
+  <!-- đặc điểm -->
+  <text x="30" y="290" font-size="17" fill="#0f172a">• Cùng giá, cùng độ lớn, ngược chiều.</text>
+  <text x="30" y="318" font-size="17" fill="#0f172a">• Xuất hiện và mất đi đồng thời, cùng loại lực.</text>
+  <text x="30" y="346" font-size="17" font-weight="700" fill="#b91c1c">• Đặt vào hai vật khác nhau: không cân bằng nhau.</text>
+</svg>

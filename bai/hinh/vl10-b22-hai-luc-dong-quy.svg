@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 600" font-family="Segoe UI, Arial, sans-serif">
+  <rect width="520" height="600" fill="#ffffff"/>
+  <defs>
+    <marker id="r" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#dc2626"/></marker>
+    <marker id="g" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#16a34a"/></marker>
+    <marker id="b" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#2563eb"/></marker>
+    <marker id="p" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#9333ea"/></marker>
+  </defs>
+  <text x="260" y="30" text-anchor="middle" font-size="22" font-weight="700" fill="#0f172a">Tổng hợp hai lực đồng quy</text>
+  <text x="260" y="56" text-anchor="middle" font-size="16" fill="#475569">Lần đo 1: F₁ = 1,4 N, F₂ = 2,0 N, góc 90°</text>
+  <!-- bảng thép dán giấy; tỉ lệ 1 N = 80 px; O (260, 330); F1 lệch 55° bên trái, F2 lệch 35° bên phải phương thẳng đứng -->
+  <rect x="20" y="72" width="480" height="520" fill="#f8fafc" stroke="#cbd5e1" stroke-width="2"/>
+  <!-- dây -->
+  <g stroke="#475569" stroke-width="2">
+    <line x1="260" y1="330" x2="96.2" y2="215.3"/>
+    <line x1="260" y1="330" x2="391.9" y2="141.6"/>
+    <line x1="260" y1="330" x2="260" y2="536"/>
+  </g>
+  <!-- lực kế 1 -->
+  <g transform="translate(96.2,215.3) rotate(215)">
+    <rect x="0" y="-10" width="56" height="20" rx="4" fill="#fef3c7" stroke="#b45309" stroke-width="2"/>
+    <line x1="56" y1="0" x2="66" y2="0" stroke="#475569" stroke-width="2"/>
+    <circle cx="66" cy="0" r="6" fill="#475569"/>
+  </g>
+  <!-- lực kế 2 -->
+  <g transform="translate(391.9,141.6) rotate(-55)">
+    <rect x="0" y="-10" width="56" height="20" rx="4" fill="#fef3c7" stroke="#b45309" stroke-width="2"/>
+    <line x1="56" y1="0" x2="66" y2="0" stroke="#475569" stroke-width="2"/>
+    <circle cx="66" cy="0" r="6" fill="#475569"/>
+  </g>
+  <text x="30" y="252" font-size="16" fill="#b45309">Lực kế 1</text>
+  <text x="494" y="160" text-anchor="end" font-size="16" fill="#b45309">Lực kế 2</text>
+  <!-- hình bình hành -->
+  <g stroke="#94a3b8" stroke-width="1.5" stroke-dasharray="5 4">
+    <line x1="168.3" y1="265.8" x2="260" y2="134.7"/>
+    <line x1="351.8" y1="198.9" x2="260" y2="134.7"/>
+  </g>
+  <!-- các lực -->
+  <line x1="260" y1="330" x2="168.3" y2="265.8" stroke="#dc2626" stroke-width="4" marker-end="url(#r)"/>
+  <line x1="260" y1="330" x2="351.8" y2="198.9" stroke="#16a34a" stroke-width="4" marker-end="url(#g)"/>
+  <line x1="260" y1="330" x2="260" y2="134.7" stroke="#2563eb" stroke-width="4" marker-end="url(#b)"/>
+  <line x1="260" y1="330" x2="260" y2="526" stroke="#9333ea" stroke-width="4" marker-end="url(#p)"/>
+  <path d="M245.3,319.7 L255.6,305 L270.3,315.3" fill="none" stroke="#0f172a" stroke-width="1.5"/>
+  <circle cx="260" cy="330" r="5" fill="#0f172a"/>
+  <text x="246" y="352" text-anchor="end" font-size="17" font-weight="700" fill="#0f172a">O</text>
+  <!-- nhãn lực -->
+  <text x="205" y="322" text-anchor="end" font-size="18" font-weight="700" fill="#dc2626">F₁ = 1,4 N</text>
+  <text x="318" y="282" font-size="18" font-weight="700" fill="#16a34a">F₂ = 2,0 N</text>
+  <text x="260" y="118" text-anchor="middle" font-size="18" font-weight="700" fill="#2563eb">F = 2,44 N</text>
+  <text x="272" y="450" font-size="18" font-weight="700" fill="#9333ea">P = 2,45 N</text>
+  <!-- quả nặng -->
+  <rect x="240" y="536" width="40" height="36" rx="3" fill="#64748b"/>
+  <text x="292" y="560" font-size="16" fill="#0f172a">5 quả × 50 g</text>
+  <text x="30" y="582" font-size="16" fill="#475569">Giấy trắng trên bảng thép</text>
+</svg>

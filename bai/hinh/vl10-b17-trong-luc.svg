@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 400" font-family="Segoe UI, Arial, sans-serif">
+  <rect width="520" height="400" fill="#ffffff"/>
+  <defs>
+    <marker id="r" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#dc2626"/></marker>
+  </defs>
+  <text x="260" y="34" text-anchor="middle" font-size="22" font-weight="700" fill="#0f172a">Trọng lực</text>
+  <text x="260" y="60" text-anchor="middle" font-size="16" fill="#475569">Đặt tại trọng tâm G · phương thẳng đứng · chiều xuống</text>
+  <!-- nhãn ba vật -->
+  <text x="100" y="118" text-anchor="middle" font-size="17" font-weight="700" fill="#0f172a">Quả cầu</text>
+  <text x="270" y="118" text-anchor="middle" font-size="17" font-weight="700" fill="#0f172a">Thước đồng chất</text>
+  <text x="440" y="118" text-anchor="middle" font-size="17" font-weight="700" fill="#0f172a">Dây dọi</text>
+  <!-- quả cầu -->
+  <circle cx="100" cy="190" r="40" fill="#bfdbfe" stroke="#2563eb" stroke-width="2"/>
+  <circle cx="100" cy="190" r="4" fill="#0f172a"/>
+  <text x="92" y="186" text-anchor="end" font-size="17" font-weight="700" fill="#0f172a">G</text>
+  <line x1="100" y1="190" x2="100" y2="300" stroke="#dc2626" stroke-width="4" marker-end="url(#r)"/>
+  <text x="112" y="292" font-size="19" font-weight="700" fill="#dc2626">P</text>
+  <!-- thước -->
+  <rect x="200" y="180" width="140" height="20" fill="#fde68a" stroke="#b45309" stroke-width="2"/>
+  <circle cx="270" cy="190" r="4" fill="#0f172a"/>
+  <text x="270" y="172" text-anchor="middle" font-size="17" font-weight="700" fill="#0f172a">G</text>
+  <line x1="270" y1="190" x2="270" y2="300" stroke="#dc2626" stroke-width="4" marker-end="url(#r)"/>
+  <text x="282" y="292" font-size="19" font-weight="700" fill="#dc2626">P</text>
+  <!-- dây dọi -->
+  <rect x="405" y="135" width="70" height="8" fill="#94a3b8"/>
+  <line x1="440" y1="143" x2="440" y2="230" stroke="#334155" stroke-width="2"/>
+  <circle cx="440" cy="242" r="12" fill="#475569"/>
+  <line x1="440" y1="242" x2="440" y2="300" stroke="#dc2626" stroke-width="4" marker-end="url(#r)"/>
+  <text x="452" y="292" font-size="19" font-weight="700" fill="#dc2626">P</text>
+  <!-- mặt đất -->
+  <line x1="20" y1="330" x2="500" y2="330" stroke="#78350f" stroke-width="3"/>
+  <g stroke="#78350f" stroke-width="1.5">
+    <line x1="40" y1="330" x2="30" y2="342"/><line x1="80" y1="330" x2="70" y2="342"/><line x1="120" y1="330" x2="110" y2="342"/>
+    <line x1="160" y1="330" x2="150" y2="342"/><line x1="200" y1="330" x2="190" y2="342"/><line x1="240" y1="330" x2="230" y2="342"/>
+    <line x1="280" y1="330" x2="270" y2="342"/><line x1="320" y1="330" x2="310" y2="342"/><line x1="360" y1="330" x2="350" y2="342"/>
+    <line x1="400" y1="330" x2="390" y2="342"/><line x1="440" y1="330" x2="430" y2="342"/><line x1="480" y1="330" x2="470" y2="342"/>
+  </g>
+  <text x="260" y="378" text-anchor="middle" font-size="16" fill="#0f172a">P luôn hướng thẳng đứng xuống, về phía Trái Đất</text>
+</svg>

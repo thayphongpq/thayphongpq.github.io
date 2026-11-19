@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 400" font-family="Segoe UI, Arial, sans-serif">
+  <rect width="520" height="400" fill="#ffffff"/>
+  <defs>
+    <marker id="r" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#dc2626"/></marker>
+    <marker id="b" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#2563eb"/></marker>
+  </defs>
+  <text x="260" y="34" text-anchor="middle" font-size="22" font-weight="700" fill="#0f172a">Lực căng dây</text>
+  <!-- tỉ lệ 2,5 px = 1 N -->
+  <!-- BÊN TRÁI: một dây, m = 2 kg, T = P = 20 N (50 px) -->
+  <text x="130" y="64" text-anchor="middle" font-size="18" font-weight="700" fill="#475569">Một dây</text>
+  <rect x="85" y="80" width="90" height="8" fill="#94a3b8"/>
+  <line x1="130" y1="88" x2="130" y2="150" stroke="#334155" stroke-width="2"/>
+  <rect x="110" y="150" width="40" height="40" fill="#fde68a" stroke="#b45309" stroke-width="2"/>
+  <line x1="130" y1="150" x2="130" y2="100" stroke="#2563eb" stroke-width="4" marker-end="url(#b)"/>
+  <text x="140" y="122" font-size="19" font-weight="700" fill="#2563eb">T</text>
+  <line x1="130" y1="170" x2="130" y2="220" stroke="#dc2626" stroke-width="4" marker-end="url(#r)"/>
+  <text x="140" y="216" font-size="19" font-weight="700" fill="#dc2626">P</text>
+  <text x="130" y="290" text-anchor="middle" font-size="17" fill="#0f172a">m = 2 kg</text>
+  <text x="130" y="315" text-anchor="middle" font-size="17" fill="#0f172a">T = P = mg = 20 N</text>
+  <!-- vạch chia -->
+  <line x1="255" y1="75" x2="255" y2="345" stroke="#cbd5e1" stroke-width="1.5" stroke-dasharray="5 5"/>
+  <!-- BÊN PHẢI: hai dây đối xứng, α = 60°, m = 3 kg, T = P = 30 N (75 px) -->
+  <text x="390" y="64" text-anchor="middle" font-size="18" font-weight="700" fill="#475569">Hai dây đối xứng</text>
+  <rect x="262" y="72" width="252" height="8" fill="#94a3b8"/>
+  <line x1="269" y1="80" x2="390" y2="150" stroke="#334155" stroke-width="2"/>
+  <line x1="511" y1="80" x2="390" y2="150" stroke="#334155" stroke-width="2"/>
+  <line x1="390" y1="150" x2="390" y2="90" stroke="#94a3b8" stroke-width="1.5" stroke-dasharray="4 4"/>
+  <path d="M390,120 A30,30 0 0 0 364.02,135" fill="none" stroke="#0f172a" stroke-width="1.5"/>
+  <text x="372" y="116" text-anchor="middle" font-size="18" fill="#0f172a">α</text>
+  <rect x="370" y="150" width="40" height="40" fill="#fde68a" stroke="#b45309" stroke-width="2"/>
+  <line x1="390" y1="150" x2="325" y2="112.5" stroke="#2563eb" stroke-width="4" marker-end="url(#b)"/>
+  <line x1="390" y1="150" x2="455" y2="112.5" stroke="#2563eb" stroke-width="4" marker-end="url(#b)"/>
+  <text x="335" y="144" text-anchor="end" font-size="19" font-weight="700" fill="#2563eb">T<tspan font-size="14" dy="4">1</tspan></text>
+  <text x="445" y="144" font-size="19" font-weight="700" fill="#2563eb">T<tspan font-size="14" dy="4">2</tspan></text>
+  <circle cx="390" cy="150" r="4" fill="#0f172a"/>
+  <line x1="390" y1="170" x2="390" y2="245" stroke="#dc2626" stroke-width="4" marker-end="url(#r)"/>
+  <text x="400" y="240" font-size="19" font-weight="700" fill="#dc2626">P</text>
+  <text x="390" y="290" text-anchor="middle" font-size="17" fill="#0f172a">m = 3 kg, α = 60°</text>
+  <text x="390" y="315" text-anchor="middle" font-size="17" fill="#0f172a">2T cos α = P</text>
+  <text x="390" y="340" text-anchor="middle" font-size="17" fill="#0f172a">T = 30 N</text>
+  <text x="260" y="382" text-anchor="middle" font-size="16" fill="#0f172a">Lực căng dọc theo dây, kéo vật về phía dây</text>
+</svg>

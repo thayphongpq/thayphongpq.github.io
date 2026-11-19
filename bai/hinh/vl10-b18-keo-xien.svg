@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 500" font-family="Segoe UI, Arial, sans-serif">
+  <rect width="520" height="500" fill="#ffffff"/>
+  <defs>
+    <marker id="r" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#dc2626"/></marker>
+    <marker id="g" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#16a34a"/></marker>
+    <marker id="b" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#2563eb"/></marker>
+    <marker id="o" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#ea580c"/></marker>
+  </defs>
+  <text x="260" y="34" text-anchor="middle" font-size="22" font-weight="700" fill="#0f172a">Kéo vật bằng lực xiên</text>
+  <text x="260" y="60" text-anchor="middle" font-size="16" fill="#475569">m = 10 kg, F = 50 N, α = 30°, μ = 0,25, g = 10 m/s²</text>
+  <!-- tỉ lệ 2 px = 1 N; G (250,250); P = 100 N, N = 75 N, F = 50 N, F_ms = 18,75 N -->
+  <!-- mặt sàn -->
+  <line x1="40" y1="285" x2="480" y2="285" stroke="#78350f" stroke-width="3"/>
+  <g stroke="#78350f" stroke-width="1.5">
+    <line x1="60" y1="285" x2="50" y2="297"/><line x1="100" y1="285" x2="90" y2="297"/><line x1="140" y1="285" x2="130" y2="297"/>
+    <line x1="180" y1="285" x2="170" y2="297"/><line x1="220" y1="285" x2="210" y2="297"/><line x1="300" y1="285" x2="290" y2="297"/>
+    <line x1="340" y1="285" x2="330" y2="297"/><line x1="380" y1="285" x2="370" y2="297"/><line x1="420" y1="285" x2="410" y2="297"/><line x1="460" y1="285" x2="450" y2="297"/>
+  </g>
+  <!-- thùng hàng -->
+  <rect x="215" y="215" width="70" height="70" fill="#fde68a" fill-opacity="0.7" stroke="#b45309" stroke-width="2"/>
+  <!-- thành phần của F -->
+  <g stroke="#60a5fa" stroke-width="1.5" stroke-dasharray="5 4">
+    <line x1="250" y1="250" x2="336.6" y2="250"/>
+    <line x1="336.6" y1="250" x2="336.6" y2="200"/>
+  </g>
+  <text x="300" y="275" font-size="15" fill="#2563eb">F cos α ≈ 43,3 N</text>
+  <text x="345" y="232" font-size="15" fill="#2563eb">F sin α = 25 N</text>
+  <!-- góc α -->
+  <path d="M280,250 A30,30 0 0 0 275.98,235" fill="none" stroke="#0f172a" stroke-width="1.5"/>
+  <text x="287" y="246" font-size="16" fill="#0f172a">α</text>
+  <!-- các lực -->
+  <line x1="250" y1="250" x2="250" y2="100" stroke="#16a34a" stroke-width="4" marker-end="url(#g)"/>
+  <text x="262" y="118" font-size="19" font-weight="700" fill="#16a34a">N</text>
+  <line x1="250" y1="250" x2="250" y2="450" stroke="#dc2626" stroke-width="4" marker-end="url(#r)"/>
+  <text x="262" y="440" font-size="19" font-weight="700" fill="#dc2626">P</text>
+  <line x1="250" y1="250" x2="336.6" y2="200" stroke="#2563eb" stroke-width="4" marker-end="url(#b)"/>
+  <text x="342" y="196" font-size="19" font-weight="700" fill="#2563eb">F</text>
+  <line x1="250" y1="250" x2="212.5" y2="250" stroke="#ea580c" stroke-width="4" marker-end="url(#o)"/>
+  <text x="205" y="246" text-anchor="end" font-size="19" font-weight="700" fill="#ea580c">F<tspan font-size="14" dy="4">ms</tspan></text>
+  <circle cx="250" cy="250" r="4" fill="#0f172a"/>
+  <text x="260" y="482" text-anchor="middle" font-size="16" fill="#0f172a">N = P − F sin α = 75 N;  F<tspan font-size="12" dy="4">ms</tspan><tspan dy="-4"> = μN = 18,75 N</tspan></text>
+</svg>

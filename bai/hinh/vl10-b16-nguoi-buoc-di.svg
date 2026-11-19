@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 430" font-family="Segoe UI, Arial, sans-serif">
+  <rect width="520" height="430" fill="#ffffff"/>
+  <defs>
+    <marker id="r" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#dc2626"/></marker>
+    <marker id="b" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#2563eb"/></marker>
+  </defs>
+  <text x="260" y="30" text-anchor="middle" font-size="22" font-weight="700" fill="#0f172a">Lực và phản lực trong đời sống</text>
+  <line x1="260" y1="50" x2="260" y2="350" stroke="#cbd5e1" stroke-width="1.5" stroke-dasharray="6 5"/>
+
+  <!-- a) Người bước đi -->
+  <text x="130" y="70" text-anchor="middle" font-size="18" font-weight="700" fill="#0f172a">a) Người bước đi</text>
+  <rect x="20" y="330" width="225" height="20" fill="#e2e8f0"/>
+  <line x1="20" y1="330" x2="245" y2="330" stroke="#334155" stroke-width="2"/>
+  <g stroke="#0f172a" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" fill="none">
+    <polyline points="132,252 115,292 100,330"/>
+    <polyline points="132,252 158,282 172,300"/>
+    <line x1="132" y1="252" x2="140" y2="196"/>
+    <polyline points="139,206 118,232 110,250"/>
+    <polyline points="139,206 160,228 172,240"/>
+  </g>
+  <circle cx="143" cy="178" r="15" fill="#0f172a"/>
+  <!-- F: đất đẩy chân về phía trước (đặt vào người) -->
+  <line x1="102" y1="320" x2="160" y2="320" stroke="#dc2626" stroke-width="4" marker-end="url(#r)"/>
+  <text x="166" y="326" font-size="19" font-weight="700" fill="#dc2626">F</text>
+  <!-- F': chân đạp đất về phía sau (đặt vào mặt đất) -->
+  <line x1="100" y1="342" x2="42" y2="342" stroke="#2563eb" stroke-width="4" marker-end="url(#b)"/>
+  <text x="60" y="372" font-size="19" font-weight="700" fill="#2563eb">F′</text>
+
+  <!-- b) Tên lửa -->
+  <text x="390" y="70" text-anchor="middle" font-size="18" font-weight="700" fill="#0f172a">b) Tên lửa bay lên</text>
+  <path d="M370,260 L350,282 L370,276 Z" fill="#64748b"/>
+  <path d="M410,260 L430,282 L410,276 Z" fill="#64748b"/>
+  <rect x="370" y="140" width="40" height="125" fill="#e2e8f0" stroke="#334155" stroke-width="2"/>
+  <path d="M370,140 L390,98 L410,140 Z" fill="#dc2626" stroke="#334155" stroke-width="2"/>
+  <circle cx="390" cy="175" r="9" fill="#bfdbfe" stroke="#334155" stroke-width="1.5"/>
+  <path d="M374,266 Q390,330 406,266 Z" fill="#fdba74"/>
+  <path d="M381,266 Q390,305 399,266 Z" fill="#facc15"/>
+  <!-- F: khí đẩy tên lửa lên (đặt vào tên lửa) -->
+  <line x1="450" y1="240" x2="450" y2="130" stroke="#dc2626" stroke-width="4" marker-end="url(#r)"/>
+  <text x="460" y="140" font-size="19" font-weight="700" fill="#dc2626">F</text>
+  <!-- F': tên lửa đẩy khí xuống (đặt vào khí) -->
+  <line x1="390" y1="282" x2="390" y2="345" stroke="#2563eb" stroke-width="4" marker-end="url(#b)"/>
+  <text x="400" y="342" font-size="19" font-weight="700" fill="#2563eb">F′</text>
+
+  <!-- chú thích -->
+  <text x="20" y="396" font-size="15" fill="#dc2626">F: đất đẩy người tiến lên</text>
+  <text x="20" y="418" font-size="15" fill="#2563eb">F′: chân đạp đất về phía sau</text>
+  <text x="280" y="396" font-size="15" fill="#dc2626">F: khí đẩy tên lửa lên</text>
+  <text x="280" y="418" font-size="15" fill="#2563eb">F′: tên lửa đẩy khí xuống</text>
+</svg>

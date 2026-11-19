@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 520" font-family="Segoe UI, Arial, sans-serif">
+  <rect width="520" height="520" fill="#ffffff"/>
+  <defs>
+    <marker id="r" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#dc2626"/></marker>
+  </defs>
+  <text x="260" y="30" text-anchor="middle" font-size="22" font-weight="700" fill="#0f172a">Moment lực: M = F·d</text>
+  <text x="260" y="56" text-anchor="middle" font-size="16" fill="#475569">d: khoảng cách từ trục quay O đến giá của lực</text>
+  <!-- tỉ lệ: OA = 300 px ứng với 20 cm; lực hợp với cán góc 30° nên d = 150 px = 10 cm -->
+  <!-- cờ lê -->
+  <rect x="110" y="318" width="312" height="24" rx="10" fill="#cbd5e1" stroke="#475569" stroke-width="2"/>
+  <circle cx="110" cy="330" r="36" fill="#cbd5e1" stroke="#475569" stroke-width="2"/>
+  <polygon points="128,330 119,345.6 101,345.6 92,330 101,314.4 119,314.4" fill="#64748b"/>
+  <circle cx="110" cy="330" r="4" fill="#0f172a"/>
+  <text x="110" y="280" text-anchor="middle" font-size="17" font-weight="700" fill="#0f172a">Trục quay O</text>
+  <circle cx="410" cy="330" r="5" fill="#0f172a"/>
+  <text x="414" y="310" font-size="17" font-weight="700" fill="#0f172a">A</text>
+  <text x="260" y="308" text-anchor="middle" font-size="17" fill="#0f172a">OA = 20 cm</text>
+  <!-- giá của lực (kéo dài) -->
+  <line x1="306.1" y1="390" x2="165.1" y2="471.5" stroke="#dc2626" stroke-width="1.5" stroke-dasharray="6 5"/>
+  <!-- lực F -->
+  <line x1="410" y1="330" x2="306.1" y2="390" stroke="#dc2626" stroke-width="4" marker-end="url(#r)"/>
+  <text x="372" y="395" font-size="18" font-weight="700" fill="#dc2626">F = 50 N</text>
+  <path d="M370,330 A40,40 0 0 0 375.4,350" fill="none" stroke="#0f172a" stroke-width="1.5"/>
+  <text x="322" y="362" text-anchor="end" font-size="16" fill="#0f172a">30°</text>
+  <!-- cánh tay đòn d -->
+  <line x1="110" y1="330" x2="185" y2="460" stroke="#2563eb" stroke-width="3"/>
+  <path d="M195.4,454 L189.4,443.6 L179,449.6" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+  <circle cx="185" cy="460" r="4" fill="#2563eb"/>
+  <text x="135" y="412" text-anchor="end" font-size="18" font-weight="700" fill="#2563eb">d = 10 cm</text>
+  <text x="260" y="503" text-anchor="middle" font-size="18" fill="#0f172a">M = F·d = 50 N · 0,1 m = 5 N.m</text>
+</svg>

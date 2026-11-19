@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 540" font-family="Segoe UI, Arial, sans-serif">
+  <rect width="520" height="540" fill="#ffffff"/>
+  <defs>
+    <marker id="k" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#334155"/></marker>
+    <marker id="r" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#dc2626"/></marker>
+    <marker id="b" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#2563eb"/></marker>
+  </defs>
+  <text x="260" y="30" text-anchor="middle" font-size="22" font-weight="700" fill="#0f172a">Quy tắc moment lực</text>
+  <text x="260" y="56" text-anchor="middle" font-size="16" fill="#475569">Thanh nhẹ cân bằng quanh điểm tựa O</text>
+  <!-- tỉ lệ: 1 m = 400 px; lực 1 N = 4 px -->
+  <!-- vật nặng -->
+  <rect x="15" y="250" width="50" height="44" fill="#94a3b8" stroke="#334155" stroke-width="2"/>
+  <text x="40" y="278" text-anchor="middle" font-size="16" font-weight="700" fill="#ffffff">3 kg</text>
+  <rect x="418" y="260" width="44" height="34" fill="#94a3b8" stroke="#334155" stroke-width="2"/>
+  <text x="440" y="283" text-anchor="middle" font-size="16" font-weight="700" fill="#ffffff">2 kg</text>
+  <!-- thanh và điểm tựa -->
+  <rect x="25" y="294" width="450" height="12" fill="#fcd34d" stroke="#92400e" stroke-width="2"/>
+  <polygon points="200,306 176,350 224,350" fill="#475569"/>
+  <line x1="150" y1="350" x2="250" y2="350" stroke="#334155" stroke-width="3"/>
+  <text x="232" y="332" font-size="18" font-weight="700" fill="#0f172a">O</text>
+  <!-- lực -->
+  <line x1="200" y1="294" x2="200" y2="94" stroke="#2563eb" stroke-width="4" marker-end="url(#b)"/>
+  <text x="212" y="140" font-size="18" font-weight="700" fill="#2563eb">N = 50 N</text>
+  <line x1="40" y1="300" x2="40" y2="420" stroke="#dc2626" stroke-width="4" marker-end="url(#r)"/>
+  <text x="52" y="400" font-size="18" font-weight="700" fill="#dc2626">P₁ = 30 N</text>
+  <line x1="440" y1="300" x2="440" y2="380" stroke="#dc2626" stroke-width="4" marker-end="url(#r)"/>
+  <text x="428" y="370" text-anchor="end" font-size="18" font-weight="700" fill="#dc2626">P₂ = 20 N</text>
+  <!-- cánh tay đòn -->
+  <g stroke="#94a3b8" stroke-width="1.2" stroke-dasharray="4 4">
+    <line x1="40" y1="426" x2="40" y2="465"/>
+    <line x1="200" y1="352" x2="200" y2="465"/>
+    <line x1="440" y1="386" x2="440" y2="465"/>
+  </g>
+  <line x1="42" y1="455" x2="198" y2="455" stroke="#334155" stroke-width="2" marker-start="url(#k)" marker-end="url(#k)"/>
+  <line x1="202" y1="455" x2="438" y2="455" stroke="#334155" stroke-width="2" marker-start="url(#k)" marker-end="url(#k)"/>
+  <text x="120" y="480" text-anchor="middle" font-size="18" font-weight="700" fill="#0f172a">d₁ = 0,4 m</text>
+  <text x="320" y="480" text-anchor="middle" font-size="18" font-weight="700" fill="#0f172a">d₂ = 0,6 m</text>
+  <text x="260" y="520" text-anchor="middle" font-size="17" fill="#0f172a">P₁·d₁ = 30·0,4 = 12 N.m = P₂·d₂ = 20·0,6</text>
+</svg>

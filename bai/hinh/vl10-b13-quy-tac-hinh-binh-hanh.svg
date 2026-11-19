@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 440" font-family="Segoe UI, Arial, sans-serif">
+  <rect width="520" height="440" fill="#ffffff"/>
+  <defs>
+    <marker id="b" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#2563eb"/></marker>
+    <marker id="g" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#16a34a"/></marker>
+    <marker id="r" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#dc2626"/></marker>
+  </defs>
+  <text x="260" y="32" text-anchor="middle" font-size="22" font-weight="700" fill="#0f172a">Quy tắc hình bình hành</text>
+  <text x="260" y="58" text-anchor="middle" font-size="16" fill="#475569">F₁ = 6 N, F₂ = 8 N, góc giữa hai lực α = 60°</text>
+  <!-- tỉ lệ 1 N = 25 px; điểm đồng quy O (80, 380) -->
+  <!-- F1: 6 N nằm ngang -> (230, 380); F2: 8 N, 60° -> (180, 206.8); F -> (330, 206.8), dài 304 px ≈ 12,2 N -->
+  <g stroke="#94a3b8" stroke-width="1.5" stroke-dasharray="6 5">
+    <line x1="230" y1="380" x2="330" y2="206.8"/>
+    <line x1="180" y1="206.8" x2="330" y2="206.8"/>
+  </g>
+  <line x1="80" y1="380" x2="230" y2="380" stroke="#2563eb" stroke-width="5" marker-end="url(#b)"/>
+  <line x1="80" y1="380" x2="180" y2="206.8" stroke="#16a34a" stroke-width="5" marker-end="url(#g)"/>
+  <line x1="80" y1="380" x2="330" y2="206.8" stroke="#dc2626" stroke-width="5" marker-end="url(#r)"/>
+  <path d="M120,380 A40,40 0 0 0 100,345.4" fill="none" stroke="#0f172a" stroke-width="1.5"/>
+  <text x="122" y="366" font-size="18" fill="#0f172a">α</text>
+  <circle cx="80" cy="380" r="6" fill="#0f172a"/>
+  <text x="66" y="404" font-size="18" font-weight="700" fill="#0f172a">O</text>
+  <text x="155" y="408" text-anchor="middle" font-size="19" font-weight="700" fill="#2563eb">F₁ = 6 N</text>
+  <text x="118" y="282" text-anchor="end" font-size="19" font-weight="700" fill="#16a34a">F₂ = 8 N</text>
+  <text x="188" y="276" font-size="20" font-weight="700" fill="#dc2626">F</text>
+  <text x="340" y="196" font-size="17" font-weight="700" fill="#dc2626">F ≈ 12,2 N</text>
+  <!-- công thức bên phải -->
+  <text x="345" y="290" font-size="16" fill="#0f172a">Hợp lực là đường</text>
+  <text x="345" y="312" font-size="16" fill="#0f172a">chéo kẻ từ O.</text>
+  <text x="260" y="428" text-anchor="middle" font-size="16" fill="#0f172a">F² = 6² + 8² + 2·6·8·cos 60° = 148  →  F ≈ 12,2 N</text>
+</svg>

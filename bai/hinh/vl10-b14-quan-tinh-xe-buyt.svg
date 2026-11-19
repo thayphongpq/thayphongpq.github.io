@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 420" font-family="Segoe UI, Arial, sans-serif">
+  <rect width="520" height="420" fill="#ffffff"/>
+  <defs>
+    <marker id="b" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#2563eb"/></marker>
+    <marker id="r" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#dc2626"/></marker>
+  </defs>
+  <text x="260" y="30" text-anchor="middle" font-size="22" font-weight="700" fill="#0f172a">Quán tính của hành khách trên xe</text>
+
+  <!-- Khung 1: xe phanh gấp -->
+  <g>
+    <text x="20" y="66" font-size="17" font-weight="700" fill="#0f172a">a) Xe phanh gấp: người ngả về phía trước</text>
+    <rect x="40" y="80" width="330" height="100" rx="12" fill="#dbeafe" stroke="#1e40af" stroke-width="2"/>
+    <rect x="55" y="92" width="40" height="30" rx="4" fill="#ffffff" stroke="#1e40af" stroke-width="1.5"/>
+    <rect x="105" y="92" width="40" height="30" rx="4" fill="#ffffff" stroke="#1e40af" stroke-width="1.5"/>
+    <rect x="265" y="92" width="40" height="30" rx="4" fill="#ffffff" stroke="#1e40af" stroke-width="1.5"/>
+    <rect x="315" y="92" width="40" height="30" rx="4" fill="#ffffff" stroke="#1e40af" stroke-width="1.5"/>
+    <line x1="40" y1="170" x2="370" y2="170" stroke="#1e40af" stroke-width="2"/>
+    <circle cx="100" cy="182" r="15" fill="#334155"/>
+    <circle cx="310" cy="182" r="15" fill="#334155"/>
+    <!-- người ngả về trước (sang phải) -->
+    <g stroke="#0f172a" stroke-width="3.5" stroke-linecap="round" fill="none">
+      <line x1="200" y1="170" x2="213" y2="138"/>
+      <line x1="224" y1="170" x2="213" y2="138"/>
+      <line x1="213" y1="138" x2="232" y2="112"/>
+      <line x1="228" y1="118" x2="250" y2="132"/>
+    </g>
+    <circle cx="239" cy="101" r="10" fill="#0f172a"/>
+    <line x1="254" y1="101" x2="296" y2="101" stroke="#dc2626" stroke-width="3" marker-end="url(#r)"/>
+    <!-- vận tốc xe -->
+    <line x1="385" y1="128" x2="470" y2="128" stroke="#2563eb" stroke-width="4" marker-end="url(#b)"/>
+    <text x="427" y="116" text-anchor="middle" font-size="19" font-weight="700" fill="#2563eb">v</text>
+    <text x="430" y="156" text-anchor="middle" font-size="16" fill="#0f172a">phanh gấp</text>
+  </g>
+
+  <!-- Khung 2: xe đột ngột tăng tốc -->
+  <g transform="translate(0,200)">
+    <text x="20" y="66" font-size="17" font-weight="700" fill="#0f172a">b) Xe đột ngột chạy: người ngả về phía sau</text>
+    <rect x="40" y="80" width="330" height="100" rx="12" fill="#dbeafe" stroke="#1e40af" stroke-width="2"/>
+    <rect x="55" y="92" width="40" height="30" rx="4" fill="#ffffff" stroke="#1e40af" stroke-width="1.5"/>
+    <rect x="105" y="92" width="40" height="30" rx="4" fill="#ffffff" stroke="#1e40af" stroke-width="1.5"/>
+    <rect x="265" y="92" width="40" height="30" rx="4" fill="#ffffff" stroke="#1e40af" stroke-width="1.5"/>
+    <rect x="315" y="92" width="40" height="30" rx="4" fill="#ffffff" stroke="#1e40af" stroke-width="1.5"/>
+    <line x1="40" y1="170" x2="370" y2="170" stroke="#1e40af" stroke-width="2"/>
+    <circle cx="100" cy="182" r="15" fill="#334155"/>
+    <circle cx="310" cy="182" r="15" fill="#334155"/>
+    <!-- người ngả về sau (sang trái) -->
+    <g stroke="#0f172a" stroke-width="3.5" stroke-linecap="round" fill="none">
+      <line x1="196" y1="170" x2="207" y2="138"/>
+      <line x1="220" y1="170" x2="207" y2="138"/>
+      <line x1="207" y1="138" x2="188" y2="112"/>
+      <line x1="192" y1="118" x2="170" y2="132"/>
+    </g>
+    <circle cx="181" cy="101" r="10" fill="#0f172a"/>
+    <line x1="166" y1="101" x2="124" y2="101" stroke="#dc2626" stroke-width="3" marker-end="url(#r)"/>
+    <!-- vận tốc xe -->
+    <line x1="385" y1="128" x2="470" y2="128" stroke="#2563eb" stroke-width="4" marker-end="url(#b)"/>
+    <text x="427" y="116" text-anchor="middle" font-size="19" font-weight="700" fill="#2563eb">v</text>
+    <text x="430" y="156" text-anchor="middle" font-size="16" fill="#0f172a">tăng tốc</text>
+  </g>
+</svg>
