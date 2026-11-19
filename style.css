@@ -437,6 +437,34 @@ a.gv-viec:hover { border-color: var(--tin); }
 .gv-chon { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; margin: 12px 0; }
 .gv-chon input[type="time"] { font: inherit; font-size: 17px; padding: 6px 10px; border: 1px solid var(--vien); border-radius: 8px; }
 
+/* Mục "Dạy bằng tiếng Anh": thẻ lớn ở trang Song ngữ, lộ trình 4 chặng, thang bậc, danh sách chuẩn bị */
+.gv-the-lon { display: flex; flex-direction: column; gap: 8px; text-decoration: none; background: var(--hsg-nhat); border: 1px solid var(--vien); border-left: 6px solid var(--hsg); border-radius: 12px; padding: 22px; }
+.gv-the-lon:hover { border-color: var(--hsg); box-shadow: 0 4px 14px rgba(23, 40, 59, 0.12); }
+.gv-the-lon .thu-muc__cap { align-self: flex-start; font-size: 13px; font-weight: 800; letter-spacing: 0.06em; padding: 3px 10px; border-radius: 6px; background: var(--trang); color: var(--hsg); }
+.gv-the-lon h2 { font-size: 26px; font-weight: 800; }
+.gv-the-lon p { margin: 0; color: var(--mo); max-width: 52em; }
+.gv-the-lon .thu-muc__vao { font-weight: 700; color: var(--hsg); }
+.gv-chang-ngan { list-style: none; counter-reset: c; display: grid; grid-template-columns: repeat(4, 1fr); gap: 8px; margin: 6px 0; padding: 0; }
+.gv-chang-ngan li { counter-increment: c; background: var(--trang); border-radius: 8px; padding: 10px 12px; display: flex; flex-direction: column; }
+.gv-chang-ngan li b::before { content: counter(c) ". "; color: var(--hsg); }
+.gv-chang-ngan span { font-size: 13px; color: var(--mo); }
+.gv-chang { list-style: none; margin: 0; padding: 0; display: grid; gap: 12px; }
+.gv-chang li { display: flex; gap: 14px; background: var(--trang); border: 1px solid var(--vien); border-radius: 12px; padding: 16px 18px; }
+.gv-chang__so { flex: none; width: 38px; height: 38px; border-radius: 50%; background: var(--sau); color: #fff; font-weight: 800; display: flex; align-items: center; justify-content: center; }
+.gv-chang li > div { flex: 1; display: flex; flex-direction: column; gap: 6px; }
+.gv-chang p { margin: 0; color: var(--mo); }
+.gv-chang__dat { color: var(--tin) !important; font-weight: 600; }
+.gv-chang .nut { align-self: flex-start; margin-top: 2px; }
+.gv-bac { list-style: none; margin: 0; padding: 0; display: grid; gap: 8px; }
+.gv-bac__nut { width: 100%; text-align: left; font: inherit; display: flex; flex-direction: column; gap: 2px; padding: 12px 16px; border: 2px solid var(--vien); border-radius: 10px; background: var(--trang); color: var(--muc); cursor: pointer; }
+.gv-bac__nut:hover { border-color: var(--sau); }
+.gv-bac__nut--qua { border-color: #b9dcc4; background: #f1f9f3; }
+.gv-bac__nut--dang { border-color: var(--tin); background: var(--tin-nhat); }
+.gv-ck { list-style: none; margin: 0 0 6px; padding: 0; }
+.gv-ck li { border-bottom: 1px dashed var(--vien); }
+.gv-ck label { display: flex; gap: 10px; align-items: flex-start; padding: 10px 0; cursor: pointer; }
+.gv-ck input { width: 20px; height: 20px; margin-top: 2px; flex: none; accent-color: var(--tin); }
+
 /* Ô bẫy chống thư rác (người thật không thấy) */
 .bay { position: absolute !important; left: -10000px; width: 1px; height: 1px; overflow: hidden; }
 
@@ -453,6 +481,8 @@ a.gv-viec:hover { border-color: var(--tin); }
   .gv-hoi { font-size: 19px; }
   .gv-cau-chu b { font-size: 16px; }
   .gv-tien-do-bai .gv-thanh { flex-basis: 100px; }
+  .gv-chang-ngan { grid-template-columns: 1fr 1fr; }
+  .gv-chang li { padding: 14px; gap: 10px; }
   .bang-kq { font-size: 14px; }
   .bang-kq th, .bang-kq td { padding: 7px 8px; }
   .bai-ke__muc--sau { grid-column: auto; }

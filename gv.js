@@ -155,18 +155,36 @@
   function baiDocNenTang() {
     const ds = (typeof BAI_HOC === "undefined" ? [] : BAI_HOC).filter(function (b) { return b.lop === "GV"; });
     if (!ds.length) return "";
-    return khoi("Bài đọc nền tảng (song ngữ)", '<p class="phu" style="margin-top:-6px">Đọc ở chế độ Song ngữ để hiểu cách dùng câu; có thẻ câu mẫu và phát âm.</p><div class="lien-ket">' +
+    return khoi("Bài đọc song ngữ và kịch bản tiết dạy", '<p class="phu" style="margin-top:-6px">Đọc ở chế độ Song ngữ: tiếng Việt đặt cạnh tiếng Anh; cuối bài có thẻ câu mẫu và phát âm.</p><div class="lien-ket">' +
       ds.map(function (b) {
         const slug = String(b.ten).normalize("NFD").replace(/\p{M}/gu, "").replace(/[̀-ͯ]/g, "").replace(/đ/g, "d").replace(/Đ/g, "D").toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "");
         return '<a class="lien-ket__muc" href="#/bai/' + slug + '"><b>' + esc(b.ten) + ' ›</b><span class="phu" lang="en">' + esc(b.tenEn || "") + "</span></a>";
       }).join("") + "</div>");
   }
 
+  /* ----- Lộ trình 4 chặng: từ tự học đến tự dạy ----- */
+  const CHANG = [
+    { ten: "Làm quen", tuan: "Tuần 1 – 3", bai: ["A1", "A2", "A3", "A4", "B1"], muc: "Chào lớp, nề nếp, giao nhiệm vụ, làm việc nhóm; đọc số.", dat: "Mở đầu và kết thúc tiết dạy bằng tiếng Anh." },
+    { ten: "Trong lớp học", tuan: "Tuần 4 – 8", bai: ["A5", "A6", "A7", "A8", "A9", "A10", "B2", "B3"], muc: "Kiểm tra hiểu bài, đặt câu hỏi, khen, sửa lỗi, quản lý lớp; đơn vị, công thức, đồ thị.", dat: "Điều hành lớp và hỏi đáp ngắn bằng tiếng Anh." },
+    { ten: "Theo môn", tuan: "Tuần 9 – 14", bai: ["C1", "C2", "C3", "C4", "C5", "C6", "D1", "D2", "D3", "D4", "D5", "D6"], muc: "Câu giảng bài theo chủ đề Vật lý hoặc Tin học: khái niệm, thí nghiệm, đọc mã, gỡ lỗi.", dat: "Giảng thuật ngữ và một phần kiến thức bằng tiếng Anh." },
+    { ten: "Lên lớp thật", tuan: "Tuần 15 – 24", bai: [], muc: "Kịch bản tiết dạy mẫu, việc cần chuẩn bị trước tiết dạy, thang 5 bậc tăng dần lượng tiếng Anh.", dat: "Dạy trọn một phần bài, rồi cả tiết bằng tiếng Anh.", link: "#/giao-vien/len-lop" }
+  ];
+  function loTrinhHTML() {
+    const lt = loTrinh().map(function (b) { return b.id; });
+    return '<ol class="gv-chang">' + CHANG.map(function (c, i) {
+      const ds = c.bai.filter(function (id) { return lt.indexOf(id) >= 0; }).map(baiTheoId);
+      const pt = ds.length ? Math.round(ds.reduce(function (s, b) { return s + tienDo(b).pt; }, 0) / ds.length) : (TD.bac ? Math.min(100, TD.bac * 20) : 0);
+      return '<li><span class="gv-chang__so">' + (i + 1) + '</span><div><b>Chặng ' + (i + 1) + ". " + esc(c.ten) + '</b> <span class="phu">' + esc(c.tuan) + "</span>" +
+        "<p>" + esc(c.muc) + "</p><p class=\"gv-chang__dat\">Đạt được: " + esc(c.dat) + "</p>" + (TD.hoSo ? thanh(pt) : "") +
+        (c.link ? '<a class="nut nut--nho" href="' + c.link + '">Vào chặng 4: Lên lớp thật ›</a>' : '<span class="phu">' + (ds.length ? ds.map(function (b) { return b.id; }).join(", ") : "") + "</span>") + "</div></li>";
+    }).join("") + "</ol>";
+  }
+
   /* ----- Trang chính: giới thiệu hoặc bảng điều khiển ----- */
   function trangChu() {
-    document.title = "Tiếng Anh cho giáo viên Lý – Tin - Góc Lý - Tin";
+    document.title = "Dạy bằng tiếng Anh - Góc Lý - Tin";
     const tong = DL.bai.reduce(function (s, b) { return s + b.cau.length; }, 0);
-    const dau = '<div class="gv-dau"><div><h1>Tiếng Anh cho giáo viên Lý – Tin</h1><p>Lộ trình tự học dành cho thầy cô dạy Vật lý, Tin học theo mô hình song ngữ: mỗi ngày 10 – 30 phút, từ câu chào lớp đến giảng bài, làm thí nghiệm, đọc mã lệnh bằng tiếng Anh.</p></div></div>';
+    const dau = '<a class="quay-lai" href="#/song-ngu">‹ Song ngữ</a><div class="gv-dau"><div><h1>Dạy bằng tiếng Anh</h1><p>Lộ trình tự học dành cho thầy cô Vật lý, Tin học: mỗi ngày 10 – 30 phút, đi từ câu chào lớp đến giảng bài, làm thí nghiệm, đọc mã lệnh và lên lớp thật bằng tiếng Anh. Khoảng 4 tháng tự học, 6 tháng tự tin dạy.</p></div></div>';
     if (!TD.hoSo) {
       return dau +
         '<div class="gv-diem-manh">' + [
@@ -179,7 +197,7 @@
         ].map(function (x) { return "<div><b>" + esc(x[0]) + "</b><span>" + esc(x[1]) + "</span></div>"; }).join("") + "</div>" +
         '<div class="hang-nut gv-bat-dau"><a class="nut" href="#/giao-vien/kiem-tra">Làm bài kiểm tra đầu vào (5 phút) ›</a>' +
         '<button type="button" class="nut nut--phu" data-gv="bat-dau-nhanh">Bỏ qua, học từ bài đầu tiên</button></div>' +
-        '<div style="height:32px"></div>' + baiDocNenTang();
+        '<div style="height:32px"></div>' + khoi("Lộ trình 4 chặng: từ tự học đến tự dạy", loTrinhHTML()) + baiDocNenTang();
     }
     const hs = TD.hoSo, lt = loTrinh(), on = canOn(), tiep = baiTiepTheo();
     const phutHn = Math.floor((TD.ngay[homNay()] || 0) / 60);
@@ -194,6 +212,7 @@
         (tiep ? '<a class="gv-viec" href="#/giao-vien/bai/' + tiep.id + '"><b>' + (on.length ? "2. " : "1. ") + "Học tiếp: Bài " + esc(tiep.id) + ". " + esc(tiep.ten) + '</b><span lang="en">' + esc(tiep.tenEn) + " · " + tienDo(tiep).pt + "% hoàn thành</span><em>Vào học ›</em></a>"
           : '<div class="gv-viec"><b>Chúc mừng Thầy/Cô đã học hết lộ trình!</b><span>Hãy ôn tập đều mỗi ngày để giữ vững vốn tiếng Anh.</span></div>') + "</div>" +
         '<p class="phu">Học ' + hs.phut + " phút mỗi ngày, Thầy/Cô sẽ hoàn thành phần còn lại trong khoảng <b>" + tuan + " tuần</b>. Trình độ khởi điểm: " + esc(hs.capDo || "tự chọn") + " · Môn: " + esc(TEN_MON[hs.mon] || "") + ".</p>") +
+      khoi("Lộ trình 4 chặng: từ tự học đến tự dạy", loTrinhHTML()) +
       DL.phan.map(function (p) {
         const ds = lt.filter(function (b) { return b.phan === p.id; });
         if (!ds.length) return "";
@@ -215,9 +234,9 @@
   /* ----- Kiểm tra đầu vào ----- */
   let KT = null;
   function trangKiemTra() {
-    document.title = "Kiểm tra đầu vào - Tiếng Anh cho giáo viên";
+    document.title = "Kiểm tra đầu vào - Dạy bằng tiếng Anh";
     KT = { i: 0, dung: 0, mon: (TD.hoSo && TD.hoSo.mon) || "ca-hai", phut: (TD.hoSo && TD.hoSo.phut) || 20 };
-    return '<a class="quay-lai" href="#/giao-vien">‹ Tiếng Anh cho giáo viên</a><div class="dau-muc"><h1>Kiểm tra đầu vào</h1><p>' + DL.kiemTra.length +
+    return '<a class="quay-lai" href="#/giao-vien">‹ Dạy bằng tiếng Anh</a><div class="dau-muc"><h1>Kiểm tra đầu vào</h1><p>' + DL.kiemTra.length +
       " câu, từ dễ đến khó, khoảng 5 phút. Không sao nếu chưa biết: cứ chọn đáp án Thầy/Cô thấy gần đúng nhất.</p></div>" +
       '<div class="gv-hd" id="gv-kt"></div>';
   }
@@ -265,7 +284,7 @@
     const b = baiTheoId(id);
     if (!b) return '<div class="dau-muc"><h1>Không tìm thấy bài này</h1></div><a class="nut" href="#/giao-vien">Về lộ trình</a>';
     BAI = b; TAB = "hoc"; PHIEN = null;
-    document.title = "Bài " + b.id + ". " + b.ten + " - Tiếng Anh cho giáo viên";
+    document.title = "Bài " + b.id + ". " + b.ten + " - Dạy bằng tiếng Anh";
     const lt = DL.bai, vt = lt.indexOf(b), truoc = lt[vt - 1], sau = lt[vt + 1], t = tienDo(b);
     return '<a class="quay-lai" href="#/giao-vien">‹ Lộ trình của tôi</a>' +
       '<div class="dau-muc"><h1>Bài ' + esc(b.id) + ". " + esc(b.ten) + '</h1><p lang="en">' + esc(b.tenEn) + " · Trình độ " + esc(b.capDo) + "</p></div>" +
@@ -358,7 +377,7 @@
 
   /* ----- Ôn tập hôm nay ----- */
   function trangOnTap() {
-    document.title = "Ôn tập hôm nay - Tiếng Anh cho giáo viên";
+    document.title = "Ôn tập hôm nay - Dạy bằng tiếng Anh";
     const ds = canOn().sort(function (a, b) { return (TD.the[a].box - TD.the[b].box) || (TD.the[a].due < TD.the[b].due ? -1 : 1); }).slice(0, 20);
     const dau = '<a class="quay-lai" href="#/giao-vien">‹ Lộ trình của tôi</a><div class="dau-muc"><h1>Ôn tập hôm nay</h1><p>Các câu đến hạn ôn, câu dễ quên được ưu tiên. Mỗi câu một kiểu luyện khác nhau.</p></div>';
     if (!ds.length) { PHIEN = null; return dau + '<div class="trong">Hôm nay Thầy/Cô không còn câu nào cần ôn. Hãy học tiếp bài mới nhé!</div><a class="nut" href="#/giao-vien">Về lộ trình ›</a>'; }
@@ -389,7 +408,7 @@
     return { ics: "data:text/calendar;charset=utf-8," + encodeURIComponent(ics), gg: gg };
   }
   function trangCaiDat() {
-    document.title = "Cài đặt - Tiếng Anh cho giáo viên";
+    document.title = "Cài đặt - Dạy bằng tiếng Anh";
     const hs = TD.hoSo || { mon: "ca-hai", phut: 20 }, l = linkIcs();
     const chon = function (nhan, gv, ds, ht) {
       return '<div class="gv-chon"><span class="loc__ten">' + nhan + "</span>" + ds.map(function (x) {
@@ -413,10 +432,57 @@
       khoi("Làm lại từ đầu", '<button type="button" class="nut nut--phu" data-gv="xoa">Xóa toàn bộ tiến độ trên máy này</button>');
   }
 
+  /* ----- Chặng 4: Lên lớp thật ----- */
+  const BAC = [
+    ["Chào lớp và kết thúc giờ học bằng tiếng Anh", "khoảng 5% thời lượng", "Bài A1, A10"],
+    ["Thêm câu giao nhiệm vụ, điều hành lớp, khen ngợi", "khoảng 10%", "Bài A2 – A4, A7, A9"],
+    ["Dạy thuật ngữ mới song ngữ, đọc công thức và đơn vị bằng tiếng Anh", "khoảng 20%", "Bài B1 – B3, từ điển thuật ngữ"],
+    ["Dạy trọn một phần bài (khởi động hoặc luyện tập) bằng tiếng Anh", "khoảng 30 – 40%", "Phần C hoặc D, kịch bản tiết dạy mẫu"],
+    ["Dạy cả tiết bằng tiếng Anh, tiếng Việt chỉ để giải thích chỗ khó", "từ 50% trở lên", "Toàn bộ lộ trình, tự soạn kịch bản riêng"]
+  ];
+  const CHUAN_BI = [
+    "Chọn 5 – 7 thuật ngữ mới của bài, nghe và luyện phát âm trước (từ điển thuật ngữ trên trang).",
+    "Viết sẵn câu mở đầu và câu kết thúc tiết dạy bằng tiếng Anh.",
+    "Chuẩn bị 3 câu hỏi tiếng Anh để hỏi học sinh (dễ → khó).",
+    "Làm slide song ngữ: tên bài, thuật ngữ, công thức có ghi cách đọc.",
+    "Đọc to kịch bản tiết dạy 2 lần, bấm giờ.",
+    "Chuẩn bị sẵn câu khen và câu sửa lỗi nhẹ nhàng.",
+    "Đánh dấu những chỗ sẽ chuyển sang tiếng Việt (khái niệm khó, dặn dò quan trọng).",
+    "Sau tiết dạy: ghi lại câu chưa nói được, luyện thêm trong phần Ôn tập."
+  ];
+  function trangLenLop() {
+    document.title = "Lên lớp thật - Dạy bằng tiếng Anh";
+    const kb = (typeof BAI_HOC === "undefined" ? [] : BAI_HOC).filter(function (b) { return b.lop === "GV" && /kịch bản/i.test(b.ten); });
+    const ck = TD.chuanBi || {};
+    const xong = CHUAN_BI.filter(function (x, i) { return ck[i]; }).length;
+    return '<a class="quay-lai" href="#/giao-vien">‹ Dạy bằng tiếng Anh</a><div class="dau-muc"><h1>Chặng 4. Lên lớp thật</h1><p>Từ tự học đến tự dạy: tăng dần lượng tiếng Anh trong tiết dạy theo 5 bậc, chuẩn bị kĩ trước mỗi tiết và dùng kịch bản mẫu làm khung.</p></div>' +
+      khoi("Thang 5 bậc dùng tiếng Anh trong tiết dạy", '<p class="phu" style="margin-top:-6px">Mỗi bậc nên dùng ổn định 3 – 4 tuần rồi mới lên bậc tiếp theo. Bấm vào bậc Thầy/Cô đang áp dụng.</p><ol class="gv-bac">' +
+        BAC.map(function (b, i) {
+          return '<li><button type="button" class="gv-bac__nut' + ((TD.bac || 0) === i + 1 ? " gv-bac__nut--dang" : (TD.bac || 0) > i + 1 ? " gv-bac__nut--qua" : "") + '" data-gv="bac" data-v="' + (i + 1) + '">' +
+            "<b>Bậc " + (i + 1) + ". " + esc(b[0]) + '</b><span class="phu">' + esc(b[1]) + " · Học trước: " + esc(b[2]) + "</span></button></li>";
+        }).join("") + "</ol>") +
+      khoi("Kịch bản tiết dạy mẫu", kb.length ? '<p class="phu" style="margin-top:-6px">Mỗi kịch bản chia theo các bước của tiết dạy, từng câu tiếng Việt đặt cạnh câu tiếng Anh; cuối bài có thẻ câu để nghe và luyện nói.</p><div class="lien-ket">' + kb.map(function (b) {
+        const slug = String(b.ten).normalize("NFD").replace(/\p{M}/gu, "").replace(/đ/g, "d").replace(/Đ/g, "D").toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "");
+        return '<a class="lien-ket__muc" href="#/bai/' + slug + '"><b>' + esc(b.ten) + ' ›</b><span class="phu" lang="en">' + esc(b.tenEn || "") + "</span></a>";
+      }).join("") + "</div>" : '<div class="trong">Kịch bản tiết dạy mẫu đang được biên soạn.</div>') +
+      khoi("Việc cần chuẩn bị trước mỗi tiết dạy", '<p class="phu" style="margin-top:-6px">Đánh dấu việc đã làm (<span id="gv-ck-dem">' + xong + "/" + CHUAN_BI.length + "</span>). Trước tiết sau, bấm \"Bắt đầu tiết mới\" để làm lại từ đầu.</p>" +
+        '<ul class="gv-ck">' + CHUAN_BI.map(function (x, i) {
+          return '<li><label><input type="checkbox" data-gv-ck="' + i + '"' + (ck[i] ? " checked" : "") + "><span>" + esc(x) + "</span></label></li>";
+        }).join("") + '</ul><button type="button" class="nut nut--phu" data-gv="ck-moi">Bắt đầu tiết mới</button>') +
+      khoi("Mẹo để tự tin hơn", '<ul class="bh-ds">' + [
+        "Nói chậm, câu ngắn; chỉ vào bảng, hình, đồ vật khi nói.",
+        "Lặp lại câu quen thuộc mỗi tiết: học sinh sẽ hiểu và đáp lại nhanh hơn.",
+        "Viết thuật ngữ mới cả hai thứ tiếng lên bảng; đọc mẫu, cả lớp đọc theo.",
+        "Không cần hoàn hảo: sai một từ cũng không sao, quan trọng là dùng đều mỗi ngày.",
+        "Ghi âm 5 phút đầu tiết dạy bằng điện thoại, nghe lại để tự sửa phát âm."
+      ].map(function (x) { return "<li>" + esc(x) + "</li>"; }).join("") + "</ul>");
+  }
+
   /* ----- Điều hướng trong khóa học ----- */
   function trang(phu) {
     PHIEN = null; KT = null; BAI = null;
     phu = String(phu || "");
+    if (phu === "len-lop") return trangLenLop();
     if (phu === "kiem-tra") return trangKiemTra();
     if (phu === "on-tap") return trangOnTap();
     if (phu === "cai-dat") return trangCaiDat();
@@ -543,6 +609,8 @@
       } catch (loi) { bao.className = "gui-diem gui-diem--loi"; bao.textContent = "Mã không hợp lệ. Thầy/Cô kiểm tra lại đã dán đủ mã chưa."; }
       return;
     }
+    if (v === "bac") { TD.bac = Number(n.dataset.v); ghi(); veLai(); return; }
+    if (v === "ck-moi") { TD.chuanBi = {}; ghi(); veLai(); return; }
     if (v === "xoa") {
       if (n.dataset.lan === "2") { TD = macDinh(); ghi(); location.hash = "#/giao-vien"; }
       else { n.dataset.lan = "2"; n.textContent = "Bấm lần nữa để xóa hẳn (không lấy lại được)"; }
@@ -552,6 +620,14 @@
     if (e.key === "Enter" && e.target && e.target.id === "gv-o-chep") { e.preventDefault(); chamChep(); }
   });
   document.addEventListener("change", function (e) {
+    if (e.target && e.target.dataset && e.target.dataset.gvCk !== undefined) {
+      TD.chuanBi = TD.chuanBi || {};
+      TD.chuanBi[e.target.dataset.gvCk] = e.target.checked;
+      ghi();
+      const o = document.getElementById("gv-ck-dem");
+      if (o) o.textContent = Object.keys(TD.chuanBi).filter(function (k) { return TD.chuanBi[k]; }).length + "/" + CHUAN_BI.length;
+      return;
+    }
     if (e.target && e.target.id === "gv-gio") {
       TD.nhac = e.target.value || "19:30"; ghi();
       const l = linkIcs(), a = document.getElementById("gv-ics"), g = document.getElementById("gv-gg");

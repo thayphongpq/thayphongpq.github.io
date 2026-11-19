@@ -265,7 +265,7 @@
     { khoa: "tin-hoc-10", mon: "Tin học", lop: "10", ten: "Tin học 10" },
     { khoa: "tin-hoc-11", mon: "Tin học", lop: "11", ten: "Tin học 11" },
     { khoa: "tin-hoc-12", mon: "Tin học", lop: "12", ten: "Tin học 12" },
-    { khoa: "giao-vien", mon: "Tiếng Anh", lop: "GV", ten: "Tiếng Anh cho giáo viên Lý – Tin" }
+    { khoa: "giao-vien", mon: "Tiếng Anh", lop: "GV", ten: "Dạy bằng tiếng Anh" }
   ];
   function khoaSN(b) { return b.lop === "GV" ? "giao-vien" : duongMon(b.mon) + "-" + b.lop; }
   function nhomSN(khoa) { return NHOM_SN.find(function (n) { return n.khoa === khoa; }); }
@@ -285,8 +285,14 @@
     if (phu) return trangNhomSN(phu);
     document.title = "Học song ngữ - " + THONG_TIN.tenTrang;
     const tu = TV.filter(hopSongNgu);
+    const gv = window.GiaoVien;
     return dauMuc("Học song ngữ Việt – Anh", "Học Vật lý và Tin học bằng hai ngôn ngữ: đọc bài ở chế độ Tiếng Việt, English hoặc Song ngữ; tra thuật ngữ và bấm loa để nghe phát âm. Chọn lớp để vào học.") +
-      '<div class="thu-muc thu-muc--ba">' + NHOM_SN.map(theNhomSN).join("") + "</div>" +
+      khoi("Vật lý", '<div class="thu-muc thu-muc--ba">' + NHOM_SN.filter(function (n) { return n.mon === "Vật lý"; }).map(theNhomSN).join("") + "</div>") +
+      khoi("Tin học", '<div class="thu-muc thu-muc--ba">' + NHOM_SN.filter(function (n) { return n.mon === "Tin học"; }).map(theNhomSN).join("") + "</div>") +
+      khoi("Dạy bằng tiếng Anh (dành cho giáo viên)", '<a class="gv-the-lon" href="#/giao-vien"><span class="thu-muc__cap">Giáo viên</span>' +
+        "<h2>Dạy bằng tiếng Anh</h2><p>Lộ trình tự học để thầy cô Vật lý, Tin học tự tin dạy song ngữ: từ câu nói trong lớp học, đọc số – công thức, đến giảng bài theo môn và lên lớp thật với kịch bản tiết dạy mẫu.</p>" +
+        '<ol class="gv-chang-ngan"><li><b>Làm quen</b><span>chào lớp, giao nhiệm vụ</span></li><li><b>Trong lớp học</b><span>hỏi đáp, khen, sửa lỗi</span></li><li><b>Theo môn</b><span>Vật lý hoặc Tin học</span></li><li><b>Lên lớp thật</b><span>kịch bản tiết dạy, tự đánh giá</span></li></ol>' +
+        '<span class="phu">' + (gv ? gv.soBai + " bài luyện · " + gv.soCau + " câu · kiểm tra đầu vào · luyện nghe – nói – viết · nhắc lịch học" : "") + '</span><span class="thu-muc__vao">Bắt đầu học ›</span></a>') +
       khoi("Từ điển thuật ngữ Lý – Tin", '<div class="loc">' + hangLoc("Môn", "mon", ["Vật lý", "Tin học"]) + hangLoc("Lớp", "lop", ["10", "11", "12"]) + "</div>" + tuDienHTML(tu), "", "", "tu-dien") +
       (tu.length >= 4 ? khoi("Đố vui từ vựng", doVuiBatDauHTML(tu.length)) : "") +
       taiNguyenEnHTML();
@@ -510,7 +516,7 @@
         " thuật ngữ Lý – Tin, bấm loa nghe phát âm và tự kiểm tra từ vựng.</p>" +
         '<a class="nut" href="#/song-ngu">Vào học song ngữ ›</a></div>') +
       khoi("Công cụ học tập", '<div class="lien-ket">' + [
-        ["#/giao-vien", "Tiếng Anh cho giáo viên", "Lộ trình tự học miễn phí để dạy Lý – Tin song ngữ: nghe, nói, chép chính tả, nhắc lịch"],
+        ["#/giao-vien", "Dạy bằng tiếng Anh (giáo viên)", "Lộ trình tự học miễn phí để dạy Lý – Tin song ngữ: nghe, nói, chép chính tả, kịch bản tiết dạy"],
         ["#/thi-nghiem", "Thí nghiệm ảo Vật lý", dsThiNghiem.length + " mô phỏng PhET tiếng Việt, tự làm thí nghiệm ngay trên trang"],
         ["#/python", "Chạy Python trực tuyến", "Viết và chạy chương trình Python không cần cài đặt"],
         ["#/ket-qua", "Kết quả của em", "Xem lại điểm các bài đã làm và theo dõi tiến bộ"],

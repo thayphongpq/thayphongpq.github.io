@@ -17,7 +17,7 @@ const THONG_TIN = {
   truong: "THPT An Thới",
 
   // Dòng thông báo trên đầu trang. Để "" nếu không có thông báo.
-  thongBao: "Mới: khóa Tiếng Anh cho giáo viên Lý – Tin miễn phí (kiểm tra đầu vào, luyện nghe – nói – chép chính tả, nhắc lịch học) và mục Song ngữ theo từng lớp.",
+  thongBao: "Mới: mục Dạy bằng tiếng Anh cho giáo viên Lý – Tin (miễn phí): lộ trình 4 chặng từ tự học đến tự dạy, luyện nghe – nói, kịch bản tiết dạy mẫu.",
 
   gioiThieu: "Nơi tập hợp bài giảng, tài liệu và đề ôn luyện môn Vật lý, Tin học dành cho học sinh THPT.",
 
@@ -116,7 +116,9 @@ const DE_THI = [
 const BAI_HOC = [
   // ▼▼▼ DÁN BÀI HỌC MỚI NGAY DƯỚI DÒNG NÀY ▼▼▼
 
-  // ----- Khóa "Tiếng Anh cho giáo viên Lý – Tin" -----
+  // ----- Mục "Dạy bằng tiếng Anh" (dành cho giáo viên) -----
+  { ten: "Kịch bản tiết dạy mẫu Vật lý: Gia tốc", tenEn: "Sample physics lesson script: Acceleration", mon: "Tiếng Anh", lop: "GV", chuong: "Phần 4. Lên lớp thật", soBai: 7, tep: "bai/gv7-kich-ban-vat-ly.json", ngay: "2026-11-19" },
+  { ten: "Kịch bản tiết dạy mẫu Tin học: Câu lệnh if", tenEn: "Sample IT lesson script: The if statement", mon: "Tiếng Anh", lop: "GV", chuong: "Phần 4. Lên lớp thật", soBai: 8, tep: "bai/gv8-kich-ban-tin-hoc.json", ngay: "2026-11-19" },
   { ten: "Bài 1. Đọc số, số thập phân và đơn vị đo", tenEn: "Reading numbers, decimals and units", mon: "Tiếng Anh", lop: "GV", chuong: "Phần 1. Nền tảng: đọc số và công thức", soBai: 1, tep: "bai/gv1-doc-so-va-don-vi.json", ngay: "2026-11-19" },
   { ten: "Bài 2. Đọc công thức bằng tiếng Anh", tenEn: "Reading formulas aloud", mon: "Tiếng Anh", lop: "GV", chuong: "Phần 1. Nền tảng: đọc số và công thức", soBai: 2, tep: "bai/gv2-doc-cong-thuc.json", ngay: "2026-11-19" },
   { ten: "Bài 3. Câu nói thường dùng trong lớp học", tenEn: "Everyday classroom language", mon: "Tiếng Anh", lop: "GV", chuong: "Phần 2. Ngôn ngữ trong lớp học", soBai: 3, tep: "bai/gv3-cau-noi-trong-lop.json", ngay: "2026-11-19" },
