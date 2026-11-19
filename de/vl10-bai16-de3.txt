@@ -1,0 +1,161 @@
+VẬT LÍ 10 - CHƯƠNG III. ĐỘNG LỰC HỌC - BÀI 16. ĐỊNH LUẬT 3 NEWTON - ĐỀ 3
+Đề kiểm tra theo cấu trúc thi tốt nghiệp THPT (biên soạn: thầy Lâm Thế Phong, THPT An Thới)
+Thời gian: 50
+
+PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn
+Câu 1. Trong biểu thức $\vec{F}_{AB} = -\vec{F}_{BA}$, dấu "−" cho biết hai lực
+A. có độ lớn khác nhau.
+*B. ngược chiều nhau.
+C. vuông góc nhau.
+D. cùng chiều nhau.
+
+Câu 2. Trong biểu thức $\vec{F}_{AB} = -\vec{F}_{BA}$, $\vec{F}_{AB}$ là lực
+*A. do vật A tác dụng lên vật B.
+B. do vật B tác dụng lên vật A.
+C. tổng hợp tác dụng lên vật A và vật B.
+D. do Trái Đất tác dụng lên vật A.
+
+Câu 3. Khi vật A tác dụng lên vật B một lực, vật B tác dụng trở lại vật A
+A. trước khi vật A tác dụng lên vật B.
+B. sau khi vật A thôi tác dụng.
+*C. đồng thời.
+D. chỉ khi vật B lớn hơn vật A.
+
+Câu 4. Cặp "lực và phản lực" trong định luật 3 Newton
+A. có cùng điểm đặt.
+B. là hai lực cân bằng.
+C. có thể là hai lực khác loại.
+*D. luôn cùng loại.
+
+Câu 5. Phát biểu nào sau đây về điểm đặt của lực và phản lực là đúng?
+*A. Mọi cặp lực và phản lực đều đặt vào hai vật khác nhau.
+B. Chỉ lực hấp dẫn và phản lực của nó đặt vào hai vật khác nhau.
+C. Chỉ lực đàn hồi và phản lực của nó đặt vào hai vật khác nhau.
+D. Chỉ lực ma sát và phản lực của nó đặt vào hai vật khác nhau.
+
+Câu 6. Trong thí nghiệm hai xe lăn đẩy nhau bằng lò xo nén, lực mà lò xo (gắn trên xe 1) đẩy xe 2 và lực xe 2 đẩy lại xe 1
+A. là hai lực cân bằng.
+*B. là cặp lực – phản lực.
+C. cùng chiều nhau.
+D. có độ lớn tỉ lệ với khối lượng mỗi xe.
+
+Câu 7. Một quả táo rơi về phía Trái Đất. Trái Đất hầu như không chuyển động về phía quả táo vì
+A. quả táo không hút Trái Đất.
+B. lực quả táo hút Trái Đất nhỏ hơn lực Trái Đất hút quả táo.
+*C. khối lượng Trái Đất rất lớn nên gia tốc của Trái Đất rất nhỏ.
+D. Trái Đất đang đứng yên tuyệt đối.
+
+Câu 8. Một người đứng trên thuyền nhỏ và nhảy lên bờ. Khi người nhảy về phía bờ thì thuyền
+A. tiến lại gần bờ.
+*B. bị đẩy lùi ra xa bờ.
+C. đứng yên.
+D. chìm xuống.
+
+Câu 9. Bạn An đứng trên ván trượt, đẩy vào tường. Bạn An
+A. đứng yên vì tường không tác dụng lực.
+*B. bị đẩy lùi ra xa tường.
+C. tiến lại gần tường.
+D. chuyển động lên trên.
+
+Câu 10. Khi bắn súng, súng bị giật lùi về phía sau là vì
+A. viên đạn hút súng về phía sau.
+*B. súng đẩy viên đạn về phía trước thì viên đạn đẩy lại súng về phía sau.
+C. không khí đẩy súng.
+D. trọng lực của súng.
+
+Câu 11. Quyển sách nằm yên trên mặt bàn nằm ngang. Lực nào sau đây là phản lực của trọng lực tác dụng lên quyển sách?
+A. Lực mặt bàn đỡ quyển sách.
+B. Lực quyển sách ép lên mặt bàn.
+*C. Lực quyển sách hút Trái Đất.
+D. Lực mặt bàn ép lên mặt đất.
+
+Câu 12. Quyển sách nằm yên trên mặt bàn nằm ngang. Hai lực cân bằng nhau tác dụng lên quyển sách là
+A. lực sách ép lên bàn và lực bàn đỡ sách.
+*B. trọng lực của sách và lực bàn đỡ sách.
+C. trọng lực của sách và lực sách ép lên bàn.
+D. lực sách hút Trái Đất và trọng lực của sách.
+
+Câu 13. Một con ngựa kéo xe. Theo định luật 3 Newton, xe kéo ngựa một lực
+A. bằng 0.
+B. lớn hơn lực ngựa kéo xe.
+*C. bằng độ lớn lực ngựa kéo xe, ngược chiều.
+D. nhỏ hơn lực ngựa kéo xe nên xe chuyển động.
+
+Câu 14. Lực ngựa kéo xe và lực xe kéo ngựa có độ lớn bằng nhau nhưng không khử nhau vì
+A. lực ngựa kéo xe lớn hơn lực xe kéo ngựa.
+*B. lực xe kéo ngựa đặt vào ngựa, lực ngựa kéo xe đặt vào xe; hai lực đặt vào hai vật khác nhau nên không khử nhau.
+C. xe không kéo lại ngựa.
+D. lực ngựa kéo xe và lực xe kéo ngựa cân bằng nhau.
+
+Câu 15. Vật A khối lượng 2 kg tác dụng lên vật B khối lượng 5 kg một lực 10 N. Lực B tác dụng lên A có độ lớn
+A. 4 N.
+*B. 10 N.
+C. 25 N.
+D. 5 N.
+
+Câu 16. Một tên lửa đồ chơi phụt khí ra phía sau với lực 6 N. Khí phụt ra tác dụng lên tên lửa một lực
+A. 6 N, hướng về phía sau.
+*B. 6 N, hướng về phía trước.
+C. 3 N, hướng về phía trước.
+D. 12 N, hướng về phía trước.
+
+Câu 17. Hai quả cầu nhỏ va chạm nhau; quả cầu 1 khối lượng 0,2 kg thu gia tốc 50 m/s², quả cầu 2 thu gia tốc 20 m/s². Khối lượng quả cầu 2 là
+A. 0,08 kg.
+*B. 0,5 kg.
+C. 0,2 kg.
+D. 2 kg.
+Lời giải: F = 0,2 . 50 = 10 N; $m_2 = \dfrac{10}{20} = 0{,}5$ kg.
+
+Câu 18. Hai bạn có khối lượng 40 kg và 80 kg đứng trên hai ván trượt (bỏ qua ma sát) và đẩy nhau. Tỉ số độ lớn gia tốc của bạn 40 kg và bạn 80 kg là
+A. 0,5.
+B. 1.
+*C. 2.
+D. 4.
+
+PHẦN II. Câu trắc nghiệm đúng sai
+Câu 1. Một người đang bơi tới mép hồ thì dùng chân đẩy mạnh vào vách hồ để quay lại.
+a) Chân người tác dụng lên vách hồ một lực. (Đ)
+b) Vách hồ tác dụng lên chân người một lực ngược chiều. (Đ)
+c) Lực vách hồ tác dụng lên người lớn hơn lực người đẩy vách hồ. (S)
+d) Đẩy chân vào vách hồ càng mạnh thì vách hồ đẩy lại người càng mạnh. (Đ)
+
+Câu 2. Hai quả cầu 1 và 2 có khối lượng $m_1 = 0,3$ kg và $m_2 = 0,6$ kg va chạm trực diện; trong lúc va chạm quả cầu 1 chịu lực có độ lớn 12 N.
+a) Quả cầu 2 chịu lực có độ lớn 12 N. (Đ)
+b) Gia tốc của quả cầu 1 là 40 m/s². (Đ)
+c) Gia tốc của quả cầu 2 là 40 m/s². (S)
+d) Lực tác dụng lên hai quả cầu cùng chiều nhau. (S)
+Lời giải: $a_1 = \dfrac{12}{0{,}3} = 40$ m/s²; $a_2 = \dfrac{12}{0{,}6} = 20$ m/s²; hai lực ngược chiều.
+
+Câu 3. Một ngựa kéo xe đi trên đường.
+a) Ngựa tác dụng lên xe lực kéo hướng về phía trước. (Đ)
+b) Xe tác dụng lên ngựa lực kéo hướng về phía sau. (Đ)
+c) Lực ngựa kéo xe và lực xe kéo ngựa là hai lực cân bằng. (S)
+d) Ngựa tiến được về phía trước là nhờ mặt đường tác dụng lên chân ngựa lực hướng về phía trước. (Đ)
+
+Câu 4. Về hai lực trực đối và hai lực cân bằng:
+a) Hai lực trực đối có cùng độ lớn. (Đ)
+b) Hai lực cân bằng đặt vào hai vật khác nhau. (S)
+c) Lực và phản lực là hai lực trực đối. (Đ)
+d) Hai lực trực đối luôn tác dụng theo cùng một đường thẳng. (Đ)
+
+PHẦN III. Câu trắc nghiệm trả lời ngắn
+Câu 1. Một ô tô kéo một xe rơ-moóc bằng lực 2 400 N. Xe rơ-moóc kéo ô tô một lực có độ lớn bao nhiêu niutơn?
+Đáp án: 2400
+
+Câu 2. Hai xe lăn khối lượng 0,6 kg và 0,9 kg đẩy nhau bằng lò xo; xe 0,6 kg thu gia tốc 3 m/s². Gia tốc của xe 0,9 kg là bao nhiêu m/s²?
+Đáp án: 2
+Lời giải: F = 0,6 . 3 = 1,8 N; a = 1,8 : 0,9 = 2 m/s².
+
+Câu 3. Một cái bình khối lượng 1,5 kg đặt nằm yên trên mặt bàn nằm ngang; lấy g = 10 m/s². Lực bình ép lên mặt bàn có độ lớn bao nhiêu niutơn?
+Đáp án: 15
+
+Câu 4. Bạn A (khối lượng 50 kg) đứng trên ván trượt đẩy bạn B (khối lượng 40 kg) đứng trên ván trượt khác, A thu gia tốc 0,8 m/s² (bỏ qua ma sát). Gia tốc của B là bao nhiêu m/s²?
+Đáp án: 1
+Lời giải: F = 50 . 0,8 = 40 N; $a_B = \dfrac{40}{40} = 1$ m/s².
+
+Câu 5. Một quả bóng va vào tường; trong lúc va chạm, gia tốc của bóng có độ lớn 400 m/s², khối lượng bóng 0,45 kg. Lực bóng tác dụng lên tường có độ lớn bao nhiêu niutơn?
+Đáp án: 180
+Lời giải: Lực tường lên bóng: 0,45 . 400 = 180 N; lực bóng lên tường cùng độ lớn.
+
+Câu 6. Hai xe lăn đẩy nhau bằng lò xo, độ lớn gia tốc của xe 1 gấp 4 lần xe 2. Tỉ số khối lượng $\dfrac{m_2}{m_1}$ là bao nhiêu?
+Đáp án: 4

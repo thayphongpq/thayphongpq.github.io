@@ -1,0 +1,162 @@
+VẬT LÍ 10 - CHƯƠNG III. ĐỘNG LỰC HỌC - BÀI 16. ĐỊNH LUẬT 3 NEWTON - ĐỀ 2
+Đề kiểm tra theo cấu trúc thi tốt nghiệp THPT (biên soạn: thầy Lâm Thế Phong, THPT An Thới)
+Thời gian: 50
+
+PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn
+Câu 1. Theo SGK, nhận định nào sau đây về lực là đúng?
+A. Lực có thể tồn tại riêng lẻ, chỉ do một vật gây ra.
+*B. Lực không tồn tại riêng lẻ; các lực hút hoặc đẩy luôn xuất hiện thành từng cặp giữa hai vật.
+C. Chỉ vật lớn hơn mới tác dụng lực lên vật nhỏ hơn.
+D. Chỉ vật đang chuyển động mới tác dụng lực.
+
+Câu 2. Định luật 3 Newton đúng
+A. chỉ khi hai vật đứng yên.
+B. chỉ khi hai vật tiếp xúc nhau.
+*C. trong mọi trường hợp.
+D. chỉ khi hai vật có khối lượng bằng nhau.
+
+Câu 3. Lực và phản lực có đặc điểm nào sau đây?
+A. Cùng chiều, cùng độ lớn.
+*B. Cùng tác dụng theo một đường thẳng, cùng độ lớn, ngược chiều.
+C. Cùng đặt vào một vật.
+D. Phản lực luôn nhỏ hơn lực tác dụng.
+
+Câu 4. Điểm đặt của lực và phản lực
+A. trùng nhau.
+B. cùng nằm trên vật có khối lượng lớn hơn.
+*C. nằm trên hai vật khác nhau.
+D. cùng nằm trên vật có khối lượng nhỏ hơn.
+
+Câu 5. Vật A đẩy vật B một lực $\vec{F}_{AB}$ hướng sang phải. Lực $\vec{F}_{BA}$ do vật B tác dụng lên vật A
+A. hướng sang phải, đặt vào vật B.
+B. hướng sang trái, đặt vào vật B.
+C. hướng sang phải, đặt vào vật A.
+*D. hướng sang trái, đặt vào vật A.
+
+Câu 6. Lực mà mặt bàn đỡ quyển sách là lực đàn hồi. Phản lực của nó (lực sách ép lên bàn) cũng là lực đàn hồi. Điều này minh hoạ đặc điểm
+A. lực và phản lực cân bằng nhau.
+*B. lực và phản lực là hai lực cùng loại.
+C. lực và phản lực có độ lớn khác nhau.
+D. lực và phản lực xuất hiện không đồng thời.
+
+Câu 7. Lực hấp dẫn do Trái Đất tác dụng lên Mặt Trăng có phản lực là
+A. lực hấp dẫn do Mặt Trời tác dụng lên Mặt Trăng.
+B. trọng lực của Trái Đất.
+*C. lực hấp dẫn do Mặt Trăng tác dụng lên Trái Đất.
+D. lực hướng tâm của Mặt Trăng.
+
+Câu 8. Khi một người bước đi trên mặt đất, lực làm người tiến về phía trước là
+A. lực chân người đạp lên mặt đất về phía sau.
+*B. lực mặt đất tác dụng lên chân người về phía trước.
+C. trọng lực của người.
+D. lực cản của không khí.
+
+Câu 9. Một quả bóng bay được thổi căng rồi thả cho khí phụt ra phía sau. Quả bóng bay về phía trước vì
+A. không khí bên ngoài kéo quả bóng.
+*B. bóng đẩy khí ra phía sau thì khí đẩy lại bóng về phía trước.
+C. trọng lực của bóng giảm.
+D. quả bóng không chịu lực nào.
+
+Câu 10. Một người ngồi trên thuyền dùng mái chèo đẩy nước về phía sau. Thuyền tiến về phía trước nhờ
+A. lực mái chèo đẩy nước.
+*B. lực nước đẩy lại mái chèo.
+C. trọng lực của thuyền.
+D. lực đẩy Archimedes.
+
+Câu 11. Một xe tải lớn đâm vào một xe con. Trong lúc va chạm, độ lớn lực xe tải tác dụng lên xe con
+A. lớn hơn lực xe con tác dụng lên xe tải.
+B. nhỏ hơn lực xe con tác dụng lên xe tải.
+*C. bằng lực xe con tác dụng lên xe tải.
+D. bằng 0.
+
+Câu 12. Một xe tải lớn và một xe con va chạm nhau. Xe con bị biến đổi vận tốc nhiều hơn vì
+A. xe con chịu lực lớn hơn.
+*B. hai xe chịu lực có cùng độ lớn nhưng xe con có khối lượng nhỏ hơn nên gia tốc lớn hơn.
+C. xe tải không chịu lực.
+D. xe con có quán tính lớn hơn.
+
+Câu 13. Khi hai người kéo hai lực kế móc vào nhau và cùng di chuyển hai lực kế sang phải thì số chỉ hai lực kế
+*A. bằng nhau.
+B. lực kế bên phải lớn hơn.
+C. lực kế bên trái lớn hơn.
+D. đều bằng 0.
+
+Câu 14. Hai lực cân bằng khác cặp lực – phản lực ở chỗ hai lực cân bằng
+A. có độ lớn khác nhau.
+B. cùng chiều nhau.
+*C. đặt vào cùng một vật.
+D. không cùng phương.
+
+Câu 15. Một vật đặt trên mặt bàn nằm ngang, chịu trọng lực 8 N và đứng yên. Lực vật ép lên mặt bàn có độ lớn
+A. 0.
+B. 4 N.
+*C. 8 N.
+D. 16 N.
+
+Câu 16. Hai xe lăn đẩy nhau bằng lò xo. Xe 1 có khối lượng gấp 3 lần xe 2. Độ lớn gia tốc của xe 2 so với xe 1
+A. bằng $\dfrac{1}{3}$ lần.
+B. bằng nhau.
+*C. gấp 3 lần.
+D. gấp 9 lần.
+
+Câu 17. Hai bạn A (khối lượng 40 kg) và B (khối lượng 60 kg) đứng trên hai ván trượt trên mặt phẳng nhẵn, A đẩy B một lực 120 N. Gia tốc của A có độ lớn
+A. 2 m/s².
+*B. 3 m/s².
+C. 0,33 m/s².
+D. 1,2 m/s².
+Lời giải: B đẩy lại A lực 120 N; $a_A = \dfrac{120}{40} = 3$ m/s².
+
+Câu 18. Một vận động viên đá vào quả bóng, chân tác dụng lên bóng lực 300 N. Trong thời gian đó bóng tác dụng lên chân lực
+A. 0.
+B. nhỏ hơn 300 N vì bóng nhẹ.
+*C. 300 N, ngược chiều lực chân tác dụng lên bóng.
+D. 300 N, cùng chiều lực chân tác dụng lên bóng.
+
+PHẦN II. Câu trắc nghiệm đúng sai
+Câu 1. Treo một thanh nam châm và một thanh sắt gần nhau như thí nghiệm trong SGK.
+a) Thanh nam châm hút thanh sắt. (Đ)
+b) Thanh sắt không hút thanh nam châm vì sắt không phải nam châm. (S)
+c) Thanh nam châm cũng dịch chuyển lại gần thanh sắt. (Đ)
+d) Lực hút giữa hai thanh xuất hiện thành từng cặp. (Đ)
+
+Câu 2. Bạn A khối lượng 50 kg và bạn B khối lượng 25 kg đứng trên hai ván trượt (bỏ qua ma sát và khối lượng ván). A đẩy B một lực 100 N.
+a) B tác dụng lên A một lực 100 N. (Đ)
+b) Gia tốc của B có độ lớn 4 m/s². (Đ)
+c) Gia tốc của A có độ lớn 4 m/s². (S)
+d) Hai bạn chuyển động ra xa nhau theo hai chiều ngược nhau. (Đ)
+Lời giải: $a_B = \dfrac{100}{25} = 4$ m/s²; $a_A = \dfrac{100}{50} = 2$ m/s².
+
+Câu 3. Dùng búa đóng đinh vào gỗ.
+a) Búa tác dụng lên đinh một lực hướng vào gỗ. (Đ)
+b) Đinh tác dụng lên búa một lực hướng ngược lại. (Đ)
+c) Lực đinh tác dụng lên búa nhỏ hơn lực búa tác dụng lên đinh nên đinh bị đóng vào gỗ. (S)
+d) Hai lực này xuất hiện và mất đi đồng thời. (Đ)
+
+Câu 4. Một người đứng yên trên sàn nhà.
+a) Trọng lực tác dụng lên người và lực sàn đỡ người là cặp lực – phản lực. (S)
+b) Trọng lực tác dụng lên người và lực sàn đỡ người là hai lực cân bằng. (Đ)
+c) Lực người ép lên sàn và lực sàn đỡ người là cặp lực – phản lực. (Đ)
+d) Phản lực của trọng lực tác dụng lên người là lực người hút Trái Đất. (Đ)
+Lời giải: Trọng lực là lực Trái Đất hút người, phản lực của nó là lực người hút Trái Đất (đặt vào Trái Đất).
+
+PHẦN III. Câu trắc nghiệm trả lời ngắn
+Câu 1. Một quả cầu treo vào sợi dây, dây kéo quả cầu một lực 3,5 N. Quả cầu kéo dây một lực có độ lớn bao nhiêu niutơn?
+Đáp án: 3,5|3.5
+
+Câu 2. Bạn A khối lượng 45 kg và bạn B khối lượng 60 kg đứng trên hai ván trượt trên mặt nhẵn; A đẩy B làm B thu gia tốc 1,5 m/s². Gia tốc của A là bao nhiêu m/s²?
+Đáp án: 2
+Lời giải: F = 60 . 1,5 = 90 N; $a_A = \dfrac{90}{45} = 2$ m/s².
+
+Câu 3. Hai xe lăn đẩy nhau bằng lò xo, xe 1 thu gia tốc 3 m/s², xe 2 thu gia tốc 1 m/s². Biết xe 1 khối lượng 0,2 kg. Khối lượng xe 2 là bao nhiêu kilôgam?
+Đáp án: 0,6|0.6
+Lời giải: F = 0,2 . 3 = 0,6 N; $m_2 = \dfrac{0{,}6}{1} = 0{,}6$ kg.
+
+Câu 4. Một quyển sách khối lượng 0,8 kg nằm yên trên mặt bàn nằm ngang; lấy g = 10 m/s². Lực quyển sách ép lên mặt bàn có độ lớn bao nhiêu niutơn?
+Đáp án: 8
+
+Câu 5. Trong một va chạm, xe con khối lượng 1 000 kg thu gia tốc có độ lớn 8 m/s². Xe tải khối lượng 4 000 kg thu gia tốc có độ lớn bao nhiêu m/s²?
+Đáp án: 2
+Lời giải: F = 1000 . 8 = 8000 N; $a = \dfrac{8000}{4000} = 2$ m/s².
+
+Câu 6. Một người đẩy tường với lực 80 N. Tường đẩy lại người một lực có độ lớn bao nhiêu niutơn?
+Đáp án: 80

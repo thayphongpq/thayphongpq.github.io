@@ -1,0 +1,164 @@
+VẬT LÍ 10 - CHƯƠNG III. ĐỘNG LỰC HỌC - BÀI 16. ĐỊNH LUẬT 3 NEWTON - ĐỀ 1
+Đề kiểm tra theo cấu trúc thi tốt nghiệp THPT (biên soạn: thầy Lâm Thế Phong, THPT An Thới)
+Thời gian: 50
+
+PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn
+Câu 1. Theo định luật 3 Newton, khi vật A tác dụng lên vật B một lực thì
+A. vật B không tác dụng lại vật A.
+*B. đồng thời vật B cũng tác dụng trở lại vật A một lực.
+C. vật B tác dụng lại vật A sau một khoảng thời gian.
+D. vật B tác dụng lại vật A một lực lớn hơn.
+
+Câu 2. Biểu thức của định luật 3 Newton là
+A. $\vec{F}_{AB} = \vec{F}_{BA}$.
+*B. $\vec{F}_{AB} = -\vec{F}_{BA}$.
+C. $\vec{F}_{AB} = 2\vec{F}_{BA}$.
+D. $\vec{F}_{AB} + \vec{F}_{BA} = \vec{F}$.
+
+Câu 3. Hai lực trực đối là hai lực
+A. cùng phương, cùng chiều, cùng độ lớn.
+B. ngược chiều, khác độ lớn, đặt vào cùng một vật.
+*C. tác dụng theo cùng một đường thẳng, ngược chiều nhau, có độ lớn bằng nhau và đặt vào hai vật khác nhau.
+D. vuông góc với nhau.
+
+Câu 4. Trong tương tác giữa hai vật, một lực gọi là lực tác dụng thì lực kia gọi là
+A. lực ma sát.
+*B. phản lực.
+C. trọng lực.
+D. hợp lực.
+
+Câu 5. Cặp lực và phản lực KHÔNG cân bằng nhau vì
+A. chúng có độ lớn khác nhau.
+B. chúng cùng chiều.
+*C. chúng đặt vào hai vật khác nhau.
+D. chúng không cùng loại.
+
+Câu 6. Phát biểu nào sau đây về lực và phản lực là SAI?
+A. Lực và phản lực luôn xuất hiện thành từng cặp.
+B. Lực và phản lực xuất hiện hoặc mất đi đồng thời.
+C. Lực và phản lực là hai lực cùng loại.
+*D. Lực và phản lực là hai lực cân bằng.
+
+Câu 7. Thanh nam châm và thanh sắt được treo gần nhau. Thanh nam châm hút thanh sắt thì
+*A. thanh sắt cũng hút thanh nam châm với lực có cùng độ lớn.
+B. thanh sắt không tác dụng lực lên thanh nam châm.
+C. thanh sắt đẩy thanh nam châm.
+D. thanh sắt hút thanh nam châm với lực nhỏ hơn.
+
+Câu 8. Hai xe lăn được ép sát nhau, giữa có lò xo nén. Khi đốt đứt sợi dây buộc, hai xe
+A. cùng chuyển động về một phía.
+*B. bị đẩy ra xa nhau theo hai chiều ngược nhau.
+C. đứng yên.
+D. chỉ một xe chuyển động.
+
+Câu 9. Một quyển sách nằm yên trên mặt bàn. Phản lực của lực mà quyển sách ép lên mặt bàn là
+A. trọng lực của quyển sách.
+*B. lực mà mặt bàn đỡ (đẩy) quyển sách.
+C. lực hút của Trái Đất lên mặt bàn.
+D. lực ma sát.
+
+Câu 10. Dùng búa đóng đinh vào gỗ. Lực do búa tác dụng vào đinh và lực do đinh tác dụng lên búa
+A. có độ lớn khác nhau.
+*B. có cùng độ lớn, cùng phương, ngược chiều.
+C. cùng chiều.
+D. cân bằng nhau.
+
+Câu 11. Ô tô chuyển động được về phía trước là nhờ
+A. lực do ô tô tác dụng lên mặt đường về phía sau.
+*B. lực do mặt đường đẩy ô tô về phía trước (phản lực của lực mà bánh xe tác dụng lên mặt đường).
+C. trọng lực của ô tô.
+D. lực cản của không khí.
+
+Câu 12. Lực do ô tô tác dụng lên mặt đường và lực mặt đường đẩy ô tô có độ lớn bằng nhau nhưng không "khử nhau" vì
+A. chúng cùng chiều.
+*B. chúng đặt vào hai vật khác nhau (mặt đường và ô tô).
+C. chúng không cùng loại.
+D. chúng vuông góc nhau.
+
+Câu 13. Vận động viên bơi lội khi tới mép hồ thì dùng chân đẩy mạnh vào vách hồ để quay lại nhanh hơn vì
+A. vách hồ hút người về phía trước.
+*B. khi chân đẩy vách hồ, vách hồ đẩy lại người một lực ngược chiều giúp người lao đi.
+C. nước đẩy người về phía vách hồ.
+D. trọng lực giúp người quay lại.
+
+Câu 14. Một người kéo một sợi dây buộc vào tường với lực 50 N. Lực do dây tác dụng lên tay người có độ lớn
+A. 0.
+B. 25 N.
+*C. 50 N.
+D. 100 N.
+
+Câu 15. Hai người cùng kéo hai lực kế móc vào nhau, số chỉ của lực kế người thứ nhất là 30 N. Số chỉ của lực kế người thứ hai là
+A. 0.
+B. 15 N.
+*C. 30 N.
+D. 60 N.
+
+Câu 16. Trái Đất hút quả táo với lực 2 N. Quả táo hút Trái Đất với lực có độ lớn
+A. 0, vì quả táo quá nhỏ.
+B. rất nhỏ, không đáng kể so với 2 N.
+*C. 2 N.
+D. lớn hơn 2 N.
+
+Câu 17. Hai xe lăn khối lượng $m_1 = 1$ kg và $m_2 = 2$ kg đẩy nhau bằng một lò xo nén. Tỉ số độ lớn gia tốc $\dfrac{a_1}{a_2}$ là
+A. 0,5.
+*B. 2.
+C. 1.
+D. 4.
+Lời giải: Hai lực tương tác có cùng độ lớn F; $a_1 = \dfrac{F}{m_1}$, $a_2 = \dfrac{F}{m_2}$ nên $\dfrac{a_1}{a_2} = \dfrac{m_2}{m_1} = 2$.
+
+Câu 18. Cặp lực nào sau đây là cặp lực và phản lực theo định luật 3 Newton?
+A. Trọng lực của quyển sách và lực đỡ của bàn lên quyển sách.
+*B. Lực quyển sách ép lên bàn và lực bàn đỡ quyển sách.
+C. Trọng lực của quyển sách và lực quyển sách ép lên bàn.
+D. Lực đẩy của tay lên quyển sách và lực ma sát của bàn lên quyển sách.
+Lời giải: Trọng lực và lực đỡ cùng đặt vào quyển sách (cân bằng nhau), không phải cặp lực – phản lực.
+
+PHẦN II. Câu trắc nghiệm đúng sai
+Câu 1. Một quyển sách nằm yên trên mặt bàn nằm ngang.
+a) Quyển sách tác dụng lên mặt bàn một lực ép hướng xuống. (Đ)
+b) Mặt bàn tác dụng lên quyển sách một lực đỡ hướng lên; đây là phản lực của lực ép. (Đ)
+c) Quyển sách nằm yên là do lực ép của sách lên bàn và lực đỡ của bàn lên sách cân bằng nhau. (S)
+d) Quyển sách nằm yên vì trọng lực và lực đỡ của bàn (cùng đặt vào quyển sách) cân bằng nhau. (Đ)
+Lời giải: Lực ép và lực đỡ là cặp lực – phản lực, đặt vào hai vật khác nhau nên không cân bằng nhau.
+
+Câu 2. Hai xe lăn 1 và 2 có khối lượng $m_1 = 0,5$ kg và $m_2 = 1$ kg được ép sát nhau, giữa có lò xo nén. Khi đốt đứt dây, lò xo đẩy mỗi xe một lực có độ lớn 2 N.
+a) Lực do xe 1 tác dụng lên xe 2 và lực do xe 2 tác dụng lên xe 1 có cùng độ lớn. (Đ)
+b) Gia tốc của xe 1 là 4 m/s². (Đ)
+c) Gia tốc của xe 2 là 4 m/s². (S)
+d) Hai xe chuyển động theo hai chiều ngược nhau. (Đ)
+Lời giải: $a_1 = \dfrac{2}{0{,}5} = 4$ m/s²; $a_2 = \dfrac{2}{1} = 2$ m/s².
+
+Câu 3. Về lực và phản lực:
+a) Lực và phản lực luôn xuất hiện hoặc mất đi đồng thời. (Đ)
+b) Lực và phản lực là hai lực cùng loại. (Đ)
+c) Lực hút của nam châm lên thanh sắt lớn hơn lực hút của thanh sắt lên nam châm. (S)
+d) Lực và phản lực tác dụng theo cùng một đường thẳng. (Đ)
+
+Câu 4. Một ô tô đang chuyển động trên mặt đường.
+a) Bánh xe tác dụng lên mặt đường một lực hướng về phía sau. (Đ)
+b) Mặt đường tác dụng lên bánh xe một lực hướng về phía trước. (Đ)
+c) Hai lực này khử nhau nên ô tô không thể chuyển động. (S)
+d) Lực mặt đường tác dụng lên ô tô góp phần làm ô tô chuyển động về phía trước. (Đ)
+Lời giải: Hai lực đặt vào hai vật khác nhau nên không khử nhau.
+
+PHẦN III. Câu trắc nghiệm trả lời ngắn
+Câu 1. Vật A tác dụng lên vật B một lực 15 N. Vật B tác dụng lên vật A một lực có độ lớn bao nhiêu niutơn?
+Đáp án: 15
+
+Câu 2. Hai xe lăn đẩy nhau bằng lò xo; xe 1 khối lượng 0,4 kg thu gia tốc 5 m/s². Lực lò xo tác dụng lên xe 2 có độ lớn bao nhiêu niutơn?
+Đáp án: 2
+Lời giải: Lực lên xe 1: 0,4 . 5 = 2 N; lực lên xe 2 có cùng độ lớn 2 N.
+
+Câu 3. Hai xe lăn khối lượng 1 kg và 3 kg đẩy nhau bằng lò xo; xe 1 kg thu gia tốc 6 m/s². Gia tốc của xe 3 kg là bao nhiêu m/s²?
+Đáp án: 2
+Lời giải: F = 6 N; a = 6 : 3 = 2 m/s².
+
+Câu 4. Một người khối lượng 50 kg đứng yên trên sàn nhà; lấy g = 10 m/s². Lực người ép lên sàn nhà có độ lớn bao nhiêu niutơn?
+Đáp án: 500
+Lời giải: Lực đỡ của sàn cân bằng trọng lực (500 N); lực người ép lên sàn là phản lực của lực đỡ: 500 N.
+
+Câu 5. Hai bạn cùng kéo hai lực kế móc vào nhau và cùng di chuyển sang phải; lực kế của bạn thứ nhất chỉ 12 N. Lực kế của bạn thứ hai chỉ bao nhiêu niutơn? (Coi khối lượng lực kế không đáng kể.)
+Đáp án: 12
+
+Câu 6. Một quả bóng khối lượng 0,5 kg đập vào tường; trong lúc va chạm, tường tác dụng lên bóng lực 40 N. Lực bóng tác dụng lên tường có độ lớn bao nhiêu niutơn?
+Đáp án: 40
