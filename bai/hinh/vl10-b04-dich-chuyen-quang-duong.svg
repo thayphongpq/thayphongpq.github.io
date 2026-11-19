@@ -13,7 +13,7 @@
   <text x="414" y="166" text-anchor="middle" font-size="17" fill="#2563eb">quay lại 100 m</text>
   <!-- trục -->
   <line x1="40" y1="215" x2="500" y2="215" stroke="#334155" stroke-width="2.5" marker-end="url(#k)"/>
-  <text x="496" y="242" text-anchor="end" font-size="17" fill="#334155">x (m)</text>
+  <text x="505" y="272" text-anchor="end" font-size="17" fill="#334155">x (m)</text>
   <g fill="#0f172a" font-size="17" text-anchor="middle">
     <circle cx="60" cy="215" r="8" fill="#0f172a"/><text x="60" y="244">0</text><text x="60" y="198" font-weight="700">A (nhà)</text>
     <circle cx="360" cy="215" r="8" fill="#16a34a"/><text x="360" y="244">300</text><text x="345" y="198" font-weight="700" fill="#16a34a">B (hiệu sách)</text>
