@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 290" font-family="Segoe UI, Arial, sans-serif">
+  <rect width="820" height="290" fill="#ffffff"/>
+  <text x="410" y="30" text-anchor="middle" font-size="20" font-weight="700" fill="#0f172a">Bốn loại biển báo trong phòng thực hành</text>
+  <!-- Biển cấm: tròn viền đỏ, gạch chéo, ngọn lửa -->
+  <g transform="translate(105,130)">
+    <circle r="62" fill="#fff" stroke="#dc2626" stroke-width="12"/>
+    <path d="M0,-32 C14,-14 22,0 18,16 C15,30 -15,30 -18,16 C-22,0 -8,-8 0,-32 Z" fill="#111827"/>
+    <line x1="-42" y1="-42" x2="42" y2="42" stroke="#dc2626" stroke-width="12"/>
+  </g>
+  <!-- Biển cảnh báo: tam giác vàng viền đen, tia sét -->
+  <g transform="translate(310,130)">
+    <path d="M0,-66 L70,56 L-70,56 Z" fill="#facc15" stroke="#111827" stroke-width="8" stroke-linejoin="round"/>
+    <path d="M6,-32 L-14,10 L2,10 L-6,40 L16,-4 L0,-4 Z" fill="#111827"/>
+  </g>
+  <!-- Biển bắt buộc: tròn xanh lam, kính bảo hộ -->
+  <g transform="translate(515,130)">
+    <circle r="66" fill="#1d4ed8"/>
+    <rect x="-42" y="-14" width="36" height="26" rx="10" fill="#fff"/>
+    <rect x="6" y="-14" width="36" height="26" rx="10" fill="#fff"/>
+    <rect x="-8" y="-6" width="16" height="6" fill="#fff"/>
+    <line x1="-42" y1="-4" x2="-56" y2="-12" stroke="#fff" stroke-width="5"/>
+    <line x1="42" y1="-4" x2="56" y2="-12" stroke="#fff" stroke-width="5"/>
+  </g>
+  <!-- Biển chỉ dẫn: chữ nhật xanh lá, người chạy + mũi tên -->
+  <g transform="translate(715,130)">
+    <rect x="-70" y="-50" width="140" height="100" rx="6" fill="#16a34a"/>
+    <circle cx="-20" cy="-28" r="9" fill="#fff"/>
+    <path d="M-22,-16 L-30,12 M-26,-6 L-6,-10 M-28,8 L-14,32 M-30,12 L-48,26 M-24,-14 L-44,-4" stroke="#fff" stroke-width="7" stroke-linecap="round" fill="none"/>
+    <path d="M18,0 L52,0 M40,-12 L54,0 L40,12" stroke="#fff" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  </g>
+  <g font-size="16" font-weight="700" text-anchor="middle" fill="#0f172a">
+    <text x="105" y="228">Biển cấm</text>
+    <text x="310" y="228">Biển cảnh báo</text>
+    <text x="515" y="228">Biển bắt buộc</text>
+    <text x="715" y="228">Biển chỉ dẫn</text>
+  </g>
+  <g font-size="13" text-anchor="middle" fill="#475569">
+    <text x="105" y="250">Tròn, viền đỏ, gạch chéo</text>
+    <text x="105" y="268">(cấm lửa)</text>
+    <text x="310" y="250">Tam giác vàng, viền đen</text>
+    <text x="310" y="268">(điện áp cao)</text>
+    <text x="515" y="250">Tròn, nền xanh lam</text>
+    <text x="515" y="268">(đeo kính bảo hộ)</text>
+    <text x="715" y="250">Vuông/chữ nhật, nền xanh lá</text>
+    <text x="715" y="268">(lối thoát hiểm)</text>
+  </g>
+</svg>

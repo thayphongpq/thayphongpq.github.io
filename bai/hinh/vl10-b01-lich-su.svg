@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 300" font-family="Segoe UI, Arial, sans-serif">
+  <rect width="820" height="300" fill="#ffffff"/>
+  <defs>
+    <marker id="m" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#334155"/></marker>
+  </defs>
+  <text x="410" y="30" text-anchor="middle" font-size="20" font-weight="700" fill="#0f172a">Ba giai đoạn phát triển của Vật lí</text>
+  <rect x="20" y="70" width="250" height="34" fill="#e2e8f0"/>
+  <rect x="285" y="70" width="250" height="34" fill="#bfdbfe"/>
+  <rect x="550" y="70" width="250" height="34" fill="#c4b5fd"/>
+  <line x1="20" y1="120" x2="805" y2="120" stroke="#334155" stroke-width="3" marker-end="url(#m)"/>
+  <g font-size="16" font-weight="700" text-anchor="middle" fill="#0f172a">
+    <text x="145" y="93">Tiền Vật lí</text>
+    <text x="410" y="93">Vật lí cổ điển</text>
+    <text x="675" y="93">Vật lí hiện đại</text>
+  </g>
+  <g font-size="13" text-anchor="middle" fill="#475569">
+    <text x="145" y="142">trước thế kỉ XVII</text>
+    <text x="410" y="142">thế kỉ XVII – cuối thế kỉ XIX</text>
+    <text x="675" y="142">cuối thế kỉ XIX – nay</text>
+  </g>
+  <g font-size="14" fill="#0f172a">
+    <text x="30" y="180">• Quan sát và suy luận,</text>
+    <text x="42" y="200">chưa có thí nghiệm</text>
+    <text x="30" y="225">• Aristotle: vật nặng</text>
+    <text x="42" y="245">rơi nhanh hơn vật nhẹ (sai)</text>
+    <text x="295" y="180">• Galilei: phương pháp thực nghiệm</text>
+    <text x="295" y="205">• Newton: định luật chuyển động,</text>
+    <text x="307" y="225">định luật vạn vật hấp dẫn</text>
+    <text x="295" y="250">• Nhiệt động lực học; điện từ (Maxwell)</text>
+    <text x="560" y="180">• Planck (1900): thuyết lượng tử</text>
+    <text x="560" y="205">• Einstein (1905): thuyết tương đối</text>
+    <text x="560" y="230">• Vật lí nguyên tử, hạt nhân,</text>
+    <text x="572" y="250">bán dẫn, laser...</text>
+  </g>
+</svg>
