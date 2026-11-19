@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 260" font-family="Segoe UI, Arial, sans-serif">
+  <rect width="560" height="260" fill="#ffffff"/>
+  <defs>
+    <marker id="g" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#16a34a"/></marker>
+  </defs>
+  <!-- giá đỡ hai đầu -->
+  <rect x="34" y="80" width="12" height="100" fill="#94a3b8"/>
+  <rect x="494" y="80" width="12" height="100" fill="#94a3b8"/>
+  <!-- dây: 3 bó, L = 450 px từ x=46 đến 496, u = ±70 sin(3π(x-46)/450) -->
+  <path d="M46,130 Q121,10 196,130 Q271,250 346,130 Q421,10 496,130" fill="none" stroke="#2563eb" stroke-width="3.5"/>
+  <path d="M46,130 Q121,250 196,130 Q271,10 346,130 Q421,250 496,130" fill="none" stroke="#2563eb" stroke-width="3" stroke-dasharray="7 5" opacity="0.7"/>
+  <!-- nút -->
+  <circle cx="46" cy="130" r="6" fill="#dc2626"/>
+  <circle cx="196" cy="130" r="6" fill="#dc2626"/>
+  <circle cx="346" cy="130" r="6" fill="#dc2626"/>
+  <circle cx="496" cy="130" r="6" fill="#dc2626"/>
+  <text x="196" y="160" text-anchor="middle" font-size="16" font-weight="700" fill="#dc2626">N</text>
+  <text x="346" y="110" text-anchor="middle" font-size="16" font-weight="700" fill="#dc2626">N</text>
+  <!-- bụng -->
+  <text x="121" y="60" text-anchor="middle" font-size="16" font-weight="700" fill="#7c3aed">B</text>
+  <text x="271" y="215" text-anchor="middle" font-size="16" font-weight="700" fill="#7c3aed">B</text>
+  <text x="421" y="60" text-anchor="middle" font-size="16" font-weight="700" fill="#7c3aed">B</text>
+  <!-- λ/2 -->
+  <line x1="198" y1="235" x2="344" y2="235" stroke="#16a34a" stroke-width="2.5" marker-start="url(#g)" marker-end="url(#g)"/>
+  <text x="271" y="254" text-anchor="middle" font-size="18" font-weight="700" fill="#16a34a">λ/2</text>
+  <text x="280" y="24" text-anchor="middle" font-size="15" fill="#475569">N: nút (node) · B: bụng (antinode) · hai đầu cố định, 3 bó sóng</text>
+</svg>
