@@ -1,0 +1,20 @@
+{
+  "ten": {
+    "vi": "Bài 7. Đồ thị độ dịch chuyển – thời gian",
+    "en": "Lesson 7. Displacement–time graphs"
+  },
+  "mon": "Vật lý",
+  "lop": "10",
+  "noiDung": {
+    "vi": "## 1. Chuyển động thẳng đều\n\n**Chuyển động thẳng đều** là chuyển động thẳng có vận tốc không đổi. Khi đó độ dịch chuyển tỉ lệ thuận với thời gian chuyển động:\n\n$$d = v t, \\qquad x = x_0 + v t$$\n\n## 2. Đồ thị độ dịch chuyển – thời gian\n\nĐặt thời gian $t$ trên trục hoành và độ dịch chuyển $d$ trên trục tung. Đồ thị độ dịch chuyển – thời gian của chuyển động thẳng đều là một **đoạn thẳng**.\n\n- Đồ thị dốc lên: vật chuyển động theo chiều dương\n- Đồ thị nằm ngang: vật đứng yên\n- Đồ thị dốc xuống: vật chuyển động theo chiều âm\n\n## 3. Tính vận tốc từ độ dốc của đồ thị\n\nVận tốc của vật bằng **độ dốc** của đồ thị độ dịch chuyển – thời gian:\n\n$$v = \\dfrac{\\Delta d}{\\Delta t} = \\dfrac{d_2 - d_1}{t_2 - t_1}$$\n\nĐồ thị càng dốc thì vận tốc càng lớn.\n\n## 4. Ví dụ\n\nTrên đồ thị, tại thời điểm $t_1 = 2$ s vật có độ dịch chuyển $d_1 = 4$ m; tại $t_2 = 6$ s vật có $d_2 = 16$ m. Vận tốc của vật là $v = \\dfrac{16 - 4}{6 - 2} = 3$ m/s.",
+    "en": "## 1. Uniform motion in a straight line\n\n**Uniform motion in a straight line** is straight-line motion with constant velocity. The displacement is then directly proportional to the time of motion:\n\n$$d = v t, \\qquad x = x_0 + v t$$\n\n## 2. Displacement–time graphs\n\nPut time $t$ on the horizontal axis and displacement $d$ on the vertical axis. The displacement–time graph of uniform straight-line motion is a **straight line**.\n\n- Line sloping upwards: the object moves in the positive direction\n- Horizontal line: the object is at rest\n- Line sloping downwards: the object moves in the negative direction\n\n## 3. Finding velocity from the gradient\n\nThe velocity of the object equals the **gradient** (slope) of the displacement–time graph:\n\n$$v = \\dfrac{\\Delta d}{\\Delta t} = \\dfrac{d_2 - d_1}{t_2 - t_1}$$\n\nThe steeper the graph, the greater the velocity.\n\n## 4. Example\n\nOn a graph, at time $t_1 = 2$ s the displacement is $d_1 = 4$ m; at $t_2 = 6$ s it is $d_2 = 16$ m. The velocity of the object is $v = \\dfrac{16 - 4}{6 - 2} = 3$ m/s."
+  },
+  "thuatNgu": [
+    { "en": "uniform motion", "ipa": "/ˈjuːnɪfɔːm ˈməʊʃn/", "vi": "chuyển động đều", "ghiChu": "Vận tốc không đổi." },
+    { "en": "displacement–time graph", "ipa": "/dɪsˈpleɪsmənt taɪm ɡrɑːf/", "vi": "đồ thị độ dịch chuyển – thời gian", "ghiChu": "" },
+    { "en": "gradient", "ipa": "/ˈɡreɪdiənt/", "vi": "độ dốc (của đồ thị)", "ghiChu": "Còn gọi là slope /sləʊp/." },
+    { "en": "horizontal axis", "ipa": "/ˌhɒrɪˈzɒntl ˈæksɪs/", "vi": "trục hoành", "ghiChu": "Trục tung: vertical axis /ˈvɜːtɪkl ˈæksɪs/." },
+    { "en": "at rest", "ipa": "/ət rest/", "vi": "đứng yên", "ghiChu": "" },
+    { "en": "directly proportional", "ipa": "/dəˈrektli prəˈpɔːʃənl/", "vi": "tỉ lệ thuận", "ghiChu": "" }
+  ]
+}

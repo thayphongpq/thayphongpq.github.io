@@ -1,0 +1,20 @@
+{
+  "ten": {
+    "vi": "Bài 5. Tốc độ và vận tốc",
+    "en": "Lesson 5. Speed and velocity"
+  },
+  "mon": "Vật lý",
+  "lop": "10",
+  "noiDung": {
+    "vi": "## 1. Tốc độ\n\n**Tốc độ trung bình** cho biết mức độ nhanh hay chậm của chuyển động, bằng quãng đường đi được chia cho thời gian đi hết quãng đường đó:\n\n$$v_{tb} = \\dfrac{s}{t}$$\n\nĐơn vị của tốc độ là m/s hoặc km/h ($1$ m/s $= 3{,}6$ km/h). **Tốc độ tức thời** là tốc độ tại một thời điểm xác định, chính là số chỉ trên tốc kế của xe.\n\n## 2. Vận tốc\n\n**Vận tốc trung bình** là đại lượng vectơ, bằng độ dịch chuyển chia cho thời gian thực hiện độ dịch chuyển đó:\n\n$$\\vec{v} = \\dfrac{\\vec{d}}{t}$$\n\nVận tốc cho biết cả độ nhanh chậm và **hướng** của chuyển động. Khi vật chuyển động thẳng và không đổi chiều, độ lớn của vận tốc trung bình bằng tốc độ trung bình.\n\n## 3. Tổng hợp vận tốc\n\nVận tốc của vật (1) đối với vật (3) bằng tổng vectơ của vận tốc của (1) đối với (2) và vận tốc của (2) đối với (3):\n\n$$\\vec{v}_{1,3} = \\vec{v}_{1,2} + \\vec{v}_{2,3}$$\n\n- Hai vận tốc cùng hướng: $v_{1,3} = v_{1,2} + v_{2,3}$\n- Hai vận tốc ngược hướng: $v_{1,3} = |v_{1,2} - v_{2,3}|$\n- Hai vận tốc vuông góc: $v_{1,3} = \\sqrt{v_{1,2}^2 + v_{2,3}^2}$\n\n## 4. Ví dụ\n\nMột ca nô chạy với vận tốc $15$ km/h so với nước; nước chảy với vận tốc $3$ km/h so với bờ. Khi ca nô chạy xuôi dòng, vận tốc của ca nô so với bờ là $v = 15 + 3 = 18$ km/h; khi chạy ngược dòng là $v = 15 - 3 = 12$ km/h.",
+    "en": "## 1. Speed\n\n**Average speed** tells us how fast or slow an object moves. It equals the distance travelled divided by the time taken to cover that distance:\n\n$$v_{tb} = \\dfrac{s}{t}$$\n\nThe unit of speed is m/s or km/h ($1$ m/s $= 3.6$ km/h). **Instantaneous speed** is the speed at a particular moment; it is the reading on a vehicle's speedometer.\n\n## 2. Velocity\n\n**Average velocity** is a vector quantity equal to the displacement divided by the time taken for that displacement:\n\n$$\\vec{v} = \\dfrac{\\vec{d}}{t}$$\n\nVelocity tells us both how fast an object moves and its **direction** of motion. When an object moves along a straight line without turning back, the magnitude of its average velocity equals its average speed.\n\n## 3. Adding velocities\n\nThe velocity of object (1) relative to object (3) is the vector sum of the velocity of (1) relative to (2) and the velocity of (2) relative to (3):\n\n$$\\vec{v}_{1,3} = \\vec{v}_{1,2} + \\vec{v}_{2,3}$$\n\n- Velocities in the same direction: $v_{1,3} = v_{1,2} + v_{2,3}$\n- Velocities in opposite directions: $v_{1,3} = |v_{1,2} - v_{2,3}|$\n- Perpendicular velocities: $v_{1,3} = \\sqrt{v_{1,2}^2 + v_{2,3}^2}$\n\n## 4. Example\n\nA motorboat moves at $15$ km/h relative to the water, and the river flows at $3$ km/h relative to the bank. Going downstream, the boat's velocity relative to the bank is $v = 15 + 3 = 18$ km/h; going upstream it is $v = 15 - 3 = 12$ km/h."
+  },
+  "thuatNgu": [
+    { "en": "average speed", "ipa": "/ˈævərɪdʒ spiːd/", "vi": "tốc độ trung bình", "ghiChu": "$v_{tb} = \\dfrac{s}{t}$" },
+    { "en": "instantaneous speed", "ipa": "/ˌɪnstənˈteɪniəs spiːd/", "vi": "tốc độ tức thời", "ghiChu": "Số chỉ của tốc kế." },
+    { "en": "velocity", "ipa": "/vəˈlɒsəti/", "vi": "vận tốc", "ghiChu": "$\\vec{v} = \\dfrac{\\vec{d}}{t}$" },
+    { "en": "relative velocity", "ipa": "/ˈrelətɪv vəˈlɒsəti/", "vi": "vận tốc tương đối", "ghiChu": "" },
+    { "en": "speedometer", "ipa": "/spiːˈdɒmɪtə(r)/", "vi": "tốc kế", "ghiChu": "" },
+    { "en": "downstream", "ipa": "/ˌdaʊnˈstriːm/", "vi": "xuôi dòng", "ghiChu": "Ngược dòng: upstream /ˌʌpˈstriːm/." }
+  ]
+}

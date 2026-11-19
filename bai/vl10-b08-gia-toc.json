@@ -1,0 +1,20 @@
+{
+  "ten": {
+    "vi": "Bài 8. Chuyển động biến đổi. Gia tốc",
+    "en": "Lesson 8. Non-uniform motion. Acceleration"
+  },
+  "mon": "Vật lý",
+  "lop": "10",
+  "noiDung": {
+    "vi": "## 1. Chuyển động biến đổi\n\n**Chuyển động biến đổi** là chuyển động có vận tốc thay đổi theo thời gian: thay đổi về độ lớn, về hướng, hoặc cả hai.\n\n## 2. Gia tốc\n\n**Gia tốc** là đại lượng vectơ cho biết vận tốc thay đổi nhanh hay chậm, bằng độ biến thiên vận tốc chia cho khoảng thời gian xảy ra sự biến thiên đó:\n\n$$\\vec{a} = \\dfrac{\\Delta \\vec{v}}{\\Delta t}, \\qquad a = \\dfrac{v - v_0}{t - t_0}$$\n\nĐơn vị của gia tốc là mét trên giây bình phương (m/s²).\n\n## 3. Nhanh dần và chậm dần\n\n- Chuyển động **nhanh dần**: $\\vec{a}$ cùng chiều với $\\vec{v}$ ($a \\cdot v > 0$)\n- Chuyển động **chậm dần**: $\\vec{a}$ ngược chiều với $\\vec{v}$ ($a \\cdot v < 0$)\n\n## 4. Ví dụ\n\nMột xe máy đang chạy với vận tốc $5$ m/s thì tăng tốc, sau $4$ s đạt vận tốc $13$ m/s. Gia tốc của xe là $a = \\dfrac{13 - 5}{4} = 2$ m/s². Vì $a$ cùng dấu với $v$ nên xe chuyển động nhanh dần.",
+    "en": "## 1. Non-uniform motion\n\n**Non-uniform motion** is motion in which the velocity changes with time: it changes in magnitude, in direction, or both.\n\n## 2. Acceleration\n\n**Acceleration** is a vector quantity that tells us how quickly the velocity changes. It equals the change in velocity divided by the time interval in which the change happens:\n\n$$\\vec{a} = \\dfrac{\\Delta \\vec{v}}{\\Delta t}, \\qquad a = \\dfrac{v - v_0}{t - t_0}$$\n\nThe unit of acceleration is metres per second squared (m/s²).\n\n## 3. Speeding up and slowing down\n\n- **Speeding up**: $\\vec{a}$ points in the same direction as $\\vec{v}$ ($a \\cdot v > 0$)\n- **Slowing down**: $\\vec{a}$ points in the opposite direction to $\\vec{v}$ ($a \\cdot v < 0$)\n\n## 4. Example\n\nA motorbike moving at $5$ m/s speeds up and reaches $13$ m/s after $4$ s. Its acceleration is $a = \\dfrac{13 - 5}{4} = 2$ m/s². Since $a$ has the same sign as $v$, the motorbike is speeding up."
+  },
+  "thuatNgu": [
+    { "en": "acceleration", "ipa": "/əkˌseləˈreɪʃn/", "vi": "gia tốc", "ghiChu": "$a = \\dfrac{\\Delta v}{\\Delta t}$" },
+    { "en": "non-uniform motion", "ipa": "/ˌnɒn ˈjuːnɪfɔːm ˈməʊʃn/", "vi": "chuyển động biến đổi", "ghiChu": "" },
+    { "en": "change in velocity", "ipa": "/tʃeɪndʒ ɪn vəˈlɒsəti/", "vi": "độ biến thiên vận tốc", "ghiChu": "$\\Delta v = v - v_0$" },
+    { "en": "metres per second squared", "ipa": "/ˈmiːtəz pə ˈsekənd skweəd/", "vi": "mét trên giây bình phương", "ghiChu": "m/s²" },
+    { "en": "speed up", "ipa": "/spiːd ʌp/", "vi": "nhanh dần", "ghiChu": "" },
+    { "en": "slow down", "ipa": "/sləʊ daʊn/", "vi": "chậm dần", "ghiChu": "" }
+  ]
+}
