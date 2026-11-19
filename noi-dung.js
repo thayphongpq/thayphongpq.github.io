@@ -103,6 +103,11 @@ const DE_THI = [
   { ten: "Bài 5. Tốc độ và vận tốc", mon: "Vật lý", lop: "10", loai: "Luyện tập", tep: "de/vl10-bai05-toc-do-van-toc.txt", thoiGian: 20, ngay: "2026-11-19" },
   { ten: "Bài 6. Thực hành: Đo tốc độ của vật chuyển động", mon: "Vật lý", lop: "10", loai: "Luyện tập", tep: "de/vl10-bai06-thuc-hanh-do-toc-do.txt", thoiGian: 20, ngay: "2026-11-19" },
   { ten: "Bài 7. Đồ thị độ dịch chuyển – thời gian", mon: "Vật lý", lop: "10", loai: "Luyện tập", tep: "de/vl10-bai07-do-thi-dich-chuyen.txt", thoiGian: 20, ngay: "2026-11-19" },
+  { ten: "Bài 8. Chuyển động biến đổi. Gia tốc", mon: "Vật lý", lop: "10", loai: "Luyện tập", tep: "de/vl10-bai08-gia-toc.txt", thoiGian: 20, ngay: "2026-11-19" },
+  { ten: "Bài 9. Chuyển động thẳng biến đổi đều", mon: "Vật lý", lop: "10", loai: "Luyện tập", tep: "de/vl10-bai09-bien-doi-deu.txt", thoiGian: 20, ngay: "2026-11-19" },
+  { ten: "Bài 10. Sự rơi tự do", mon: "Vật lý", lop: "10", loai: "Luyện tập", tep: "de/vl10-bai10-roi-tu-do.txt", thoiGian: 20, ngay: "2026-11-19" },
+  { ten: "Bài 11. Thực hành: Đo gia tốc rơi tự do", mon: "Vật lý", lop: "10", loai: "Luyện tập", tep: "de/vl10-bai11-thuc-hanh-roi-tu-do.txt", thoiGian: 20, ngay: "2026-11-19" },
+  { ten: "Bài 12. Chuyển động ném", mon: "Vật lý", lop: "10", loai: "Luyện tập", tep: "de/vl10-bai12-chuyen-dong-nem.txt", thoiGian: 20, ngay: "2026-11-19" },
 
   // ----- Đề thi tốt nghiệp THPT chính thức của Bộ GD&ĐT -----
   { ten: "Đề chính thức TN THPT 2026 - Vật lí (mã đề 0214)", mon: "Vật lý", lop: "12", loai: "Thi thử TN THPT", tep: "de/2026-vat-li-chinh-thuc-0214.txt", thoiGian: 50, ngay: "2026-06-12" },
