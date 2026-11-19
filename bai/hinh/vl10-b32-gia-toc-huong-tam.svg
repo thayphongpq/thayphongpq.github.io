@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 440" font-family="Segoe UI, Arial, sans-serif">
+  <rect width="520" height="440" fill="#ffffff"/>
+  <defs>
+    <marker id="b" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#2563eb"/></marker>
+    <marker id="r" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#dc2626"/></marker>
+    <marker id="k" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#334155"/></marker>
+  </defs>
+  <text x="260" y="32" text-anchor="middle" font-size="22" font-weight="700" fill="#0f172a">Gia tốc hướng tâm</text>
+  <!-- tâm O (220,230), bán kính 140 px; vật quay theo chiều kim đồng hồ -->
+  <circle cx="220" cy="230" r="140" fill="none" stroke="#94a3b8" stroke-width="3"/>
+  <!-- mũi tên chiều quay -->
+  <path d="M341.2,160 A140,140 0 0 1 358.9,213" fill="none" stroke="#334155" stroke-width="2" marker-end="url(#k)"/>
+  <!-- bán kính r -->
+  <line x1="220" y1="230" x2="319" y2="131" stroke="#334155" stroke-width="1.5" stroke-dasharray="5 4"/>
+  <text x="282" y="198" font-size="18" font-style="italic" fill="#334155">r</text>
+  <circle cx="220" cy="230" r="5" fill="#0f172a"/>
+  <text x="200" y="252" text-anchor="end" font-size="18" font-weight="700" fill="#0f172a">O</text>
+  <!-- điểm trên cùng (220,90) -->
+  <line x1="220" y1="90" x2="318" y2="90" stroke="#2563eb" stroke-width="4" marker-end="url(#b)"/>
+  <line x1="220" y1="90" x2="220" y2="158" stroke="#dc2626" stroke-width="4" marker-end="url(#r)"/>
+  <circle cx="220" cy="90" r="8" fill="#0f172a"/>
+  <text x="300" y="78" font-size="19" font-weight="700" fill="#2563eb">v</text>
+  <text x="228" y="140" font-size="18" font-weight="700" fill="#dc2626">a<tspan font-size="13" dy="4">ht</tspan></text>
+  <!-- điểm bên phải (360,230) -->
+  <line x1="360" y1="230" x2="360" y2="328" stroke="#2563eb" stroke-width="4" marker-end="url(#b)"/>
+  <line x1="360" y1="230" x2="292" y2="230" stroke="#dc2626" stroke-width="4" marker-end="url(#r)"/>
+  <circle cx="360" cy="230" r="8" fill="#0f172a"/>
+  <text x="372" y="322" font-size="19" font-weight="700" fill="#2563eb">v</text>
+  <text x="300" y="220" font-size="18" font-weight="700" fill="#dc2626">a<tspan font-size="13" dy="4">ht</tspan></text>
+  <!-- điểm dưới bên trái (121,329) -->
+  <line x1="121" y1="329" x2="53" y2="261" stroke="#2563eb" stroke-width="4" marker-end="url(#b)"/>
+  <line x1="121" y1="329" x2="169" y2="281" stroke="#dc2626" stroke-width="4" marker-end="url(#r)"/>
+  <circle cx="121" cy="329" r="8" fill="#0f172a"/>
+  <text x="44" y="252" font-size="19" font-weight="700" fill="#2563eb">v</text>
+  <text x="166" y="312" font-size="18" font-weight="700" fill="#dc2626">a<tspan font-size="13" dy="4">ht</tspan></text>
+  <!-- chú thích -->
+  <text x="260" y="400" text-anchor="middle" font-size="17" fill="#2563eb">v luôn tiếp tuyến với quỹ đạo</text>
+  <text x="260" y="426" text-anchor="middle" font-size="17" fill="#dc2626">a<tspan font-size="12" dy="4">ht</tspan><tspan dy="-4"> hướng vào tâm O: a</tspan><tspan font-size="12" dy="4">ht</tspan><tspan dy="-4"> = v²/r = ω²r</tspan></text>
+</svg>

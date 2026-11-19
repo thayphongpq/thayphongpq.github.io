@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 440" font-family="Segoe UI, Arial, sans-serif">
+  <rect width="520" height="440" fill="#ffffff"/>
+  <text x="260" y="30" text-anchor="middle" font-size="22" font-weight="700" fill="#0f172a">Vật rơi tự do: m = 2 kg, h₀ = 20 m</text>
+  <text x="260" y="54" text-anchor="middle" font-size="16" fill="#475569">Mốc thế năng tại mặt đất, g = 10 m/s²</text>
+  <!-- chú giải -->
+  <rect x="110" y="72" width="16" height="16" fill="#dc2626"/>
+  <text x="132" y="86" font-size="16" fill="#0f172a">Động năng W<tspan font-size="12" dy="4">đ</tspan></text>
+  <rect x="290" y="72" width="16" height="16" fill="#2563eb"/>
+  <text x="312" y="86" font-size="16" fill="#0f172a">Thế năng W<tspan font-size="12" dy="4">t</tspan></text>
+  <!-- tỉ lệ: 1 J = 0,625 px; gốc (80, 380); 400 J ở y = 130 -->
+  <g stroke="#e2e8f0" stroke-width="1">
+    <line x1="80" y1="317.5" x2="480" y2="317.5"/>
+    <line x1="80" y1="255" x2="480" y2="255"/>
+    <line x1="80" y1="192.5" x2="480" y2="192.5"/>
+  </g>
+  <line x1="80" y1="380" x2="80" y2="130" stroke="#334155" stroke-width="2"/>
+  <line x1="80" y1="380" x2="490" y2="380" stroke="#334155" stroke-width="2"/>
+  <text x="80" y="120" text-anchor="middle" font-size="16" font-weight="700" fill="#334155">W (J)</text>
+  <g font-size="15" fill="#475569" text-anchor="end">
+    <text x="72" y="385">0</text>
+    <text x="72" y="322.5">100</text>
+    <text x="72" y="260">200</text>
+    <text x="72" y="197.5">300</text>
+    <text x="72" y="135">400</text>
+  </g>
+  <!-- các cột: thế năng (dưới) + động năng (trên) -->
+  <rect x="105" y="130" width="50" height="250" fill="#2563eb"/>
+  <rect x="185" y="130" width="50" height="62.5" fill="#dc2626"/>
+  <rect x="185" y="192.5" width="50" height="187.5" fill="#2563eb"/>
+  <rect x="265" y="130" width="50" height="125" fill="#dc2626"/>
+  <rect x="265" y="255" width="50" height="125" fill="#2563eb"/>
+  <rect x="345" y="130" width="50" height="187.5" fill="#dc2626"/>
+  <rect x="345" y="317.5" width="50" height="62.5" fill="#2563eb"/>
+  <rect x="425" y="130" width="50" height="250" fill="#dc2626"/>
+  <g font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">
+    <text x="130" y="260">400</text>
+    <text x="210" y="166">100</text>
+    <text x="210" y="291">300</text>
+    <text x="290" y="197">200</text>
+    <text x="290" y="322">200</text>
+    <text x="370" y="228">300</text>
+    <text x="370" y="354">100</text>
+    <text x="450" y="260">400</text>
+  </g>
+  <!-- cơ năng không đổi -->
+  <line x1="80" y1="130" x2="480" y2="130" stroke="#9333ea" stroke-width="2" stroke-dasharray="6 4"/>
+  <text x="475" y="122" text-anchor="end" font-size="16" font-weight="700" fill="#9333ea">Cơ năng W = 400 J không đổi</text>
+  <!-- nhãn trục ngang -->
+  <g font-size="16" fill="#0f172a" text-anchor="middle">
+    <text x="100" y="402" text-anchor="end" fill="#475569">Độ cao:</text>
+    <text x="130" y="402">20 m</text>
+    <text x="210" y="402">15 m</text>
+    <text x="290" y="402">10 m</text>
+    <text x="370" y="402">5 m</text>
+    <text x="450" y="402">0 m</text>
+    <text x="100" y="426" text-anchor="end" fill="#475569">v (m/s):</text>
+    <text x="130" y="426">0</text>
+    <text x="210" y="426">10</text>
+    <text x="290" y="426">14,1</text>
+    <text x="370" y="426">17,3</text>
+    <text x="450" y="426">20</text>
+  </g>
+</svg>

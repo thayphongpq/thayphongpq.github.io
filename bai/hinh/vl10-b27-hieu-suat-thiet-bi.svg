@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 425" font-family="Segoe UI, Arial, sans-serif">
+  <rect width="520" height="425" fill="#ffffff"/>
+  <text x="260" y="32" text-anchor="middle" font-size="22" font-weight="700" fill="#0f172a">Hiệu suất của một số thiết bị</text>
+  <text x="260" y="56" text-anchor="middle" font-size="16" fill="#475569">(giá trị gần đúng, phần năng lượng có ích)</text>
+  <!-- nền 100% -->
+  <g fill="#f1f5f9">
+    <rect x="200" y="76" width="280" height="30"/>
+    <rect x="200" y="126" width="280" height="30"/>
+    <rect x="200" y="176" width="280" height="30"/>
+    <rect x="200" y="226" width="280" height="30"/>
+    <rect x="200" y="276" width="280" height="30"/>
+    <rect x="200" y="326" width="280" height="30"/>
+  </g>
+  <!-- tên thiết bị -->
+  <g font-size="17" fill="#0f172a">
+    <text x="20" y="97">Động cơ điện</text>
+    <text x="20" y="147">Động cơ diesel</text>
+    <text x="20" y="197">Đèn LED</text>
+    <text x="20" y="247">Động cơ xăng</text>
+    <text x="20" y="297">Pin mặt trời</text>
+    <text x="20" y="347">Bóng đèn sợi đốt</text>
+  </g>
+  <!-- thanh hiệu suất -->
+  <rect x="200" y="76" width="252" height="30" fill="#16a34a"/>
+  <rect x="200" y="126" width="112" height="30" fill="#ea580c"/>
+  <rect x="200" y="176" width="112" height="30" fill="#ea580c"/>
+  <rect x="200" y="226" width="84" height="30" fill="#ea580c"/>
+  <rect x="200" y="276" width="56" height="30" fill="#ea580c"/>
+  <rect x="200" y="326" width="14" height="30" fill="#dc2626"/>
+  <g font-size="17" font-weight="700" fill="#0f172a">
+    <text x="460" y="97">90%</text>
+    <text x="320" y="147">40%</text>
+    <text x="320" y="197">40%</text>
+    <text x="292" y="247">30%</text>
+    <text x="264" y="297">20%</text>
+    <text x="222" y="347">5%</text>
+  </g>
+  <!-- trục -->
+  <line x1="200" y1="370" x2="480" y2="370" stroke="#334155" stroke-width="2"/>
+  <g stroke="#334155" stroke-width="2">
+    <line x1="200" y1="370" x2="200" y2="376"/>
+    <line x1="340" y1="370" x2="340" y2="376"/>
+    <line x1="480" y1="370" x2="480" y2="376"/>
+  </g>
+  <g font-size="15" fill="#475569" text-anchor="middle">
+    <text x="200" y="392">0%</text>
+    <text x="340" y="392">50%</text>
+    <text x="480" y="392">100%</text>
+  </g>
+  <text x="260" y="416" text-anchor="middle" font-size="16" fill="#475569">Phần còn lại chủ yếu biến thành nhiệt năng hao phí.</text>
+</svg>

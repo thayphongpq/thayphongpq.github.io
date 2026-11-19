@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 520" font-family="Segoe UI, Arial, sans-serif">
+  <rect width="520" height="520" fill="#ffffff"/>
+  <text x="260" y="32" text-anchor="middle" font-size="22" font-weight="700" fill="#0f172a">Thế năng phụ thuộc mốc thế năng</text>
+  <text x="260" y="58" text-anchor="middle" font-size="16" fill="#475569">m = 2 kg, g = 10 m/s²; tỉ lệ 1 m = 26 px</text>
+  <!-- ngôi nhà: mặt đất y = 470, nóc y = 80 (15 m) -->
+  <rect x="40" y="80" width="130" height="390" fill="#f1f5f9" stroke="#475569" stroke-width="2"/>
+  <g fill="#bae6fd" stroke="#64748b" stroke-width="1">
+    <rect x="62" y="110" width="28" height="32"/><rect x="118" y="110" width="28" height="32"/>
+    <rect x="62" y="225" width="28" height="32"/><rect x="118" y="225" width="28" height="32"/>
+    <rect x="62" y="300" width="28" height="32"/><rect x="118" y="300" width="28" height="32"/>
+    <rect x="62" y="395" width="28" height="32"/>
+  </g>
+  <rect x="118" y="420" width="30" height="50" fill="#cbd5e1" stroke="#64748b" stroke-width="1"/>
+  <!-- ban công -->
+  <line x1="170" y1="210" x2="212" y2="210" stroke="#334155" stroke-width="4"/>
+  <line x1="170" y1="366" x2="205" y2="366" stroke="#334155" stroke-width="4"/>
+  <circle cx="192" cy="199" r="11" fill="#2563eb"/>
+  <!-- thang độ cao -->
+  <g font-size="15" fill="#475569" text-anchor="end">
+    <text x="34" y="85">15 m</text>
+    <text x="34" y="215">10 m</text>
+    <text x="34" y="371">4 m</text>
+    <text x="34" y="475">0</text>
+  </g>
+  <!-- mặt đất -->
+  <line x1="10" y1="470" x2="510" y2="470" stroke="#334155" stroke-width="3"/>
+  <!-- các mốc -->
+  <line x1="172" y1="80" x2="505" y2="80" stroke="#9333ea" stroke-width="2" stroke-dasharray="7 5"/>
+  <line x1="215" y1="210" x2="505" y2="210" stroke="#94a3b8" stroke-width="1.5" stroke-dasharray="3 4"/>
+  <line x1="208" y1="366" x2="505" y2="366" stroke="#c2410c" stroke-width="2" stroke-dasharray="7 5"/>
+  <g font-size="16">
+    <text x="222" y="104" font-weight="700" fill="#9333ea">Mốc 3: nóc nhà (cao 15 m)</text>
+    <text x="222" y="128" fill="#9333ea">W<tspan font-size="12" dy="4">t</tspan><tspan dy="-4"> = 2 · 10 · (−5) = −100 J</tspan></text>
+    <text x="222" y="200" fill="#2563eb" font-weight="700">Vật ở độ cao 10 m so với đất</text>
+    <text x="222" y="328" font-weight="700" fill="#c2410c">Mốc 2: ban công (cao 4 m)</text>
+    <text x="222" y="352" fill="#c2410c">W<tspan font-size="12" dy="4">t</tspan><tspan dy="-4"> = 2 · 10 · 6 = 120 J</tspan></text>
+    <text x="222" y="432" font-weight="700" fill="#16a34a">Mốc 1: mặt đất</text>
+    <text x="222" y="456" fill="#16a34a">W<tspan font-size="12" dy="4">t</tspan><tspan dy="-4"> = 2 · 10 · 10 = 200 J</tspan></text>
+  </g>
+  <text x="260" y="503" text-anchor="middle" font-size="16" fill="#0f172a">Vật rơi xuống đất: A<tspan font-size="12" dy="4">P</tspan><tspan dy="-4"> = 200 J với mọi cách chọn mốc</tspan></text>
+</svg>

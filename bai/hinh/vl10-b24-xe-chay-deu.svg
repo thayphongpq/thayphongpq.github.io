@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 350" font-family="Segoe UI, Arial, sans-serif">
+  <rect width="520" height="350" fill="#ffffff"/>
+  <defs>
+    <marker id="b" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#2563eb"/></marker>
+    <marker id="g" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#16a34a"/></marker>
+    <marker id="r" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#dc2626"/></marker>
+  </defs>
+  <text x="260" y="32" text-anchor="middle" font-size="22" font-weight="700" fill="#0f172a">Công suất của xe chạy đều</text>
+  <text x="260" y="58" text-anchor="middle" font-size="16" fill="#475569">Lực kéo của động cơ cân bằng với lực cản</text>
+  <!-- vận tốc -->
+  <line x1="200" y1="108" x2="322" y2="108" stroke="#2563eb" stroke-width="3.5" marker-end="url(#b)"/>
+  <text x="261" y="96" text-anchor="middle" font-size="17" font-weight="700" fill="#2563eb">v = 20 m/s (72 km/h)</text>
+  <!-- đường -->
+  <rect x="20" y="240" width="480" height="12" fill="#e2e8f0"/>
+  <line x1="20" y1="240" x2="500" y2="240" stroke="#334155" stroke-width="2"/>
+  <!-- xe -->
+  <path d="M200,170 L225,135 L300,135 L325,170 Z" fill="#bfdbfe" stroke="#1e3a8a" stroke-width="2"/>
+  <rect x="170" y="170" width="180" height="45" rx="8" fill="#3b82f6" stroke="#1e3a8a" stroke-width="2"/>
+  <circle cx="210" cy="225" r="15" fill="#334155"/>
+  <circle cx="310" cy="225" r="15" fill="#334155"/>
+  <circle cx="210" cy="225" r="5" fill="#cbd5e1"/>
+  <circle cx="310" cy="225" r="5" fill="#cbd5e1"/>
+  <!-- lực -->
+  <line x1="350" y1="200" x2="462" y2="200" stroke="#16a34a" stroke-width="4" marker-end="url(#g)"/>
+  <text x="406" y="188" text-anchor="middle" font-size="17" font-weight="700" fill="#16a34a">F<tspan font-size="13" dy="4">k</tspan><tspan dy="-4"> = 2 000 N</tspan></text>
+  <line x1="170" y1="200" x2="58" y2="200" stroke="#dc2626" stroke-width="4" marker-end="url(#r)"/>
+  <text x="114" y="188" text-anchor="middle" font-size="17" font-weight="700" fill="#dc2626">F<tspan font-size="13" dy="4">c</tspan><tspan dy="-4"> = 2 000 N</tspan></text>
+  <!-- công thức -->
+  <text x="260" y="282" text-anchor="middle" font-size="17" fill="#0f172a">Xe chạy đều: F<tspan font-size="13" dy="4">k</tspan><tspan dy="-4"> = F</tspan><tspan font-size="13" dy="4">c</tspan></text>
+  <text x="260" y="309" text-anchor="middle" font-size="17" font-weight="700" fill="#0f172a">P = F<tspan font-size="13" dy="4">k</tspan><tspan dy="-4"> · v = 2 000 · 20 = 40 000 W = 40 kW</tspan></text>
+  <text x="260" y="335" text-anchor="middle" font-size="16" fill="#475569">40 000 W : 746 ≈ 53,6 HP</text>
+</svg>

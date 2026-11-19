@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 480" font-family="Segoe UI, Arial, sans-serif">
+  <rect width="520" height="480" fill="#ffffff"/>
+  <defs>
+    <marker id="r" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#dc2626"/></marker>
+    <marker id="k" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#16a34a"/></marker>
+  </defs>
+  <text x="260" y="32" text-anchor="middle" font-size="22" font-weight="700" fill="#0f172a">Vận tốc trong chuyển động tròn đều</text>
+  <!-- tâm O (220, 240), r = 130 px; vật quay ngược chiều kim đồng hồ; mũi tên vận tốc dài 70 px -->
+  <circle cx="220" cy="240" r="130" fill="none" stroke="#2563eb" stroke-width="3"/>
+  <!-- bán kính và góc vuông -->
+  <line x1="220" y1="240" x2="350" y2="240" stroke="#475569" stroke-width="2" stroke-dasharray="6 4"/>
+  <path d="M338,240 L338,228 L350,228" fill="none" stroke="#0f172a" stroke-width="1.5"/>
+  <text x="285" y="262" text-anchor="middle" font-size="18" font-weight="700" fill="#475569">r</text>
+  <circle cx="220" cy="240" r="5" fill="#0f172a"/>
+  <text x="206" y="262" font-size="18" font-weight="700" fill="#0f172a">O</text>
+  <!-- chiều quay -->
+  <path d="M313.97,205.80 A100,100 0 0 0 254.20,146.03" fill="none" stroke="#16a34a" stroke-width="2.5" marker-end="url(#k)"/>
+  <text x="268" y="196" font-size="18" font-weight="700" fill="#16a34a">ω</text>
+  <!-- các vị trí và vectơ vận tốc -->
+  <circle cx="350" cy="240" r="6" fill="#0f172a"/>
+  <line x1="350" y1="240" x2="350" y2="170" stroke="#dc2626" stroke-width="4" marker-end="url(#r)"/>
+  <text x="360" y="192" font-size="18" font-weight="700" fill="#dc2626">v</text>
+  <circle cx="220" cy="110" r="6" fill="#0f172a"/>
+  <line x1="220" y1="110" x2="150" y2="110" stroke="#dc2626" stroke-width="4" marker-end="url(#r)"/>
+  <text x="180" y="98" text-anchor="middle" font-size="18" font-weight="700" fill="#dc2626">v</text>
+  <circle cx="90" cy="240" r="6" fill="#0f172a"/>
+  <line x1="90" y1="240" x2="90" y2="310" stroke="#dc2626" stroke-width="4" marker-end="url(#r)"/>
+  <text x="78" y="290" text-anchor="end" font-size="18" font-weight="700" fill="#dc2626">v</text>
+  <circle cx="220" cy="370" r="6" fill="#0f172a"/>
+  <line x1="220" y1="370" x2="290" y2="370" stroke="#dc2626" stroke-width="4" marker-end="url(#r)"/>
+  <text x="258" y="396" text-anchor="middle" font-size="18" font-weight="700" fill="#dc2626">v</text>
+  <!-- ghi chú -->
+  <text x="260" y="432" text-anchor="middle" font-size="16" fill="#0f172a">v tiếp tuyến với quỹ đạo, vuông góc với bán kính</text>
+  <text x="260" y="458" text-anchor="middle" font-size="16" fill="#0f172a">Độ lớn v = ωr không đổi, hướng luôn thay đổi</text>
+</svg>

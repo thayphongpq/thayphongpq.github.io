@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 480" font-family="Segoe UI, Arial, sans-serif">
+  <rect width="520" height="480" fill="#ffffff"/>
+  <defs>
+    <marker id="k" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#334155"/></marker>
+    <marker id="g" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#16a34a"/></marker>
+  </defs>
+  <text x="260" y="30" text-anchor="middle" font-size="22" font-weight="700" fill="#0f172a">Chuyển hóa năng lượng của con lắc</text>
+  <!-- giá treo, điểm treo (260,60), dây dài 230 px, góc lệch 45° -->
+  <rect x="200" y="44" width="120" height="12" fill="#94a3b8"/>
+  <circle cx="260" cy="60" r="4" fill="#0f172a"/>
+  <!-- quỹ đạo cung tròn A - O - B -->
+  <path d="M97.4,222.6 A230,230 0 0 0 422.6,222.6" fill="none" stroke="#94a3b8" stroke-width="2" stroke-dasharray="6 5"/>
+  <!-- mốc thế năng -->
+  <line x1="40" y1="290" x2="480" y2="290" stroke="#64748b" stroke-width="1.5" stroke-dasharray="6 4"/>
+  <text x="40" y="312" font-size="16" fill="#475569">Mốc thế năng (h = 0)</text>
+  <!-- dây treo -->
+  <line x1="260" y1="60" x2="97.4" y2="222.6" stroke="#334155" stroke-width="2"/>
+  <line x1="260" y1="60" x2="260" y2="290" stroke="#94a3b8" stroke-width="1.5" stroke-dasharray="5 4"/>
+  <line x1="260" y1="60" x2="422.6" y2="222.6" stroke="#94a3b8" stroke-width="1.5" stroke-dasharray="5 4"/>
+  <!-- độ cao h của A -->
+  <line x1="58" y1="222.6" x2="84" y2="222.6" stroke="#94a3b8" stroke-width="1.2" stroke-dasharray="4 4"/>
+  <line x1="55" y1="225" x2="55" y2="288" stroke="#334155" stroke-width="2" marker-start="url(#k)" marker-end="url(#k)"/>
+  <text x="48" y="262" text-anchor="end" font-size="18" font-weight="700" fill="#0f172a">h</text>
+  <!-- quả nặng -->
+  <circle cx="97.4" cy="222.6" r="13" fill="#2563eb"/>
+  <circle cx="260" cy="290" r="13" fill="#93c5fd" stroke="#2563eb" stroke-width="2"/>
+  <circle cx="422.6" cy="222.6" r="13" fill="#93c5fd" stroke="#2563eb" stroke-width="2"/>
+  <text x="78" y="214" text-anchor="end" font-size="18" font-weight="700" fill="#0f172a">A</text>
+  <text x="442" y="214" font-size="18" font-weight="700" fill="#0f172a">B</text>
+  <text x="260" y="326" text-anchor="middle" font-size="18" font-weight="700" fill="#0f172a">O</text>
+  <text x="97" y="196" text-anchor="middle" font-size="16" fill="#0f172a">v = 0</text>
+  <text x="423" y="196" text-anchor="middle" font-size="16" fill="#0f172a">v = 0</text>
+  <!-- vận tốc tại O -->
+  <line x1="276" y1="290" x2="340" y2="290" stroke="#16a34a" stroke-width="4" marker-end="url(#g)"/>
+  <text x="350" y="296" font-size="16" font-weight="700" fill="#16a34a">v lớn nhất</text>
+  <!-- cột năng lượng -->
+  <text x="97" y="356" text-anchor="middle" font-size="17" font-weight="700" fill="#0f172a">Tại A</text>
+  <text x="260" y="356" text-anchor="middle" font-size="17" font-weight="700" fill="#0f172a">Tại O</text>
+  <text x="423" y="356" text-anchor="middle" font-size="17" font-weight="700" fill="#0f172a">Tại B</text>
+  <g stroke="#64748b" stroke-width="1.5">
+    <line x1="60" y1="440" x2="134" y2="440"/>
+    <line x1="223" y1="440" x2="297" y2="440"/>
+    <line x1="386" y1="440" x2="460" y2="440"/>
+  </g>
+  <rect x="71" y="437" width="22" height="3" fill="#dc2626"/>
+  <rect x="101" y="368" width="22" height="72" fill="#2563eb"/>
+  <rect x="234" y="368" width="22" height="72" fill="#dc2626"/>
+  <rect x="264" y="437" width="22" height="3" fill="#2563eb"/>
+  <rect x="397" y="437" width="22" height="3" fill="#dc2626"/>
+  <rect x="427" y="368" width="22" height="72" fill="#2563eb"/>
+  <g font-size="16" font-weight="700" text-anchor="middle">
+    <text x="82" y="462" fill="#dc2626">W<tspan font-size="12" dy="4">đ</tspan></text>
+    <text x="112" y="462" fill="#2563eb">W<tspan font-size="12" dy="4">t</tspan></text>
+    <text x="245" y="462" fill="#dc2626">W<tspan font-size="12" dy="4">đ</tspan></text>
+    <text x="275" y="462" fill="#2563eb">W<tspan font-size="12" dy="4">t</tspan></text>
+    <text x="408" y="462" fill="#dc2626">W<tspan font-size="12" dy="4">đ</tspan></text>
+    <text x="438" y="462" fill="#2563eb">W<tspan font-size="12" dy="4">t</tspan></text>
+  </g>
+</svg>

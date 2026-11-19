@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 410" font-family="Segoe UI, Arial, sans-serif">
+  <rect width="520" height="410" fill="#ffffff"/>
+  <defs>
+    <marker id="b" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#2563eb"/></marker>
+    <marker id="r" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#dc2626"/></marker>
+  </defs>
+  <text x="260" y="32" text-anchor="middle" font-size="22" font-weight="700" fill="#0f172a">Dấu của công phụ thuộc góc α</text>
+  <!-- vạch ngăn -->
+  <g stroke="#cbd5e1" stroke-width="1.5" stroke-dasharray="5 5">
+    <line x1="173" y1="60" x2="173" y2="372"/>
+    <line x1="347" y1="60" x2="347" y2="372"/>
+  </g>
+  <!-- sàn -->
+  <g stroke="#334155" stroke-width="2">
+    <line x1="12" y1="230" x2="162" y2="230"/>
+    <line x1="185" y1="230" x2="335" y2="230"/>
+    <line x1="358" y1="230" x2="508" y2="230"/>
+  </g>
+  <!-- vật -->
+  <rect x="47" y="190" width="40" height="40" fill="#fed7aa" stroke="#c2410c" stroke-width="2"/>
+  <rect x="220" y="190" width="40" height="40" fill="#fed7aa" stroke="#c2410c" stroke-width="2"/>
+  <rect x="423" y="190" width="40" height="40" fill="#fed7aa" stroke="#c2410c" stroke-width="2"/>
+  <!-- độ dịch chuyển s -->
+  <line x1="27" y1="255" x2="145" y2="255" stroke="#2563eb" stroke-width="3" marker-end="url(#b)"/>
+  <line x1="200" y1="255" x2="318" y2="255" stroke="#2563eb" stroke-width="3" marker-end="url(#b)"/>
+  <line x1="373" y1="255" x2="491" y2="255" stroke="#2563eb" stroke-width="3" marker-end="url(#b)"/>
+  <text x="87" y="281" text-anchor="middle" font-size="17" font-weight="700" fill="#2563eb">s</text>
+  <text x="260" y="281" text-anchor="middle" font-size="17" font-weight="700" fill="#2563eb">s</text>
+  <text x="433" y="281" text-anchor="middle" font-size="17" font-weight="700" fill="#2563eb">s</text>
+  <!-- khung 1: α < 90° -->
+  <line x1="87" y1="210" x2="140.6" y2="165" stroke="#dc2626" stroke-width="4" marker-end="url(#r)"/>
+  <path d="M109,210 A22,22 0 0 0 103.85,195.86" fill="none" stroke="#0f172a" stroke-width="1.5"/>
+  <text x="113" y="205" font-size="16" fill="#0f172a">α</text>
+  <text x="146" y="166" font-size="19" font-weight="700" fill="#dc2626">F</text>
+  <!-- khung 2: α = 90° -->
+  <line x1="240" y1="190" x2="240" y2="120" stroke="#dc2626" stroke-width="4" marker-end="url(#r)"/>
+  <path d="M252,190 L252,178 L240,178" fill="none" stroke="#0f172a" stroke-width="1.5"/>
+  <text x="250" y="134" font-size="19" font-weight="700" fill="#dc2626">F</text>
+  <!-- khung 3: α > 90° -->
+  <line x1="423" y1="210" x2="377" y2="171.4" stroke="#dc2626" stroke-width="4" marker-end="url(#r)"/>
+  <path d="M443,210 A20,20 0 0 0 407.7,197.1" fill="none" stroke="#0f172a" stroke-width="1.5"/>
+  <text x="431" y="184" font-size="16" fill="#0f172a">α</text>
+  <text x="371" y="168" text-anchor="end" font-size="19" font-weight="700" fill="#dc2626">F</text>
+  <!-- chú thích -->
+  <g text-anchor="middle" fill="#0f172a">
+    <text x="87" y="314" font-size="18" font-weight="700">α &lt; 90°</text>
+    <text x="260" y="314" font-size="18" font-weight="700">α = 90°</text>
+    <text x="433" y="314" font-size="18" font-weight="700">90° &lt; α ≤ 180°</text>
+    <text x="87" y="340" font-size="17" fill="#16a34a">A &gt; 0</text>
+    <text x="260" y="340" font-size="17" fill="#475569">A = 0</text>
+    <text x="433" y="340" font-size="17" fill="#dc2626">A &lt; 0</text>
+    <text x="87" y="366" font-size="16">Công phát động</text>
+    <text x="260" y="366" font-size="16">Không sinh công</text>
+    <text x="433" y="366" font-size="16">Công cản</text>
+  </g>
+  <text x="260" y="398" text-anchor="middle" font-size="18" font-weight="700" fill="#0f172a">A = F s cos α</text>
+</svg>
