@@ -1,0 +1,86 @@
+VẬT LÍ 10 - CHƯƠNG II. ĐỘNG HỌC - BÀI 11. THỰC HÀNH: ĐO GIA TỐC RƠI TỰ DO
+Đề luyện tập theo cấu trúc thi tốt nghiệp THPT (biên soạn: thầy Lâm Thế Phong, THPT An Thới)
+Thời gian: 20
+
+PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn
+Câu 1. Thả một vật rơi tự do không vận tốc đầu, đo quãng đường rơi $s$ và thời gian rơi $t$. Gia tốc rơi tự do được tính bằng
+*A. $g = \dfrac{2s}{t^2}$.
+B. $g = \dfrac{s}{t^2}$.
+C. $g = \dfrac{s}{2t^2}$.
+D. $g = \dfrac{2s}{t}$.
+Lời giải: $s = \dfrac{1}{2}gt^2 \Rightarrow g = \dfrac{2s}{t^2}$.
+
+Câu 2. Trong thí nghiệm đo gia tốc rơi tự do, nên dùng vật rơi là
+*A. một vật nhỏ, nặng như trụ thép hoặc viên bi thép.
+B. một tờ giấy phẳng.
+C. một quả bóng bay.
+D. một miếng xốp to.
+Lời giải: Vật nhỏ và nặng thì lực cản của không khí ảnh hưởng không đáng kể.
+
+Câu 3. Dùng nam châm điện giữ vật rồi ngắt điện để thả vật nhằm
+*A. vật bắt đầu rơi với vận tốc đầu bằng 0, đúng lúc đồng hồ bắt đầu đo thời gian.
+B. làm vật rơi nhanh hơn.
+C. làm tăng gia tốc rơi của vật.
+D. làm giảm lực cản của không khí.
+
+Câu 4. Một vật rơi tự do không vận tốc đầu được quãng đường 0,45 m trong 0,30 s. Gia tốc rơi tự do đo được là
+*A. 10 m/s².
+B. 3 m/s².
+C. 5 m/s².
+D. 1,5 m/s².
+Lời giải: $g = \dfrac{2 \cdot 0{,}45}{0{,}30^2} = \dfrac{0{,}9}{0{,}09} = 10$ m/s².
+
+Câu 5. Một vật rơi tự do không vận tốc đầu được quãng đường 0,800 m trong 0,404 s. Gia tốc rơi tự do đo được xấp xỉ bằng
+*A. 9,80 m/s².
+B. 3,96 m/s².
+C. 4,90 m/s².
+D. 19,6 m/s².
+Lời giải: $g = \dfrac{1{,}6}{0{,}404^2} \approx 9{,}80$ m/s².
+
+Câu 6. Đo thời gian rơi $t$ ứng với nhiều quãng đường rơi $s$ khác nhau, rồi vẽ đồ thị $s$ theo $t^2$. Đồ thị thu được là
+*A. đường thẳng đi qua gốc tọa độ, có độ dốc bằng $\dfrac{g}{2}$.
+B. đường thẳng đi qua gốc tọa độ, có độ dốc bằng $2g$.
+C. đường parabol.
+D. đường thẳng song song với trục hoành.
+Lời giải: $s = \dfrac{g}{2} \cdot t^2$ nên $s$ tỉ lệ thuận với $t^2$.
+
+Câu 7. Để giảm sai số ngẫu nhiên khi đo thời gian rơi, cần
+*A. đo nhiều lần rồi lấy giá trị trung bình.
+B. chỉ đo một lần thật cẩn thận.
+C. dùng vật nhẹ hơn.
+D. chọn quãng đường rơi rất ngắn.
+
+Câu 8. Gia tốc rơi tự do được tính bằng $g = \dfrac{2s}{t^2}$. Sai số tỉ đối của $g$ là
+*A. $\delta g = \delta s + 2\delta t$.
+B. $\delta g = \delta s + \delta t$.
+C. $\delta g = 2\delta s + \delta t$.
+D. $\delta g = \delta s - 2\delta t$.
+Lời giải: $t^2 = t \cdot t$ nên sai số tỉ đối của $t^2$ là $2\delta t$; hằng số 2 không có sai số.
+
+PHẦN II. Câu trắc nghiệm đúng sai
+Câu 1. Một nhóm học sinh thả trụ thép rơi tự do qua quãng đường $s = 0{,}500$ m và đo thời gian rơi 3 lần được: 0,320 s; 0,318 s; 0,322 s.
+a) Thời gian rơi trung bình là 0,320 s. (Đ)
+b) Gia tốc rơi tự do đo được xấp xỉ 9,77 m/s². (Đ)
+c) Kết quả nhỏ hơn 9,8 m/s² có thể do lực cản của không khí và sai số khi đo $s$, $t$. (Đ)
+d) Muốn tăng độ chính xác, nên chọn quãng đường rơi rất nhỏ, khoảng 1 cm. (S)
+Lời giải: $\bar{t} = 0{,}320$ s; $g = \dfrac{2 \cdot 0{,}500}{0{,}320^2} \approx 9{,}77$ m/s². Quãng đường quá nhỏ thì thời gian rơi rất ngắn, sai số tỉ đối của phép đo thời gian tăng lên.
+
+Câu 2. Trong một lần đo gia tốc rơi tự do bằng công thức $g = \dfrac{2s}{t^2}$, sai số tỉ đối của phép đo quãng đường là 0,2%, của phép đo thời gian là 0,5%.
+a) Sai số tỉ đối của $g$ là 1,2%. (Đ)
+b) Sai số tỉ đối của $g$ là 0,7%. (S)
+c) Sai số của phép đo thời gian ảnh hưởng đến kết quả $g$ nhiều hơn sai số của phép đo quãng đường. (Đ)
+d) Nếu $g = 9{,}77$ m/s² thì sai số tuyệt đối của $g$ xấp xỉ 0,12 m/s². (Đ)
+Lời giải: $\delta g = 0{,}2\% + 2 \cdot 0{,}5\% = 1{,}2\%$; $\Delta g = 0{,}012 \cdot 9{,}77 \approx 0{,}12$ m/s².
+
+PHẦN III. Câu trắc nghiệm trả lời ngắn
+Câu 1. Một vật rơi tự do không vận tốc đầu được quãng đường 0,2 m trong 0,2 s. Gia tốc rơi tự do đo được là bao nhiêu m/s²?
+Đáp án: 10
+Lời giải: $g = \dfrac{2 \cdot 0{,}2}{0{,}2^2} = 10$ m/s².
+
+Câu 2. Một vật rơi tự do không vận tốc đầu được quãng đường 0,612 m trong 0,354 s. Gia tốc rơi tự do đo được là bao nhiêu m/s²? (Làm tròn đến hai chữ số sau dấu phẩy.)
+Đáp án: 9,77
+Lời giải: $g = \dfrac{2 \cdot 0{,}612}{0{,}354^2} = \dfrac{1{,}224}{0{,}125316} \approx 9{,}77$ m/s².
+
+Câu 3. Khi đo $g = \dfrac{2s}{t^2}$, sai số tỉ đối của $s$ là 0,1% và của $t$ là 0,4%. Sai số tỉ đối của $g$ là bao nhiêu phần trăm?
+Đáp án: 0,9
+Lời giải: $\delta g = 0{,}1\% + 2 \cdot 0{,}4\% = 0{,}9\%$.

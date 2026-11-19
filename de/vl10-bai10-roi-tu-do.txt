@@ -1,0 +1,85 @@
+VẬT LÍ 10 - CHƯƠNG II. ĐỘNG HỌC - BÀI 10. SỰ RƠI TỰ DO
+Đề luyện tập theo cấu trúc thi tốt nghiệp THPT (biên soạn: thầy Lâm Thế Phong, THPT An Thới)
+Thời gian: 20
+
+PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn
+Câu 1. Sự rơi tự do là
+*A. sự rơi chỉ dưới tác dụng của trọng lực.
+B. sự rơi của vật trong không khí.
+C. sự rơi của vật nặng trong nước.
+D. chuyển động của vật được ném lên cao.
+
+Câu 2. Phát biểu nào sau đây về sự rơi tự do là sai?
+A. Vật rơi tự do chuyển động theo phương thẳng đứng, chiều từ trên xuống.
+B. Rơi tự do là chuyển động thẳng nhanh dần đều.
+C. Tại cùng một nơi gần mặt đất, mọi vật rơi tự do với cùng một gia tốc.
+*D. Khi rơi tự do, vật nặng rơi nhanh hơn vật nhẹ.
+Lời giải: Khi bỏ qua sức cản không khí, vật nặng và vật nhẹ rơi nhanh như nhau.
+
+Câu 3. Chuyển động nào sau đây có thể coi là rơi tự do?
+*A. Một hòn sỏi nhỏ được thả rơi từ độ cao vài mét.
+B. Một chiếc lá đang rơi.
+C. Một chiếc lông chim rơi trong không khí.
+D. Một người nhảy dù đã bung dù.
+
+Câu 4. Trong một ống thủy tinh đã hút hết không khí, người ta thả cùng lúc một viên bi và một chiếc lông chim ở cùng độ cao. Kết quả là
+*A. hai vật rơi nhanh như nhau.
+B. viên bi rơi nhanh hơn.
+C. lông chim rơi nhanh hơn.
+D. lông chim không rơi.
+
+Câu 5. Một vật được thả rơi tự do từ độ cao 20 m so với mặt đất. Lấy $g = 10$ m/s². Thời gian rơi của vật là
+*A. 2 s.
+B. 4 s.
+C. 1,4 s.
+D. 20 s.
+Lời giải: $t = \sqrt{\dfrac{2h}{g}} = \sqrt{\dfrac{40}{10}} = 2$ s.
+
+Câu 6. Vật ở Câu 5 chạm đất với tốc độ
+*A. 20 m/s.
+B. 10 m/s.
+C. 200 m/s.
+D. 40 m/s.
+Lời giải: $v = gt = 10 \cdot 2 = 20$ m/s.
+
+Câu 7. Một vật rơi tự do không vận tốc đầu. Lấy $g = 9{,}8$ m/s². Sau 3 s, tốc độ của vật là
+*A. 29,4 m/s.
+B. 44,1 m/s.
+C. 9,8 m/s.
+D. 3,27 m/s.
+Lời giải: $v = gt = 9{,}8 \cdot 3 = 29{,}4$ m/s.
+
+Câu 8. Một vật rơi tự do không vận tốc đầu. Lấy $g = 10$ m/s². Quãng đường vật rơi được trong giây thứ hai là
+*A. 15 m.
+B. 20 m.
+C. 10 m.
+D. 5 m.
+Lời giải: Sau 2 s rơi được $\dfrac{1}{2} \cdot 10 \cdot 2^2 = 20$ m; sau 1 s rơi được 5 m. Trong giây thứ hai: $20 - 5 = 15$ m.
+
+PHẦN II. Câu trắc nghiệm đúng sai
+Câu 1. Thả rơi tự do một viên bi thép từ đỉnh một tòa tháp, sau 4 s viên bi chạm đất. Lấy $g = 10$ m/s².
+a) Độ cao của đỉnh tháp so với mặt đất là 80 m. (Đ)
+b) Viên bi chạm đất với tốc độ 40 m/s. (Đ)
+c) Trong giây cuối cùng trước khi chạm đất, viên bi rơi được 35 m. (Đ)
+d) Nếu thả một viên bi thép nặng gấp đôi từ cùng độ cao đó thì thời gian rơi chỉ còn 2 s. (S)
+Lời giải: $h = \dfrac{1}{2} \cdot 10 \cdot 4^2 = 80$ m; $v = 10 \cdot 4 = 40$ m/s; sau 3 s rơi được 45 m nên giây cuối rơi $80 - 45 = 35$ m. Thời gian rơi tự do không phụ thuộc khối lượng.
+
+Câu 2. Hai vật được thả rơi tự do: vật 1 từ độ cao $h_1$, vật 2 từ độ cao $h_2 = 4h_1$. Bỏ qua sức cản của không khí.
+a) Thời gian rơi của vật 2 gấp 2 lần thời gian rơi của vật 1. (Đ)
+b) Tốc độ chạm đất của vật 2 gấp 4 lần tốc độ chạm đất của vật 1. (S)
+c) Gia tốc của hai vật như nhau. (Đ)
+d) Nếu thả hai vật cùng lúc thì trước khi vật 1 chạm đất, khoảng cách giữa hai vật không thay đổi. (Đ)
+Lời giải: $t = \sqrt{2h/g}$ và $v = \sqrt{2gh}$ đều tỉ lệ với $\sqrt{h}$ nên cùng gấp 2 lần. Hai vật có cùng gia tốc $g$, cùng vận tốc đầu bằng 0 nên luôn rơi được những quãng đường như nhau; khoảng cách giữa chúng không đổi.
+
+PHẦN III. Câu trắc nghiệm trả lời ngắn
+Câu 1. Thả rơi tự do một vật, sau 3 s vật chạm đất. Lấy $g = 9{,}8$ m/s². Độ cao nơi thả vật là bao nhiêu mét?
+Đáp án: 44,1
+Lời giải: $h = \dfrac{1}{2} \cdot 9{,}8 \cdot 3^2 = 44{,}1$ m.
+
+Câu 2. Một vật được thả rơi tự do từ độ cao 45 m. Lấy $g = 10$ m/s². Thời gian rơi của vật là bao nhiêu giây?
+Đáp án: 3
+Lời giải: $t = \sqrt{\dfrac{2 \cdot 45}{10}} = 3$ s.
+
+Câu 3. Một vật được thả rơi tự do từ độ cao 5 m. Lấy $g = 10$ m/s². Tốc độ của vật khi chạm đất là bao nhiêu m/s?
+Đáp án: 10
+Lời giải: $v = \sqrt{2gh} = \sqrt{2 \cdot 10 \cdot 5} = 10$ m/s.

@@ -1,0 +1,84 @@
+VẬT LÍ 10 - CHƯƠNG II. ĐỘNG HỌC - BÀI 12. CHUYỂN ĐỘNG NÉM
+Đề luyện tập theo cấu trúc thi tốt nghiệp THPT (biên soạn: thầy Lâm Thế Phong, THPT An Thới)
+Thời gian: 20
+
+PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn
+Câu 1. Bỏ qua sức cản của không khí. Một vật được ném ngang. Theo phương nằm ngang, vật
+*A. chuyển động thẳng đều.
+B. chuyển động thẳng nhanh dần đều.
+C. chuyển động thẳng chậm dần đều.
+D. đứng yên.
+
+Câu 2. Bỏ qua sức cản của không khí. Một vật được ném ngang. Theo phương thẳng đứng, vật
+*A. chuyển động như một vật rơi tự do.
+B. chuyển động thẳng đều.
+C. chuyển động chậm dần đều.
+D. đứng yên.
+
+Câu 3. Một vật được ném ngang từ độ cao $h$ với vận tốc đầu $v_0$. Thời gian chuyển động của vật đến khi chạm đất là
+*A. $t = \sqrt{\dfrac{2h}{g}}$, không phụ thuộc vào $v_0$.
+B. $t = \dfrac{v_0}{g}$.
+C. $t = \sqrt{\dfrac{2h}{g}} + \dfrac{v_0}{g}$.
+D. $t = \dfrac{2v_0}{g}$.
+
+Câu 4. Một vật được ném ngang từ độ cao 20 m với vận tốc đầu 15 m/s. Lấy $g = 10$ m/s². Tầm xa của vật là
+*A. 30 m.
+B. 15 m.
+C. 20 m.
+D. 60 m.
+Lời giải: $t = \sqrt{\dfrac{2 \cdot 20}{10}} = 2$ s; $L = v_0 t = 15 \cdot 2 = 30$ m.
+
+Câu 5. Ném xiên một vật từ mặt đất với tốc độ ban đầu không đổi. Bỏ qua sức cản của không khí. Tầm xa của vật lớn nhất khi góc ném so với phương ngang bằng
+A. 30°.
+*B. 45°.
+C. 60°.
+D. 90°.
+Lời giải: $L = \dfrac{v_0^2 \sin 2\alpha}{g}$ lớn nhất khi $\sin 2\alpha = 1$, tức $\alpha = 45°$.
+
+Câu 6. Bỏ qua sức cản của không khí. Quỹ đạo của một vật được ném ngang là
+*A. một nhánh parabol.
+B. một đường thẳng.
+C. một đường tròn.
+D. một đường hypebol.
+
+Câu 7. Từ cùng một độ cao, cùng một lúc, viên bi A được ném ngang còn viên bi B được thả rơi tự do. Bỏ qua sức cản của không khí. Kết luận nào sau đây là đúng?
+*A. Hai viên bi chạm đất cùng lúc.
+B. Viên bi A chạm đất trước.
+C. Viên bi B chạm đất trước.
+D. Viên bi nào nặng hơn thì chạm đất trước.
+Lời giải: Theo phương thẳng đứng, cả hai viên bi đều rơi tự do từ cùng độ cao nên thời gian rơi bằng nhau.
+
+Câu 8. Một vật được ném xiên từ mặt đất với tốc độ 20 m/s, hợp với phương ngang góc 30°. Lấy $g = 10$ m/s², bỏ qua sức cản của không khí. Độ cao cực đại mà vật đạt được là
+*A. 5 m.
+B. 10 m.
+C. 15 m.
+D. 20 m.
+Lời giải: $H = \dfrac{v_0^2 \sin^2\alpha}{2g} = \dfrac{400 \cdot 0{,}25}{20} = 5$ m.
+
+PHẦN II. Câu trắc nghiệm đúng sai
+Câu 1. Một máy bay bay theo phương ngang ở độ cao 2 000 m với tốc độ không đổi 720 km/h thì thả một gói hàng. Lấy $g = 10$ m/s², bỏ qua sức cản của không khí.
+a) Thời gian gói hàng rơi đến mặt đất là 20 s. (Đ)
+b) Tầm xa của gói hàng (tính theo phương ngang từ chỗ thả) là 4 km. (Đ)
+c) Khi gói hàng chạm đất, máy bay đang ở ngay phía trên gói hàng. (Đ)
+d) Tốc độ của gói hàng khi chạm đất là 200 m/s. (S)
+Lời giải: $v_0 = 200$ m/s; $t = \sqrt{\dfrac{2 \cdot 2000}{10}} = 20$ s; $L = 200 \cdot 20 = 4\,000$ m. Theo phương ngang gói hàng chuyển động đều cùng tốc độ với máy bay. Khi chạm đất: $v_y = gt = 200$ m/s nên $v = \sqrt{200^2 + 200^2} \approx 283$ m/s.
+
+Câu 2. Một quả bóng được đá từ mặt đất với tốc độ 10 m/s, hợp với phương ngang góc 45°. Lấy $g = 10$ m/s², bỏ qua sức cản của không khí.
+a) Thành phần vận tốc theo phương ngang của quả bóng không đổi trong suốt quá trình chuyển động. (Đ)
+b) Tại điểm cao nhất của quỹ đạo, vận tốc của quả bóng bằng 0. (S)
+c) Tầm xa của quả bóng là 10 m. (Đ)
+d) Độ cao cực đại của quả bóng là 5 m. (S)
+Lời giải: Tại điểm cao nhất chỉ có $v_y = 0$, còn $v_x = v_0\cos 45° \approx 7{,}1$ m/s. $L = \dfrac{10^2 \cdot \sin 90°}{10} = 10$ m; $H = \dfrac{10^2 \cdot 0{,}5}{2 \cdot 10} = 2{,}5$ m.
+
+PHẦN III. Câu trắc nghiệm trả lời ngắn
+Câu 1. Một vật được ném ngang từ độ cao 45 m. Lấy $g = 10$ m/s², bỏ qua sức cản của không khí. Thời gian rơi của vật là bao nhiêu giây?
+Đáp án: 3
+Lời giải: $t = \sqrt{\dfrac{2 \cdot 45}{10}} = 3$ s.
+
+Câu 2. Một viên bi được ném ngang từ độ cao 5 m với vận tốc đầu 8 m/s. Lấy $g = 10$ m/s², bỏ qua sức cản của không khí. Tầm xa của viên bi là bao nhiêu mét?
+Đáp án: 8
+Lời giải: $t = \sqrt{\dfrac{2 \cdot 5}{10}} = 1$ s; $L = 8 \cdot 1 = 8$ m.
+
+Câu 3. Một vật được ném xiên từ mặt đất với tốc độ 20 m/s, hợp với phương ngang góc 45°. Lấy $g = 10$ m/s², bỏ qua sức cản của không khí. Tầm xa của vật là bao nhiêu mét?
+Đáp án: 40
+Lời giải: $L = \dfrac{v_0^2 \sin 2\alpha}{g} = \dfrac{400 \cdot 1}{10} = 40$ m.

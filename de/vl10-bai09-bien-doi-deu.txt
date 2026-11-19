@@ -1,0 +1,87 @@
+VẬT LÍ 10 - CHƯƠNG II. ĐỘNG HỌC - BÀI 9. CHUYỂN ĐỘNG THẲNG BIẾN ĐỔI ĐỀU
+Đề luyện tập theo cấu trúc thi tốt nghiệp THPT (biên soạn: thầy Lâm Thế Phong, THPT An Thới)
+Thời gian: 20
+
+PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn
+Câu 1. Công thức vận tốc của chuyển động thẳng biến đổi đều là
+*A. $v = v_0 + at$.
+B. $v = v_0 + \dfrac{1}{2}at^2$.
+C. $v = v_0 t + \dfrac{1}{2}at^2$.
+D. $v = at^2$.
+
+Câu 2. Đồ thị vận tốc – thời gian của chuyển động thẳng biến đổi đều là
+*A. một đoạn thẳng xiên góc (không song song với trục thời gian).
+B. một đường parabol.
+C. một đoạn thẳng song song với trục thời gian.
+D. một đường tròn.
+Lời giải: $v = v_0 + at$ là hàm bậc nhất của $t$.
+
+Câu 3. Diện tích giới hạn bởi đồ thị vận tốc – thời gian và trục thời gian (trong một khoảng thời gian) cho biết
+*A. độ dịch chuyển của vật trong khoảng thời gian đó.
+B. gia tốc của vật.
+C. vận tốc ban đầu của vật.
+D. thời gian chuyển động của vật.
+
+Câu 4. Hệ thức liên hệ giữa vận tốc, gia tốc và độ dịch chuyển trong chuyển động thẳng biến đổi đều là
+*A. $v^2 - v_0^2 = 2ad$.
+B. $v - v_0 = 2ad$.
+C. $v^2 + v_0^2 = 2ad$.
+D. $v^2 - v_0^2 = ad$.
+
+Câu 5. Một ô tô bắt đầu chuyển động nhanh dần đều từ trạng thái đứng yên với gia tốc 2 m/s². Quãng đường ô tô đi được trong 5 s đầu là
+*A. 25 m.
+B. 10 m.
+C. 50 m.
+D. 5 m.
+Lời giải: $s = \dfrac{1}{2}at^2 = \dfrac{1}{2} \cdot 2 \cdot 5^2 = 25$ m.
+
+Câu 6. Một xe đang chạy với vận tốc 10 m/s thì hãm phanh, chuyển động chậm dần đều với gia tốc có độ lớn 2 m/s². Quãng đường xe đi được từ lúc hãm phanh đến khi dừng lại là
+A. 50 m.
+*B. 25 m.
+C. 5 m.
+D. 100 m.
+Lời giải: $0 - v_0^2 = 2ad \Rightarrow d = \dfrac{10^2}{2 \cdot 2} = 25$ m.
+
+Câu 7. Vận tốc của một vật chuyển động thẳng biến đổi đều là $v = 4 + 2t$ ($v$ tính bằng m/s, $t$ tính bằng s). Vận tốc ban đầu và gia tốc của vật lần lượt là
+*A. 4 m/s và 2 m/s².
+B. 2 m/s và 4 m/s².
+C. 4 m/s và 1 m/s².
+D. 4 m/s và 4 m/s².
+
+Câu 8. Đồ thị vận tốc – thời gian của một vật là đoạn thẳng đi từ điểm (0 s; 20 m/s) đến điểm (10 s; 0 m/s). Vật đang
+A. chuyển động nhanh dần đều với gia tốc 2 m/s².
+*B. chuyển động chậm dần đều với gia tốc −2 m/s².
+C. chuyển động thẳng đều với vận tốc 20 m/s.
+D. chuyển động chậm dần đều với gia tốc −20 m/s².
+Lời giải: $a = \dfrac{0 - 20}{10} = -2$ m/s²; vận tốc giảm đều nên vật chậm dần đều.
+
+PHẦN II. Câu trắc nghiệm đúng sai
+Câu 1. Một ô tô bắt đầu chuyển động thẳng nhanh dần đều từ trạng thái đứng yên, sau 10 s đạt vận tốc 20 m/s.
+a) Gia tốc của ô tô là 2 m/s². (Đ)
+b) Quãng đường ô tô đi được trong 10 s đầu là 200 m. (S)
+c) Vận tốc của ô tô sau 5 s là 10 m/s. (Đ)
+d) Quãng đường ô tô đi được trong giây thứ 10 là 19 m. (Đ)
+Lời giải: $a = 20/10 = 2$ m/s². $s_{10} = \dfrac{1}{2} \cdot 2 \cdot 10^2 = 100$ m; $s_9 = 81$ m nên quãng đường trong giây thứ 10 là $100 - 81 = 19$ m.
+
+Câu 2. Một xe chuyển động thẳng, không đổi chiều. Vận tốc của xe tại các thời điểm được ghi trong bảng:
+t (s): 0 | 2 | 4 | 6 | 8
+v (m/s): 4 | 8 | 12 | 12 | 0
+Biết trong mỗi giai đoạn 0 – 4 s, 4 – 6 s và 6 – 8 s, xe chuyển động thẳng đều hoặc thẳng biến đổi đều.
+a) Từ 0 đến 4 s, gia tốc của xe là 2 m/s². (Đ)
+b) Từ 4 s đến 6 s, xe đứng yên. (S)
+c) Từ 6 s đến 8 s, gia tốc của xe là −6 m/s². (Đ)
+d) Quãng đường xe đi được trong 8 s là 68 m. (Đ)
+Lời giải: Từ 4 s đến 6 s xe chuyển động thẳng đều với 12 m/s. Quãng đường bằng diện tích dưới đồ thị v–t: $\dfrac{(4 + 12) \cdot 4}{2} + 12 \cdot 2 + \dfrac{12 \cdot 2}{2} = 32 + 24 + 12 = 68$ m.
+
+PHẦN III. Câu trắc nghiệm trả lời ngắn
+Câu 1. Một vật chuyển động thẳng nhanh dần đều với vận tốc ban đầu 5 m/s và gia tốc 2 m/s². Quãng đường vật đi được trong 4 s đầu là bao nhiêu mét?
+Đáp án: 36
+Lời giải: $s = v_0 t + \dfrac{1}{2}at^2 = 5 \cdot 4 + \dfrac{1}{2} \cdot 2 \cdot 16 = 36$ m.
+
+Câu 2. Một ô tô đang chạy với tốc độ 72 km/h thì hãm phanh, chuyển động chậm dần đều và dừng lại sau khi đi thêm 40 m. Độ lớn gia tốc của ô tô là bao nhiêu m/s²?
+Đáp án: 5
+Lời giải: 72 km/h = 20 m/s; $|a| = \dfrac{v_0^2}{2d} = \dfrac{400}{80} = 5$ m/s².
+
+Câu 3. Một vật bắt đầu chuyển động nhanh dần đều từ trạng thái đứng yên với gia tốc 0,5 m/s². Khi đi được 100 m, vận tốc của vật là bao nhiêu m/s?
+Đáp án: 10
+Lời giải: $v = \sqrt{2ad} = \sqrt{2 \cdot 0{,}5 \cdot 100} = 10$ m/s.

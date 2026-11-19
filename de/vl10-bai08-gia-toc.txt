@@ -1,0 +1,84 @@
+VẬT LÍ 10 - CHƯƠNG II. ĐỘNG HỌC - BÀI 8. CHUYỂN ĐỘNG BIẾN ĐỔI. GIA TỐC
+Đề luyện tập theo cấu trúc thi tốt nghiệp THPT (biên soạn: thầy Lâm Thế Phong, THPT An Thới)
+Thời gian: 20
+
+PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn
+Câu 1. Gia tốc là đại lượng
+*A. đặc trưng cho sự biến thiên nhanh hay chậm của vận tốc.
+B. đặc trưng cho sự nhanh hay chậm của chuyển động.
+C. cho biết quãng đường vật đi được trong một đơn vị thời gian.
+D. cho biết hướng chuyển động của vật.
+
+Câu 2. Trong hệ SI, đơn vị của gia tốc là
+A. m/s.
+*B. m/s².
+C. km/h.
+D. m.s².
+
+Câu 3. Biểu thức tính gia tốc trung bình là
+*A. $a = \dfrac{\Delta v}{\Delta t}$.
+B. $a = \dfrac{\Delta t}{\Delta v}$.
+C. $a = \Delta v \cdot \Delta t$.
+D. $a = \dfrac{v}{t^2}$.
+
+Câu 4. Một ô tô tăng tốc từ trạng thái đứng yên lên 20 m/s trong 10 s. Gia tốc trung bình của ô tô là
+*A. 2 m/s².
+B. 200 m/s².
+C. 0,5 m/s².
+D. 20 m/s².
+Lời giải: $a = \dfrac{20 - 0}{10} = 2$ m/s².
+
+Câu 5. Một vật chuyển động thẳng nhanh dần khi
+*A. vectơ gia tốc cùng chiều với vectơ vận tốc.
+B. vectơ gia tốc ngược chiều với vectơ vận tốc.
+C. gia tốc bằng 0.
+D. vectơ gia tốc vuông góc với vectơ vận tốc.
+
+Câu 6. Một xe đang chạy thẳng với vận tốc 15 m/s thì hãm phanh, sau 5 s xe dừng lại. Chọn chiều dương là chiều chuyển động. Gia tốc trung bình của xe là
+*A. −3 m/s².
+B. 3 m/s².
+C. −75 m/s².
+D. 0,33 m/s².
+Lời giải: $a = \dfrac{0 - 15}{5} = -3$ m/s²; dấu trừ vì gia tốc ngược chiều chuyển động (xe chậm dần).
+
+Câu 7. Một xe giảm tốc từ 72 km/h xuống 36 km/h trong 4 s. Chọn chiều dương là chiều chuyển động. Gia tốc trung bình của xe là
+*A. −2,5 m/s².
+B. 2,5 m/s².
+C. −9 m/s².
+D. −10 m/s².
+Lời giải: 72 km/h = 20 m/s; 36 km/h = 10 m/s; $a = \dfrac{10 - 20}{4} = -2{,}5$ m/s².
+
+Câu 8. Phát biểu nào sau đây là sai?
+A. Gia tốc là một đại lượng vectơ.
+B. Khi gia tốc bằng 0 thì vận tốc của vật không đổi.
+C. Trên trục tọa độ, gia tốc có thể mang giá trị âm.
+*D. Vật có gia tốc lớn thì chắc chắn có vận tốc lớn.
+Lời giải: Gia tốc lớn chỉ cho biết vận tốc thay đổi nhanh, không cho biết vận tốc lớn hay nhỏ.
+
+PHẦN II. Câu trắc nghiệm đúng sai
+Câu 1. Một xe máy chuyển động thẳng, không đổi chiều. Tại thời điểm $t = 0$, vận tốc của xe là 5 m/s; tại thời điểm $t = 4$ s, vận tốc của xe là 13 m/s.
+a) Gia tốc trung bình của xe trong 4 s là 2 m/s². (Đ)
+b) Xe chuyển động chậm dần. (S)
+c) Độ biến thiên vận tốc của xe trong 4 s là 8 m/s. (Đ)
+d) Nếu xe giữ nguyên gia tốc đó thì sau thêm 2 s nữa, vận tốc của xe là 17 m/s. (Đ)
+Lời giải: $\Delta v = 13 - 5 = 8$ m/s; $a = 8/4 = 2$ m/s² > 0, cùng chiều vận tốc nên xe nhanh dần. Sau thêm 2 s: $v = 13 + 2 \cdot 2 = 17$ m/s.
+
+Câu 2. Một quả bóng bay theo phương ngang tới đập vào tường với tốc độ 10 m/s rồi bật ngược trở lại với tốc độ 8 m/s. Thời gian bóng tiếp xúc với tường là 0,05 s. Chọn chiều dương là chiều bóng bay tới tường.
+a) Vận tốc của bóng ngay sau khi bật ra là −8 m/s. (Đ)
+b) Độ biến thiên vận tốc của bóng là −2 m/s. (S)
+c) Gia tốc trung bình của bóng trong thời gian va chạm có độ lớn 360 m/s². (Đ)
+d) Gia tốc của bóng trong thời gian va chạm hướng ra xa tường. (Đ)
+Lời giải: $\Delta v = -8 - 10 = -18$ m/s; $a = \dfrac{-18}{0{,}05} = -360$ m/s²: độ lớn 360 m/s², hướng ngược chiều dương, tức là ra xa tường.
+
+PHẦN III. Câu trắc nghiệm trả lời ngắn
+Câu 1. Một ô tô tăng tốc đều từ 36 km/h lên 54 km/h trong 5 s. Gia tốc của ô tô là bao nhiêu m/s²?
+Đáp án: 1
+Lời giải: 36 km/h = 10 m/s; 54 km/h = 15 m/s; $a = \dfrac{15 - 10}{5} = 1$ m/s².
+
+Câu 2. Một đoàn tàu đang chạy với tốc độ 54 km/h thì hãm phanh, sau 30 s thì dừng lại. Độ lớn gia tốc trung bình của tàu là bao nhiêu m/s²?
+Đáp án: 0,5
+Lời giải: $|a| = \dfrac{15}{30} = 0{,}5$ m/s².
+
+Câu 3. Một vật chuyển động thẳng nhanh dần với gia tốc không đổi 0,5 m/s², vận tốc ban đầu 2 m/s. Sau bao nhiêu giây vận tốc của vật đạt 6 m/s?
+Đáp án: 8
+Lời giải: $\Delta t = \dfrac{6 - 2}{0{,}5} = 8$ s.
