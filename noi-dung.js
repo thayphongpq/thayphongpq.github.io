@@ -128,7 +128,12 @@ const BAI_HOC = [
 
   // ----- Bài học song ngữ theo lớp -----
 
-  { ten: "Chuyển động thẳng biến đổi đều", tenEn: "Uniformly accelerated linear motion", mon: "Vật lý", lop: "10", tep: "bai/vl10-chuyen-dong-bien-doi-deu.json", ngay: "2026-11-19" },
+  // Vật lý 10 – theo SGK Vật lí 10 (Kết nối tri thức, bộ thống nhất)
+  { ten: "Bài 4. Độ dịch chuyển và quãng đường đi được", tenEn: "Lesson 4. Displacement and distance travelled", mon: "Vật lý", lop: "10", chuong: "Chương II. Động học", soBai: 4, tep: "bai/vl10-b04-do-dich-chuyen.json", ngay: "2026-11-19" },
+  { ten: "Bài 5. Tốc độ và vận tốc", tenEn: "Lesson 5. Speed and velocity", mon: "Vật lý", lop: "10", chuong: "Chương II. Động học", soBai: 5, tep: "bai/vl10-b05-toc-do-van-toc.json", ngay: "2026-11-19" },
+  { ten: "Bài 7. Đồ thị độ dịch chuyển – thời gian", tenEn: "Lesson 7. Displacement–time graphs", mon: "Vật lý", lop: "10", chuong: "Chương II. Động học", soBai: 7, tep: "bai/vl10-b07-do-thi-dich-chuyen.json", ngay: "2026-11-19" },
+  { ten: "Bài 8. Chuyển động biến đổi. Gia tốc", tenEn: "Lesson 8. Non-uniform motion. Acceleration", mon: "Vật lý", lop: "10", chuong: "Chương II. Động học", soBai: 8, tep: "bai/vl10-b08-gia-toc.json", ngay: "2026-11-19" },
+  { ten: "Bài 9. Chuyển động thẳng biến đổi đều", tenEn: "Lesson 9. Uniformly accelerated linear motion", mon: "Vật lý", lop: "10", chuong: "Chương II. Động học", soBai: 9, tep: "bai/vl10-chuyen-dong-bien-doi-deu.json", ngay: "2026-11-19" },
   { ten: "Dao động điều hòa", tenEn: "Simple harmonic motion", mon: "Vật lý", lop: "11", tep: "bai/vl11-dao-dong-dieu-hoa.json", ngay: "2026-11-19" },
   { ten: "Khí lí tưởng và phương trình trạng thái", tenEn: "Ideal gases and the equation of state", mon: "Vật lý", lop: "12", tep: "bai/vl12-khi-li-tuong.json", ngay: "2026-11-19" },
   { ten: "Câu lệnh rẽ nhánh if trong Python", tenEn: "The if statement in Python", mon: "Tin học", lop: "10", soBai: 2, tep: "bai/tin10-cau-lenh-if.json", ngay: "2026-11-19" },
@@ -223,6 +228,19 @@ const TU_VUNG = [
   { en: "momentum", ipa: "/məˈmentəm/", vi: "động lượng", mon: "Vật lý", lop: "10", ghiChu: "$\\vec{p} = m\\vec{v}$" },
   { en: "centripetal acceleration", ipa: "/ˌsentrɪˈpiːtl əkˌseləˈreɪʃn/", vi: "gia tốc hướng tâm", mon: "Vật lý", lop: "10", ghiChu: "$a_{ht} = \\dfrac{v^2}{r} = \\omega^2 r$" },
   { en: "pressure", ipa: "/ˈpreʃə(r)/", vi: "áp suất", mon: "Vật lý", lop: "10", ghiChu: "$p = \\dfrac{F}{S}$" },
+  // Vật lý 10 – Chương II. Động học (SGK mới)
+  { en: "distance travelled", ipa: "/ˈdɪstəns ˈtrævld/", vi: "quãng đường đi được", mon: "Vật lý", lop: "10", ghiChu: "Luôn dương, không có hướng." },
+  { en: "frame of reference", ipa: "/freɪm əv ˈrefrəns/", vi: "hệ quy chiếu", mon: "Vật lý", lop: "10", ghiChu: "" },
+  { en: "coordinate system", ipa: "/kəʊˈɔːdɪnət ˈsɪstəm/", vi: "hệ tọa độ", mon: "Vật lý", lop: "10", ghiChu: "" },
+  { en: "average speed", ipa: "/ˈævərɪdʒ spiːd/", vi: "tốc độ trung bình", mon: "Vật lý", lop: "10", ghiChu: "$v_{tb} = \\dfrac{s}{t}$" },
+  { en: "instantaneous speed", ipa: "/ˌɪnstənˈteɪniəs spiːd/", vi: "tốc độ tức thời", mon: "Vật lý", lop: "10", ghiChu: "Số chỉ của tốc kế." },
+  { en: "relative velocity", ipa: "/ˈrelətɪv vəˈlɒsəti/", vi: "vận tốc tương đối", mon: "Vật lý", lop: "10", ghiChu: "$\\vec{v}_{1,3} = \\vec{v}_{1,2} + \\vec{v}_{2,3}$" },
+  { en: "uniform motion", ipa: "/ˈjuːnɪfɔːm ˈməʊʃn/", vi: "chuyển động đều", mon: "Vật lý", lop: "10", ghiChu: "Vận tốc không đổi: $d = vt$." },
+  { en: "gradient", ipa: "/ˈɡreɪdiənt/", vi: "độ dốc (của đồ thị)", mon: "Vật lý", lop: "10", ghiChu: "Độ dốc đồ thị $d$–$t$ là vận tốc." },
+  { en: "displacement–time graph", ipa: "/dɪsˈpleɪsmənt taɪm ɡrɑːf/", vi: "đồ thị độ dịch chuyển – thời gian", mon: "Vật lý", lop: "10", ghiChu: "" },
+  { en: "velocity–time graph", ipa: "/vəˈlɒsəti taɪm ɡrɑːf/", vi: "đồ thị vận tốc – thời gian", mon: "Vật lý", lop: "10", ghiChu: "Độ dốc = gia tốc; diện tích = độ dịch chuyển." },
+  { en: "uniformly accelerated motion", ipa: "/ˈjuːnɪfɔːmli əkˈseləreɪtɪd ˈməʊʃn/", vi: "chuyển động biến đổi đều", mon: "Vật lý", lop: "10", ghiChu: "$v = v_0 + at$" },
+  { en: "deceleration", ipa: "/ˌdiːseləˈreɪʃn/", vi: "sự giảm tốc (chậm dần)", mon: "Vật lý", lop: "10", ghiChu: "" },
 
   // ----- Vật lý 11 -----
   { en: "oscillation", ipa: "/ˌɒsɪˈleɪʃn/", vi: "dao động", mon: "Vật lý", lop: "11", ghiChu: "" },
