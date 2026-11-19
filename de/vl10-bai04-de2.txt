@@ -1,0 +1,168 @@
+VẬT LÍ 10 - CHƯƠNG II. ĐỘNG HỌC - BÀI 4. ĐỘ DỊCH CHUYỂN VÀ QUÃNG ĐƯỜNG ĐI ĐƯỢC - ĐỀ 2
+Đề kiểm tra theo cấu trúc thi tốt nghiệp THPT (biên soạn: thầy Lâm Thế Phong, THPT An Thới)
+Thời gian: 50
+
+PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn
+Câu 1. Khi vật chuyển động thì vị trí của vật so với vật được chọn làm mốc
+A. luôn không đổi.
+*B. thay đổi theo thời gian.
+C. chỉ thay đổi khi vật chuyển động thẳng.
+D. chỉ thay đổi khi vật chuyển động nhanh.
+
+Câu 2. Để xác định vị trí của một vật, người ta dùng
+A. đồng hồ đo thời gian.
+*B. hệ toạ độ có gốc là vị trí của vật mốc.
+C. cân và thước.
+D. nhiệt kế.
+
+Câu 3. Trong hệ toạ độ trùng với hệ toạ độ địa lí, trục hoành và trục tung lần lượt là đường nối hai hướng
+*A. tây – đông và bắc – nam.
+B. bắc – nam và tây – đông.
+C. đông – bắc và tây – nam.
+D. tây – bắc và đông – nam.
+
+Câu 4. Để xác định thời điểm, người ta phải
+A. chỉ cần có đồng hồ.
+*B. chọn một mốc thời gian, đo khoảng thời gian từ thời điểm được chọn làm mốc đến thời điểm cần xác định.
+C. chọn một vật làm mốc.
+D. đo quãng đường vật đi được.
+
+Câu 5. Trường hợp nào sau đây độ lớn của độ dịch chuyển bằng quãng đường đi được?
+*A. Một ô tô chạy thẳng từ A đến B, không quay đầu.
+B. Một người chạy ra cổng rồi quay về nhà.
+C. Một vận động viên chạy hai vòng sân.
+D. Một chiếc xe chạy lên dốc rồi lùi xuống.
+
+Câu 6. Trường hợp nào sau đây độ lớn của độ dịch chuyển nhỏ hơn quãng đường đi được?
+A. Hòn bi lăn thẳng trên mặt bàn, không đổi chiều.
+*B. Thang máy đi lên tầng 5 rồi đi xuống tầng 2.
+C. Viên đá rơi thẳng đứng từ trên cao xuống đất.
+D. Tàu hoả chạy trên đường ray thẳng từ ga A đến ga B.
+
+Câu 7. Kí hiệu của độ dịch chuyển là
+A. s.
+B. t.
+*C. $\vec{d}$.
+D. v.
+
+Câu 8. Một người nói: "Tôi đã đi được 2 km kể từ nhà." Thông tin này chưa đủ để xác định vị trí của người đó vì
+A. thiếu khối lượng của người.
+*B. chưa biết hướng của chuyển động.
+C. chưa biết người đó đi bộ hay đi xe.
+D. chưa biết nhiệt độ ngoài trời.
+
+Câu 9. Một vận động viên chạy đúng một vòng đường chạy dài 400 m và về đến vạch xuất phát. Quãng đường đi được và độ dịch chuyển lần lượt là
+A. 0 và 400 m.
+*B. 400 m và 0.
+C. 400 m và 400 m.
+D. 200 m và 0.
+
+Câu 10. Một người đi bộ đúng nửa vòng của một đường tròn có đường kính 100 m. Độ lớn độ dịch chuyển của người đó là
+A. 50 m.
+*B. 100 m.
+C. 157 m.
+D. 314 m.
+Lời giải: Vị trí đầu và vị trí cuối ở hai đầu một đường kính nên d = 100 m (quãng đường ≈ 157 m).
+
+Câu 11. Để tổng hợp các độ dịch chuyển của một chuyển động, người ta dùng
+A. phép cộng các quãng đường.
+*B. phép cộng vectơ.
+C. phép nhân các độ dịch chuyển.
+D. phép chia quãng đường cho thời gian.
+
+Câu 12. Một người đi 4 km theo hướng đông rồi quay lại đi 4 km theo hướng tây. Độ dịch chuyển của người đó là
+*A. 0.
+B. 4 km.
+C. 8 km.
+D. 16 km.
+
+Câu 13. Một bộ phim bắt đầu lúc 19 h 30 min và kéo dài 1 h 45 min. Bộ phim kết thúc lúc
+A. 20 h 15 min.
+*B. 21 h 15 min.
+C. 21 h 45 min.
+D. 20 h 45 min.
+
+Câu 14. Trên bản vẽ hệ toạ độ có tỉ lệ $\dfrac{1}{1000}$, điểm A có toạ độ thực x = 10 m; y = 20 m. Trên bản vẽ, điểm A cách trục Oy một đoạn
+*A. 1 cm.
+B. 2 cm.
+C. 10 cm.
+D. 20 cm.
+Lời giải: Khoảng cách từ A đến trục Oy bằng |x| = 10 m = 1000 cm; trên bản vẽ: 1000 : 1000 = 1 cm.
+
+Câu 15. Vẽ vectơ độ dịch chuyển với tỉ xích 1 cm ứng với 100 m. Mũi tên dài 3,5 cm biểu diễn độ dịch chuyển có độ lớn
+A. 35 m.
+*B. 350 m.
+C. 3500 m.
+D. 103,5 m.
+
+Câu 16. Một người đi 5 km theo hướng đông rồi đi tiếp 5 km theo hướng bắc. Hướng của độ dịch chuyển là
+A. hướng bắc.
+B. hướng đông.
+*C. hướng hợp với hướng đông một góc 45° về phía bắc (45° đông – bắc).
+D. hướng tây – nam.
+Lời giải: Hai cạnh góc vuông bằng nhau nên tam giác vuông cân, góc hợp với hướng đông là 45°.
+
+Câu 17. Hai bạn đi từ cùng một nhà đến cùng một trường theo hai con đường khác nhau. Đại lượng nào sau đây chắc chắn bằng nhau đối với hai bạn?
+A. Quãng đường đi được.
+B. Thời gian đi.
+*C. Độ dịch chuyển.
+D. Số lần rẽ.
+
+Câu 18. Trên trục Ox, một vật chuyển động thẳng từ vị trí x = 5 m đến vị trí x = −3 m. Độ dịch chuyển của vật là
+A. 8 m, theo chiều dương.
+*B. −8 m (độ lớn 8 m, ngược chiều dương).
+C. 2 m.
+D. −2 m.
+Lời giải: d = −3 − 5 = −8 m.
+
+PHẦN II. Câu trắc nghiệm đúng sai
+Câu 1. Một ô tô đi tới điểm O của một ngã tư với tốc độ không đổi 15 m/s và đi tiếp thêm 8 s.
+a) Quãng đường ô tô đi tiếp trong 8 s là 120 m. (Đ)
+b) Chỉ cần biết quãng đường 120 m là xác định được vị trí của ô tô sau 8 s. (S)
+c) Nếu ô tô đi thẳng theo hướng đông thì độ dịch chuyển là 120 m, hướng đông. (Đ)
+d) Nếu sau 8 s ô tô ở cách O 120 m về phía nam thì độ dịch chuyển có hướng bắc. (S)
+Lời giải: Chỉ biết quãng đường thì ô tô có thể ở bất kì nhánh nào của ngã tư; phải biết thêm hướng. Ô tô ở phía nam O thì độ dịch chuyển hướng nam.
+
+Câu 2. Một người lái ô tô đi thẳng 8 km theo hướng tây, rẽ trái đi thẳng 3 km theo hướng nam, rồi quay sang hướng đông đi 4 km.
+a) Quãng đường ô tô đi được là 15 km. (Đ)
+b) Độ lớn độ dịch chuyển của ô tô là 5 km. (Đ)
+c) Vị trí cuối của ô tô nằm về phía tây – nam so với vị trí xuất phát. (Đ)
+d) Độ lớn độ dịch chuyển bằng quãng đường đi được. (S)
+Lời giải: Chọn Ox hướng đông, Oy hướng bắc, gốc tại điểm xuất phát: vị trí cuối x = −8 + 4 = −4 km, y = −3 km. $d = \sqrt{4^2 + 3^2} = 5$ km.
+
+Câu 3. Một xe buýt chạy trên đường thẳng trùng trục Ox, từ bến A (x = 0) đến bến B (x = 12 km), rồi quay lại dừng ở điểm C (x = 5 km).
+a) Quãng đường xe đi được là 19 km. (Đ)
+b) Độ dịch chuyển của xe từ A đến C là 5 km. (Đ)
+c) Trên đoạn từ B đến C, độ dịch chuyển của xe là −7 km. (Đ)
+d) Trong cả chuyến đi, quãng đường bằng độ lớn của độ dịch chuyển. (S)
+Lời giải: s = 12 + 7 = 19 km; d = 5 − 0 = 5 km; $d_{BC}$ = 5 − 12 = −7 km. Xe đổi chiều nên s ≠ d.
+
+Câu 4. Về hệ quy chiếu và thời điểm:
+a) Hệ quy chiếu gồm hệ toạ độ kết hợp với mốc thời gian và đồng hồ đo thời gian. (Đ)
+b) Với cùng một sự kiện, nếu chọn mốc thời gian khác nhau thì số đo thời gian tính từ mốc đến sự kiện đó cũng khác nhau. (Đ)
+c) Chọn vật mốc đứng yên khác thì độ dịch chuyển của vật giữa hai vị trí xác định cũng thay đổi. (S)
+d) Chọn mốc thời gian lúc 7 h, sau khoảng thời gian 2,5 h thì thời điểm là 9 h 30 min. (Đ)
+Lời giải: Độ dịch chuyển chỉ phụ thuộc vị trí đầu và vị trí cuối, không phụ thuộc chọn gốc toạ độ (đứng yên). 7 h + 2,5 h = 9 h 30 min.
+
+PHẦN III. Câu trắc nghiệm trả lời ngắn
+Câu 1. Một vận động viên chạy 3 vòng trên đường chạy có chu vi 400 m và về đúng vạch xuất phát. Quãng đường vận động viên chạy được là bao nhiêu mét?
+Đáp án: 1200
+
+Câu 2. Một người bơi ngang từ bờ bên này sang bờ bên kia của một dòng sông rộng 60 m, theo hướng vuông góc với bờ. Do nước chảy, khi sang tới bờ bên kia người đó đã bị trôi xuôi theo dòng nước 80 m. Độ lớn độ dịch chuyển của người đó là bao nhiêu mét?
+Đáp án: 100
+Lời giải: $d = \sqrt{60^2 + 80^2} = 100$ m.
+
+Câu 3. Chọn mốc thời gian lúc 7 h 15 min. Một xe đến nơi lúc 9 h 45 min. Thời gian chuyển động của xe là bao nhiêu giờ?
+Đáp án: 2,5|2.5
+
+Câu 4. Một vật chuyển động thẳng trên trục Ox từ vị trí x = −4 m đến vị trí x = 6 m. Độ dịch chuyển của vật là bao nhiêu mét?
+Đáp án: 10
+Lời giải: d = 6 − (−4) = 10 m.
+
+Câu 5. Một ô tô chuyển động thẳng, không đổi chiều với tốc độ không đổi 72 km/h. Độ lớn độ dịch chuyển của ô tô sau 12 s là bao nhiêu mét?
+Đáp án: 240
+Lời giải: 72 km/h = 20 m/s; d = s = 20 . 12 = 240 m.
+
+Câu 6. Một người đi 6 km theo hướng bắc rồi đi 6 km theo hướng đông. Độ lớn độ dịch chuyển của người đó là bao nhiêu kilômét? (Làm tròn đến hàng phần mười.)
+Đáp án: 8,5|8.5
+Lời giải: $d = \sqrt{6^2 + 6^2} = 6\sqrt{2} \approx 8{,}5$ km.
