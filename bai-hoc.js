@@ -10,7 +10,9 @@
    }
    Nội dung viết như văn bản thường, các đoạn cách nhau một dòng trống:
      # Tiêu đề lớn, ## Tiêu đề nhỏ, - gạch đầu dòng, **chữ đậm**, `mã`,
-     công thức $...$ hoặc $$...$$, khối mã ```python ... ```, ảnh: dòng "Hình: link".
+     công thức $...$ hoặc $$...$$, khối mã ```python ... ```, ảnh: dòng "Hình: link | chú thích",
+     video YouTube: dòng "Video: link | chú thích", mô phỏng PhET: dòng "Mô phỏng: tên-mô-phỏng | chú thích"
+     (mỗi dòng này đứng riêng thành một đoạn; phần "| chú thích" có thể bỏ).
    Ở chế độ song ngữ, đoạn thứ n tiếng Việt đứng cạnh đoạn thứ n tiếng Anh,
    vì vậy hai bên nên có cùng số đoạn. */
 (function () {
@@ -43,6 +45,12 @@
     s = String(s || "").trim();
     return /^https?:\/\//i.test(s) || /^[\w./-]+$/.test(s) ? s : "";
   }
+  // Lấy mã video YouTube từ link (youtu.be/..., watch?v=..., embed/..., shorts/...) hoặc mã 11 kí tự.
+  function maYoutube(s) {
+    s = String(s || "").trim();
+    const m = s.match(/(?:youtu\.be\/|[?&]v=|\/embed\/|\/shorts\/)([\w-]{11})/) || s.match(/^([\w-]{11})$/);
+    return m ? m[1] : "";
+  }
   function veKhoi(k) {
     if (k.loai === "ma") return TN.khoiMa(k.lang, k.ma);
     const dau = k.dong[0].trim();
@@ -51,9 +59,26 @@
       const cap = m[1].length + 1;
       return "<h" + cap + ' class="bh-tieu-de">' + TN.dongChu(m[2]) + "</h" + cap + ">";
     }
-    if ((m = dau.match(/^h[ìi]nh\s*:\s*(\S+)/i)) && k.dong.length === 1) {
+    if ((m = dau.match(/^(?:h[ìi]nh|image)\s*:\s*(\S+)\s*(?:\|\s*(.*))?$/i)) && k.dong.length === 1) {
       const src = linkAnh(m[1]);
-      return src ? '<img class="bh-hinh" alt="Hình minh họa" src="' + esc(src) + '">' : "";
+      if (!src) return "";
+      const chu = (m[2] || "").trim();
+      return '<figure style="margin:8px 0 16px"><img class="bh-hinh" style="margin:0 auto 6px;background:#fff" loading="lazy" alt="' + esc(chu || "Hình minh họa") + '" src="' + esc(src) + '">' +
+        (chu ? '<figcaption class="phu" style="text-align:center;font-style:italic">' + TN.dongChu(chu) + "</figcaption>" : "") + "</figure>";
+    }
+    // Video: link YouTube (hoặc mã video 11 kí tự) | chú thích
+    if ((m = dau.match(/^video\s*:\s*(\S+)\s*(?:\|\s*(.*))?$/i)) && k.dong.length === 1) {
+      const id = maYoutube(m[1]);
+      if (!id) return "";
+      const chu = (m[2] || "").trim();
+      return '<figure style="margin:8px 0 16px"><div class="khung-phat"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/' + id + '?rel=0" title="' + esc(chu || "Video") + '" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>' +
+        (chu ? '<figcaption class="phu" style="text-align:center;font-style:italic;margin-top:6px">' + TN.dongChu(chu) + "</figcaption>" : "") + "</figure>";
+    }
+    // Mô phỏng: tên mô phỏng PhET (ví dụ vector-addition) | chú thích
+    if ((m = dau.match(/^(?:m[ôo]\s*ph[ỏo]ng|simulation)\s*:\s*([a-z0-9-]+)\s*(?:\|\s*(.*))?$/i)) && k.dong.length === 1) {
+      const ten = m[1].toLowerCase(), chu = (m[2] || "").trim();
+      return '<figure style="margin:8px 0 16px"><div class="khung-tn" style="margin:0"><iframe loading="lazy" src="https://phet.colorado.edu/sims/html/' + ten + "/latest/" + ten + '_vi.html" title="' + esc(chu || "Mô phỏng PhET") + '" allowfullscreen></iframe></div>' +
+        (chu ? '<figcaption class="phu" style="text-align:center;font-style:italic;margin-top:6px">' + TN.dongChu(chu) + "</figcaption>" : "") + "</figure>";
     }
     if (k.dong.every(function (d) { return /^\s*([-*]|\d+[.)])\s+/.test(d); })) {
       const so = /^\s*\d+[.)]/.test(dau);
