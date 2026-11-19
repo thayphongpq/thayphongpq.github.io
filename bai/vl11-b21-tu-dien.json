@@ -16,6 +16,6 @@
     { "en": "dielectric", "ipa": "/ˌdaɪɪˈlektrɪk/", "vi": "điện môi", "ghiChu": "" },
     { "en": "in series", "ipa": "/ɪn ˈsɪəriːz/", "vi": "(ghép) nối tiếp", "ghiChu": "" },
     { "en": "in parallel", "ipa": "/ɪn ˈpærəlel/", "vi": "(ghép) song song", "ghiChu": "" },
-    { "en": "breakdown voltage", "ipa": "/ˈbreɪkdaʊn ˈvəʊltɪdʒ/", "vi": "hiệu điện thế đánh thủng", "ghiChu": "" }
+    { "en": "maximum working voltage", "ipa": "/ˈmæksɪməm ˈwɜːkɪŋ ˈvəʊltɪdʒ/", "vi": "hiệu điện thế giới hạn", "ghiChu": "Vượt quá thì điện môi bị đánh thủng (breakdown)." }
   ]
 }
