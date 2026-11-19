@@ -883,8 +883,7 @@
     const v = dsVideo.filter(khop), t = dsTaiLieu.filter(khop), d = dsDe.filter(khop);
     const bh = dsBai.filter(function (x) { return khop(Object.assign({}, x, { chuDe: x.tenEn })); });
     const tv = TV.filter(function (x) {
-      const chu = boDau(x.en + " " + x.vi);
-      return tu.length > 0 && tu.every(function (t) { return chu.indexOf(t) >= 0; });
+      return tu.length > 0 && boDau(x.en + " " + x.vi).indexOf(cumTu(q)) >= 0;
     });
     const tong = v.length + t.length + d.length + bh.length + tv.length;
     return dauMuc('Kết quả cho "' + q + '"', tong + " kết quả") +
@@ -1006,11 +1005,13 @@
     if (e.target.id === "tim-tu") { locTuVung(e.target.value); return; }
     if (e.target.type === "text") ghiTraLoi(e);
   });
+  // Tìm thuật ngữ theo cả cụm từ (không dấu), ví dụ "gia toc" khớp "gia tốc" nhưng không khớp "giao thức".
+  function cumTu(q) { return boDau(q).trim().replace(/\s+/g, " "); }
   function locTuVung(q) {
-    const tu = boDau(q).split(/\s+/).filter(Boolean);
+    const cum = cumTu(q);
     let dem = 0;
     document.querySelectorAll("#tv-ds [data-tim]").forEach(function (o) {
-      const hien = tu.every(function (t) { return o.dataset.tim.indexOf(t) >= 0; });
+      const hien = o.dataset.tim.indexOf(cum) >= 0;
       o.hidden = !hien;
       if (hien) dem++;
     });
