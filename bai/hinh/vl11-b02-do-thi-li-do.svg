@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 320" font-family="Segoe UI, Arial, sans-serif">
+  <rect width="560" height="320" fill="#ffffff"/>
+  <defs>
+    <marker id="m" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#0f172a"/></marker>
+    <marker id="g" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#16a34a"/></marker>
+  </defs>
+  <!-- trục -->
+  <line x1="60" y1="160" x2="530" y2="160" stroke="#0f172a" stroke-width="2" marker-end="url(#m)"/>
+  <line x1="60" y1="290" x2="60" y2="25" stroke="#0f172a" stroke-width="2" marker-end="url(#m)"/>
+  <text x="518" y="185" font-size="20" font-style="italic" fill="#0f172a">t</text>
+  <text x="70" y="32" font-size="20" font-style="italic" fill="#0f172a">x</text>
+  <text x="48" y="178" text-anchor="end" font-size="18" fill="#0f172a">O</text>
+  <!-- A và -A -->
+  <line x1="56" y1="60" x2="500" y2="60" stroke="#cbd5e1" stroke-width="1.5" stroke-dasharray="5 5"/>
+  <line x1="56" y1="260" x2="500" y2="260" stroke="#cbd5e1" stroke-width="1.5" stroke-dasharray="5 5"/>
+  <text x="48" y="66" text-anchor="end" font-size="19" fill="#dc2626">A</text>
+  <text x="48" y="266" text-anchor="end" font-size="19" fill="#dc2626">−A</text>
+  <!-- đường cos: x = A cos(2πt/T), T = 200 px, bắt đầu x=60 -->
+  <path d="M60,60 C100,60 110,160 110,160 S120,260 160,260 S210,260 210,160 S220,60 260,60 S310,60 310,160 S320,260 360,260 S410,260 410,160 S420,60 460,60" fill="none" stroke="#2563eb" stroke-width="3.5"/>
+  <!-- chu kì T -->
+  <line x1="60" y1="40" x2="260" y2="40" stroke="#16a34a" stroke-width="2.5" marker-start="url(#g)" marker-end="url(#g)"/>
+  <text x="160" y="32" text-anchor="middle" font-size="20" font-weight="700" fill="#16a34a">T</text>
+  <line x1="260" y1="40" x2="260" y2="60" stroke="#16a34a" stroke-width="1.5" stroke-dasharray="3 3"/>
+  <!-- biên độ A -->
+  <line x1="472" y1="160" x2="472" y2="64" stroke="#dc2626" stroke-width="2.5" marker-end="url(#m)"/>
+  <text x="482" y="118" font-size="20" font-weight="700" fill="#dc2626">A</text>
+  <text x="290" y="312" text-anchor="middle" font-size="16" fill="#475569">x = A cos(ωt + φ), ở đây φ = 0 (here φ = 0)</text>
+</svg>

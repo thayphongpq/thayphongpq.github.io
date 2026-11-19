@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 300" font-family="Segoe UI, Arial, sans-serif">
+  <rect width="560" height="300" fill="#ffffff"/>
+  <defs>
+    <marker id="m" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#0f172a"/></marker>
+    <marker id="r" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#dc2626"/></marker>
+  </defs>
+  <!-- tường và mặt sàn -->
+  <rect x="30" y="70" width="16" height="110" fill="#94a3b8"/>
+  <line x1="46" y1="180" x2="540" y2="180" stroke="#64748b" stroke-width="3"/>
+  <!-- lò xo -->
+  <polyline points="46,140 70,140 80,122 100,158 120,122 140,158 160,122 180,158 200,122 220,158 240,122 250,140 262,140" fill="none" stroke="#2563eb" stroke-width="3"/>
+  <!-- vật nặng tại vị trí cân bằng -->
+  <rect x="262" y="110" width="56" height="70" rx="6" fill="#f59e0b" stroke="#b45309" stroke-width="2"/>
+  <text x="290" y="152" text-anchor="middle" font-size="20" font-weight="700" fill="#ffffff">m</text>
+  <!-- vị trí biên (mờ) -->
+  <rect x="152" y="110" width="56" height="70" rx="6" fill="none" stroke="#b45309" stroke-width="2" stroke-dasharray="6 5"/>
+  <rect x="372" y="110" width="56" height="70" rx="6" fill="none" stroke="#b45309" stroke-width="2" stroke-dasharray="6 5"/>
+  <!-- trục Ox -->
+  <line x1="120" y1="230" x2="500" y2="230" stroke="#0f172a" stroke-width="2" marker-end="url(#m)"/>
+  <text x="508" y="236" font-size="20" font-style="italic" fill="#0f172a">x</text>
+  <line x1="180" y1="222" x2="180" y2="238" stroke="#0f172a" stroke-width="2"/>
+  <line x1="290" y1="222" x2="290" y2="238" stroke="#0f172a" stroke-width="2"/>
+  <line x1="400" y1="222" x2="400" y2="238" stroke="#0f172a" stroke-width="2"/>
+  <text x="180" y="262" text-anchor="middle" font-size="19" fill="#0f172a">−A</text>
+  <text x="290" y="262" text-anchor="middle" font-size="19" font-weight="700" fill="#0f172a">O</text>
+  <text x="400" y="262" text-anchor="middle" font-size="19" fill="#0f172a">+A</text>
+  <line x1="180" y1="188" x2="180" y2="222" stroke="#cbd5e1" stroke-width="1.5" stroke-dasharray="4 4"/>
+  <line x1="290" y1="188" x2="290" y2="222" stroke="#cbd5e1" stroke-width="1.5" stroke-dasharray="4 4"/>
+  <line x1="400" y1="188" x2="400" y2="222" stroke="#cbd5e1" stroke-width="1.5" stroke-dasharray="4 4"/>
+  <!-- li độ x -->
+  <line x1="290" y1="88" x2="396" y2="88" stroke="#dc2626" stroke-width="3" marker-end="url(#r)"/>
+  <text x="343" y="78" text-anchor="middle" font-size="19" font-style="italic" font-weight="700" fill="#dc2626">x</text>
+  <text x="280" y="40" text-anchor="middle" font-size="18" fill="#475569">O: vị trí cân bằng (equilibrium position)</text>
+  <text x="280" y="290" text-anchor="middle" font-size="16" fill="#475569">−A, +A: hai vị trí biên (extreme positions)</text>
+</svg>
