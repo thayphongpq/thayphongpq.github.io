@@ -65,17 +65,21 @@
   }
   function khoiHTML(text) { return tachKhoi(text).map(veKhoi); }
 
+  function nutNghe(chu) {
+    return '<button type="button" class="bh-nghe" data-doc="' + esc(chu) + '" aria-label="Nghe phát âm ' + esc(chu) + '" title="Nghe phát âm">' +
+      '<svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><path fill="currentColor" d="M3 9v6h4l5 4V5L7 9H3zm13.5 3a4.5 4.5 0 0 0-2.5-4v8a4.5 4.5 0 0 0 2.5-4zM14 3.2v2.1a7 7 0 0 1 0 13.4v2.1a9 9 0 0 0 0-17.6z"/></svg></button>';
+  }
+  // Một thẻ thuật ngữ. lop, them: lớp CSS và phần HTML thêm vào cuối thẻ (dùng ở trang Học song ngữ).
+  function theThuatNgu(t, lop, them) {
+    return '<article class="bh-the' + (lop ? " " + lop : "") + '" lang="en"><div class="bh-the__dau"><b>' + esc(t.en) + "</b>" + nutNghe(t.en) + "</div>" +
+      (t.ipa ? '<div class="bh-ipa">' + esc(t.ipa) + "</div>" : "") +
+      (t.vi ? '<div class="bh-nghia" lang="vi">' + esc(t.vi) + "</div>" : "") +
+      (t.ghiChu ? '<div class="bh-ghi-chu" lang="vi">' + TN.dongChu(t.ghiChu) + "</div>" : "") + (them || "") + "</article>";
+  }
   function thuatNguHTML(ds) {
     ds = (ds || []).filter(function (t) { return t && t.en; });
     if (!ds.length) return "";
-    return '<section class="bh-thuat-ngu"><h2>Thuật ngữ / Glossary</h2><div class="bh-the-ds">' + ds.map(function (t) {
-      return '<article class="bh-the" lang="en"><div class="bh-the__dau"><b>' + esc(t.en) + "</b>" +
-        '<button type="button" class="bh-nghe" data-doc="' + esc(t.en) + '" aria-label="Nghe phát âm ' + esc(t.en) + '" title="Nghe phát âm">' +
-        '<svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><path fill="currentColor" d="M3 9v6h4l5 4V5L7 9H3zm13.5 3a4.5 4.5 0 0 0-2.5-4v8a4.5 4.5 0 0 0 2.5-4zM14 3.2v2.1a7 7 0 0 1 0 13.4v2.1a9 9 0 0 0 0-17.6z"/></svg></button></div>' +
-        (t.ipa ? '<div class="bh-ipa">' + esc(t.ipa) + "</div>" : "") +
-        (t.vi ? '<div class="bh-nghia" lang="vi">' + esc(t.vi) + "</div>" : "") +
-        (t.ghiChu ? '<div class="bh-ghi-chu" lang="vi">' + TN.dongChu(t.ghiChu) + "</div>" : "") + "</article>";
-    }).join("") + "</div></section>";
+    return '<section class="bh-thuat-ngu"><h2>Thuật ngữ / Glossary</h2><div class="bh-the-ds">' + ds.map(function (t) { return theThuatNgu(t); }).join("") + "</div></section>";
   }
 
   // Vẽ bài học theo chế độ: "vi" (Tiếng Việt), "en" (English), "song" (song ngữ song song).
@@ -137,5 +141,5 @@
     return loi;
   }
 
-  window.BaiHoc = { ve: ve, nutCheDo: nutCheDo, docCheDo: docCheDo, ghiCheDo: ghiCheDo, phatAm: phatAm, coPhatAm: coPhatAm, kiemTra: kiemTra, tachKhoi: tachKhoi };
+  window.BaiHoc = { ve: ve, theThuatNgu: theThuatNgu, nutCheDo: nutCheDo, docCheDo: docCheDo, ghiCheDo: ghiCheDo, phatAm: phatAm, coPhatAm: coPhatAm, kiemTra: kiemTra, tachKhoi: tachKhoi };
 })();

@@ -301,10 +301,35 @@ pre.ma[data-lang]::before { content: attr(data-lang); position: absolute; top: 6
 .thap--qua { color: #fff; }
 .thap--dang { background: #f0703f; color: #fff !important; font-weight: 700; }
 
+/* Bài trước / bài tiếp theo dưới video */
+.bai-ke { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin-top: 18px; }
+.bai-ke__muc { display: flex; flex-direction: column; gap: 4px; text-decoration: none; background: var(--trang); border: 1px solid var(--vien); border-radius: 10px; padding: 12px 16px; }
+.bai-ke__muc:hover { border-color: var(--muc); }
+.bai-ke__muc b { font-weight: 600; }
+.bai-ke__muc--sau { grid-column: 2; text-align: right; }
+
+/* Học song ngữ, từ điển thuật ngữ */
+.song-ngu-gt { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 12px 24px; background: var(--trang); border: 1px solid var(--vien); border-left: 6px solid var(--tin); border-radius: 12px; padding: 18px 20px; }
+.song-ngu-gt p { margin: 0; color: var(--mo); max-width: 44em; }
+.song-ngu-gt .nut { margin-top: 0; }
+.tv-cong-cu { display: flex; flex-wrap: wrap; align-items: center; gap: 10px; margin-bottom: 14px; }
+.tv-cong-cu input { flex: 1 1 220px; min-width: 0; font: inherit; font-size: 15px; padding: 8px 12px; border: 1px solid var(--vien); border-radius: 8px; background: var(--trang); color: inherit; }
+.tv-dem { font-size: 14px; color: var(--mo); }
+.tv-the { border-top-color: var(--mau); }
+.tv-nhan { margin-top: 8px; font-size: 12px; font-weight: 700; letter-spacing: 0.04em; text-transform: uppercase; color: var(--mau); }
+.tv-ds--an .bh-the { cursor: pointer; }
+.tv-ds--an .bh-nghia, .tv-ds--an .bh-ghi-chu { visibility: hidden; }
+.tv-ds--an .bh-the--lo .bh-nghia, .tv-ds--an .bh-the--lo .bh-ghi-chu { visibility: visible; }
+.lien-he__mail { margin-top: 12px; }
+
 @media (max-width: 760px) {
   .dau-trang { position: static; }
   .dau-trang__hang { flex-wrap: wrap; gap: 8px; }
   .tim { flex: 1 1 100%; }
+  .menu { flex-wrap: wrap; overflow: visible; gap: 0 2px; }
+  .menu a { padding: 7px 9px; font-size: 14.5px; }
+  .bai-ke { grid-template-columns: 1fr; }
+  .bai-ke__muc--sau { grid-column: auto; }
   .mo-dau { grid-template-columns: 1fr; gap: 16px; }
   .ba-cua, .thu-muc, .thu-muc--ba, .hai-o, .tro-choi, .tc-lc { grid-template-columns: 1fr; }
   .tro-choi__thap { order: -1; }

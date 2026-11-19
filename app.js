@@ -15,6 +15,7 @@
   const DE = typeof DE_THI === "undefined" ? [] : DE_THI;
   const LK = typeof LIEN_KET === "undefined" ? [] : LIEN_KET;
   const BH = typeof BAI_HOC === "undefined" ? [] : BAI_HOC;
+  const TV = (typeof TU_VUNG === "undefined" ? [] : TU_VUNG).filter(function (t) { return t && t.en; });
   const TN = window.TracNghiem;
 
   /* ----- Tiện ích ----- */
@@ -93,13 +94,36 @@
       '<span class="ds__ten"><b>' + esc(b.ten) + '</b><span class="phu">' + esc(b.mon) + " · " + esc(tenLop(b)) + (b.tenEn ? " · " + esc(b.tenEn) : "") + "</span></span>" +
       (b.tep ? '<a class="ds__mo" href="#/bai/' + esc(b.slug) + '">Đọc bài ›</a>' : '<span class="sap-co">Sắp có</span>') + "</li>";
   }
-  function veLaiBai(b) { return b.lop === "HSG" ? "#/hsg/" + capCua(b).toLowerCase() : "#/" + duongMon(b.mon) + "/" + b.lop; }
+  function veLaiBai() { return "#/song-ngu"; }
+
+  /* ----- Trang Học song ngữ: bài học song ngữ + từ điển thuật ngữ ----- */
+  function theTu(t) {
+    return window.BaiHoc.theThuatNgu(t, "tv-the " + mauMon(t.mon, t.lop), '<div class="tv-nhan" lang="vi">' + esc(t.mon + " " + t.lop) + "</div>");
+  }
+  function luoiTu(ds) {
+    return '<div class="bh-the-ds" id="tv-ds">' + ds.map(function (t) {
+      return theTu(t).replace("<article ", '<article data-tim="' + esc(boDau(t.en + " " + t.vi)) + '" ');
+    }).join("") + "</div>";
+  }
+  function trangSongNgu() {
+    document.title = "Học song ngữ - " + THONG_TIN.tenTrang;
+    const hop = function (x) { return (!boLoc.mon || x.mon === boLoc.mon) && (!boLoc.lop || x.lop === boLoc.lop); };
+    const bai = dsBai.filter(hop), tu = TV.filter(hop);
+    return dauMuc("Học song ngữ Việt – Anh", "Học Vật lý và Tin học bằng hai ngôn ngữ: đọc bài ở chế độ Tiếng Việt, English hoặc Song ngữ; tra thuật ngữ và bấm loa để nghe phát âm.") +
+      '<div class="loc">' + hangLoc("Môn", "mon", ["Vật lý", "Tin học"]) + hangLoc("Lớp", "lop", ["10", "11", "12"]) + "</div>" +
+      khoi("Bài học song ngữ", bai.length ? '<ul class="ds">' + bai.map(dongBai).join("") + "</ul>" : '<div class="trong">Bài học song ngữ ở mục này đang được biên soạn, sắp có.</div>') +
+      khoi("Từ điển thuật ngữ Lý – Tin", tu.length
+        ? '<div class="tv-cong-cu"><input type="search" id="tim-tu" placeholder="Tìm thuật ngữ (tiếng Việt hoặc tiếng Anh)…" aria-label="Tìm thuật ngữ">' +
+          '<button type="button" class="chip" id="nut-an-nghia" aria-pressed="false">Tự kiểm tra: che nghĩa</button>' +
+          '<span class="tv-dem" id="tv-dem">' + tu.length + " thuật ngữ</span></div>" + luoiTu(tu)
+        : '<div class="trong">Chưa có thuật ngữ ở mục này.</div>', "", "", "tu-dien");
+  }
   let baiDangDoc = null;
   function trangBai(slug) {
     const b = dsBai.find(function (x) { return x.slug === slug && x.tep; });
     if (!b) return khongThay();
     document.title = b.ten + " - " + THONG_TIN.tenTrang;
-    return '<a class="quay-lai" href="' + veLaiBai(b) + '">‹ Quay lại</a><div id="bai-hoc" data-slug="' + esc(slug) + '"><p class="phu">Đang tải bài học…</p></div>';
+    return '<a class="quay-lai" href="' + veLaiBai(b) + '">‹ Học song ngữ</a><div id="bai-hoc" data-slug="' + esc(slug) + '"><p class="phu">Đang tải bài học…</p></div>';
   }
   function moBai(slug) {
     const b = dsBai.find(function (x) { return x.slug === slug && x.tep; });
@@ -194,6 +218,9 @@
       cua("mau-tin", "Tin học", "#/tin-hoc", "Lập trình Python, cơ sở dữ liệu, tin học ứng dụng; trắc nghiệm online và thi thử.") +
       '<article class="cua mau-hsg"><h2><a href="#/hsg">Ôn thi HSG</a></h2><p>Video chuyên đề, tài liệu và đề thi học sinh giỏi cấp THCS và THPT.</p>' +
       '<div class="cua__lop"><a href="#/hsg/thcs">HSG THCS</a><a href="#/hsg/thpt">HSG THPT</a></div></article></section>' +
+      khoi("Học song ngữ Việt – Anh", '<div class="song-ngu-gt"><p>Đọc bài Vật lý, Tin học bằng tiếng Việt, tiếng Anh hoặc song ngữ. Tra ' + TV.length +
+        " thuật ngữ Lý – Tin, bấm loa nghe phát âm và tự kiểm tra từ vựng.</p>" +
+        '<a class="nut" href="#/song-ngu">Vào học song ngữ ›</a></div>') +
       khoi("Thi thử tốt nghiệp THPT", '<div class="thi-thu-mon"><a class="nut nut--phu" href="#/vat-ly/12">Vật lý 12 ›</a><a class="nut nut--phu" href="#/tin-hoc/12">Tin học 12 ›</a></div>' +
         dsDeHTML(dsDe.filter(laThiThu).slice(0, 5), "Đề thi thử đang được biên soạn, sắp có."), "", "", "thi-thu") +
       khoi("Video mới đăng", luoiVideo(dsVideo.slice(0, 4)), "#/video", "Xem tất cả") +
@@ -799,8 +826,10 @@
     const video = dsVideo.filter(hop).sort(theoThuTuHoc);
     const playlist = linkAnToan(tm.playlist);
     const khac = cap === "THCS" ? "THPT" : "THCS";
+    // Chỉ hiện bộ lọc Môn khi thư mục có cả bài Vật lý và Tin học.
+    const coHaiMon = duyNhat(dsVideo.concat(dsTaiLieu).filter(laHSG(cap)), "mon").length > 1;
     return '<a class="quay-lai" href="#/hsg">‹ Ôn thi HSG</a>' + dauMuc(tm.ten, tm.moTa) +
-      '<div class="loc">' + hangLoc("Môn", "mon", ["Vật lý", "Tin học"]) + "</div>" +
+      (coHaiMon ? '<div class="loc">' + hangLoc("Môn", "mon", ["Vật lý", "Tin học"]) + "</div>" : "") +
       khoi("Video bài giảng", luoiVideo(video), playlist, "Xem trên YouTube ↗") +
       khoi("Chuyên đề và đề thi", (tatCa.length ? '<div class="loc">' + hangLoc("Loại", "loai", duyNhat(tatCa, "loai")) + "</div>" : "") + dsTL(tl)) +
       '<a class="nut" href="#/hsg/' + khac.toLowerCase() + '">Sang thư mục ' + esc(THU_MUC[khac].ten) + " ›</a>";
@@ -827,14 +856,22 @@
     const cungNhom = v.lop === "HSG"
       ? function (x) { return laHSG(capCua(v))(x); }
       : function (x) { return x.mon === v.mon && x.lop === v.lop; };
-    const lienQuan = dsVideo.filter(function (x) { return x !== v && x.id && cungNhom(x); }).sort(v.lop === "HSG" ? theoThuTuHoc : theoNgay).slice(0, 8);
+    // Bài trước / bài tiếp theo theo thứ tự học trong cùng thư mục (hoặc cùng khối lớp).
+    const nhom = dsVideo.filter(function (x) { return x.id && (x === v || cungNhom(x)); }).sort(theoThuTuHoc);
+    const vt = nhom.indexOf(v), truoc = nhom[vt - 1], sau = nhom[vt + 1];
+    const keTiep = truoc || sau ? '<nav class="bai-ke" aria-label="Chuyển bài">' +
+      (truoc ? '<a class="bai-ke__muc" href="#/video/' + esc(truoc.slug) + '"><span class="phu">‹ Bài trước</span><b>' + esc(truoc.ten) + "</b></a>" : "") +
+      (sau ? '<a class="bai-ke__muc bai-ke__muc--sau" href="#/video/' + esc(sau.slug) + '"><span class="phu">Bài tiếp theo ›</span><b>' + esc(sau.ten) + "</b></a>" : "") + "</nav>" : "";
+    const cungCD = v.chuDe ? nhom.filter(function (x) { return x !== v && x.chuDe === v.chuDe; }) : [];
+    const lienQuan = cungCD.length ? cungCD : dsVideo.filter(function (x) { return x !== v && x.id && cungNhom(x); }).sort(v.lop === "HSG" ? theoThuTuHoc : theoNgay).slice(0, 8);
+    const tenLienQuan = cungCD.length ? "Cùng " + v.chuDe.split(" - ")[0].split(".")[0] : v.lop === "HSG" ? "Cùng thư mục " + THU_MUC[capCua(v)].ten : "Video cùng khối";
     const veLai = v.lop === "HSG" ? ["#/hsg/" + capCua(v).toLowerCase(), "Thư mục " + THU_MUC[capCua(v)].ten] : ["#/video", "Tất cả video"];
     return '<div class="xem"><a class="quay-lai" href="' + veLai[0] + '">‹ ' + esc(veLai[1]) + '</a><div class="khung-phat">' +
       '<iframe src="https://www.youtube-nocookie.com/embed/' + v.id + '?rel=0" title="' + esc(v.ten) + '" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>' +
       "<h1>" + esc(v.ten) + '</h1><div class="phu">' + esc(v.mon) + " · " + esc(tenLop(v)) + (v.chuDe ? " · " + esc(v.chuDe) : "") + "</div>" +
       (v.moTa ? '<p class="xem__mota">' + esc(v.moTa) + "</p>" : "") +
-      (taiLieu ? '<a class="nut" target="_blank" rel="noopener" href="' + esc(taiLieu) + '">Tải tài liệu kèm theo ↗</a>' : "") + "</div>" +
-      (lienQuan.length ? '<div style="height:32px"></div>' + khoi(v.lop === "HSG" ? "Cùng thư mục " + THU_MUC[capCua(v)].ten : "Video cùng khối", luoiVideo(lienQuan)) : "");
+      (taiLieu ? '<a class="nut" target="_blank" rel="noopener" href="' + esc(taiLieu) + '">Tải tài liệu kèm theo ↗</a>' : "") + keTiep + "</div>" +
+      (lienQuan.length ? '<div style="height:32px"></div>' + khoi(tenLienQuan, luoiVideo(lienQuan), veLai[0], esc(veLai[1]) + " ›") : "");
   }
   function timKiem(q) {
     document.title = "Tìm kiếm - " + THONG_TIN.tenTrang;
@@ -845,8 +882,13 @@
     };
     const v = dsVideo.filter(khop), t = dsTaiLieu.filter(khop), d = dsDe.filter(khop);
     const bh = dsBai.filter(function (x) { return khop(Object.assign({}, x, { chuDe: x.tenEn })); });
-    const tong = v.length + t.length + d.length + bh.length;
+    const tv = TV.filter(function (x) {
+      const chu = boDau(x.en + " " + x.vi);
+      return tu.length > 0 && tu.every(function (t) { return chu.indexOf(t) >= 0; });
+    });
+    const tong = v.length + t.length + d.length + bh.length + tv.length;
     return dauMuc('Kết quả cho "' + q + '"', tong + " kết quả") +
+      (tv.length ? khoi("Thuật ngữ Việt – Anh", '<div class="bh-the-ds">' + tv.slice(0, 12).map(theTu).join("") + "</div>", "#/song-ngu", "Từ điển thuật ngữ ›") : "") +
       (bh.length ? khoi("Bài học", '<ul class="ds">' + bh.map(dongBai).join("") + "</ul>") : "") +
       (d.length ? khoi("Trắc nghiệm online", dsDeHTML(d)) : "") +
       (v.length ? khoi("Video", luoiVideo(v)) : "") + (t.length ? khoi("Tài liệu", dsTL(t)) : "") +
@@ -863,7 +905,12 @@
       ["Email", mail ? "mailto:" + mail : ""]
     ].filter(function (x) { return x[1]; });
     return dauMuc("Liên hệ", THONG_TIN.giaoVien + " · " + THONG_TIN.truong) + "<p>" + esc(THONG_TIN.gioiThieu) + "</p>" +
-      (ds.length ? '<div class="lien-he">' + ds.map(function (x) { return '<a class="nut" style="margin:0" target="_blank" rel="noopener" href="' + esc(x[1]) + '">' + x[0] + "</a>"; }).join("") + "</div>" : "") +
+      (mail ? '<p class="lien-he__mail">Em có thắc mắc hoặc muốn gửi bài cho thầy, hãy viết email về địa chỉ <a href="mailto:' + esc(mail) + '"><b>' + esc(mail) + "</b></a>. " +
+        'Câu hỏi về bài học, em cũng có thể gửi ở mục <a href="#/hoi-dap">Hỏi – Đáp</a>.</p>' : "") +
+      (ds.length ? '<div class="lien-he">' + ds.map(function (x) {
+        const thu = x[1].indexOf("mailto:") === 0;
+        return '<a class="nut" style="margin:0"' + (thu ? "" : ' target="_blank" rel="noopener"') + ' href="' + esc(x[1]) + '">' + x[0] + "</a>";
+      }).join("") + "</div>" : "") +
       '<div style="height:32px"></div>' + lienKetHTML();
   }
   function khongThay() {
@@ -892,6 +939,7 @@
     if (ten === "bai") return trangBai(phu);
     if (ten === "tro-choi") return trangTroChoi(phu);
     if (ten === "doc") return docTaiLieu(phu);
+    if (ten === "song-ngu") return trangSongNgu();
     return khongThay();
   }
   function hienThi() {
@@ -905,7 +953,7 @@
     let ten = d[0];
     if (ten === "lam-bai" || ten === "doc" || ten === "bai") {
       const x = (ten === "lam-bai" ? dsDe : ten === "bai" ? dsBai : dsTaiLieu).find(function (y) { return y.slug === d[1]; });
-      ten = !x ? "" : x.lop === "HSG" ? "hsg" : duongMon(x.mon);
+      ten = !x ? "" : d[0] === "bai" ? "song-ngu" : x.lop === "HSG" ? "hsg" : duongMon(x.mon);
     }
     document.querySelectorAll(".menu a").forEach(function (a) {
       if (a.dataset.trang === ten) a.setAttribute("aria-current", "page");
@@ -914,6 +962,10 @@
     if (d[0] === "lam-bai" && hop()) moDe(d[1]);
     if (d[0] === "bai" && document.getElementById("bai-hoc")) moBai(d[1]);
     if (d[0] === "tro-choi" && d[1] && document.getElementById("tro-choi")) moTroChoi(d[1]);
+    if (d[0] === "song-ngu" || d[0] === "tim") {
+      toan(app);
+      if (!window.BaiHoc.coPhatAm()) app.querySelectorAll(".bh-nghe").forEach(function (n) { n.hidden = true; });
+    }
     if (d[0] === "hoi-dap") {
       const f = document.getElementById("form-hoi");
       if (f) f.addEventListener("submit", guiCauHoi);
@@ -950,7 +1002,21 @@
     demDaLam();
   }
   app.addEventListener("change", ghiTraLoi);
-  app.addEventListener("input", function (e) { if (e.target.type === "text") ghiTraLoi(e); });
+  app.addEventListener("input", function (e) {
+    if (e.target.id === "tim-tu") { locTuVung(e.target.value); return; }
+    if (e.target.type === "text") ghiTraLoi(e);
+  });
+  function locTuVung(q) {
+    const tu = boDau(q).split(/\s+/).filter(Boolean);
+    let dem = 0;
+    document.querySelectorAll("#tv-ds [data-tim]").forEach(function (o) {
+      const hien = tu.every(function (t) { return o.dataset.tim.indexOf(t) >= 0; });
+      o.hidden = !hien;
+      if (hien) dem++;
+    });
+    const o = document.getElementById("tv-dem");
+    if (o) o.textContent = dem ? dem + " thuật ngữ" : "Không tìm thấy thuật ngữ phù hợp";
+  }
 
   app.addEventListener("click", function (e) {
     const ngonNgu = e.target.closest("[data-ngon-ngu]");
@@ -963,6 +1029,18 @@
     }
     const nghe = e.target.closest("[data-doc]");
     if (nghe) { window.BaiHoc.phatAm(nghe.dataset.doc); return; }
+    // Từ điển thuật ngữ: che nghĩa để tự kiểm tra, bấm vào thẻ để xem nghĩa.
+    if (e.target.closest("#nut-an-nghia")) {
+      const ds = document.getElementById("tv-ds"), nutAn = document.getElementById("nut-an-nghia");
+      const an = !ds.classList.contains("tv-ds--an");
+      ds.classList.toggle("tv-ds--an", an);
+      ds.querySelectorAll(".bh-the--lo").forEach(function (x) { x.classList.remove("bh-the--lo"); });
+      nutAn.setAttribute("aria-pressed", String(an));
+      nutAn.textContent = an ? "Đang che nghĩa: bấm vào thẻ để xem" : "Tự kiểm tra: che nghĩa";
+      return;
+    }
+    const theTuVung = e.target.closest(".tv-ds--an .bh-the");
+    if (theTuVung) { theTuVung.classList.toggle("bh-the--lo"); return; }
     const tc = e.target.closest("[data-tc]");
     if (tc && troChoi) {
       const v = tc.dataset.tc;
@@ -1019,11 +1097,14 @@
   const cat = ten.indexOf(" - ");
   document.getElementById("logo").innerHTML = cat > 0 ? esc(ten.slice(0, cat)) + " <span>" + esc(ten.slice(cat + 3)) + "</span>" : esc(ten);
   document.getElementById("chan-ten").textContent = ten + " · " + THONG_TIN.giaoVien + " · " + THONG_TIN.truong;
-  const mxh = [["YouTube", linkAnToan(THONG_TIN.youtube)], ["Facebook", linkAnToan(THONG_TIN.facebook)]].filter(function (x) { return x[1]; });
+  const thuGV = String(THONG_TIN.email || "").trim();
+  const mxh = [["YouTube", linkAnToan(THONG_TIN.youtube)], ["Facebook", linkAnToan(THONG_TIN.facebook)], ["Email", thuGV ? "mailto:" + thuGV : ""]].filter(function (x) { return x[1]; });
   if (mxh.length) {
     const o = document.createElement("span");
     o.className = "chan-trang__mxh";
-    o.innerHTML = mxh.map(function (x) { return '<a target="_blank" rel="noopener" href="' + esc(x[1]) + '">' + x[0] + " ↗</a>"; }).join(" · ");
+    o.innerHTML = mxh.map(function (x) {
+      return x[0] === "Email" ? '<a href="' + esc(x[1]) + '">' + esc(thuGV) + "</a>" : '<a target="_blank" rel="noopener" href="' + esc(x[1]) + '">' + x[0] + " ↗</a>";
+    }).join(" · ");
     document.getElementById("chan-ten").after(o);
   }
   if (THONG_TIN.thongBao) {

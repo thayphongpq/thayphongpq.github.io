@@ -17,7 +17,7 @@ const THONG_TIN = {
   truong: "THPT An Thới",
 
   // Dòng thông báo trên đầu trang. Để "" nếu không có thông báo.
-  thongBao: "Mới cập nhật: đủ 5 chuyên đề video ôn HSG Vật lí THCS (20 video) và Chuyên đề 3 HSG THPT bản mới.",
+  thongBao: "Mới: mục Học song ngữ Việt – Anh với từ điển thuật ngữ Lý – Tin có phát âm; đủ 5 chuyên đề video ôn HSG Vật lí THCS.",
 
   gioiThieu: "Nơi tập hợp bài giảng, tài liệu và đề ôn luyện môn Vật lý, Tin học dành cho học sinh THPT.",
 
@@ -25,7 +25,7 @@ const THONG_TIN = {
   youtube: "https://www.youtube.com/@thephong6695",
   facebook: "https://www.facebook.com/lamthephongpq",
   zalo: "",
-  email: "",
+  email: "phongamx@gmail.com",
 
   // Link ứng dụng web Google Apps Script nhận điểm trắc nghiệm (để "" thì không gửi điểm).
   linkNhanDiem: "https://script.google.com/macros/s/AKfycbwfFsyoTt7uEXSy_38w8kCG1dvWRg61Gx-i4FretcCaKZx7m7czOsKPurP6NkVP3O2g/exec"
@@ -85,10 +85,9 @@ const VIDEO = [
   { ten: "CĐ1 (Phần 1): Chuyển động cơ học - Lí thuyết trọng tâm", mon: "Vật lý", lop: "HSG", cap: "THCS", chuDe: "Chuyên đề 1 - Chuyển động cơ học", youtube: "https://www.youtube.com/watch?v=A8FsdamtcUs", taiLieu: "", moTa: "", ngay: "2026-11-10" },
 
   // ----- HSG THPT -----
-  { ten: "Chuyên đề 3 (bản mới): Chuyển động tròn đều - Gia tốc hướng tâm - Bài toán kim đồng hồ", mon: "Vật lý", lop: "HSG", cap: "THPT", chuDe: "Chuyên đề 3", youtube: "https://www.youtube.com/watch?v=zITfR2-qnNU", taiLieu: "", moTa: "", ngay: "2026-11-12" },
-  { ten: "Lời giải 12 bài HSG Chuyển động thẳng đều", mon: "Vật lý", lop: "HSG", cap: "THPT", chuDe: "Chuyên đề 1", youtube: "https://www.youtube.com/watch?v=sP5Ile7C6Rg", taiLieu: "", moTa: "", ngay: "2026-11-09" },
-  { ten: "Chuyên đề 3. Chuyển động tròn đều", mon: "Vật lý", lop: "HSG", cap: "THPT", chuDe: "Chuyên đề 3", youtube: "https://www.youtube.com/watch?v=patE6JT7RPA", taiLieu: "", moTa: "", ngay: "2026-11-09" },
-  { ten: "Chuyên đề 2. Chuyển động thẳng biến đổi đều - Rơi tự do", mon: "Vật lý", lop: "HSG", cap: "THPT", chuDe: "Chuyên đề 2", youtube: "https://www.youtube.com/watch?v=t2CkWlaNOlc", taiLieu: "", moTa: "", ngay: "2026-11-05" },
+  { ten: "Chuyên đề 3. Chuyển động tròn đều - Gia tốc hướng tâm - Bài toán kim đồng hồ", mon: "Vật lý", lop: "HSG", cap: "THPT", chuDe: "Chuyên đề 3", youtube: "https://www.youtube.com/watch?v=zITfR2-qnNU", taiLieu: "", moTa: "", ngay: "2026-11-12" },
+  { ten: "Chuyên đề 2. Chuyển động thẳng biến đổi đều - Rơi tự do", mon: "Vật lý", lop: "HSG", cap: "THPT", chuDe: "Chuyên đề 2", youtube: "https://www.youtube.com/watch?v=t2CkWlaNOlc", taiLieu: "", moTa: "", ngay: "2026-11-07" },
+  { ten: "Lời giải 12 bài HSG Chuyển động thẳng đều", mon: "Vật lý", lop: "HSG", cap: "THPT", chuDe: "Chuyên đề 1", youtube: "https://www.youtube.com/watch?v=sP5Ile7C6Rg", taiLieu: "", moTa: "", ngay: "2026-11-06" },
   { ten: "Chuyên đề 1. Chuyển động thẳng đều", mon: "Vật lý", lop: "HSG", cap: "THPT", chuDe: "Chuyên đề 1", youtube: "https://www.youtube.com/watch?v=q9AwrSVA2_8", taiLieu: "", moTa: "", ngay: "2026-11-05" }
 ];
 
@@ -104,8 +103,9 @@ const DE_THI = [
   { ten: "Đề chính thức TN THPT 2026 - Tin học (mã đề 0504) - Định hướng Khoa học máy tính", mon: "Tin học", lop: "12", loai: "Thi thử TN THPT", tep: ["de/tin2026-0504-p1.txt", "de/2026-tin-hoc-0504-cs.txt"], thoiGian: 50, ngay: "2026-06-12" },
   { ten: "Đề chính thức TN THPT 2026 - Tin học (mã đề 0504) - Định hướng Tin học ứng dụng", mon: "Tin học", lop: "12", loai: "Thi thử TN THPT", tep: ["de/tin2026-0504-p1.txt", "de/2026-tin-hoc-0504-ict.txt"], thoiGian: 50, ngay: "2026-06-12" },
 
-  { ten: "Mẫu: Thi thử TN THPT Vật lí (đề rút gọn)", mon: "Vật lý", lop: "12", loai: "Thi thử TN THPT", tep: "de/mau-vat-ly-12-thi-thu.txt", thoiGian: 15, ngay: "2026-11-10" },
-  { ten: "Mẫu: Luyện tập Python cơ bản", mon: "Tin học", lop: "10", loai: "Luyện tập", tep: "de/mau-tin-hoc-10-python.txt", thoiGian: 10, ngay: "2026-11-10" }
+  // Hai đề mẫu dưới đây đang tạm ẩn (có // ở đầu dòng). Tệp đề mẫu vẫn còn trong thư mục de/ để soạn theo.
+  // { ten: "Mẫu: Thi thử TN THPT Vật lí (đề rút gọn)", mon: "Vật lý", lop: "12", loai: "Thi thử TN THPT", tep: "de/mau-vat-ly-12-thi-thu.txt", thoiGian: 15, ngay: "2026-11-10" },
+  // { ten: "Mẫu: Luyện tập Python cơ bản", mon: "Tin học", lop: "10", loai: "Luyện tập", tep: "de/mau-tin-hoc-10-python.txt", thoiGian: 10, ngay: "2026-11-10" },
 ];
 
 /* ---------- BÀI HỌC SONG NGỮ VIỆT - ANH (đọc trực tiếp trên trang) ----------
@@ -114,7 +114,107 @@ const DE_THI = [
 const BAI_HOC = [
   // ▼▼▼ DÁN BÀI HỌC MỚI NGAY DƯỚI DÒNG NÀY ▼▼▼
 
-  { ten: "Mẫu: Biến và kiểu dữ liệu trong Python", tenEn: "Variables and data types in Python", mon: "Tin học", lop: "10", tep: "bai/mau-bien-va-kieu-du-lieu.json", ngay: "2026-11-19" }
+  { ten: "Biến và kiểu dữ liệu trong Python", tenEn: "Variables and data types in Python", mon: "Tin học", lop: "10", tep: "bai/mau-bien-va-kieu-du-lieu.json", ngay: "2026-11-19" }
+];
+
+/* ---------- TỪ ĐIỂN THUẬT NGỮ VIỆT - ANH (trang "Học song ngữ") ----------
+   Mỗi dòng một thuật ngữ: en (tiếng Anh), ipa (phiên âm), vi (nghĩa tiếng Việt),
+   mon ("Vật lý" hoặc "Tin học"), lop ("10", "11", "12"), ghiChu (có thể để "", được viết công thức $...$).
+   Học sinh bấm nút loa để nghe phát âm. */
+const TU_VUNG = [
+  // ▼▼▼ DÁN THUẬT NGỮ MỚI NGAY DƯỚI DÒNG NÀY ▼▼▼
+
+  // ----- Vật lý 10 -----
+  { en: "displacement", ipa: "/dɪsˈpleɪsmənt/", vi: "độ dịch chuyển", mon: "Vật lý", lop: "10", ghiChu: "Đại lượng vectơ, cho biết hướng và khoảng cách thay đổi vị trí." },
+  { en: "speed", ipa: "/spiːd/", vi: "tốc độ", mon: "Vật lý", lop: "10", ghiChu: "$v = \\dfrac{s}{t}$" },
+  { en: "velocity", ipa: "/vəˈlɒsəti/", vi: "vận tốc", mon: "Vật lý", lop: "10", ghiChu: "$\\vec{v} = \\dfrac{\\vec{d}}{t}$" },
+  { en: "acceleration", ipa: "/əkˌseləˈreɪʃn/", vi: "gia tốc", mon: "Vật lý", lop: "10", ghiChu: "$a = \\dfrac{\\Delta v}{\\Delta t}$" },
+  { en: "free fall", ipa: "/ˌfriː ˈfɔːl/", vi: "sự rơi tự do", mon: "Vật lý", lop: "10", ghiChu: "Chỉ chịu tác dụng của trọng lực, $a = g$." },
+  { en: "projectile motion", ipa: "/prəˈdʒektaɪl ˈməʊʃn/", vi: "chuyển động ném", mon: "Vật lý", lop: "10", ghiChu: "" },
+  { en: "force", ipa: "/fɔːs/", vi: "lực", mon: "Vật lý", lop: "10", ghiChu: "Đơn vị: newton (N)." },
+  { en: "mass", ipa: "/mæs/", vi: "khối lượng", mon: "Vật lý", lop: "10", ghiChu: "Đơn vị: kilôgam (kg)." },
+  { en: "weight", ipa: "/weɪt/", vi: "trọng lượng", mon: "Vật lý", lop: "10", ghiChu: "$P = mg$" },
+  { en: "friction", ipa: "/ˈfrɪkʃn/", vi: "lực ma sát", mon: "Vật lý", lop: "10", ghiChu: "$F_{ms} = \\mu N$" },
+  { en: "torque", ipa: "/tɔːk/", vi: "mômen lực", mon: "Vật lý", lop: "10", ghiChu: "$M = F \\cdot d$" },
+  { en: "work", ipa: "/wɜːk/", vi: "công", mon: "Vật lý", lop: "10", ghiChu: "$A = F s \\cos\\alpha$" },
+  { en: "power", ipa: "/ˈpaʊə(r)/", vi: "công suất", mon: "Vật lý", lop: "10", ghiChu: "$P = \\dfrac{A}{t}$" },
+  { en: "efficiency", ipa: "/ɪˈfɪʃnsi/", vi: "hiệu suất", mon: "Vật lý", lop: "10", ghiChu: "" },
+  { en: "kinetic energy", ipa: "/kɪˈnetɪk ˈenədʒi/", vi: "động năng", mon: "Vật lý", lop: "10", ghiChu: "$W_{\\text{đ}} =\\dfrac{1}{2}mv^2$" },
+  { en: "potential energy", ipa: "/pəˈtenʃl ˈenədʒi/", vi: "thế năng", mon: "Vật lý", lop: "10", ghiChu: "$W_t = mgh$" },
+  { en: "momentum", ipa: "/məˈmentəm/", vi: "động lượng", mon: "Vật lý", lop: "10", ghiChu: "$\\vec{p} = m\\vec{v}$" },
+  { en: "centripetal acceleration", ipa: "/ˌsentrɪˈpiːtl əkˌseləˈreɪʃn/", vi: "gia tốc hướng tâm", mon: "Vật lý", lop: "10", ghiChu: "$a_{ht} = \\dfrac{v^2}{r} = \\omega^2 r$" },
+  { en: "pressure", ipa: "/ˈpreʃə(r)/", vi: "áp suất", mon: "Vật lý", lop: "10", ghiChu: "$p = \\dfrac{F}{S}$" },
+
+  // ----- Vật lý 11 -----
+  { en: "oscillation", ipa: "/ˌɒsɪˈleɪʃn/", vi: "dao động", mon: "Vật lý", lop: "11", ghiChu: "" },
+  { en: "amplitude", ipa: "/ˈæmplɪtjuːd/", vi: "biên độ", mon: "Vật lý", lop: "11", ghiChu: "" },
+  { en: "period", ipa: "/ˈpɪəriəd/", vi: "chu kì", mon: "Vật lý", lop: "11", ghiChu: "$T = \\dfrac{2\\pi}{\\omega}$" },
+  { en: "frequency", ipa: "/ˈfriːkwənsi/", vi: "tần số", mon: "Vật lý", lop: "11", ghiChu: "$f = \\dfrac{1}{T}$" },
+  { en: "wavelength", ipa: "/ˈweɪvleŋθ/", vi: "bước sóng", mon: "Vật lý", lop: "11", ghiChu: "$\\lambda = vT$" },
+  { en: "interference", ipa: "/ˌɪntəˈfɪərəns/", vi: "giao thoa", mon: "Vật lý", lop: "11", ghiChu: "" },
+  { en: "standing wave", ipa: "/ˈstændɪŋ weɪv/", vi: "sóng dừng", mon: "Vật lý", lop: "11", ghiChu: "" },
+  { en: "electric field", ipa: "/ɪˈlektrɪk fiːld/", vi: "điện trường", mon: "Vật lý", lop: "11", ghiChu: "$E = \\dfrac{F}{q}$" },
+  { en: "capacitor", ipa: "/kəˈpæsɪtə(r)/", vi: "tụ điện", mon: "Vật lý", lop: "11", ghiChu: "$C = \\dfrac{Q}{U}$" },
+  { en: "electric current", ipa: "/ɪˈlektrɪk ˈkʌrənt/", vi: "dòng điện, cường độ dòng điện", mon: "Vật lý", lop: "11", ghiChu: "$I = \\dfrac{\\Delta q}{\\Delta t}$" },
+  { en: "voltage", ipa: "/ˈvəʊltɪdʒ/", vi: "hiệu điện thế (điện áp)", mon: "Vật lý", lop: "11", ghiChu: "" },
+  { en: "resistance", ipa: "/rɪˈzɪstəns/", vi: "điện trở", mon: "Vật lý", lop: "11", ghiChu: "$R = \\dfrac{U}{I}$" },
+
+  // ----- Vật lý 12 -----
+  { en: "internal energy", ipa: "/ɪnˈtɜːnl ˈenədʒi/", vi: "nội năng", mon: "Vật lý", lop: "12", ghiChu: "" },
+  { en: "specific heat capacity", ipa: "/spəˈsɪfɪk hiːt kəˈpæsəti/", vi: "nhiệt dung riêng", mon: "Vật lý", lop: "12", ghiChu: "$Q = mc\\Delta t$" },
+  { en: "latent heat", ipa: "/ˈleɪtnt hiːt/", vi: "nhiệt nóng chảy, nhiệt hóa hơi", mon: "Vật lý", lop: "12", ghiChu: "$Q = \\lambda m$, $Q = Lm$" },
+  { en: "absolute temperature", ipa: "/ˈæbsəluːt ˈtemprətʃə(r)/", vi: "nhiệt độ tuyệt đối", mon: "Vật lý", lop: "12", ghiChu: "$T = t + 273$ (K)" },
+  { en: "ideal gas", ipa: "/aɪˈdiːəl ɡæs/", vi: "khí lí tưởng", mon: "Vật lý", lop: "12", ghiChu: "$pV = nRT$" },
+  { en: "magnetic field", ipa: "/mæɡˈnetɪk fiːld/", vi: "từ trường", mon: "Vật lý", lop: "12", ghiChu: "" },
+  { en: "magnetic flux", ipa: "/mæɡˈnetɪk flʌks/", vi: "từ thông", mon: "Vật lý", lop: "12", ghiChu: "$\\Phi = BS\\cos\\alpha$" },
+  { en: "electromagnetic induction", ipa: "/ɪˌlektrəʊmæɡˈnetɪk ɪnˈdʌkʃn/", vi: "cảm ứng điện từ", mon: "Vật lý", lop: "12", ghiChu: "" },
+  { en: "alternating current", ipa: "/ˈɔːltəneɪtɪŋ ˈkʌrənt/", vi: "dòng điện xoay chiều", mon: "Vật lý", lop: "12", ghiChu: "" },
+  { en: "nucleus", ipa: "/ˈnjuːkliəs/", vi: "hạt nhân", mon: "Vật lý", lop: "12", ghiChu: "" },
+  { en: "isotope", ipa: "/ˈaɪsətəʊp/", vi: "đồng vị", mon: "Vật lý", lop: "12", ghiChu: "" },
+  { en: "radioactivity", ipa: "/ˌreɪdiəʊækˈtɪvəti/", vi: "sự phóng xạ", mon: "Vật lý", lop: "12", ghiChu: "" },
+  { en: "half-life", ipa: "/ˈhɑːf laɪf/", vi: "chu kì bán rã", mon: "Vật lý", lop: "12", ghiChu: "$N = N_0 \\cdot 2^{-t/T}$" },
+  { en: "binding energy", ipa: "/ˈbaɪndɪŋ ˈenədʒi/", vi: "năng lượng liên kết", mon: "Vật lý", lop: "12", ghiChu: "$W_{lk} = \\Delta m \\cdot c^2$" },
+
+  // ----- Tin học 10 -----
+  { en: "hardware", ipa: "/ˈhɑːdweə(r)/", vi: "phần cứng", mon: "Tin học", lop: "10", ghiChu: "" },
+  { en: "software", ipa: "/ˈsɒftweə(r)/", vi: "phần mềm", mon: "Tin học", lop: "10", ghiChu: "" },
+  { en: "operating system", ipa: "/ˈɒpəreɪtɪŋ ˈsɪstəm/", vi: "hệ điều hành", mon: "Tin học", lop: "10", ghiChu: "" },
+  { en: "algorithm", ipa: "/ˈælɡərɪðəm/", vi: "thuật toán", mon: "Tin học", lop: "10", ghiChu: "" },
+  { en: "input", ipa: "/ˈɪnpʊt/", vi: "dữ liệu vào", mon: "Tin học", lop: "10", ghiChu: "Hàm `input()`." },
+  { en: "output", ipa: "/ˈaʊtpʊt/", vi: "dữ liệu ra", mon: "Tin học", lop: "10", ghiChu: "Hàm `print()`." },
+  { en: "variable", ipa: "/ˈveəriəbl/", vi: "biến", mon: "Tin học", lop: "10", ghiChu: "" },
+  { en: "data type", ipa: "/ˈdeɪtə taɪp/", vi: "kiểu dữ liệu", mon: "Tin học", lop: "10", ghiChu: "`int`, `float`, `str`, `bool`" },
+  { en: "condition", ipa: "/kənˈdɪʃn/", vi: "điều kiện", mon: "Tin học", lop: "10", ghiChu: "Câu lệnh `if`." },
+  { en: "loop", ipa: "/luːp/", vi: "vòng lặp", mon: "Tin học", lop: "10", ghiChu: "`for`, `while`" },
+  { en: "function", ipa: "/ˈfʌŋkʃn/", vi: "hàm", mon: "Tin học", lop: "10", ghiChu: "Khai báo bằng `def`." },
+  { en: "list", ipa: "/lɪst/", vi: "danh sách", mon: "Tin học", lop: "10", ghiChu: "" },
+  { en: "syntax error", ipa: "/ˈsɪntæks ˈerə(r)/", vi: "lỗi cú pháp", mon: "Tin học", lop: "10", ghiChu: "" },
+  { en: "debug", ipa: "/ˌdiːˈbʌɡ/", vi: "gỡ lỗi", mon: "Tin học", lop: "10", ghiChu: "" },
+
+  // ----- Tin học 11 -----
+  { en: "database", ipa: "/ˈdeɪtəbeɪs/", vi: "cơ sở dữ liệu", mon: "Tin học", lop: "11", ghiChu: "" },
+  { en: "table", ipa: "/ˈteɪbl/", vi: "bảng", mon: "Tin học", lop: "11", ghiChu: "" },
+  { en: "record", ipa: "/ˈrekɔːd/", vi: "bản ghi", mon: "Tin học", lop: "11", ghiChu: "Một hàng của bảng." },
+  { en: "field", ipa: "/fiːld/", vi: "trường", mon: "Tin học", lop: "11", ghiChu: "Một cột của bảng." },
+  { en: "primary key", ipa: "/ˈpraɪməri kiː/", vi: "khóa chính", mon: "Tin học", lop: "11", ghiChu: "" },
+  { en: "foreign key", ipa: "/ˈfɒrən kiː/", vi: "khóa ngoài", mon: "Tin học", lop: "11", ghiChu: "" },
+  { en: "query", ipa: "/ˈkwɪəri/", vi: "truy vấn", mon: "Tin học", lop: "11", ghiChu: "Ví dụ: `SELECT * FROM HocSinh`" },
+  { en: "sorting", ipa: "/ˈsɔːtɪŋ/", vi: "sắp xếp", mon: "Tin học", lop: "11", ghiChu: "" },
+  { en: "binary search", ipa: "/ˈbaɪnəri sɜːtʃ/", vi: "tìm kiếm nhị phân", mon: "Tin học", lop: "11", ghiChu: "" },
+  { en: "time complexity", ipa: "/taɪm kəmˈpleksəti/", vi: "độ phức tạp thời gian", mon: "Tin học", lop: "11", ghiChu: "Ví dụ: $O(n)$, $O(n^2)$, $O(\\log n)$" },
+
+  // ----- Tin học 12 -----
+  { en: "artificial intelligence", ipa: "/ˌɑːtɪfɪʃl ɪnˈtelɪdʒəns/", vi: "trí tuệ nhân tạo (AI)", mon: "Tin học", lop: "12", ghiChu: "" },
+  { en: "machine learning", ipa: "/məˈʃiːn ˈlɜːnɪŋ/", vi: "học máy", mon: "Tin học", lop: "12", ghiChu: "" },
+  { en: "data science", ipa: "/ˈdeɪtə ˈsaɪəns/", vi: "khoa học dữ liệu", mon: "Tin học", lop: "12", ghiChu: "" },
+  { en: "network", ipa: "/ˈnetwɜːk/", vi: "mạng máy tính", mon: "Tin học", lop: "12", ghiChu: "" },
+  { en: "router", ipa: "/ˈruːtə(r)/", vi: "bộ định tuyến", mon: "Tin học", lop: "12", ghiChu: "" },
+  { en: "protocol", ipa: "/ˈprəʊtəkɒl/", vi: "giao thức", mon: "Tin học", lop: "12", ghiChu: "Ví dụ: TCP/IP, HTTP." },
+  { en: "IP address", ipa: "/ˌaɪ ˈpiː əˈdres/", vi: "địa chỉ IP", mon: "Tin học", lop: "12", ghiChu: "" },
+  { en: "web page", ipa: "/ˈweb peɪdʒ/", vi: "trang web", mon: "Tin học", lop: "12", ghiChu: "" },
+  { en: "tag", ipa: "/tæɡ/", vi: "thẻ (HTML)", mon: "Tin học", lop: "12", ghiChu: "Ví dụ: `<p>`, `<a>`, `<img>`" },
+  { en: "hyperlink", ipa: "/ˈhaɪpəlɪŋk/", vi: "siêu liên kết", mon: "Tin học", lop: "12", ghiChu: "" },
+  { en: "cybersecurity", ipa: "/ˌsaɪbəsɪˈkjʊərəti/", vi: "an ninh mạng", mon: "Tin học", lop: "12", ghiChu: "" }
 ];
 
 /* ---------- TÀI LIỆU BÀI GIẢNG (đọc trực tuyến) ----------
