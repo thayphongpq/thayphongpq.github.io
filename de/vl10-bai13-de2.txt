@@ -1,0 +1,163 @@
+VẬT LÍ 10 - CHƯƠNG III. ĐỘNG LỰC HỌC - BÀI 13. TỔNG HỢP VÀ PHÂN TÍCH LỰC. CÂN BẰNG LỰC - ĐỀ 2
+Đề kiểm tra theo cấu trúc thi tốt nghiệp THPT (biên soạn: thầy Lâm Thế Phong, THPT An Thới)
+Thời gian: 50
+
+PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn
+Câu 1. Hai anh em cùng đẩy một thùng hàng, sau đó người bố một mình đẩy thùng hàng chuyển động giống hệt như trước. Lực đẩy của người bố đóng vai trò là
+A. lực thành phần.
+*B. hợp lực của lực đẩy của hai anh em.
+C. lực cân bằng với lực đẩy của hai anh em.
+D. trọng lực của thùng hàng.
+
+Câu 2. Trong quy tắc hình bình hành, bước đầu tiên là
+*A. vẽ hai vectơ lực đồng quy tại một điểm O.
+B. vẽ đường chéo hình bình hành.
+C. đo độ lớn hợp lực.
+D. vẽ hai lực song song.
+
+Câu 3. Tổng hợp hai lực cùng phương và tổng hợp hai lực đồng quy đều tuân theo
+A. quy tắc cộng độ lớn.
+B. quy tắc nhân vectơ.
+*C. quy tắc cộng vectơ.
+D. quy tắc trừ độ lớn.
+
+Câu 4. Hai lực cùng phương có độ lớn 7 N và 4 N tác dụng vào một vật, hợp lực có độ lớn 3 N. Hai lực này
+A. cùng chiều.
+*B. ngược chiều.
+C. vuông góc.
+D. hợp với nhau góc 60°.
+
+Câu 5. Một vật ở trạng thái cân bằng khi
+A. chỉ có một lực tác dụng lên vật.
+B. tổng độ lớn các lực tác dụng lên vật bằng 0.
+*C. hợp lực của các lực tác dụng lên vật bằng $\vec{0}$.
+D. các lực tác dụng lên vật cùng chiều.
+
+Câu 6. Hai lực cân bằng tác dụng lên một vật là hai lực
+A. cùng chiều, cùng độ lớn.
+*B. cùng phương, ngược chiều, cùng độ lớn.
+C. vuông góc, cùng độ lớn.
+D. cùng phương, ngược chiều, khác độ lớn.
+
+Câu 7. Tình huống nào sau đây hợp lực tác dụng lên vật khác 0?
+A. Bút chì nằm yên trên mặt bàn.
+B. Quả bóng nằm yên gần mép bàn.
+*C. Dùng tay đẩy để bút chì chuyển động nhanh dần trên mặt bàn.
+D. Quyển sách nằm yên trên giá.
+
+Câu 8. Một quả bóng vừa rơi khỏi mép bàn. Trong khi rơi, vận tốc của quả bóng
+A. không đổi vì hợp lực bằng 0.
+*B. thay đổi vì hợp lực tác dụng lên quả bóng khác 0.
+C. bằng 0.
+D. giảm dần đến 0.
+
+Câu 9. Hai lực đồng quy có cùng độ lớn F, hợp với nhau góc 90°. Hợp lực có độ lớn
+A. 2F.
+B. F.
+*C. $F\sqrt{2}$.
+D. 0.
+
+Câu 10. Hai lực đồng quy có cùng độ lớn 20 N, hợp với nhau góc 60°. Hợp lực có độ lớn xấp xỉ
+A. 20 N.
+B. 40 N.
+*C. 34,6 N.
+D. 28,3 N.
+Lời giải: Hình thoi, góc giữa hợp lực và mỗi lực là 30°: $F = 2\cdot 20\cos 30° \approx 34{,}6$ N.
+
+Câu 11. Khi góc giữa hai lực đồng quy (độ lớn không đổi) tăng từ 0° đến 180° thì độ lớn hợp lực
+*A. giảm dần.
+B. tăng dần.
+C. không đổi.
+D. tăng rồi giảm.
+
+Câu 12. Hai lực có độ lớn 10 N và 6 N. Hợp lực của chúng có thể có độ lớn
+A. 2 N.
+*B. 12 N.
+C. 18 N.
+D. 20 N.
+
+Câu 13. Phân tích lực là phép làm ngược lại với tổng hợp lực nhưng
+A. áp dụng được cho mọi trường hợp.
+*B. chỉ được áp dụng khi phân tích thành hai lực vuông góc mà lực đó có tác dụng theo hai phương ấy.
+C. chỉ áp dụng cho trọng lực.
+D. không bao giờ được dùng.
+
+Câu 14. Một lực $\vec{F}$ có độ lớn 10 N được phân tích theo hai trục vuông góc Ox, Oy. Biết thành phần $F_x = 6$ N. Thành phần $F_y$ có độ lớn
+A. 4 N.
+*B. 8 N.
+C. 16 N.
+D. 10 N.
+
+Câu 15. Một vật được giữ yên trên mặt phẳng nghiêng nhẵn bởi một lò xo song song với mặt phẳng nghiêng. Các lực tác dụng lên vật là
+A. chỉ trọng lực.
+B. trọng lực và lực đàn hồi của lò xo.
+*C. trọng lực, phản lực của mặt phẳng nghiêng và lực đàn hồi của lò xo.
+D. chỉ lực đàn hồi của lò xo.
+
+Câu 16. Vật nằm trên mặt phẳng nghiêng nhẵn góc α. Thành phần của trọng lực kéo vật trượt theo mặt phẳng nghiêng xuống dưới có độ lớn
+*A. $P\sin\alpha$.
+B. $P\cos\alpha$.
+C. P.
+D. $P\tan\alpha$.
+
+Câu 17. Một vật có trọng lượng 40 N nằm trên mặt phẳng nghiêng nhẵn có góc nghiêng 30°. Thành phần trọng lực vuông góc với mặt phẳng nghiêng có độ lớn xấp xỉ
+A. 20 N.
+B. 40 N.
+*C. 34,6 N.
+D. 23,1 N.
+
+Câu 18. Hai bạn kéo một sợi dây theo hai hướng ngược nhau, mỗi bạn kéo với lực 150 N, sợi dây đứng yên. Hợp lực tác dụng lên sợi dây có độ lớn
+*A. 0.
+B. 300 N.
+C. 150 N.
+D. 75 N.
+Lời giải: Hai lực cùng phương, ngược chiều, cùng độ lớn nên cân bằng nhau.
+
+PHẦN II. Câu trắc nghiệm đúng sai
+Câu 1. Một ô tô chịu lực kéo 400 N hướng về phía trước và lực cản 300 N hướng về phía sau.
+a) Hợp lực tác dụng lên ô tô có độ lớn 100 N. (Đ)
+b) Hợp lực hướng về phía trước. (Đ)
+c) Các lực tác dụng lên ô tô cân bằng nhau. (S)
+d) Vận tốc của ô tô sẽ thay đổi. (Đ)
+Lời giải: Hợp lực khác 0 nên các lực không cân bằng, có thể làm thay đổi vận tốc của ô tô.
+
+Câu 2. Hai lực đồng quy có cùng độ lớn 10 N.
+a) Khi góc giữa hai lực là 0° thì hợp lực có độ lớn 20 N. (Đ)
+b) Khi góc giữa hai lực là 120° thì hợp lực có độ lớn 10 N. (Đ)
+c) Khi góc giữa hai lực là 180° thì hai lực cân bằng nhau. (Đ)
+d) Khi góc giữa hai lực là 90° thì hợp lực có độ lớn 20 N. (S)
+Lời giải: Góc 90°: $F = 10\sqrt{2} \approx 14{,}1$ N.
+
+Câu 3. Một lực $\vec{F}$ có độ lớn 50 N hợp với phương nằm ngang góc 37° được phân tích theo phương nằm ngang và phương thẳng đứng (lấy sin 37° = 0,6; cos 37° = 0,8).
+a) Thành phần theo phương nằm ngang có độ lớn 40 N. (Đ)
+b) Thành phần theo phương thẳng đứng có độ lớn 30 N. (Đ)
+c) Tổng độ lớn hai thành phần bằng độ lớn của lực $\vec{F}$. (S)
+d) Hai thành phần vuông góc với nhau. (Đ)
+Lời giải: $F_x = 50\cdot 0{,}8 = 40$ N; $F_y = 50\cdot 0{,}6 = 30$ N; 40 + 30 = 70 N ≠ 50 N, nhưng $\sqrt{40^2 + 30^2} = 50$ N.
+
+Câu 4. Một vật được giữ yên trên mặt phẳng nghiêng nhẵn góc 30° bởi một lò xo song song với mặt phẳng nghiêng. Trọng lượng của vật là 10 N.
+a) Thành phần trọng lực song song với mặt phẳng nghiêng có độ lớn 5 N. (Đ)
+b) Lực đàn hồi của lò xo cân bằng với thành phần trọng lực song song với mặt phẳng nghiêng. (Đ)
+c) Lực đàn hồi của lò xo có độ lớn 10 N. (S)
+d) Thành phần trọng lực vuông góc với mặt phẳng nghiêng cân bằng với phản lực của mặt phẳng nghiêng. (Đ)
+Lời giải: Vật đứng yên: lực lò xo = P sin 30° = 5 N.
+
+PHẦN III. Câu trắc nghiệm trả lời ngắn
+Câu 1. Hai lực cùng phương, ngược chiều có độ lớn 15 N và 9 N cùng tác dụng vào một vật. Hợp lực có độ lớn bao nhiêu niutơn?
+Đáp án: 6
+
+Câu 2. Hai lực đồng quy vuông góc có độ lớn 20 N và 21 N. Hợp lực có độ lớn bao nhiêu niutơn?
+Đáp án: 29
+
+Câu 3. Hai lực đồng quy có cùng độ lớn 7 N, hợp với nhau góc 120°. Hợp lực có độ lớn bao nhiêu niutơn?
+Đáp án: 7
+
+Câu 4. Một lực 26 N được phân tích thành hai thành phần vuông góc, một thành phần có độ lớn 10 N. Thành phần còn lại có độ lớn bao nhiêu niutơn?
+Đáp án: 24
+
+Câu 5. Một vật có trọng lượng 60 N nằm trên mặt phẳng nghiêng nhẵn có góc nghiêng 30°. Thành phần trọng lực song song với mặt phẳng nghiêng có độ lớn bao nhiêu niutơn?
+Đáp án: 30
+
+Câu 6. Hai tàu kéo, mỗi tàu kéo với lực 8 000 N, góc giữa hai dây cáp là 60°. Theo quy tắc hình bình hành, hợp lực của hai lực kéo có độ lớn bao nhiêu kilô niutơn (kN)? (Làm tròn đến hàng phần mười.)
+Đáp án: 13,9|13.9
+Lời giải: $F = 2\cdot 8000\cos 30° \approx 13\,856$ N ≈ 13,9 kN.

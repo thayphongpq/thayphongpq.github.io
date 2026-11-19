@@ -1,0 +1,161 @@
+VẬT LÍ 10 - CHƯƠNG III. ĐỘNG LỰC HỌC - BÀI 13. TỔNG HỢP VÀ PHÂN TÍCH LỰC. CÂN BẰNG LỰC - ĐỀ 3
+Đề kiểm tra theo cấu trúc thi tốt nghiệp THPT (biên soạn: thầy Lâm Thế Phong, THPT An Thới)
+Thời gian: 50
+
+PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn
+Câu 1. Hai tàu kéo giống nhau kéo một tàu chở hàng bằng hai dây cáp với hai lực có cùng độ lớn. Tàu chở hàng sẽ chuyển động theo hướng
+A. của dây cáp thứ nhất.
+B. của dây cáp thứ hai.
+*C. của hợp lực, nằm trên đường phân giác của góc giữa hai dây cáp.
+D. vuông góc với cả hai dây cáp.
+
+Câu 2. Hợp lực của hai lực cùng phương, cùng chiều có
+*A. độ lớn bằng tổng độ lớn hai lực và cùng chiều với hai lực.
+B. độ lớn bằng hiệu độ lớn hai lực.
+C. độ lớn bằng 0.
+D. chiều ngược với hai lực.
+
+Câu 3. Hợp lực của hai lực cùng phương, ngược chiều có
+A. độ lớn bằng tổng độ lớn hai lực.
+*B. độ lớn bằng hiệu độ lớn hai lực, cùng chiều với lực lớn hơn.
+C. chiều cùng với lực nhỏ hơn.
+D. phương vuông góc với hai lực.
+
+Câu 4. Trong quy tắc hình bình hành, sau khi vẽ hai vectơ lực đồng quy tại O, bước tiếp theo là
+A. đo góc giữa hai lực.
+*B. vẽ hình bình hành có hai cạnh liền kề trùng với hai vectơ lực.
+C. vẽ hợp lực vuông góc với hai lực.
+D. cộng độ lớn hai lực.
+
+Câu 5. Tổng hợp các lực tác dụng lên một vật đứng yên bằng
+*A. $\vec{0}$.
+B. trọng lượng của vật.
+C. tổng độ lớn các lực.
+D. lực lớn nhất.
+
+Câu 6. Một chiếc đèn treo đứng yên bằng một sợi dây. Lực căng của dây và trọng lực của đèn
+A. cùng chiều.
+*B. cân bằng nhau.
+C. vuông góc nhau.
+D. có hợp lực hướng xuống.
+
+Câu 7. Hợp lực hay các lực không cân bằng tác dụng vào một vật có thể
+A. làm vật luôn đứng yên.
+*B. làm thay đổi vận tốc (độ lớn, hướng) của vật.
+C. không có tác dụng gì.
+D. làm khối lượng vật thay đổi.
+
+Câu 8. Ba lực cùng phương tác dụng lên một vật: 5 N và 3 N hướng sang phải, 6 N hướng sang trái. Hợp lực là
+A. 14 N, sang phải.
+*B. 2 N, sang phải.
+C. 2 N, sang trái.
+D. 0.
+
+Câu 9. Hai lực đồng quy có độ lớn 15 N và 20 N, vuông góc với nhau. Hợp lực có độ lớn
+A. 35 N.
+B. 5 N.
+*C. 25 N.
+D. 300 N.
+
+Câu 10. Hai lực đồng quy có cùng độ lớn F. Hợp lực của chúng cũng có độ lớn F khi góc giữa hai lực là
+A. 0°.
+B. 60°.
+C. 90°.
+*D. 120°.
+
+Câu 11. Hai lực có độ lớn 8 N và 3 N. Hợp lực có độ lớn nhỏ nhất và lớn nhất lần lượt là
+*A. 5 N và 11 N.
+B. 0 và 11 N.
+C. 3 N và 8 N.
+D. 5 N và 24 N.
+
+Câu 12. Hai lực đồng quy có độ lớn 30 N và 40 N, hợp lực có độ lớn 70 N. Góc giữa hai lực là
+*A. 0°.
+B. 90°.
+C. 180°.
+D. 60°.
+
+Câu 13. Chỉ nên phân tích một lực theo hai phương vuông góc khi
+A. lực đó có độ lớn lớn.
+*B. xác định được lực đó có tác dụng theo hai phương vuông góc ấy.
+C. lực đó là lực ma sát.
+D. vật đứng yên.
+
+Câu 14. Một lực 30 N hợp với phương nằm ngang góc 60°. Thành phần của lực theo phương thẳng đứng xấp xỉ
+A. 15 N.
+*B. 26 N.
+C. 30 N.
+D. 17,3 N.
+
+Câu 15. Trên mặt phẳng nghiêng nhẵn, thành phần trọng lực vuông góc với mặt phẳng nghiêng có tác dụng
+A. kéo vật trượt xuống.
+*B. ép vật vào mặt phẳng nghiêng.
+C. đẩy vật lên.
+D. không có tác dụng gì.
+
+Câu 16. Khi góc nghiêng α của mặt phẳng nghiêng nhẵn tăng thì thành phần trọng lực kéo vật trượt xuống
+*A. tăng.
+B. giảm.
+C. không đổi.
+D. bằng 0.
+
+Câu 17. Một vật có trọng lượng 100 N nằm trên mặt phẳng nghiêng nhẵn có góc nghiêng 60°. Thành phần trọng lực song song với mặt phẳng nghiêng xấp xỉ
+A. 50 N.
+B. 100 N.
+*C. 86,6 N.
+D. 57,7 N.
+
+Câu 18. Một lực có hai thành phần vuông góc 12 N và 16 N. Độ lớn của lực đó là
+A. 28 N.
+B. 4 N.
+*C. 20 N.
+D. 192 N.
+
+PHẦN II. Câu trắc nghiệm đúng sai
+Câu 1. Hai tàu kéo, mỗi tàu kéo với lực 6 000 N, cùng kéo một tàu chở hàng. Xét góc giữa hai dây cáp.
+a) Nếu góc giữa hai dây cáp là 0° thì hợp lực có độ lớn 12 000 N. (Đ)
+b) Nếu góc giữa hai dây cáp là 90° thì hợp lực có độ lớn khoảng 8 485 N. (Đ)
+c) Nếu góc giữa hai dây cáp là 120° thì hợp lực có độ lớn 6 000 N. (Đ)
+d) Góc giữa hai dây cáp càng lớn thì hợp lực càng lớn. (S)
+Lời giải: Khi góc tăng, đường chéo hình bình hành ngắn lại nên hợp lực giảm.
+
+Câu 2. Một vật đứng yên dưới tác dụng của ba lực đồng quy $\vec{F}_1, \vec{F}_2, \vec{F}_3$; biết $F_1 = 6$ N, $F_2 = 8$ N và $\vec{F}_1 \perp \vec{F}_2$.
+a) Hợp lực của ba lực bằng $\vec{0}$. (Đ)
+b) $\vec{F}_3$ cân bằng với hợp lực của $\vec{F}_1$ và $\vec{F}_2$. (Đ)
+c) Lực $F_3$ có độ lớn 14 N. (S)
+d) $\vec{F}_3$ ngược chiều với hợp lực của $\vec{F}_1$ và $\vec{F}_2$. (Đ)
+Lời giải: $F_3 = \sqrt{6^2 + 8^2} = 10$ N.
+
+Câu 3. Một vật có trọng lượng 30 N trượt trên mặt phẳng nghiêng nhẵn có góc nghiêng 30°.
+a) Thành phần trọng lực song song với mặt phẳng nghiêng có độ lớn 15 N. (Đ)
+b) Thành phần trọng lực vuông góc với mặt phẳng nghiêng có độ lớn khoảng 26 N. (Đ)
+c) Hai thành phần này có tổng độ lớn bằng 30 N. (S)
+d) Thành phần song song với mặt phẳng nghiêng làm vật trượt xuống. (Đ)
+Lời giải: 15 + 26 = 41 N ≠ 30 N; phải cộng vectơ: $\sqrt{15^2 + 26^2} \approx 30$ N.
+
+Câu 4. Quan sát các tình huống:
+a) Bút chì nằm yên trên mặt bàn: hợp lực tác dụng lên bút chì bằng 0. (Đ)
+b) Dùng tay đẩy bút chì chuyển động nhanh dần: hợp lực khác 0. (Đ)
+c) Quả bóng vừa rơi khỏi mép bàn: các lực tác dụng lên quả bóng cân bằng. (S)
+d) Khi hợp lực khác 0, vận tốc của vật thay đổi. (Đ)
+Lời giải: Quả bóng rơi nhanh dần nên hợp lực khác 0 (trọng lực không được cân bằng).
+
+PHẦN III. Câu trắc nghiệm trả lời ngắn
+Câu 1. Ba lực cùng phương tác dụng lên một vật: 10 N và 4 N cùng hướng về phía đông, 9 N hướng về phía tây. Hợp lực có độ lớn bao nhiêu niutơn?
+Đáp án: 5
+
+Câu 2. Hai lực đồng quy vuông góc có độ lớn 7 N và 24 N. Hợp lực có độ lớn bao nhiêu niutơn?
+Đáp án: 25
+
+Câu 3. Hai lực đồng quy có cùng độ lớn 12 N, hợp với nhau góc 90°. Hợp lực có độ lớn bao nhiêu niutơn? (Làm tròn đến hàng phần mười.)
+Đáp án: 17|17,0|17.0
+Lời giải: $12\sqrt{2} \approx 16{,}97 \approx 17{,}0$ N.
+
+Câu 4. Một lực 40 N hợp với phương nằm ngang góc 30°. Thành phần của lực theo phương thẳng đứng có độ lớn bao nhiêu niutơn?
+Đáp án: 20
+
+Câu 5. Một vật được giữ yên trên mặt phẳng nghiêng nhẵn góc 30° bởi một sợi dây song song với mặt phẳng nghiêng. Trọng lượng của vật là 18 N. Lực căng của dây có độ lớn bao nhiêu niutơn?
+Đáp án: 9
+
+Câu 6. Một thùng hàng đứng yên trên sàn nằm ngang chịu tác dụng của trọng lực và lực đỡ của sàn. Trọng lượng của thùng hàng là 800 N. Lực đỡ của sàn có độ lớn bao nhiêu niutơn?
+Đáp án: 800
