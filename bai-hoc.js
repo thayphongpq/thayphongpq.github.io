@@ -106,7 +106,8 @@
         return "<li>" + TN.dongChu(d.replace(/^\s*([-*]|\d+[.)])\s+/, "")) + "</li>";
       }).join("") + (so ? "</ol>" : "</ul>");
     }
-    return "<p>" + TN.dongChu(k.dong.join("\n")) + "</p>";
+    // Công thức, bảng dài: cuộn ngang trong đoạn, không làm tràn trang trên điện thoại.
+    return '<p style="overflow-x:auto;overflow-y:hidden;padding-bottom:2px">' + TN.dongChu(k.dong.join("\n")) + "</p>";
   }
   function khoiHTML(text) { return tachKhoi(text).map(veKhoi); }
 
