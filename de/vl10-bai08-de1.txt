@@ -1,0 +1,171 @@
+VẬT LÍ 10 - CHƯƠNG II. ĐỘNG HỌC - BÀI 8. CHUYỂN ĐỘNG BIẾN ĐỔI. GIA TỐC - ĐỀ 1
+Đề kiểm tra theo cấu trúc thi tốt nghiệp THPT (biên soạn: thầy Lâm Thế Phong, THPT An Thới)
+Thời gian: 50
+
+PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn
+Câu 1. Chuyển động biến đổi là chuyển động có
+A. quỹ đạo là đường thẳng.
+*B. vận tốc thay đổi.
+C. vận tốc không đổi.
+D. quãng đường không đổi.
+
+Câu 2. Gia tốc là đại lượng cho biết
+A. vật chuyển động nhanh hay chậm.
+*B. sự thay đổi nhanh hay chậm của vận tốc theo thời gian.
+C. quãng đường vật đi được trong một đơn vị thời gian.
+D. hướng chuyển động của vật.
+
+Câu 3. Trong hệ SI, đơn vị của gia tốc là
+A. m/s.
+*B. m/s².
+C. km/h.
+D. m².s.
+
+Câu 4. Gia tốc là một đại lượng vectơ vì
+*A. độ biến thiên vận tốc $\Delta\vec{v}$ là một đại lượng vectơ.
+B. gia tốc luôn dương.
+C. gia tốc có đơn vị là m/s².
+D. gia tốc đo được bằng tốc kế.
+
+Câu 5. Chuyển động của vật là nhanh dần khi
+*A. vectơ gia tốc cùng chiều với vectơ vận tốc (a.v > 0).
+B. vectơ gia tốc ngược chiều với vectơ vận tốc (a.v < 0).
+C. gia tốc bằng 0.
+D. vận tốc bằng 0.
+
+Câu 6. Chuyển động của vật là chậm dần khi
+A. a.v > 0.
+*B. a.v < 0.
+C. a = 0.
+D. v không đổi.
+
+Câu 7. Một xe đang chuyển động thẳng với vận tốc 8 m/s thì tăng tốc, sau 4 s đạt vận tốc 14 m/s. Gia tốc của xe là
+A. 2 m/s².
+*B. 1,5 m/s².
+C. 3,5 m/s².
+D. 0,67 m/s².
+Lời giải: $a = \dfrac{14 - 8}{4} = 1{,}5$ m/s².
+
+Câu 8. Một ô tô đang chạy với vận tốc 15 m/s thì hãm phanh, chuyển động chậm dần và dừng lại sau 5 s. Gia tốc của ô tô là
+A. 3 m/s².
+*B. −3 m/s².
+C. −75 m/s².
+D. 0,33 m/s².
+
+Câu 9. Một xe tăng tốc từ 36 km/h lên 72 km/h trong 10 s. Gia tốc của xe là
+*A. 1 m/s².
+B. 3,6 m/s².
+C. 2 m/s².
+D. 10 m/s².
+Lời giải: 36 km/h = 10 m/s; 72 km/h = 20 m/s; $a = \dfrac{20 - 10}{10} = 1$ m/s².
+
+Câu 10. Các phương tiện giao thông như xe máy, ô tô được trang bị tốc kế. Tốc kế là thiết bị đo trực tiếp
+A. gia tốc.
+*B. vận tốc tức thời.
+C. quãng đường.
+D. vận tốc trung bình.
+
+Câu 11. Gia tốc xác định bằng $a = \dfrac{\Delta v}{\Delta t}$ được gọi là gia tốc trung bình. Có thể coi đó là gia tốc tức thời khi
+A. Δt rất lớn.
+*B. Δt rất nhỏ.
+C. Δv = 0.
+D. vật đứng yên.
+
+Câu 12. Trong đời sống, "gia tốc" thường được hiểu là tăng thêm tốc độ. Trong vật lí, gia tốc
+A. chỉ dùng để mô tả sự tăng vận tốc.
+*B. được dùng để mô tả cả sự tăng và sự giảm vận tốc.
+C. chỉ dùng để mô tả sự giảm vận tốc.
+D. không liên quan đến vận tốc.
+
+Câu 13. Ngoài sự thay đổi độ lớn của vận tốc, gia tốc còn được dùng để mô tả
+A. sự thay đổi khối lượng của vật.
+*B. sự thay đổi hướng của vận tốc.
+C. sự thay đổi quỹ đạo thành đường thẳng.
+D. sự thay đổi nhiệt độ của vật.
+
+Câu 14. Hình bên là đồ thị vận tốc – thời gian của một xe chuyển động thẳng. Gia tốc của xe trong 5 s đầu là
+Hình: de/hinh/vl10-b08-h1.svg
+A. 10 m/s².
+*B. 2 m/s².
+C. 0,5 m/s².
+D. 50 m/s².
+Lời giải: $a = \dfrac{10 - 0}{5 - 0} = 2$ m/s².
+
+Câu 15. Hình bên là đồ thị vận tốc – thời gian của một xe chuyển động thẳng. Từ giây thứ 5 đến giây thứ 15, xe
+Hình: de/hinh/vl10-b08-h1.svg
+A. đứng yên.
+*B. chuyển động với vận tốc không đổi 10 m/s, gia tốc bằng 0.
+C. chuyển động nhanh dần.
+D. chuyển động chậm dần.
+
+Câu 16. Hình bên là đồ thị vận tốc – thời gian của một xe chuyển động thẳng. Gia tốc của xe từ giây thứ 15 đến giây thứ 20 là
+Hình: de/hinh/vl10-b08-h1.svg
+A. 2 m/s².
+*B. −2 m/s².
+C. 0.
+D. −10 m/s².
+
+Câu 17. Một xe đang chạy với vận tốc 18 m/s thì chuyển động chậm dần với gia tốc có độ lớn 1,5 m/s². Thời gian từ lúc bắt đầu chậm dần đến khi xe dừng lại là
+A. 27 s.
+*B. 12 s.
+C. 16,5 s.
+D. 19,5 s.
+Lời giải: $\Delta t = \dfrac{0 - 18}{-1{,}5} = 12$ s.
+
+Câu 18. Một xe chuyển động thẳng theo chiều dương và đang chậm dần. Gia tốc của xe
+A. dương.
+*B. âm (ngược chiều với vận tốc).
+C. bằng 0.
+D. cùng chiều với vận tốc.
+
+PHẦN II. Câu trắc nghiệm đúng sai
+Câu 1. Vận tốc tức thời của một ô tô chạy trên đường thẳng được ghi lại sau mỗi 2 s: t (s): 0; 2; 4; 6; 8 – v (m/s): 0; 3; 6; 9; 12.
+a) Độ biến thiên vận tốc sau 8 s là 12 m/s. (Đ)
+b) Gia tốc của ô tô là 1,5 m/s². (Đ)
+c) Ô tô chuyển động chậm dần. (S)
+d) Mỗi giây, vận tốc của ô tô tăng thêm 1,5 m/s. (Đ)
+Lời giải: $a = \dfrac{12 - 0}{8} = 1{,}5$ m/s²; vận tốc tăng dần nên ô tô chuyển động nhanh dần.
+
+Câu 2. Hình bên là đồ thị vận tốc – thời gian của một xe chuyển động thẳng.
+Hình: de/hinh/vl10-b08-h1.svg
+a) Trong 5 s đầu, xe chuyển động nhanh dần với gia tốc 2 m/s². (Đ)
+b) Từ giây thứ 5 đến giây thứ 15, vận tốc của xe không đổi và bằng 10 m/s. (Đ)
+c) Từ giây thứ 15 đến giây thứ 20, gia tốc của xe là 2 m/s². (S)
+d) Từ giây thứ 15 đến giây thứ 20, tích a.v < 0. (Đ)
+Lời giải: Từ 15 s đến 20 s: $a = \dfrac{0 - 10}{5} = -2$ m/s², v > 0 nên a.v < 0: chuyển động chậm dần.
+
+Câu 3. Một con ngựa đang phi với vận tốc 12 m/s thì chuyển động chậm dần; sau 4 s, vận tốc của nó còn 4 m/s.
+a) Độ biến thiên vận tốc trong 4 s đó là −8 m/s. (Đ)
+b) Gia tốc của con ngựa là −2 m/s². (Đ)
+c) Vectơ gia tốc cùng chiều với vectơ vận tốc. (S)
+d) Nếu tiếp tục chậm dần với gia tốc đó thì sau 2 s nữa con ngựa dừng lại. (Đ)
+Lời giải: $a = \dfrac{4 - 12}{4} = -2$ m/s², ngược chiều vận tốc. Thời gian còn lại: $\dfrac{0 - 4}{-2} = 2$ s.
+
+Câu 4. Về gia tốc:
+a) Gia tốc cho biết vận tốc thay đổi nhanh hay chậm. (Đ)
+b) Vật có gia tốc càng lớn thì vận tốc của vật càng lớn. (S)
+c) Một xe chuyển động thẳng với vận tốc không đổi có gia tốc bằng 0. (Đ)
+d) Đơn vị của gia tốc trong hệ SI là m/s². (Đ)
+Lời giải: Gia tốc lớn nghĩa là vận tốc thay đổi nhanh, không phải vận tốc lớn.
+
+PHẦN III. Câu trắc nghiệm trả lời ngắn
+Câu 1. Một ô tô đang chạy với vận tốc 54 km/h thì hãm phanh và dừng lại sau 5 s. Độ lớn gia tốc của ô tô là bao nhiêu m/s²?
+Đáp án: 3
+Lời giải: 54 km/h = 15 m/s; $|a| = \dfrac{15}{5} = 3$ m/s².
+
+Câu 2. Một xe bắt đầu chuyển động nhanh dần từ trạng thái đứng yên với gia tốc 2,5 m/s². Sau 4 s, vận tốc của xe là bao nhiêu m/s?
+Đáp án: 10
+
+Câu 3. Một xe đang có vận tốc 5 m/s thì tăng tốc với gia tốc 0,5 m/s². Sau bao nhiêu giây xe đạt vận tốc 9 m/s?
+Đáp án: 8
+Lời giải: $\Delta t = \dfrac{9 - 5}{0{,}5} = 8$ s.
+
+Câu 4. Một xe tăng tốc từ 18 km/h lên 54 km/h trong 5 s. Gia tốc của xe là bao nhiêu m/s²?
+Đáp án: 2
+Lời giải: 5 m/s → 15 m/s; $a = \dfrac{10}{5} = 2$ m/s².
+
+Câu 5. Một xe đang chạy với vận tốc 20 m/s thì chuyển động chậm dần với gia tốc −4 m/s². Sau bao nhiêu giây xe dừng lại?
+Đáp án: 5
+
+Câu 6. Vận tốc của một quả bóng tăng thêm 12 m/s trong thời gian 0,5 s khi bị đá. Độ lớn gia tốc trung bình của quả bóng trong thời gian đó là bao nhiêu m/s²?
+Đáp án: 24

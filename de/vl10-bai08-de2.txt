@@ -1,0 +1,171 @@
+VẬT LÍ 10 - CHƯƠNG II. ĐỘNG HỌC - BÀI 8. CHUYỂN ĐỘNG BIẾN ĐỔI. GIA TỐC - ĐỀ 2
+Đề kiểm tra theo cấu trúc thi tốt nghiệp THPT (biên soạn: thầy Lâm Thế Phong, THPT An Thới)
+Thời gian: 50
+
+PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn
+Câu 1. Một ô tô đang đứng yên, bắt đầu chuyển động. Trong giai đoạn đầu, ô tô
+*A. chuyển động nhanh dần (vận tốc tăng dần).
+B. chuyển động chậm dần.
+C. chuyển động với vận tốc không đổi.
+D. đứng yên.
+
+Câu 2. Chuyển động nào sau đây là chuyển động biến đổi?
+A. Một xe chạy thẳng với tốc độ không đổi 40 km/h.
+*B. Một xe đang hãm phanh để dừng lại trước đèn đỏ.
+C. Một quyển sách nằm yên trên bàn.
+D. Một xe chạy thẳng, mỗi giây đi được 10 m.
+
+Câu 3. Gia tốc của chuyển động được tính theo công thức
+A. $a = \dfrac{v_t + v_0}{t - t_0}$.
+*B. $a = \dfrac{v_t - v_0}{t - t_0}$.
+C. $a = (v_t - v_0)(t - t_0)$.
+D. $a = \dfrac{t - t_0}{v_t - v_0}$.
+
+Câu 4. Nếu Δv có đơn vị là m/s và Δt có đơn vị là s thì gia tốc có đơn vị là
+A. m/s.
+*B. m/s² (m.s⁻²).
+C. m.s.
+D. s/m.
+
+Câu 5. Một vật có gia tốc bằng 0 thì
+*A. vận tốc của vật không đổi.
+B. vật chắc chắn đứng yên.
+C. vận tốc của vật tăng dần.
+D. vận tốc của vật giảm dần.
+
+Câu 6. Khi vectơ gia tốc ngược chiều với vectơ vận tốc thì vật
+A. chuyển động nhanh dần.
+*B. chuyển động chậm dần.
+C. chuyển động với vận tốc không đổi.
+D. đứng yên.
+
+Câu 7. Một xe bắt đầu chuyển động từ trạng thái đứng yên, sau 8 s đạt vận tốc 20 m/s. Gia tốc của xe là
+A. 160 m/s².
+*B. 2,5 m/s².
+C. 0,4 m/s².
+D. 12 m/s².
+
+Câu 8. Một đoàn tàu đang chạy với vận tốc 72 km/h thì hãm phanh, chuyển động chậm dần và dừng lại sau 40 s. Gia tốc của đoàn tàu là
+A. −1,8 m/s².
+*B. −0,5 m/s².
+C. 0,5 m/s².
+D. −2 m/s².
+Lời giải: 72 km/h = 20 m/s; $a = \dfrac{0 - 20}{40} = -0{,}5$ m/s².
+
+Câu 9. Một vận động viên chạy nước rút tăng tốc từ trạng thái đứng yên lên 10 m/s trong 2 s. Gia tốc trung bình của vận động viên là
+A. 20 m/s².
+*B. 5 m/s².
+C. 0,2 m/s².
+D. 12 m/s².
+
+Câu 10. Vận tốc của một vật chuyển động thẳng theo thời gian: t (s): 0; 1; 2; 3 – v (m/s): 2; 5; 8; 11. Gia tốc của vật là
+A. 2 m/s².
+*B. 3 m/s².
+C. 11 m/s².
+D. 3,67 m/s².
+
+Câu 11. Hình bên là đồ thị vận tốc – thời gian của một vật chuyển động thẳng. Tại thời điểm t = 0, vận tốc của vật là
+Hình: de/hinh/vl10-b08-h2.svg
+A. 0.
+*B. 4 m/s.
+C. 16 m/s.
+D. −8 m/s.
+
+Câu 12. Hình bên là đồ thị vận tốc – thời gian của một vật chuyển động thẳng. Gia tốc của vật trong 6 s đầu là
+Hình: de/hinh/vl10-b08-h2.svg
+A. 2,67 m/s².
+*B. 2 m/s².
+C. 4 m/s².
+D. 12 m/s².
+Lời giải: $a = \dfrac{16 - 4}{6 - 0} = 2$ m/s².
+
+Câu 13. Hình bên là đồ thị vận tốc – thời gian của một vật chuyển động thẳng. Từ giây thứ 6 đến giây thứ 10, vật
+Hình: de/hinh/vl10-b08-h2.svg
+A. đứng yên.
+*B. chuyển động với vận tốc không đổi 16 m/s.
+C. chuyển động nhanh dần.
+D. chuyển động chậm dần.
+
+Câu 14. Hình bên là đồ thị vận tốc – thời gian của một vật chuyển động thẳng. Gia tốc của vật từ giây thứ 10 đến giây thứ 14 là
+Hình: de/hinh/vl10-b08-h2.svg
+A. 4 m/s².
+*B. −4 m/s².
+C. −16 m/s².
+D. 0.
+
+Câu 15. Hình bên là đồ thị vận tốc – thời gian của một vật chuyển động thẳng. Nhận xét nào đúng về chuyển động của vật từ giây thứ 14 đến giây thứ 16?
+Hình: de/hinh/vl10-b08-h2.svg
+A. Vật đứng yên.
+B. Vật chuyển động theo chiều dương, chậm dần.
+*C. Vật chuyển động ngược chiều dương và độ lớn vận tốc tăng dần.
+D. Vật chuyển động theo chiều dương, nhanh dần.
+Lời giải: Từ 14 s, v < 0 (vật đã đổi chiều) và |v| tăng từ 0 đến 8 m/s; a = −4 m/s² cùng chiều v nên a.v > 0: nhanh dần.
+
+Câu 16. Gia tốc trung bình $a = \dfrac{\Delta v}{\Delta t}$ có thể coi là gia tốc tức thời khi
+A. Δv rất lớn.
+*B. Δt rất nhỏ.
+C. vận tốc bằng 0.
+D. Δt rất lớn.
+
+Câu 17. Xe A tăng tốc từ 0 lên 20 m/s trong 10 s; xe B tăng tốc từ 0 lên 20 m/s trong 5 s. Nhận xét nào đúng?
+A. Hai xe có gia tốc bằng nhau.
+B. Xe A có gia tốc lớn hơn.
+*C. Xe B có gia tốc lớn hơn (4 m/s² so với 2 m/s²).
+D. Không so sánh được.
+
+Câu 18. Một xe chuyển động thẳng theo chiều dương có gia tốc −2 m/s². Xe đang
+A. chuyển động nhanh dần.
+*B. chuyển động chậm dần, mỗi giây vận tốc giảm 2 m/s.
+C. chuyển động với vận tốc không đổi.
+D. đứng yên.
+
+PHẦN II. Câu trắc nghiệm đúng sai
+Câu 1. Hình bên là đồ thị vận tốc – thời gian của một vật chuyển động thẳng.
+Hình: de/hinh/vl10-b08-h2.svg
+a) Trong 6 s đầu, vật chuyển động nhanh dần. (Đ)
+b) Từ giây thứ 6 đến giây thứ 10, gia tốc của vật bằng 0. (Đ)
+c) Từ giây thứ 10 đến giây thứ 14, gia tốc của vật là −4 m/s². (Đ)
+d) Từ giây thứ 14 đến giây thứ 16, vật chuyển động chậm dần. (S)
+Lời giải: Từ 14 s đến 16 s, độ lớn vận tốc tăng từ 0 đến 8 m/s (theo chiều âm): vật chuyển động nhanh dần.
+
+Câu 2. Một xe máy đang chuyển động thẳng với vận tốc 10 m/s thì tăng tốc; sau 5 s đạt vận tốc 15 m/s. Sau đó xe chuyển động chậm dần với gia tốc có độ lớn bằng gia tốc lúc tăng tốc.
+a) Gia tốc của xe khi tăng tốc là 1 m/s². (Đ)
+b) Gia tốc của xe khi chậm dần là −1 m/s². (Đ)
+c) Kể từ lúc bắt đầu chậm dần, xe dừng lại sau 15 s. (Đ)
+d) Trong giai đoạn chậm dần, vectơ gia tốc cùng chiều với vectơ vận tốc. (S)
+Lời giải: $a_1 = \dfrac{15 - 10}{5} = 1$ m/s²; $\Delta t' = \dfrac{0 - 15}{-1} = 15$ s. Khi chậm dần, a ngược chiều v.
+
+Câu 3. Vận tốc tức thời của một ô tô chạy thẳng được ghi lại: t = 0: 0; t = 2 s: 4 m/s; t = 5 s: 10 m/s; t = 7 s: 10 m/s; t = 9 s: 4 m/s.
+a) Từ 0 đến 2 s, gia tốc của ô tô là 2 m/s². (Đ)
+b) Từ 2 s đến 5 s, gia tốc của ô tô là 2 m/s². (Đ)
+c) Từ 5 s đến 7 s, gia tốc của ô tô bằng 0. (Đ)
+d) Từ 7 s đến 9 s, gia tốc của ô tô là 3 m/s². (S)
+Lời giải: Từ 7 s đến 9 s: $a = \dfrac{4 - 10}{2} = -3$ m/s² (chậm dần).
+
+Câu 4. Về gia tốc:
+a) Gia tốc là một đại lượng vectơ. (Đ)
+b) Khi a.v > 0, vật chuyển động nhanh dần. (Đ)
+c) Vật có gia tốc âm thì luôn chuyển động chậm dần. (S)
+d) Gia tốc còn được dùng để mô tả sự thay đổi hướng của vận tốc. (Đ)
+Lời giải: Nếu vật chuyển động ngược chiều dương (v < 0) và a < 0 thì a.v > 0: vật chuyển động nhanh dần.
+
+PHẦN III. Câu trắc nghiệm trả lời ngắn
+Câu 1. Vận tốc của một vật chuyển động thẳng tăng từ 6 m/s lên 18 m/s trong 4 s. Gia tốc của vật là bao nhiêu m/s²?
+Đáp án: 3
+
+Câu 2. Một ô tô đang chạy với vận tốc 72 km/h thì hãm phanh và dừng lại sau 8 s. Độ lớn gia tốc của ô tô là bao nhiêu m/s²?
+Đáp án: 2,5|2.5
+
+Câu 3. Một xe đang chạy với vận tốc 2 m/s thì tăng tốc với gia tốc 1,5 m/s². Vận tốc của xe sau 6 s là bao nhiêu m/s?
+Đáp án: 11
+Lời giải: $v = 2 + 1{,}5\cdot 6 = 11$ m/s.
+
+Câu 4. Một xe đang chạy với vận tốc 24 m/s thì chuyển động chậm dần với gia tốc −3 m/s². Sau bao nhiêu giây xe dừng lại?
+Đáp án: 8
+
+Câu 5. Vận tốc của một xe tăng từ 36 km/h lên 90 km/h. Độ biến thiên vận tốc của xe là bao nhiêu m/s?
+Đáp án: 15
+Lời giải: 10 m/s → 25 m/s: Δv = 15 m/s.
+
+Câu 6. Một xe tăng tốc với gia tốc 0,8 m/s². Thời gian để vận tốc của xe tăng từ 4 m/s lên 12 m/s là bao nhiêu giây?
+Đáp án: 10
