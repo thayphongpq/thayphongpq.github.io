@@ -17,7 +17,7 @@ const THONG_TIN = {
   truong: "THPT An Thới",
 
   // Dòng thông báo trên đầu trang. Để "" nếu không có thông báo.
-  thongBao: "Mới: 6 bài học song ngữ Việt – Anh, đố vui từ vựng, phụ đề tiếng Anh cho video, thí nghiệm ảo và chạy Python ngay trên trang.",
+  thongBao: "Mới: mục Song ngữ chia theo lớp 10 – 11 – 12, khóa Tiếng Anh cho giáo viên Lý – Tin, đố vui từ vựng và phụ đề tiếng Anh cho video.",
 
   gioiThieu: "Nơi tập hợp bài giảng, tài liệu và đề ôn luyện môn Vật lý, Tin học dành cho học sinh THPT.",
 
@@ -110,16 +110,28 @@ const DE_THI = [
 
 /* ---------- BÀI HỌC SONG NGỮ VIỆT - ANH (đọc trực tiếp trên trang) ----------
    Mỗi bài là một tệp .json trong thư mục bai/ (soạn bằng Công cụ thêm bài, mục "Bài học song ngữ").
-   Học sinh chọn xem Tiếng Việt, English hoặc Song ngữ; có thẻ thuật ngữ kèm phát âm. */
+   Học sinh chọn xem Tiếng Việt, English hoặc Song ngữ; có thẻ thuật ngữ kèm phát âm.
+   Trang "Song ngữ" chia theo lớp: Vật lý 10-12, Tin học 10-12 và khóa giáo viên (lop: "GV").
+   chuong: tên chương để xếp nhóm (có thể bỏ trống); soBai: số thứ tự bài trong sách để xếp thứ tự. */
 const BAI_HOC = [
   // ▼▼▼ DÁN BÀI HỌC MỚI NGAY DƯỚI DÒNG NÀY ▼▼▼
+
+  // ----- Khóa "Tiếng Anh cho giáo viên Lý – Tin" -----
+  { ten: "Bài 1. Đọc số, số thập phân và đơn vị đo", tenEn: "Reading numbers, decimals and units", mon: "Tiếng Anh", lop: "GV", chuong: "Phần 1. Nền tảng: đọc số và công thức", soBai: 1, tep: "bai/gv1-doc-so-va-don-vi.json", ngay: "2026-11-19" },
+  { ten: "Bài 2. Đọc công thức bằng tiếng Anh", tenEn: "Reading formulas aloud", mon: "Tiếng Anh", lop: "GV", chuong: "Phần 1. Nền tảng: đọc số và công thức", soBai: 2, tep: "bai/gv2-doc-cong-thuc.json", ngay: "2026-11-19" },
+  { ten: "Bài 3. Câu nói thường dùng trong lớp học", tenEn: "Everyday classroom language", mon: "Tiếng Anh", lop: "GV", chuong: "Phần 2. Ngôn ngữ trong lớp học", soBai: 3, tep: "bai/gv3-cau-noi-trong-lop.json", ngay: "2026-11-19" },
+  { ten: "Bài 4. Đặt câu hỏi và nhận xét học sinh", tenEn: "Asking questions and giving feedback", mon: "Tiếng Anh", lop: "GV", chuong: "Phần 2. Ngôn ngữ trong lớp học", soBai: 4, tep: "bai/gv4-dat-cau-hoi-nhan-xet.json", ngay: "2026-11-19" },
+  { ten: "Bài 5. Dạy một bài Vật lý bằng tiếng Anh", tenEn: "Teaching a physics lesson in English", mon: "Tiếng Anh", lop: "GV", chuong: "Phần 3. Dạy theo môn học", soBai: 5, tep: "bai/gv5-day-bai-vat-ly.json", ngay: "2026-11-19" },
+  { ten: "Bài 6. Dạy Tin học và lập trình bằng tiếng Anh", tenEn: "Teaching IT and programming in English", mon: "Tiếng Anh", lop: "GV", chuong: "Phần 3. Dạy theo môn học", soBai: 6, tep: "bai/gv6-day-bai-tin-hoc.json", ngay: "2026-11-19" },
+
+  // ----- Bài học song ngữ theo lớp -----
 
   { ten: "Chuyển động thẳng biến đổi đều", tenEn: "Uniformly accelerated linear motion", mon: "Vật lý", lop: "10", tep: "bai/vl10-chuyen-dong-bien-doi-deu.json", ngay: "2026-11-19" },
   { ten: "Dao động điều hòa", tenEn: "Simple harmonic motion", mon: "Vật lý", lop: "11", tep: "bai/vl11-dao-dong-dieu-hoa.json", ngay: "2026-11-19" },
   { ten: "Khí lí tưởng và phương trình trạng thái", tenEn: "Ideal gases and the equation of state", mon: "Vật lý", lop: "12", tep: "bai/vl12-khi-li-tuong.json", ngay: "2026-11-19" },
-  { ten: "Câu lệnh rẽ nhánh if trong Python", tenEn: "The if statement in Python", mon: "Tin học", lop: "10", tep: "bai/tin10-cau-lenh-if.json", ngay: "2026-11-19" },
+  { ten: "Câu lệnh rẽ nhánh if trong Python", tenEn: "The if statement in Python", mon: "Tin học", lop: "10", soBai: 2, tep: "bai/tin10-cau-lenh-if.json", ngay: "2026-11-19" },
   { ten: "Thuật toán tìm kiếm nhị phân", tenEn: "The binary search algorithm", mon: "Tin học", lop: "11", tep: "bai/tin11-tim-kiem-nhi-phan.json", ngay: "2026-11-19" },
-  { ten: "Biến và kiểu dữ liệu trong Python", tenEn: "Variables and data types in Python", mon: "Tin học", lop: "10", tep: "bai/mau-bien-va-kieu-du-lieu.json", ngay: "2026-11-19" }
+  { ten: "Biến và kiểu dữ liệu trong Python", tenEn: "Variables and data types in Python", mon: "Tin học", lop: "10", soBai: 1, tep: "bai/mau-bien-va-kieu-du-lieu.json", ngay: "2026-11-19" }
 ];
 
 /* ---------- THÍ NGHIỆM ẢO (mô phỏng PhET tiếng Việt, chạy ngay trên trang) ----------

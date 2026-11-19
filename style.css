@@ -362,6 +362,8 @@ pre.ma[data-lang]::before { content: attr(data-lang); position: absolute; top: 6
 .phu-de__ghi { margin: 8px 0 0; font-size: 14px; }
 .xem__en { margin: 2px 0 6px; color: #2b3f55; font-style: italic; }
 
+.thu-muc__the--gv { background: var(--hsg-nhat); }
+
 /* Đố vui từ vựng */
 .do-vui { background: var(--trang); border: 1px solid var(--vien); border-left: 6px solid var(--tin); border-radius: 12px; padding: 18px 20px; }
 .do-vui > p { margin: 0 0 4px; color: var(--mo); }

@@ -41,7 +41,7 @@
     return String(b.ngay || "").localeCompare(String(a.ngay || ""));
   }
   function mauMon(mon, lop) {
-    if (lop === "HSG") return "mau-hsg";
+    if (lop === "HSG" || lop === "GV") return "mau-hsg";
     return mon === "Tin học" ? "mau-tin" : "mau-ly";
   }
   // Bài HSG chia hai cấp: THCS và THPT (không ghi cap thì tính là THPT).
@@ -49,7 +49,7 @@
     return String(x.cap || "").trim().toUpperCase() === "THCS" ? "THCS" : "THPT";
   }
   function tenLop(x) {
-    return x.lop === "HSG" ? "HSG " + capCua(x) : "Lớp " + x.lop;
+    return x.lop === "HSG" ? "HSG " + capCua(x) : x.lop === "GV" ? "Dành cho giáo viên" : "Lớp " + x.lop;
   }
   // Thứ tự học trong thư mục HSG: bài cũ trước, bài mới sau.
   function theoThuTuHoc(a, b) {
@@ -257,7 +257,20 @@
       '<span class="ds__ten"><b>' + esc(b.ten) + '</b><span class="phu">' + esc(b.mon) + " · " + esc(tenLop(b)) + (b.tenEn ? " · " + esc(b.tenEn) : "") + "</span></span>" +
       (b.tep ? '<a class="ds__mo" href="#/bai/' + esc(b.slug) + '">Đọc bài ›</a>' : '<span class="sap-co">Sắp có</span>') + "</li>";
   }
-  function veLaiBai() { return "#/song-ngu"; }
+  // Các nhóm của trang Học song ngữ: 6 lớp + khóa tiếng Anh cho giáo viên (lop: "GV").
+  const NHOM_SN = [
+    { khoa: "vat-ly-10", mon: "Vật lý", lop: "10", ten: "Vật lý 10" },
+    { khoa: "vat-ly-11", mon: "Vật lý", lop: "11", ten: "Vật lý 11" },
+    { khoa: "vat-ly-12", mon: "Vật lý", lop: "12", ten: "Vật lý 12" },
+    { khoa: "tin-hoc-10", mon: "Tin học", lop: "10", ten: "Tin học 10" },
+    { khoa: "tin-hoc-11", mon: "Tin học", lop: "11", ten: "Tin học 11" },
+    { khoa: "tin-hoc-12", mon: "Tin học", lop: "12", ten: "Tin học 12" },
+    { khoa: "giao-vien", mon: "Tiếng Anh", lop: "GV", ten: "Tiếng Anh cho giáo viên Lý – Tin" }
+  ];
+  function khoaSN(b) { return b.lop === "GV" ? "giao-vien" : duongMon(b.mon) + "-" + b.lop; }
+  function nhomSN(khoa) { return NHOM_SN.find(function (n) { return n.khoa === khoa; }); }
+  function veLaiBai(b) { return b && nhomSN(khoaSN(b)) ? "#/song-ngu/" + khoaSN(b) : "#/song-ngu"; }
+  function tenVeLaiBai(b) { const n = b && nhomSN(khoaSN(b)); return n ? n.ten : "Học song ngữ"; }
 
   /* ----- Trang Học song ngữ: bài học song ngữ + từ điển thuật ngữ ----- */
   function theTu(t) {
@@ -268,20 +281,55 @@
       return theTu(t).replace("<article ", '<article data-tim="' + esc(boDau(t.en + " " + t.vi)) + '" ');
     }).join("") + "</div>";
   }
-  function trangSongNgu() {
+  function trangSongNgu(phu) {
+    if (phu) return trangNhomSN(phu);
     document.title = "Học song ngữ - " + THONG_TIN.tenTrang;
-    const hop = function (x) { return (!boLoc.mon || x.mon === boLoc.mon) && (!boLoc.lop || x.lop === boLoc.lop); };
-    const bai = dsBai.filter(hop), tu = TV.filter(hop);
-    return dauMuc("Học song ngữ Việt – Anh", "Học Vật lý và Tin học bằng hai ngôn ngữ: đọc bài ở chế độ Tiếng Việt, English hoặc Song ngữ; tra thuật ngữ và bấm loa để nghe phát âm.") +
-      '<div class="loc">' + hangLoc("Môn", "mon", ["Vật lý", "Tin học"]) + hangLoc("Lớp", "lop", ["10", "11", "12"]) + "</div>" +
-      khoi("Bài học song ngữ", bai.length ? '<ul class="ds">' + bai.map(dongBai).join("") + "</ul>" : '<div class="trong">Bài học song ngữ ở mục này đang được biên soạn, sắp có.</div>') +
-      khoi("Từ điển thuật ngữ Lý – Tin", tu.length
+    const tu = TV.filter(hopSongNgu);
+    return dauMuc("Học song ngữ Việt – Anh", "Học Vật lý và Tin học bằng hai ngôn ngữ: đọc bài ở chế độ Tiếng Việt, English hoặc Song ngữ; tra thuật ngữ và bấm loa để nghe phát âm. Chọn lớp để vào học.") +
+      '<div class="thu-muc thu-muc--ba">' + NHOM_SN.map(theNhomSN).join("") + "</div>" +
+      khoi("Từ điển thuật ngữ Lý – Tin", '<div class="loc">' + hangLoc("Môn", "mon", ["Vật lý", "Tin học"]) + hangLoc("Lớp", "lop", ["10", "11", "12"]) + "</div>" + tuDienHTML(tu), "", "", "tu-dien") +
+      (tu.length >= 4 ? khoi("Đố vui từ vựng", doVuiBatDauHTML(tu.length)) : "") +
+      taiNguyenEnHTML();
+  }
+  function theNhomSN(n) {
+    const bai = dsBai.filter(function (b) { return khoaSN(b) === n.khoa; }).length;
+    const tu = TV.filter(function (t) { return t.mon === n.mon && t.lop === n.lop; }).length;
+    const gv = n.lop === "GV";
+    return '<a class="thu-muc__the ' + mauMon(n.mon, n.lop) + (gv ? " thu-muc__the--gv" : "") + '" href="#/song-ngu/' + n.khoa + '"><span class="thu-muc__cap">' + esc(gv ? "Giáo viên" : "Lớp " + n.lop) + "</span>" +
+      "<h2>" + esc(n.ten) + "</h2><p>" + esc(gv ? "Dành cho thầy cô chưa quen tiếng Anh: học từ căn bản để dạy Vật lý, Tin học bằng tiếng Anh." : "Bài học song ngữ theo sách giáo khoa, thuật ngữ và đố vui từ vựng.") + "</p>" +
+      '<span class="phu">' + bai + " bài" + (gv ? "" : " · " + tu + " thuật ngữ") + '</span><span class="thu-muc__vao">Vào học ›</span></a>';
+  }
+  // Trang của một lớp (hoặc khóa giáo viên): bài học xếp theo chương, thuật ngữ, đố vui.
+  function trangNhomSN(khoa) {
+    const n = nhomSN(khoa);
+    if (!n) return khongThay();
+    const gv = n.lop === "GV";
+    document.title = n.ten + " - Song ngữ - " + THONG_TIN.tenTrang;
+    boLoc.mon = gv ? "" : n.mon;
+    boLoc.lop = n.lop;
+    const bai = dsBai.filter(function (b) { return khoaSN(b) === khoa; }).sort(function (a, b) {
+      return (Number(a.soBai) || 999) - (Number(b.soBai) || 999) || b.thuTu - a.thuTu;
+    });
+    const chuong = duyNhat(bai.map(function (b) { return { c: b.chuong || "Bài học" }; }), "c");
+    const tu = TV.filter(hopSongNgu);
+    return '<a class="quay-lai" href="#/song-ngu">‹ Học song ngữ</a>' +
+      dauMuc(n.ten + (gv ? "" : " – Song ngữ Việt – Anh"), gv
+        ? "Khóa học dành cho thầy cô Vật lý, Tin học chưa quen tiếng Anh: bắt đầu từ cách đọc số, đọc công thức, câu nói trong lớp học… Mỗi bài có chế độ Song ngữ (tiếng Việt đặt cạnh tiếng Anh) và nút loa để nghe phát âm từng câu."
+        : "Mỗi bài có 3 chế độ: Tiếng Việt, English và Song ngữ (hai thứ tiếng đặt cạnh nhau), kèm thẻ thuật ngữ có phát âm.") +
+      (gv ? '<div class="song-ngu-gt"><p><b>Cách học gợi ý:</b> đọc bài ở chế độ <b>Song ngữ</b>; bấm loa ở các thẻ cuối bài, nghe và nói theo 3 lần; mỗi tuần học 1 bài và dùng thử vài câu trong giờ dạy.</p></div><div style="height:24px"></div>' : "") +
+      (bai.length ? chuong.map(function (c) {
+        return khoi(c, '<ul class="ds">' + bai.filter(function (b) { return (b.chuong || "Bài học") === c; }).map(dongBai).join("") + "</ul>");
+      }).join("") : khoi("Bài học", '<div class="trong">Bài học song ngữ của ' + esc(n.ten) + " đang được biên soạn theo sách giáo khoa mới, sắp có.</div>")) +
+      (gv ? "" : khoi("Thuật ngữ " + n.ten, tuDienHTML(tu), "", "", "tu-dien")) +
+      (tu.length >= 4 ? khoi("Đố vui từ vựng", doVuiBatDauHTML(tu.length)) : "") +
+      taiNguyenEnHTML();
+  }
+  function tuDienHTML(tu) {
+    return tu.length
         ? '<div class="tv-cong-cu"><input type="search" id="tim-tu" placeholder="Tìm thuật ngữ (tiếng Việt hoặc tiếng Anh)…" aria-label="Tìm thuật ngữ">' +
           '<button type="button" class="chip" id="nut-an-nghia" aria-pressed="false">Tự kiểm tra: che nghĩa</button>' +
           '<span class="tv-dem" id="tv-dem">' + tu.length + " thuật ngữ</span></div>" + luoiTu(tu)
-        : '<div class="trong">Chưa có thuật ngữ ở mục này.</div>', "", "", "tu-dien") +
-      (tu.length >= 4 ? khoi("Đố vui từ vựng", doVuiBatDauHTML(tu.length)) : "") +
-      taiNguyenEnHTML();
+        : '<div class="trong">Chưa có thuật ngữ ở mục này.</div>';
   }
   // Tài nguyên học bằng tiếng Anh (danh sách trong noi-dung.js, mục HOC_TIENG_ANH).
   function taiNguyenEnHTML() {
@@ -361,7 +409,7 @@
     const b = dsBai.find(function (x) { return x.slug === slug && x.tep; });
     if (!b) return khongThay();
     document.title = b.ten + " - " + THONG_TIN.tenTrang;
-    return '<a class="quay-lai" href="' + veLaiBai(b) + '">‹ Học song ngữ</a><div id="bai-hoc" data-slug="' + esc(slug) + '"><p class="phu">Đang tải bài học…</p></div>';
+    return '<a class="quay-lai" href="' + veLaiBai(b) + '">‹ ' + esc(tenVeLaiBai(b)) + '</a><div id="bai-hoc" data-slug="' + esc(slug) + '"><p class="phu">Đang tải bài học…</p></div>';
   }
   function moBai(slug) {
     const b = dsBai.find(function (x) { return x.slug === slug && x.tep; });
@@ -1208,7 +1256,7 @@
     if (ten === "bai") return trangBai(phu);
     if (ten === "tro-choi") return trangTroChoi(phu);
     if (ten === "doc") return docTaiLieu(phu);
-    if (ten === "song-ngu") return trangSongNgu();
+    if (ten === "song-ngu") return trangSongNgu(phu);
     if (ten === "thi-nghiem") return trangThiNghiem(phu);
     if (ten === "ket-qua") return trangKetQua();
     if (ten === "python") return trangPython();
