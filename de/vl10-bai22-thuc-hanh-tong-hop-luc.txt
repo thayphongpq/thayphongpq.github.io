@@ -1,0 +1,84 @@
+VẬT LÍ 10 - CHƯƠNG III. ĐỘNG LỰC HỌC - BÀI 22. THỰC HÀNH: TỔNG HỢP LỰC
+Đề luyện tập theo cấu trúc thi tốt nghiệp THPT (biên soạn: thầy Lâm Thế Phong, THPT An Thới)
+Thời gian: 20
+
+PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn
+Câu 1. Thí nghiệm tổng hợp hai lực đồng quy nhằm kiểm nghiệm
+A. định luật 3 Newton.
+*B. quy tắc hình bình hành.
+C. quy tắc moment lực.
+D. định luật 1 Newton.
+
+Câu 2. Trong thí nghiệm tổng hợp lực, dụng cụ dùng để đo độ lớn của các lực là
+A. thước đo góc.
+B. thước thẳng.
+C. đồng hồ đo thời gian.
+*D. lực kế.
+
+Câu 3. Trong thí nghiệm tổng hợp hai lực đồng quy, dụng cụ dùng để xác định góc hợp bởi hai lực là
+*A. thước đo góc.
+B. lực kế.
+C. cân điện tử.
+D. quả nặng.
+
+Câu 4. Trong thí nghiệm tổng hợp hai lực đồng quy, người ta dùng hai lực kế kéo điểm nút O của các sợi dây đến một vị trí đã đánh dấu, sau đó thay bằng một lực kế duy nhất. Lực đo bởi lực kế duy nhất là hợp lực của hai lực ban đầu khi
+A. lực kế duy nhất được kéo theo phương thẳng đứng.
+B. số chỉ của lực kế duy nhất bằng tổng số chỉ của hai lực kế.
+*C. điểm nút O được kéo đến đúng vị trí đã đánh dấu như trước.
+D. lực kế duy nhất được kéo vuông góc với một trong hai dây cũ.
+Lời giải: Hợp lực phải có tác dụng giống hệt hai lực thành phần, thể hiện qua việc điểm nút O ở đúng vị trí cũ.
+
+Câu 5. Trong một lần thí nghiệm, hai lực kế chỉ $F_1 = 3{,}0$ N và $F_2 = 4{,}0$ N, hai lực vuông góc với nhau. Theo quy tắc hình bình hành, hợp lực của hai lực này có độ lớn là
+A. 7,0 N.
+B. 1,0 N.
+C. 3,5 N.
+*D. 5,0 N.
+Lời giải: $F = \sqrt{3{,}0^2 + 4{,}0^2} = 5{,}0$ N.
+
+Câu 6. Hai lực song song, cùng chiều, có độ lớn $F_1 = 2$ N và $F_2 = 3$ N tác dụng vào một vật rắn. Hợp lực của chúng
+*A. song song, cùng chiều với hai lực và có độ lớn 5 N.
+B. song song, ngược chiều với hai lực và có độ lớn 1 N.
+C. song song, cùng chiều với hai lực và có độ lớn 1 N.
+D. vuông góc với hai lực và có độ lớn $\sqrt{13}$ N.
+
+Câu 7. Hai lực song song, cùng chiều, có độ lớn $F_1 = 2$ N và $F_2 = 3$ N, giá của hai lực cách nhau 50 cm. Giá của hợp lực nằm trong khoảng giữa hai giá và cách giá của lực $F_1$ một đoạn
+A. 20 cm.
+*B. 30 cm.
+C. 25 cm.
+D. 40 cm.
+Lời giải: $F_1 d_1 = F_2 d_2$ và $d_1 + d_2 = 50$ cm $\Rightarrow 2d_1 = 3(50 - d_1) \Rightarrow d_1 = 30$ cm.
+
+Câu 8. Trong một lần thí nghiệm, hợp lực đo được bằng lực kế là 4,8 N, còn hợp lực tính theo quy tắc hình bình hành là 5,0 N. Độ chênh lệch tương đối giữa giá trị đo và giá trị tính toán là
+A. 2%.
+B. 0,2%.
+*C. 4%.
+D. 5%.
+Lời giải: $\dfrac{|5{,}0 - 4{,}8|}{5{,}0} \cdot 100\% = 4\%$.
+
+PHẦN II. Câu trắc nghiệm đúng sai
+Câu 1. Trong thí nghiệm tổng hợp hai lực đồng quy, một nhóm học sinh đo được $F_1 = 2{,}0$ N, $F_2 = 2{,}0$ N, góc giữa hai lực là 60°; số chỉ của lực kế đo hợp lực là 3,4 N.
+a) Hợp lực tính theo quy tắc hình bình hành có độ lớn xấp xỉ 3,5 N. (Đ)
+b) Kết quả đo phù hợp với quy tắc hình bình hành trong phạm vi sai số của phép đo. (Đ)
+c) Nếu tăng góc giữa hai lực (giữ nguyên độ lớn hai lực) thì số chỉ của lực kế đo hợp lực tăng lên. (S)
+d) Hợp lực đo được có thể lớn hơn tổng $F_1 + F_2$. (S)
+Lời giải: $F = 2 \cdot 2{,}0 \cdot \cos 30° = 2\sqrt{3} \approx 3{,}46$ N, chênh lệch so với 3,4 N chỉ khoảng 2%. Góc tăng thì hợp lực giảm; luôn có $F \le F_1 + F_2$.
+
+Câu 2. Một thanh cứng nhẹ AB dài 40 cm. Treo vào đầu A một quả nặng có trọng lượng $P_1 = 1$ N và vào đầu B một quả nặng có trọng lượng $P_2 = 3$ N. Móc một lực kế vào điểm O trên thanh rồi kéo sao cho thanh nằm ngang cân bằng.
+a) Số chỉ của lực kế là 4 N. (Đ)
+b) Điểm O cách đầu A một đoạn 30 cm. (Đ)
+c) Điểm O nằm gần đầu A hơn đầu B. (S)
+d) Lực kế phải được kéo theo phương thẳng đứng, hướng lên trên. (Đ)
+Lời giải: Lực kế cân bằng với hợp lực của hai trọng lực song song cùng chiều: $F = P_1 + P_2 = 4$ N, hướng thẳng đứng lên. $P_1 \cdot OA = P_2 \cdot OB$, $OA + OB = 40$ cm $\Rightarrow OA = 30$ cm, $OB = 10$ cm nên O gần B hơn.
+
+PHẦN III. Câu trắc nghiệm trả lời ngắn
+Câu 1. Trong thí nghiệm tổng hợp hai lực đồng quy, hai lực kế chỉ 1,2 N và 1,6 N, hai lực vuông góc với nhau. Theo quy tắc hình bình hành, hợp lực có độ lớn bao nhiêu niutơn (N)?
+Đáp án: 2
+Lời giải: $F = \sqrt{1{,}2^2 + 1{,}6^2} = \sqrt{4} = 2$ N.
+
+Câu 2. Hai lực song song, cùng chiều, có độ lớn 4 N và 6 N, giá của chúng cách nhau 25 cm. Giá của hợp lực cách giá của lực 4 N bao nhiêu xentimét (cm)?
+Đáp án: 15
+Lời giải: $4d_1 = 6d_2$, $d_1 + d_2 = 25$ cm $\Rightarrow d_1 = 15$ cm, $d_2 = 10$ cm.
+
+Câu 3. Một nhóm học sinh đo hợp lực bốn lần, được các giá trị 4,8 N; 5,2 N; 5,0 N; 5,0 N. Sai số tuyệt đối trung bình của phép đo là bao nhiêu niutơn (N)?
+Đáp án: 0,1
+Lời giải: $\overline{F} = 5{,}0$ N; các sai số tuyệt đối: 0,2; 0,2; 0; 0 N $\Rightarrow \overline{\Delta F} = \dfrac{0{,}2 + 0{,}2 + 0 + 0}{4} = 0{,}1$ N.

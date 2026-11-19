@@ -1,0 +1,83 @@
+VẬT LÍ 10 - CHƯƠNG III. ĐỘNG LỰC HỌC - BÀI 19. LỰC CẢN VÀ LỰC NÂNG
+Đề luyện tập theo cấu trúc thi tốt nghiệp THPT (biên soạn: thầy Lâm Thế Phong, THPT An Thới)
+Thời gian: 20
+
+PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn
+Câu 1. Lực cản của chất lưu (chất lỏng, chất khí) tác dụng lên một vật chuyển động trong nó có hướng
+A. cùng hướng với chuyển động của vật.
+B. luôn thẳng đứng hướng lên.
+*C. ngược hướng với chuyển động của vật.
+D. vuông góc với hướng chuyển động của vật.
+
+Câu 2. Lực cản của không khí tác dụng lên một vật chuyển động trong không khí phụ thuộc chủ yếu vào
+*A. hình dạng và tốc độ của vật.
+B. màu sắc của vật.
+C. khối lượng riêng của chất làm vật.
+D. nhiệt độ của vật.
+
+Câu 3. Một vật rơi trong không khí. Khi lực cản của không khí có độ lớn bằng trọng lượng của vật thì vật
+A. dừng lại.
+B. rơi nhanh dần đều với gia tốc $g$.
+C. chuyển động chậm dần đều.
+*D. rơi thẳng đều với tốc độ không đổi (tốc độ giới hạn).
+Lời giải: Hợp lực bằng không nên vật chuyển động thẳng đều.
+
+Câu 4. Lực đẩy Archimedes tác dụng lên một vật nhúng trong chất lỏng có độ lớn $F_A = \rho g V$, trong đó $V$ là
+A. thể tích của toàn bộ vật.
+*B. thể tích phần chất lỏng bị vật chiếm chỗ.
+C. thể tích của chất lỏng trong bình.
+D. thể tích phần vật nổi trên mặt chất lỏng.
+
+Câu 5. Một vật có thể tích 2 dm³ được nhúng chìm hoàn toàn trong nước. Biết khối lượng riêng của nước là 1 000 kg/m³, lấy $g = 10$ m/s². Lực đẩy Archimedes tác dụng lên vật là
+A. 2 N.
+*B. 20 N.
+C. 200 N.
+D. 2 000 N.
+Lời giải: $V = 2 \cdot 10^{-3}$ m³; $F_A = \rho g V = 1000 \cdot 10 \cdot 2 \cdot 10^{-3} = 20$ N.
+
+Câu 6. Ô tô, tàu cao tốc, máy bay thường được thiết kế có dạng thuôn, đầu nhọn (dạng khí động học) nhằm mục đích chính là
+A. tăng trọng lượng của phương tiện.
+B. tăng lực đẩy Archimedes của không khí.
+C. tăng ma sát với mặt đường.
+*D. giảm lực cản của không khí.
+
+Câu 7. Một khúc gỗ nổi đứng yên trên mặt nước. Độ lớn lực đẩy Archimedes tác dụng lên khúc gỗ
+*A. bằng trọng lượng của khúc gỗ.
+B. lớn hơn trọng lượng của khúc gỗ.
+C. nhỏ hơn trọng lượng của khúc gỗ.
+D. bằng không.
+
+Câu 8. Một khối gỗ có khối lượng 600 g nổi đứng yên trên mặt nước. Biết khối lượng riêng của nước là 1 000 kg/m³, lấy $g = 10$ m/s². Thể tích phần khối gỗ chìm trong nước là
+A. 60 cm³.
+B. 6 000 cm³.
+*C. 600 cm³.
+D. 400 cm³.
+Lời giải: $F_A = P \Rightarrow \rho g V_c = mg \Rightarrow V_c = \dfrac{m}{\rho} = \dfrac{0{,}6}{1000} = 6 \cdot 10^{-4}$ m³ = 600 cm³.
+
+PHẦN II. Câu trắc nghiệm đúng sai
+Câu 1. Một người nhảy dù (tính cả dù) có khối lượng 80 kg. Sau khi dù mở một thời gian, người và dù rơi thẳng đứng với tốc độ không đổi. Lấy $g = 10$ m/s².
+a) Khi người và dù rơi với tốc độ không đổi, lực cản của không khí có độ lớn 800 N. (Đ)
+b) Ngay sau khi dù mở, lực cản lớn hơn trọng lực nên người và dù chuyển động chậm dần. (Đ)
+c) Lực cản của không khí tác dụng lên dù không phụ thuộc vào tốc độ rơi. (S)
+d) Khi người và dù rơi với tốc độ không đổi, hợp lực tác dụng lên chúng khác không. (S)
+Lời giải: Rơi đều nên hợp lực bằng không: $F_c = P = 80 \cdot 10 = 800$ N. Khi dù vừa mở, tốc độ còn lớn và diện tích cản tăng mạnh nên lực cản lớn hơn trọng lực; tốc độ giảm làm lực cản giảm dần đến khi bằng trọng lực.
+
+Câu 2. Một vật đặc có thể tích 0,5 dm³ và khối lượng 1,5 kg được treo vào một lực kế rồi nhúng chìm hoàn toàn trong nước (vật không chạm đáy bình). Biết khối lượng riêng của nước là 1 000 kg/m³, lấy $g = 10$ m/s².
+a) Trọng lượng của vật là 15 N. (Đ)
+b) Lực đẩy Archimedes tác dụng lên vật có độ lớn 5 N. (Đ)
+c) Số chỉ của lực kế khi vật chìm hoàn toàn trong nước là 20 N. (S)
+d) Khi kéo vật xuống sâu hơn (vẫn chìm hoàn toàn trong nước) thì lực đẩy Archimedes tăng lên. (S)
+Lời giải: $P = 15$ N; $F_A = 1000 \cdot 10 \cdot 0{,}5 \cdot 10^{-3} = 5$ N; số chỉ lực kế $F = P - F_A = 10$ N. $F_A$ chỉ phụ thuộc $\rho$ và thể tích chiếm chỗ, không phụ thuộc độ sâu.
+
+PHẦN III. Câu trắc nghiệm trả lời ngắn
+Câu 1. Một vật có thể tích 300 cm³ được nhúng chìm hoàn toàn trong dầu có khối lượng riêng 800 kg/m³. Lấy $g = 10$ m/s². Lực đẩy Archimedes tác dụng lên vật là bao nhiêu niutơn (N)?
+Đáp án: 2,4
+Lời giải: $F_A = \rho g V = 800 \cdot 10 \cdot 3 \cdot 10^{-4} = 2{,}4$ N.
+
+Câu 2. Một quả bóng có khối lượng 0,2 kg rơi thẳng đứng trong không khí. Lực cản của không khí có độ lớn $F_c = kv^2$ với $k = 0{,}005$ kg/m, $v$ là tốc độ của quả bóng. Bỏ qua lực đẩy Archimedes của không khí, lấy $g = 10$ m/s². Tốc độ giới hạn (tốc độ không đổi khi rơi) của quả bóng là bao nhiêu mét trên giây (m/s)?
+Đáp án: 20
+Lời giải: Khi đạt tốc độ giới hạn: $kv^2 = mg \Rightarrow v = \sqrt{\dfrac{0{,}2 \cdot 10}{0{,}005}} = \sqrt{400} = 20$ m/s.
+
+Câu 3. Một khối gỗ đặc có khối lượng riêng 600 kg/m³ nổi đứng yên trên mặt nước có khối lượng riêng 1 000 kg/m³. Thể tích phần gỗ chìm trong nước chiếm bao nhiêu phần trăm (%) thể tích của khối gỗ?
+Đáp án: 60
+Lời giải: $\rho_n g V_c = \rho_g g V \Rightarrow \dfrac{V_c}{V} = \dfrac{600}{1000} = 0{,}6 = 60\%$.

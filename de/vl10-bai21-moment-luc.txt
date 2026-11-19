@@ -1,0 +1,84 @@
+VẬT LÍ 10 - CHƯƠNG III. ĐỘNG LỰC HỌC - BÀI 21. MOMENT LỰC. CÂN BẰNG CỦA VẬT RẮN
+Đề luyện tập theo cấu trúc thi tốt nghiệp THPT (biên soạn: thầy Lâm Thế Phong, THPT An Thới)
+Thời gian: 20
+
+PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn
+Câu 1. Moment lực đối với một trục quay là đại lượng đặc trưng cho
+*A. tác dụng làm quay của lực.
+B. tác dụng làm vật chuyển động thẳng của lực.
+C. độ biến dạng của vật.
+D. khả năng giữ vật cân bằng của trục quay.
+
+Câu 2. Moment của lực $F$ đối với một trục quay được tính bằng $M = Fd$, trong đó $d$ là
+A. chiều dài của vật.
+B. khoảng cách từ trục quay đến điểm đặt của lực.
+*C. khoảng cách từ trục quay đến giá của lực (cánh tay đòn).
+D. quãng đường điểm đặt của lực dịch chuyển.
+
+Câu 3. Đơn vị của moment lực trong hệ SI là
+A. N/m.
+*B. N·m.
+C. N.
+D. kg·m/s.
+
+Câu 4. Một lực có độ lớn 20 N tác dụng lên một vật có trục quay cố định, cánh tay đòn của lực là 0,5 m. Moment của lực đối với trục quay là
+A. 40 N·m.
+B. 20,5 N·m.
+C. 0,025 N·m.
+*D. 10 N·m.
+Lời giải: $M = Fd = 20 \cdot 0{,}5 = 10$ N·m.
+
+Câu 5. Ngẫu lực là hệ hai lực
+A. song song, cùng chiều, có độ lớn bằng nhau, cùng tác dụng vào một vật.
+*B. song song, ngược chiều, có độ lớn bằng nhau, cùng tác dụng vào một vật.
+C. cùng giá, ngược chiều, có độ lớn bằng nhau, tác dụng vào hai vật khác nhau.
+D. vuông góc với nhau, có độ lớn bằng nhau, cùng tác dụng vào một vật.
+
+Câu 6. Một lực tác dụng lên vật có trục quay cố định nhưng giá của lực đi qua trục quay. Lực này
+*A. không làm vật quay vì moment của lực bằng không.
+B. làm vật quay theo chiều kim đồng hồ.
+C. làm vật quay ngược chiều kim đồng hồ.
+D. có moment lớn nhất.
+Lời giải: Giá của lực đi qua trục quay thì $d = 0$ nên $M = 0$.
+
+Câu 7. Một thanh cứng nhẹ AB có thể quay quanh trục nằm ngang đi qua điểm O trên thanh, với OA = 0,4 m và OB = 0,6 m. Treo vào đầu A một vật có trọng lượng 30 N. Để thanh nằm ngang cân bằng, cần tác dụng vào đầu B một lực thẳng đứng hướng xuống có độ lớn
+A. 45 N.
+B. 30 N.
+C. 12 N.
+*D. 20 N.
+Lời giải: Quy tắc moment: $P \cdot OA = F \cdot OB \Rightarrow F = \dfrac{30 \cdot 0{,}4}{0{,}6} = 20$ N.
+
+Câu 8. Một ngẫu lực gồm hai lực có độ lớn 5 N, khoảng cách giữa giá của hai lực là 20 cm. Moment của ngẫu lực là
+A. 100 N·m.
+B. 2 N·m.
+*C. 1 N·m.
+D. 0,5 N·m.
+Lời giải: $M = Fd = 5 \cdot 0{,}2 = 1$ N·m.
+
+PHẦN II. Câu trắc nghiệm đúng sai
+Câu 1. Xét các phát biểu về moment lực và cân bằng của vật rắn.
+a) Vật rắn ở trạng thái cân bằng khi tổng các lực tác dụng lên vật bằng không và tổng moment lực tác dụng lên vật đối với một điểm bất kì bằng không. (Đ)
+b) Tay nắm cửa thường được lắp xa bản lề để tăng cánh tay đòn, giúp mở cửa dễ hơn. (Đ)
+c) Moment của một lực không phụ thuộc vào vị trí của trục quay. (S)
+d) Hợp lực của ngẫu lực bằng không nên ngẫu lực không gây ra tác dụng gì đối với vật. (S)
+Lời giải: Moment $M = Fd$ phụ thuộc cánh tay đòn $d$, tức phụ thuộc vị trí trục quay. Ngẫu lực có hợp lực bằng không nhưng có moment khác không nên làm vật quay.
+
+Câu 2. Một thanh đồng chất AB dài 1,2 m, có trọng lượng 20 N, được đặt nằm ngang trên một giá đỡ tại điểm O cách đầu A một đoạn 0,4 m. Treo vào đầu A một vật nặng để thanh cân bằng nằm ngang.
+a) Trọng lực của thanh có điểm đặt tại trung điểm của thanh. (Đ)
+b) Cánh tay đòn của trọng lực của thanh đối với trục quay qua O là 0,2 m. (Đ)
+c) Trọng lượng của vật treo ở A là 20 N. (S)
+d) Lực do giá đỡ tác dụng lên thanh có độ lớn 30 N. (Đ)
+Lời giải: Trọng tâm G cách A 0,6 m nên OG = 0,2 m. Quy tắc moment đối với O: $P_1 \cdot 0{,}4 = 20 \cdot 0{,}2 \Rightarrow P_1 = 10$ N. Tổng lực bằng không: $N = P_1 + P = 10 + 20 = 30$ N.
+
+PHẦN III. Câu trắc nghiệm trả lời ngắn
+Câu 1. Dùng cờ lê dài 25 cm để vặn một con ốc. Tác dụng vào đầu cờ lê một lực 40 N theo phương vuông góc với cờ lê. Moment của lực đối với trục của con ốc là bao nhiêu niutơn mét (N·m)?
+Đáp án: 10
+Lời giải: $M = Fd = 40 \cdot 0{,}25 = 10$ N·m.
+
+Câu 2. Một người dùng đòn gánh dài 1,5 m để gánh hai thúng hàng: thúng thứ nhất nặng 300 N treo ở đầu A, thúng thứ hai nặng 200 N treo ở đầu B. Bỏ qua trọng lượng của đòn gánh. Để đòn gánh nằm ngang cân bằng, vai người phải đặt cách đầu A bao nhiêu mét (m)?
+Đáp án: 0,6
+Lời giải: Gọi khoảng cách từ vai đến A là $x$: $300x = 200(1{,}5 - x) \Rightarrow 500x = 300 \Rightarrow x = 0{,}6$ m.
+
+Câu 3. Một thanh dài 0,8 m có trục quay cố định đi qua một đầu thanh. Tác dụng vào đầu kia của thanh một lực 50 N nằm trong mặt phẳng vuông góc với trục quay, hợp với thanh một góc 30°. Moment của lực đối với trục quay là bao nhiêu niutơn mét (N·m)?
+Đáp án: 20
+Lời giải: Cánh tay đòn $d = 0{,}8 \cdot \sin 30° = 0{,}4$ m; $M = Fd = 50 \cdot 0{,}4 = 20$ N·m.

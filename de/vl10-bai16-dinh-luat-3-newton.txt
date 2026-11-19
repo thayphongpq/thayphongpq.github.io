@@ -1,0 +1,84 @@
+VẬT LÍ 10 - CHƯƠNG III. ĐỘNG LỰC HỌC - BÀI 16. ĐỊNH LUẬT 3 NEWTON
+Đề luyện tập theo cấu trúc thi tốt nghiệp THPT (biên soạn: thầy Lâm Thế Phong, THPT An Thới)
+Thời gian: 20
+
+PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn
+Câu 1. Khi vật A tác dụng lên vật B một lực thì vật B cũng tác dụng lại vật A một lực. Hai lực này
+A. cùng giá, cùng chiều, cùng độ lớn.
+B. cùng giá, ngược chiều, độ lớn khác nhau.
+*C. cùng giá, ngược chiều, cùng độ lớn.
+D. khác giá, ngược chiều, cùng độ lớn.
+
+Câu 2. Phát biểu nào sau đây về cặp lực và phản lực là SAI?
+*A. Lực và phản lực là hai lực cân bằng nhau.
+B. Lực và phản lực luôn xuất hiện và mất đi đồng thời.
+C. Lực và phản lực là hai lực cùng loại.
+D. Lực và phản lực đặt vào hai vật khác nhau.
+Lời giải: Lực và phản lực đặt vào hai vật khác nhau nên không thể cân bằng nhau.
+
+Câu 3. Một xe tải lớn đâm vào một xe con đang đứng yên. Trong lúc va chạm, so sánh lực do xe tải tác dụng lên xe con ($F_1$) và lực do xe con tác dụng lên xe tải ($F_2$), ta có
+A. $F_1 > F_2$.
+*B. $F_1 = F_2$.
+C. $F_1 < F_2$.
+D. $F_2 = 0$ vì xe con đang đứng yên.
+
+Câu 4. Khi đi bộ, người tiến được về phía trước là nhờ
+A. lực của chân đạp lên mặt đất.
+B. trọng lực của người.
+C. quán tính của người.
+*D. phản lực của mặt đất tác dụng lên chân người.
+Lời giải: Chân đạp mặt đất về phía sau, mặt đất tác dụng lại chân một lực (ma sát nghỉ) hướng về phía trước.
+
+Câu 5. Một quyển sách nằm yên trên mặt bàn. Phản lực của trọng lực tác dụng lên quyển sách là
+*A. lực mà quyển sách hút Trái Đất.
+B. lực mà mặt bàn đẩy quyển sách lên.
+C. lực mà quyển sách nén lên mặt bàn.
+D. lực ma sát giữa quyển sách và mặt bàn.
+Lời giải: Trọng lực là lực Trái Đất hút quyển sách nên phản lực của nó là lực quyển sách hút Trái Đất (đặt vào Trái Đất).
+
+Câu 6. Tên lửa bay lên được nhờ khí cháy phụt mạnh ra phía sau. Hiện tượng này được giải thích chủ yếu bằng
+A. định luật 1 Newton.
+B. định luật vạn vật hấp dẫn.
+*C. định luật 3 Newton.
+D. định luật Archimedes.
+
+Câu 7. Một quả bóng có khối lượng 0,5 kg bay đến đập vào tường. Trong lúc va chạm, tường tác dụng lên quả bóng một lực 50 N. Lực do quả bóng tác dụng lên tường có độ lớn
+A. 25 N.
+B. 0 N.
+C. 100 N.
+*D. 50 N.
+
+Câu 8. Hai xe lăn A và B có khối lượng lần lượt 1 kg và 2 kg, đặt sát nhau trên mặt bàn nằm ngang nhẵn. Hai xe đẩy nhau ra. Tỉ số độ lớn gia tốc $\dfrac{a_A}{a_B}$ trong lúc tương tác là
+A. $\dfrac{1}{2}$.
+*B. 2.
+C. 1.
+D. 4.
+Lời giải: $F_{AB} = F_{BA} \Rightarrow m_A a_A = m_B a_B \Rightarrow \dfrac{a_A}{a_B} = \dfrac{m_B}{m_A} = 2$.
+
+PHẦN II. Câu trắc nghiệm đúng sai
+Câu 1. Một người dùng sợi dây nhẹ, nằm ngang để kéo một thùng hàng trên sàn. Tay người kéo dây với lực 100 N.
+a) Dây tác dụng lên tay người một lực có độ lớn 100 N. (Đ)
+b) Lực người kéo dây và lực dây kéo người là hai lực cân bằng. (S)
+c) Lực người kéo dây và lực dây kéo người là hai lực cùng loại, cùng độ lớn. (Đ)
+d) Thùng hàng chuyển động được là do lực dây kéo thùng lớn hơn lực thùng kéo lại dây. (S)
+Lời giải: Theo định luật 3 Newton, các cặp lực tương tác luôn có độ lớn bằng nhau và đặt vào hai vật khác nhau nên không cân bằng nhau. Thùng chuyển động được là do lực kéo của dây lớn hơn lực ma sát của sàn tác dụng lên thùng.
+
+Câu 2. Hai bạn A (khối lượng 50 kg) và B (khối lượng 40 kg) đứng yên trên hai ván trượt đặt trên mặt sàn nằm ngang, bỏ qua mọi ma sát. Bạn A đẩy bạn B một lực 80 N.
+a) Bạn B tác dụng lên bạn A một lực có độ lớn 80 N. (Đ)
+b) Gia tốc của bạn B có độ lớn 2 m/s². (Đ)
+c) Gia tốc của bạn A có độ lớn 2 m/s². (S)
+d) Sau khi đẩy, hai bạn chuyển động ngược chiều nhau. (Đ)
+Lời giải: $a_B = \dfrac{80}{40} = 2$ m/s²; $a_A = \dfrac{80}{50} = 1{,}6$ m/s². Hai lực tương tác ngược chiều nên hai bạn chuyển động ra xa nhau, ngược chiều nhau.
+
+PHẦN III. Câu trắc nghiệm trả lời ngắn
+Câu 1. Xe A có khối lượng 2 kg chuyển động đến va chạm vào xe B có khối lượng 4 kg đang đứng yên. Trong lúc va chạm, xe B thu được gia tốc có độ lớn 3 m/s². Độ lớn gia tốc của xe A trong lúc va chạm là bao nhiêu mét trên giây bình phương (m/s²)?
+Đáp án: 6
+Lời giải: $F = m_B a_B = 4 \cdot 3 = 12$ N; $a_A = \dfrac{F}{m_A} = \dfrac{12}{2} = 6$ m/s².
+
+Câu 2. Hai quả cầu va chạm nhau trong thời gian 0,1 s. Quả cầu thứ nhất có khối lượng 0,5 kg, vận tốc của nó thay đổi một lượng có độ lớn 4 m/s trong thời gian va chạm. Coi lực tương tác không đổi trong thời gian va chạm. Lực do quả cầu thứ nhất tác dụng lên quả cầu thứ hai có độ lớn bao nhiêu niutơn (N)?
+Đáp án: 20
+Lời giải: Lực tác dụng lên quả cầu 1: $F = m\dfrac{\Delta v}{\Delta t} = 0{,}5 \cdot \dfrac{4}{0{,}1} = 20$ N. Theo định luật 3 Newton, lực quả cầu 1 tác dụng lên quả cầu 2 cũng có độ lớn 20 N.
+
+Câu 3. Một người có khối lượng 50 kg đứng yên trên ván trượt (bỏ qua khối lượng ván và mọi ma sát), dùng tay đẩy vào tường một lực không đổi 100 N theo phương ngang trong 0,5 s. Tốc độ của người ngay sau khi đẩy là bao nhiêu mét trên giây (m/s)?
+Đáp án: 1
+Lời giải: Tường đẩy lại người lực 100 N: $a = \dfrac{100}{50} = 2$ m/s²; $v = at = 2 \cdot 0{,}5 = 1$ m/s.

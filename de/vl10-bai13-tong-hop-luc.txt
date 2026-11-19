@@ -1,0 +1,86 @@
+VẬT LÍ 10 - CHƯƠNG III. ĐỘNG LỰC HỌC - BÀI 13. TỔNG HỢP VÀ PHÂN TÍCH LỰC. CÂN BẰNG LỰC
+Đề luyện tập theo cấu trúc thi tốt nghiệp THPT (biên soạn: thầy Lâm Thế Phong, THPT An Thới)
+Thời gian: 20
+
+PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn
+Câu 1. Tổng hợp lực là
+A. phân tích một lực thành hai lực thành phần vuông góc với nhau.
+*B. thay thế các lực tác dụng đồng thời vào một vật bằng một lực có tác dụng giống hệt như các lực ấy.
+C. cộng độ lớn của tất cả các lực tác dụng lên vật.
+D. thay thế một lực bằng hai hay nhiều lực có tác dụng giống hệt lực đó.
+
+Câu 2. Hai lực đồng quy có độ lớn $F_1$ và $F_2$. Độ lớn $F$ của hợp lực luôn thỏa mãn
+A. $F = F_1 + F_2$.
+B. $F > F_1 + F_2$.
+*C. $|F_1 - F_2| \le F \le F_1 + F_2$.
+D. $F = |F_1 - F_2|$.
+Lời giải: $F^2 = F_1^2 + F_2^2 + 2F_1F_2\cos\alpha$ với $-1 \le \cos\alpha \le 1$ nên $|F_1 - F_2| \le F \le F_1 + F_2$.
+
+Câu 3. Hai lực đồng quy có độ lớn 6 N và 8 N, giá của chúng vuông góc với nhau. Độ lớn hợp lực của hai lực này là
+A. 14 N.
+B. 2 N.
+C. 7 N.
+*D. 10 N.
+Lời giải: $F = \sqrt{6^2 + 8^2} = 10$ N.
+
+Câu 4. Hai lực đồng quy có độ lớn 5 N và 12 N. Hợp lực của chúng KHÔNG thể có độ lớn nào sau đây?
+*A. 18 N.
+B. 7 N.
+C. 10 N.
+D. 17 N.
+Lời giải: $7\ \text{N} \le F \le 17\ \text{N}$ nên $F$ không thể bằng 18 N.
+
+Câu 5. Hai lực đồng quy có cùng độ lớn 10 N, hợp với nhau một góc 120°. Độ lớn hợp lực của chúng là
+*A. 10 N.
+B. 20 N.
+C. 0 N.
+D. $10\sqrt{3}$ N.
+Lời giải: $F = 2F_1\cos\dfrac{\alpha}{2} = 2 \cdot 10 \cdot \cos 60° = 10$ N.
+
+Câu 6. Một lực $\vec F$ có độ lớn 20 N hợp với phương nằm ngang một góc 30°. Phân tích $\vec F$ thành hai thành phần theo phương nằm ngang và phương thẳng đứng. Độ lớn thành phần theo phương nằm ngang là
+A. 10 N.
+*B. $10\sqrt{3}$ N.
+C. 20 N.
+D. $20\sqrt{3}$ N.
+Lời giải: $F_x = F\cos 30° = 20 \cdot \dfrac{\sqrt{3}}{2} = 10\sqrt{3} \approx 17{,}3$ N.
+
+Câu 7. Một vật chịu tác dụng của các lực cân bằng (hợp lực bằng không) thì vật
+A. chắc chắn đang đứng yên.
+B. chuyển động nhanh dần đều.
+*C. đứng yên hoặc chuyển động thẳng đều.
+D. chuyển động chậm dần rồi dừng lại.
+
+Câu 8. Một chất điểm đứng yên dưới tác dụng của ba lực đồng quy $\vec F_1$, $\vec F_2$, $\vec F_3$. Biết $F_1 = 3$ N, $F_2 = 4$ N và $\vec F_1$ vuông góc với $\vec F_2$. Lực $\vec F_3$
+A. có độ lớn 7 N, cùng hướng với hợp lực của $\vec F_1$ và $\vec F_2$.
+B. có độ lớn 1 N, ngược hướng với $\vec F_2$.
+C. có độ lớn 5 N, cùng hướng với hợp lực của $\vec F_1$ và $\vec F_2$.
+*D. có độ lớn 5 N, ngược hướng với hợp lực của $\vec F_1$ và $\vec F_2$.
+Lời giải: Cân bằng nên $\vec F_3 = -(\vec F_1 + \vec F_2)$; $F_3 = \sqrt{3^2 + 4^2} = 5$ N.
+
+PHẦN II. Câu trắc nghiệm đúng sai
+Câu 1. Hai lực đồng quy $\vec F_1$, $\vec F_2$ có cùng độ lớn 10 N, hợp với nhau một góc $\alpha$ có thể thay đổi.
+a) Khi $\alpha = 0°$, hợp lực có độ lớn 20 N. (Đ)
+b) Khi $\alpha = 90°$, hợp lực có độ lớn khoảng 14,1 N. (Đ)
+c) Khi $\alpha = 180°$, hợp lực có độ lớn 20 N. (S)
+d) Khi $\alpha$ tăng từ 0° đến 180° thì độ lớn hợp lực tăng dần. (S)
+Lời giải: $F = 2 \cdot 10 \cdot \cos\dfrac{\alpha}{2}$. Với $\alpha = 0°$: $F = 20$ N; $\alpha = 90°$: $F = 10\sqrt{2} \approx 14{,}1$ N; $\alpha = 180°$: $F = 0$. Khi $\alpha$ tăng thì $\cos\dfrac{\alpha}{2}$ giảm nên $F$ giảm.
+
+Câu 2. Một vật có trọng lượng $P = 40$ N nằm yên trên một mặt phẳng nghiêng góc 30° so với phương ngang. Phân tích trọng lực $\vec P$ thành hai thành phần: một thành phần song song với mặt phẳng nghiêng và một thành phần vuông góc với mặt phẳng nghiêng.
+a) Thành phần song song với mặt phẳng nghiêng có độ lớn 20 N. (Đ)
+b) Thành phần vuông góc với mặt phẳng nghiêng có độ lớn 20 N. (S)
+c) Hai thành phần này vuông góc với nhau. (Đ)
+d) Nếu tăng góc nghiêng của mặt phẳng nghiêng thì thành phần song song với mặt phẳng nghiêng giảm. (S)
+Lời giải: $P_{//} = P\sin 30° = 20$ N; $P_\perp = P\cos 30° = 20\sqrt{3} \approx 34{,}6$ N. Khi góc nghiêng tăng thì $\sin\alpha$ tăng nên $P_{//}$ tăng.
+
+PHẦN III. Câu trắc nghiệm trả lời ngắn
+Câu 1. Hai lực đồng quy có độ lớn 9 N và 12 N, giá của chúng vuông góc với nhau. Độ lớn hợp lực của hai lực này là bao nhiêu niutơn (N)?
+Đáp án: 15
+Lời giải: $F = \sqrt{9^2 + 12^2} = 15$ N.
+
+Câu 2. Hai lực đồng quy có cùng độ lớn 10 N, hợp với nhau một góc 60°. Độ lớn hợp lực của hai lực này là bao nhiêu niutơn (N)? (Làm tròn kết quả đến một chữ số thập phân.)
+Đáp án: 17,3|17,32
+Lời giải: $F = 2 \cdot 10 \cdot \cos 30° = 10\sqrt{3} \approx 17{,}3$ N.
+
+Câu 3. Một người kéo một thùng hàng bằng sợi dây với lực 50 N, dây hợp với phương nằm ngang một góc 60°. Độ lớn thành phần của lực kéo theo phương nằm ngang là bao nhiêu niutơn (N)?
+Đáp án: 25
+Lời giải: $F_x = F\cos 60° = 50 \cdot 0{,}5 = 25$ N.

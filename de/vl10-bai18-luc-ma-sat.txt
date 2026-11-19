@@ -1,0 +1,84 @@
+VẬT LÍ 10 - CHƯƠNG III. ĐỘNG LỰC HỌC - BÀI 18. LỰC MA SÁT
+Đề luyện tập theo cấu trúc thi tốt nghiệp THPT (biên soạn: thầy Lâm Thế Phong, THPT An Thới)
+Thời gian: 20
+
+PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn
+Câu 1. Lực ma sát trượt tác dụng lên một vật đang trượt trên một bề mặt có hướng
+A. cùng hướng với vận tốc của vật so với bề mặt.
+*B. ngược hướng với vận tốc của vật so với bề mặt.
+C. vuông góc với bề mặt tiếp xúc.
+D. thẳng đứng hướng xuống.
+
+Câu 2. Hệ số ma sát trượt giữa hai bề mặt tiếp xúc phụ thuộc vào
+A. diện tích tiếp xúc giữa hai bề mặt.
+B. tốc độ trượt của vật.
+*C. vật liệu và tình trạng của hai bề mặt tiếp xúc.
+D. khối lượng của vật.
+
+Câu 3. Độ lớn của lực ma sát trượt KHÔNG phụ thuộc vào
+*A. diện tích tiếp xúc giữa vật và bề mặt.
+B. độ lớn của áp lực giữa vật và bề mặt.
+C. vật liệu của hai bề mặt tiếp xúc.
+D. tình trạng (độ nhám, độ khô ướt) của hai bề mặt tiếp xúc.
+
+Câu 4. Khi đi bộ trên đường, lực giúp người tiến về phía trước là
+A. lực ma sát trượt.
+B. lực ma sát lăn.
+C. trọng lực.
+*D. lực ma sát nghỉ.
+Lời giải: Bàn chân không trượt trên mặt đường nên lực mặt đường tác dụng lên chân theo phương ngang là ma sát nghỉ, hướng về phía trước.
+
+Câu 5. Một thùng hàng có khối lượng 10 kg trượt trên sàn nằm ngang. Hệ số ma sát trượt giữa thùng và sàn là 0,2. Lấy $g = 10$ m/s². Độ lớn lực ma sát trượt tác dụng lên thùng là
+A. 2 N.
+B. 200 N.
+*C. 20 N.
+D. 50 N.
+Lời giải: $F_{ms} = \mu N = \mu mg = 0{,}2 \cdot 10 \cdot 10 = 20$ N.
+
+Câu 6. Người ta lắp ổ bi (vòng bi) vào trục quay của bánh xe nhằm
+*A. thay ma sát trượt bằng ma sát lăn để giảm ma sát.
+B. tăng ma sát để bánh xe quay đều.
+C. thay ma sát lăn bằng ma sát trượt.
+D. tăng áp lực lên trục quay.
+
+Câu 7. Một vật có khối lượng 5 kg đang trượt trên mặt sàn nằm ngang thì chỉ còn chịu tác dụng của lực ma sát theo phương ngang. Hệ số ma sát trượt là 0,3. Lấy $g = 10$ m/s². Độ lớn gia tốc của vật là
+A. 0,3 m/s².
+B. 15 m/s².
+C. 1,5 m/s².
+*D. 3 m/s².
+Lời giải: $a = \dfrac{F_{ms}}{m} = \dfrac{\mu mg}{m} = \mu g = 0{,}3 \cdot 10 = 3$ m/s² (không phụ thuộc khối lượng).
+
+Câu 8. Kéo một thùng hàng có khối lượng 20 kg trên sàn nằm ngang bằng một lực nằm ngang có độ lớn 100 N. Hệ số ma sát trượt giữa thùng và sàn là 0,25. Lấy $g = 10$ m/s². Gia tốc của thùng hàng là
+A. 5 m/s².
+*B. 2,5 m/s².
+C. 7,5 m/s².
+D. 1,25 m/s².
+Lời giải: $F_{ms} = 0{,}25 \cdot 20 \cdot 10 = 50$ N; $a = \dfrac{F - F_{ms}}{m} = \dfrac{100 - 50}{20} = 2{,}5$ m/s².
+
+PHẦN II. Câu trắc nghiệm đúng sai
+Câu 1. Một khúc gỗ có khối lượng 4 kg đặt trên sàn nằm ngang. Hệ số ma sát trượt giữa khúc gỗ và sàn là 0,25; coi lực ma sát nghỉ cực đại bằng lực ma sát trượt. Người ta kéo khúc gỗ bằng một lực $\vec F$ nằm ngang. Lấy $g = 10$ m/s².
+a) Áp lực của khúc gỗ lên sàn có độ lớn 40 N. (Đ)
+b) Khi $F = 6$ N, khúc gỗ vẫn đứng yên và lực ma sát nghỉ tác dụng lên nó có độ lớn 6 N. (Đ)
+c) Khi khúc gỗ trượt trên sàn, lực ma sát trượt có độ lớn 10 N. (Đ)
+d) Khi $F = 18$ N, khúc gỗ chuyển động với gia tốc 4,5 m/s². (S)
+Lời giải: $N = mg = 40$ N; $F_{ms} = 0{,}25 \cdot 40 = 10$ N. Với $F = 6$ N < 10 N vật đứng yên, ma sát nghỉ cân bằng với $F$ nên bằng 6 N. Với $F = 18$ N: $a = \dfrac{18 - 10}{4} = 2$ m/s².
+
+Câu 2. Xét các phát biểu về lực ma sát.
+a) Lực ma sát luôn có hại nên cần làm giảm trong mọi trường hợp. (S)
+b) Rắc cát lên đường trơn trượt là biện pháp làm tăng ma sát giữa bánh xe và mặt đường. (Đ)
+c) Một viên gạch trượt trên sàn khi đặt nằm hay đặt nghiêng (diện tích tiếp xúc khác nhau) thì lực ma sát trượt như nhau. (Đ)
+d) Hệ số ma sát trượt có đơn vị là niutơn (N). (S)
+Lời giải: Ma sát có cả lợi và hại (nhờ ma sát mà ta đi lại, cầm nắm được). Lực ma sát trượt không phụ thuộc diện tích tiếp xúc. $\mu = \dfrac{F_{ms}}{N}$ là tỉ số hai lực nên không có đơn vị.
+
+PHẦN III. Câu trắc nghiệm trả lời ngắn
+Câu 1. Một vật có khối lượng 2 kg trượt trên sàn nằm ngang, lực ma sát trượt tác dụng lên vật có độ lớn 4 N. Lấy $g = 10$ m/s². Hệ số ma sát trượt giữa vật và sàn là bao nhiêu?
+Đáp án: 0,2
+Lời giải: $\mu = \dfrac{F_{ms}}{mg} = \dfrac{4}{2 \cdot 10} = 0{,}2$.
+
+Câu 2. Một ô tô đang chạy trên đường nằm ngang với tốc độ 10 m/s thì phanh gấp, các bánh xe bị khóa và trượt trên mặt đường. Hệ số ma sát trượt giữa bánh xe và mặt đường là 0,5. Lấy $g = 10$ m/s². Quãng đường ô tô trượt được đến khi dừng lại là bao nhiêu mét (m)?
+Đáp án: 10
+Lời giải: $a = -\mu g = -5$ m/s²; $s = \dfrac{0 - v_0^2}{2a} = \dfrac{-100}{-10} = 10$ m.
+
+Câu 3. Một vật có khối lượng 4 kg đang đứng yên trên sàn nằm ngang thì được kéo bằng một lực nằm ngang có độ lớn 20 N. Hệ số ma sát trượt giữa vật và sàn là 0,3. Lấy $g = 10$ m/s². Quãng đường vật đi được trong 3 s đầu tiên là bao nhiêu mét (m)?
+Đáp án: 9
+Lời giải: $F_{ms} = 0{,}3 \cdot 40 = 12$ N; $a = \dfrac{20 - 12}{4} = 2$ m/s²; $s = \dfrac{1}{2}at^2 = \dfrac{1}{2} \cdot 2 \cdot 3^2 = 9$ m.

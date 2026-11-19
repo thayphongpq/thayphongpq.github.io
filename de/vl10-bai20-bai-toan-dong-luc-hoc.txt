@@ -1,0 +1,87 @@
+VẬT LÍ 10 - CHƯƠNG III. ĐỘNG LỰC HỌC - BÀI 20. MỘT SỐ VÍ DỤ VỀ CÁCH GIẢI CÁC BÀI TOÁN THUỘC PHẦN ĐỘNG LỰC HỌC
+Đề luyện tập theo cấu trúc thi tốt nghiệp THPT (biên soạn: thầy Lâm Thế Phong, THPT An Thới)
+Thời gian: 20
+
+PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn
+Câu 1. Khi giải bài toán động lực học, sau khi chọn hệ quy chiếu, phân tích các lực tác dụng lên vật và viết phương trình định luật 2 Newton dưới dạng vectơ, bước tiếp theo thường là
+A. tính ngay độ lớn của gia tốc bằng cách cộng độ lớn các lực.
+B. vẽ đồ thị vận tốc – thời gian của vật.
+C. bỏ qua các lực vuông góc với hướng chuyển động.
+*D. chiếu phương trình vectơ lên các trục tọa độ đã chọn.
+
+Câu 2. Một vật trượt xuống trên một mặt phẳng nghiêng góc $\alpha$ so với phương ngang, bỏ qua ma sát. Gia tốc của vật là
+*A. $a = g\sin\alpha$.
+B. $a = g\cos\alpha$.
+C. $a = g\tan\alpha$.
+D. $a = g$.
+Lời giải: Chiếu định luật 2 Newton lên phương song song với mặt nghiêng: $mg\sin\alpha = ma$.
+
+Câu 3. Một vật được thả trượt không vận tốc đầu trên mặt phẳng nghiêng góc 30° so với phương ngang, bỏ qua ma sát. Lấy $g = 10$ m/s². Gia tốc của vật là
+A. 10 m/s².
+B. 8,66 m/s².
+*C. 5 m/s².
+D. 2,5 m/s².
+Lời giải: $a = g\sin 30° = 10 \cdot 0{,}5 = 5$ m/s².
+
+Câu 4. Một vật có khối lượng $m$ nằm trên mặt phẳng nghiêng góc $\alpha$ so với phương ngang. Độ lớn phản lực (lực pháp tuyến) do mặt phẳng nghiêng tác dụng lên vật là
+A. $N = mg$.
+*B. $N = mg\cos\alpha$.
+C. $N = mg\sin\alpha$.
+D. $N = \dfrac{mg}{\cos\alpha}$.
+Lời giải: Theo phương vuông góc với mặt nghiêng vật không chuyển động: $N - mg\cos\alpha = 0$.
+
+Câu 5. Một ô tô có khối lượng 1,5 tấn chuyển động trên đường nằm ngang. Lực kéo của động cơ là 3 000 N, tổng lực cản là 1 500 N. Gia tốc của ô tô là
+*A. 1 m/s².
+B. 2 m/s².
+C. 3 m/s².
+D. 0,5 m/s².
+Lời giải: $a = \dfrac{F_k - F_c}{m} = \dfrac{3000 - 1500}{1500} = 1$ m/s².
+
+Câu 6. Hai vật có khối lượng $m_1 = 2$ kg và $m_2 = 3$ kg được nối với nhau bằng một sợi dây nhẹ, không dãn, đặt trên mặt bàn nằm ngang nhẵn. Kéo vật $m_1$ bằng lực $F = 10$ N nằm ngang, dây nối kéo vật $m_2$ đi theo phía sau. Lực căng của dây nối là
+A. 4 N.
+B. 10 N.
+*C. 6 N.
+D. 2 N.
+Lời giải: Cả hệ: $a = \dfrac{F}{m_1 + m_2} = \dfrac{10}{5} = 2$ m/s². Vật $m_2$: $T = m_2 a = 3 \cdot 2 = 6$ N.
+
+Câu 7. Một vật trượt xuống trên mặt phẳng nghiêng có $\sin\alpha = 0{,}6$ và $\cos\alpha = 0{,}8$. Hệ số ma sát trượt giữa vật và mặt nghiêng là 0,25. Lấy $g = 10$ m/s². Gia tốc của vật là
+A. 6 m/s².
+*B. 4 m/s².
+C. 2 m/s².
+D. 8 m/s².
+Lời giải: $a = g(\sin\alpha - \mu\cos\alpha) = 10 \cdot (0{,}6 - 0{,}25 \cdot 0{,}8) = 4$ m/s².
+
+Câu 8. Một người có khối lượng 50 kg đứng trong thang máy đang đi lên nhanh dần đều với gia tốc 1 m/s². Lấy $g = 10$ m/s². Độ lớn áp lực của người lên sàn thang máy là
+A. 450 N.
+B. 500 N.
+C. 50 N.
+*D. 550 N.
+Lời giải: Chiều dương hướng lên: $N - mg = ma \Rightarrow N = m(g + a) = 50 \cdot 11 = 550$ N. Theo định luật 3 Newton, áp lực lên sàn cũng bằng 550 N.
+
+PHẦN II. Câu trắc nghiệm đúng sai
+Câu 1. Một vật có khối lượng 2 kg được thả không vận tốc đầu từ đỉnh một mặt phẳng nghiêng dài 10 m, nghiêng góc 30° so với phương ngang. Bỏ qua ma sát, lấy $g = 10$ m/s².
+a) Gia tốc của vật là 5 m/s². (Đ)
+b) Phản lực của mặt phẳng nghiêng tác dụng lên vật có độ lớn 20 N. (S)
+c) Thời gian vật trượt hết mặt phẳng nghiêng là 2 s. (Đ)
+d) Tốc độ của vật tại chân mặt phẳng nghiêng là 20 m/s. (S)
+Lời giải: $a = g\sin 30° = 5$ m/s²; $N = mg\cos 30° = 10\sqrt{3} \approx 17{,}3$ N; $t = \sqrt{\dfrac{2s}{a}} = \sqrt{\dfrac{20}{5}} = 2$ s; $v = at = 10$ m/s.
+
+Câu 2. Hai vật $m_1 = 1$ kg và $m_2 = 4$ kg được nối với nhau bằng một sợi dây nhẹ, không dãn, đặt trên sàn nằm ngang. Kéo vật $m_2$ bằng lực $F = 15$ N nằm ngang, vật $m_1$ được dây kéo đi theo phía sau. Hệ số ma sát trượt giữa mỗi vật và sàn đều là 0,1. Lấy $g = 10$ m/s².
+a) Tổng lực ma sát tác dụng lên hệ hai vật có độ lớn 5 N. (Đ)
+b) Gia tốc của hệ là 3 m/s². (S)
+c) Lực căng của dây nối là 3 N. (Đ)
+d) Nếu đổi lại, kéo vật $m_1$ bằng lực $F$ đó (theo chiều ngược lại) để $m_1$ kéo $m_2$ đi theo phía sau thì lực căng dây không đổi. (S)
+Lời giải: $F_{ms} = 0{,}1 \cdot (1 + 4) \cdot 10 = 5$ N; $a = \dfrac{15 - 5}{5} = 2$ m/s². Vật $m_1$: $T - \mu m_1 g = m_1 a \Rightarrow T = 2 + 1 = 3$ N. Khi đổi chiều: vật $m_2$ ở sau, $T' = m_2 a + \mu m_2 g = 8 + 4 = 12$ N.
+
+PHẦN III. Câu trắc nghiệm trả lời ngắn
+Câu 1. Một vật có khối lượng 4 kg đang đứng yên trên sàn nằm ngang thì được kéo bằng lực 20 N theo phương ngang. Hệ số ma sát trượt giữa vật và sàn là 0,2. Lấy $g = 10$ m/s². Tốc độ của vật sau 5 s là bao nhiêu mét trên giây (m/s)?
+Đáp án: 15
+Lời giải: $a = \dfrac{F - \mu mg}{m} = \dfrac{20 - 8}{4} = 3$ m/s²; $v = at = 15$ m/s.
+
+Câu 2. Một ô tô có khối lượng 2 tấn đang chuyển động với tốc độ 72 km/h trên đường nằm ngang thì hãm phanh. Tổng lực hãm không đổi có độ lớn 8 000 N. Quãng đường ô tô đi được từ lúc hãm phanh đến khi dừng lại là bao nhiêu mét (m)?
+Đáp án: 50
+Lời giải: $v_0 = 20$ m/s; $a = -\dfrac{8000}{2000} = -4$ m/s²; $s = \dfrac{0 - v_0^2}{2a} = \dfrac{400}{8} = 50$ m.
+
+Câu 3. Hai vật có khối lượng $m_1 = 3$ kg và $m_2 = 2$ kg được nối với nhau bằng một sợi dây nhẹ, không dãn, vắt qua một ròng rọc cố định nhẹ; hai vật treo thẳng đứng ở hai bên ròng rọc. Bỏ qua mọi ma sát, lấy $g = 10$ m/s². Thả cho hệ chuyển động. Lực căng của sợi dây là bao nhiêu niutơn (N)?
+Đáp án: 24
+Lời giải: $a = \dfrac{(m_1 - m_2)g}{m_1 + m_2} = \dfrac{10}{5} = 2$ m/s²; vật $m_2$ đi lên: $T = m_2(g + a) = 2 \cdot 12 = 24$ N.

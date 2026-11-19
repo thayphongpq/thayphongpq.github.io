@@ -1,0 +1,84 @@
+VẬT LÍ 10 - CHƯƠNG III. ĐỘNG LỰC HỌC - BÀI 15. ĐỊNH LUẬT 2 NEWTON
+Đề luyện tập theo cấu trúc thi tốt nghiệp THPT (biên soạn: thầy Lâm Thế Phong, THPT An Thới)
+Thời gian: 20
+
+PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn
+Câu 1. Biểu thức của định luật 2 Newton là
+A. $\vec a = m\vec F$.
+*B. $\vec a = \dfrac{\vec F}{m}$.
+C. $\vec F = \dfrac{\vec a}{m}$.
+D. $\vec a = \dfrac{m}{\vec F}$.
+
+Câu 2. Theo định luật 2 Newton, đơn vị niutơn (N) được biểu diễn theo các đơn vị cơ bản của hệ SI là
+A. 1 N = 1 kg·m/s.
+B. 1 N = 1 kg·s/m².
+C. 1 N = 1 g·m/s².
+*D. 1 N = 1 kg·m/s².
+
+Câu 3. Đại lượng đặc trưng cho mức quán tính của một vật là
+*A. khối lượng.
+B. vận tốc.
+C. gia tốc.
+D. lực.
+
+Câu 4. Một hợp lực 10 N tác dụng vào một vật có khối lượng 2 kg. Gia tốc của vật có độ lớn là
+A. 20 m/s².
+B. 0,2 m/s².
+*C. 5 m/s².
+D. 12 m/s².
+Lời giải: $a = \dfrac{F}{m} = \dfrac{10}{2} = 5$ m/s².
+
+Câu 5. Một vật có khối lượng 0,5 kg chuyển động với gia tốc 4 m/s². Độ lớn hợp lực tác dụng lên vật là
+A. 8 N.
+B. 0,125 N.
+C. 4,5 N.
+*D. 2 N.
+Lời giải: $F = ma = 0{,}5 \cdot 4 = 2$ N.
+
+Câu 6. Gia tốc của một vật luôn
+*A. cùng hướng với hợp lực tác dụng lên vật.
+B. cùng hướng với vận tốc của vật.
+C. ngược hướng với hợp lực tác dụng lên vật.
+D. vuông góc với hợp lực tác dụng lên vật.
+
+Câu 7. Một lực $F$ tác dụng vào vật có khối lượng $m_1$ thì vật thu gia tốc 6 m/s²; cũng lực đó tác dụng vào vật có khối lượng $m_2$ thì vật thu gia tốc 3 m/s². Nếu lực $F$ tác dụng vào vật có khối lượng $m_1 + m_2$ thì vật thu gia tốc
+A. 9 m/s².
+B. 4,5 m/s².
+*C. 2 m/s².
+D. 3 m/s².
+Lời giải: $m_1 = \dfrac{F}{6}$, $m_2 = \dfrac{F}{3}$ nên $m_1 + m_2 = \dfrac{F}{2}$; $a = \dfrac{F}{m_1 + m_2} = 2$ m/s².
+
+Câu 8. Một ô tô có khối lượng 1 tấn đang chạy với tốc độ 20 m/s thì hãm phanh, chuyển động chậm dần đều và dừng lại sau 10 s. Độ lớn hợp lực hãm tác dụng lên ô tô là
+A. 200 N.
+*B. 2 000 N.
+C. 20 000 N.
+D. 1 000 N.
+Lời giải: $a = \dfrac{0 - 20}{10} = -2$ m/s²; $F = m|a| = 1\,000 \cdot 2 = 2\,000$ N.
+
+PHẦN II. Câu trắc nghiệm đúng sai
+Câu 1. Một vật có khối lượng 2 kg đang đứng yên trên mặt phẳng nằm ngang nhẵn (bỏ qua ma sát) thì chịu tác dụng của lực kéo nằm ngang có độ lớn không đổi 6 N.
+a) Gia tốc của vật là 3 m/s². (Đ)
+b) Vận tốc của vật sau 2 s là 6 m/s. (Đ)
+c) Quãng đường vật đi được trong 2 s đầu là 12 m. (S)
+d) Nếu thay vật bằng vật có khối lượng 4 kg (giữ nguyên lực kéo) thì gia tốc tăng gấp đôi. (S)
+Lời giải: $a = \dfrac{6}{2} = 3$ m/s²; $v = at = 6$ m/s; $s = \dfrac{1}{2}at^2 = \dfrac{1}{2} \cdot 3 \cdot 2^2 = 6$ m. Khối lượng tăng gấp đôi thì gia tốc giảm một nửa.
+
+Câu 2. Xét các phát biểu liên quan đến định luật 2 Newton.
+a) Vật có khối lượng càng lớn thì càng khó thay đổi vận tốc. (Đ)
+b) Gia tốc của vật luôn cùng hướng với vận tốc của vật. (S)
+c) Khi hợp lực tác dụng lên vật bằng không thì gia tốc của vật bằng không. (Đ)
+d) Với cùng một hợp lực, gia tốc của vật tỉ lệ thuận với khối lượng của vật. (S)
+Lời giải: Gia tốc cùng hướng với hợp lực (không nhất thiết cùng hướng vận tốc, ví dụ khi vật chuyển động chậm dần). Với cùng lực, $a = \dfrac{F}{m}$ tỉ lệ nghịch với $m$.
+
+PHẦN III. Câu trắc nghiệm trả lời ngắn
+Câu 1. Một hợp lực 15 N tác dụng vào một vật làm vật thu gia tốc 3 m/s². Khối lượng của vật là bao nhiêu kilôgam (kg)?
+Đáp án: 5
+Lời giải: $m = \dfrac{F}{a} = \dfrac{15}{3} = 5$ kg.
+
+Câu 2. Một xe đẩy có khối lượng 50 kg đang đứng yên thì chịu tác dụng của hợp lực không đổi 100 N. Tốc độ của xe sau 4 s là bao nhiêu mét trên giây (m/s)?
+Đáp án: 8
+Lời giải: $a = \dfrac{100}{50} = 2$ m/s²; $v = at = 2 \cdot 4 = 8$ m/s.
+
+Câu 3. Một quả bóng có khối lượng 0,4 kg đang nằm yên trên sân. Cầu thủ đá vào quả bóng một lực 200 N trong thời gian 0,02 s. Tốc độ của quả bóng ngay sau khi bay đi là bao nhiêu mét trên giây (m/s)?
+Đáp án: 10
+Lời giải: $a = \dfrac{200}{0{,}4} = 500$ m/s²; $v = at = 500 \cdot 0{,}02 = 10$ m/s.

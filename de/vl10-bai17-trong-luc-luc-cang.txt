@@ -1,0 +1,84 @@
+VẬT LÍ 10 - CHƯƠNG III. ĐỘNG LỰC HỌC - BÀI 17. TRỌNG LỰC VÀ LỰC CĂNG
+Đề luyện tập theo cấu trúc thi tốt nghiệp THPT (biên soạn: thầy Lâm Thế Phong, THPT An Thới)
+Thời gian: 20
+
+PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn
+Câu 1. Trọng lực tác dụng lên một vật ở gần mặt đất có
+A. phương nằm ngang, chiều hướng về phía Trái Đất.
+B. phương thẳng đứng, chiều từ dưới lên trên.
+C. phương bất kì, chiều hướng xuống.
+*D. phương thẳng đứng, chiều từ trên xuống dưới.
+
+Câu 2. Điểm đặt của trọng lực tác dụng lên một vật là
+A. tâm của Trái Đất.
+*B. trọng tâm của vật.
+C. điểm thấp nhất của vật.
+D. điểm vật tiếp xúc với mặt đỡ.
+
+Câu 3. Một vật có khối lượng 5 kg ở nơi có gia tốc rơi tự do $g = 9{,}8$ m/s². Trọng lượng của vật là
+A. 5 N.
+B. 4,9 N.
+*C. 49 N.
+D. 50 N.
+Lời giải: $P = mg = 5 \cdot 9{,}8 = 49$ N.
+
+Câu 4. Lực căng của một sợi dây tác dụng lên vật được treo vào đầu dây có
+*A. điểm đặt tại chỗ dây gắn với vật, phương trùng với sợi dây, chiều hướng từ vật vào phần giữa của dây.
+B. điểm đặt tại trọng tâm của vật, phương thẳng đứng, chiều hướng xuống.
+C. điểm đặt tại điểm treo dây, phương nằm ngang.
+D. điểm đặt tại chỗ dây gắn với vật, phương trùng với sợi dây, chiều hướng từ dây ra phía ngoài vật.
+
+Câu 5. Một vật có khối lượng 2 kg được treo yên lặng vào đầu một sợi dây nhẹ. Lấy $g = 10$ m/s². Lực căng của sợi dây có độ lớn là
+A. 2 N.
+B. 0,2 N.
+C. 10 N.
+*D. 20 N.
+Lời giải: Vật cân bằng: $T = P = mg = 2 \cdot 10 = 20$ N.
+
+Câu 6. Một nhà du hành vũ trụ có khối lượng 70 kg đứng trên bề mặt Mặt Trăng, nơi có gia tốc rơi tự do 1,6 m/s². Trọng lượng của nhà du hành trên Mặt Trăng là
+A. 70 N.
+*B. 112 N.
+C. 700 N.
+D. 43,75 N.
+Lời giải: $P = mg_{MT} = 70 \cdot 1{,}6 = 112$ N.
+
+Câu 7. Đưa một vật từ Trái Đất lên Mặt Trăng (gia tốc rơi tự do trên Mặt Trăng nhỏ hơn trên Trái Đất) thì
+*A. khối lượng của vật không đổi, trọng lượng của vật giảm.
+B. khối lượng và trọng lượng của vật đều giảm.
+C. khối lượng của vật giảm, trọng lượng của vật không đổi.
+D. khối lượng và trọng lượng của vật đều không đổi.
+
+Câu 8. Một vật có khối lượng 1 kg được kéo thẳng đứng lên trên bằng một sợi dây nhẹ, vật chuyển động nhanh dần đều với gia tốc 2 m/s². Lấy $g = 10$ m/s², bỏ qua lực cản. Lực căng của sợi dây có độ lớn là
+A. 8 N.
+B. 10 N.
+*C. 12 N.
+D. 2 N.
+Lời giải: Chọn chiều dương hướng lên: $T - mg = ma \Rightarrow T = m(g + a) = 1 \cdot (10 + 2) = 12$ N.
+
+PHẦN II. Câu trắc nghiệm đúng sai
+Câu 1. Một chiếc đèn có khối lượng 1,5 kg được treo yên lặng vào trần nhà bằng một sợi dây thẳng đứng. Lấy $g = 10$ m/s².
+a) Trọng lực tác dụng lên đèn có độ lớn 15 N. (Đ)
+b) Lực căng của dây tác dụng lên đèn có độ lớn 15 N và hướng thẳng đứng lên trên. (Đ)
+c) Trọng lực tác dụng lên đèn và lực căng dây tác dụng lên đèn là một cặp lực và phản lực. (S)
+d) Nếu sợi dây chỉ chịu được lực căng tối đa 10 N thì dây không bị đứt. (S)
+Lời giải: $P = mg = 15$ N; đèn cân bằng nên $T = P = 15$ N. Hai lực này cùng đặt vào đèn nên là hai lực cân bằng, không phải lực và phản lực. Vì $T = 15$ N > 10 N nên dây bị đứt.
+
+Câu 2. Một vật có khối lượng 2 kg được treo cân bằng bằng hai sợi dây nhẹ giống nhau, đặt đối xứng; mỗi dây hợp với phương thẳng đứng một góc 60°. Lấy $g = 10$ m/s².
+a) Trọng lượng của vật là 20 N. (Đ)
+b) Lực căng của mỗi sợi dây là 10 N. (S)
+c) Hợp lực của hai lực căng dây có độ lớn bằng trọng lượng của vật và hướng thẳng đứng lên trên. (Đ)
+d) Nếu giảm góc giữa mỗi dây và phương thẳng đứng (vẫn đối xứng) thì lực căng của mỗi dây giảm. (Đ)
+Lời giải: Theo phương thẳng đứng: $2T\cos 60° = P \Rightarrow T = \dfrac{20}{2 \cdot 0{,}5} = 20$ N. Vì $T = \dfrac{P}{2\cos\theta}$, khi $\theta$ giảm thì $\cos\theta$ tăng nên $T$ giảm.
+
+PHẦN III. Câu trắc nghiệm trả lời ngắn
+Câu 1. Một vật có trọng lượng 588 N ở nơi có gia tốc rơi tự do $g = 9{,}8$ m/s². Khối lượng của vật là bao nhiêu kilôgam (kg)?
+Đáp án: 60
+Lời giải: $m = \dfrac{P}{g} = \dfrac{588}{9{,}8} = 60$ kg.
+
+Câu 2. Một vật có khối lượng 3 kg được kéo thẳng đứng lên trên bằng một sợi dây nhẹ, vật chuyển động nhanh dần đều với gia tốc 1 m/s². Lấy $g = 10$ m/s², bỏ qua lực cản. Lực căng của sợi dây là bao nhiêu niutơn (N)?
+Đáp án: 33
+Lời giải: $T = m(g + a) = 3 \cdot (10 + 1) = 33$ N.
+
+Câu 3. Hai vật có khối lượng $m_1 = 1$ kg và $m_2 = 2$ kg được treo yên lặng như sau: dây (1) nối trần nhà với vật $m_1$, dây (2) nối vật $m_1$ với vật $m_2$ ở bên dưới. Hai dây nhẹ, thẳng đứng. Lấy $g = 10$ m/s². Lực căng của dây (1) là bao nhiêu niutơn (N)?
+Đáp án: 30
+Lời giải: Dây (2): $T_2 = m_2 g = 20$ N. Vật $m_1$ cân bằng: $T_1 = m_1 g + T_2 = 10 + 20 = 30$ N.

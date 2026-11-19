@@ -1,0 +1,83 @@
+VẬT LÍ 10 - CHƯƠNG III. ĐỘNG LỰC HỌC - BÀI 14. ĐỊNH LUẬT 1 NEWTON
+Đề luyện tập theo cấu trúc thi tốt nghiệp THPT (biên soạn: thầy Lâm Thế Phong, THPT An Thới)
+Thời gian: 20
+
+PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn
+Câu 1. Theo định luật 1 Newton, một vật đang chuyển động mà hợp lực tác dụng lên nó bằng không thì vật sẽ
+A. dừng lại ngay lập tức.
+B. chuyển động chậm dần rồi dừng lại.
+*C. tiếp tục chuyển động thẳng đều.
+D. chuyển động nhanh dần đều.
+
+Câu 2. Quán tính là tính chất của mọi vật có xu hướng
+A. luôn chuyển động nhanh dần.
+*B. bảo toàn vận tốc cả về hướng và độ lớn.
+C. luôn trở về trạng thái đứng yên.
+D. chuyển động theo hướng của lực tác dụng.
+
+Câu 3. Hiện tượng nào sau đây KHÔNG phải là biểu hiện của quán tính?
+A. Hành khách ngả người về phía sau khi xe buýt đột ngột tăng tốc.
+B. Giũ mạnh chiếc áo thì bụi bám trên áo rơi ra.
+C. Gõ mạnh đầu cán búa xuống nền cứng thì đầu búa ngập sâu vào cán.
+*D. Quả táo chín rơi từ trên cây xuống đất.
+Lời giải: Quả táo rơi do lực hút của Trái Đất làm thay đổi vận tốc, không phải biểu hiện của quán tính.
+
+Câu 4. Một xe buýt đang chạy thẳng thì đột ngột rẽ sang trái. Hành khách ngồi trên xe sẽ bị nghiêng người
+*A. sang phải.
+B. sang trái.
+C. về phía trước.
+D. về phía sau.
+Lời giải: Do quán tính, người có xu hướng giữ nguyên hướng chuyển động cũ trong khi xe rẽ sang trái nên người nghiêng sang phải.
+
+Câu 5. Nhà khoa học nào đã làm thí nghiệm với máng nghiêng và rút ra nhận định: nếu không có ma sát thì vật chuyển động trên mặt phẳng ngang sẽ chuyển động mãi mãi?
+A. Newton.
+*B. Galilei.
+C. Aristotle.
+D. Archimedes.
+
+Câu 6. Một quyển sách đang nằm yên trên mặt bàn nằm ngang. Phát biểu nào sau đây là đúng?
+A. Quyển sách không chịu tác dụng của lực nào.
+B. Trọng lực tác dụng lên quyển sách lớn hơn lực đỡ của mặt bàn.
+*C. Các lực tác dụng lên quyển sách cân bằng nhau.
+D. Quyển sách không có quán tính vì đang đứng yên.
+
+Câu 7. Đẩy một hộp bút trượt trên mặt bàn rồi buông tay, hộp bút chuyển động chậm dần rồi dừng lại. Nguyên nhân là do
+*A. lực ma sát của mặt bàn cản trở chuyển động của hộp bút.
+B. hộp bút hết quán tính.
+C. lực đẩy của tay đã hết.
+D. trọng lực của hộp bút tăng dần.
+
+Câu 8. Một ô tô chuyển động thẳng đều trên đường nằm ngang, lực kéo của động cơ là 1 500 N. Tổng độ lớn các lực cản tác dụng lên ô tô theo phương ngang là
+A. 0 N.
+B. 750 N.
+C. 3 000 N.
+*D. 1 500 N.
+Lời giải: Ô tô chuyển động thẳng đều nên hợp lực bằng không: $F_c = F_k = 1\,500$ N.
+
+PHẦN II. Câu trắc nghiệm đúng sai
+Câu 1. Một hành khách ngồi trên xe buýt đang chuyển động thẳng đều trên đường nằm ngang.
+a) Hợp lực tác dụng lên xe buýt bằng không. (Đ)
+b) Khi xe đột ngột hãm phanh, hành khách bị ngả người về phía sau. (S)
+c) Khi xe đột ngột tăng tốc, hành khách bị ngả người về phía sau. (Đ)
+d) Thắt dây an toàn giúp hạn chế tác hại do quán tính khi xe dừng lại đột ngột. (Đ)
+Lời giải: Xe chuyển động thẳng đều nên hợp lực bằng không. Khi hãm phanh, do quán tính người vẫn có xu hướng chuyển động về phía trước nên ngả về phía trước; khi tăng tốc thì ngả về phía sau.
+
+Câu 2. Xét các phát biểu về định luật 1 Newton và quán tính.
+a) Lực là nguyên nhân duy trì chuyển động của vật. (S)
+b) Lực là nguyên nhân làm thay đổi vận tốc của vật. (Đ)
+c) Định luật 1 Newton còn được gọi là định luật quán tính. (Đ)
+d) Một vật chỉ có quán tính khi nó đang chuyển động. (S)
+Lời giải: Theo định luật 1 Newton, không cần lực để duy trì chuyển động; lực làm thay đổi vận tốc. Mọi vật, dù đứng yên hay chuyển động, đều có quán tính.
+
+PHẦN III. Câu trắc nghiệm trả lời ngắn
+Câu 1. Một vật chuyển động thẳng đều trên mặt phẳng ngang dưới tác dụng của ba lực nằm ngang: lực $\vec F_1$ hướng sang phải có độ lớn 30 N, lực $\vec F_2$ hướng sang trái có độ lớn 10 N và lực $\vec F_3$ hướng sang trái. Độ lớn của lực $\vec F_3$ là bao nhiêu niutơn (N)?
+Đáp án: 20
+Lời giải: Vật chuyển động thẳng đều nên hợp lực bằng không: $F_1 = F_2 + F_3 \Rightarrow F_3 = 30 - 10 = 20$ N.
+
+Câu 2. Một tàu vũ trụ ở rất xa các thiên thể (coi như không chịu tác dụng của lực nào) đang chuyển động với tốc độ 2 km/s thì tắt động cơ. Quãng đường tàu đi được trong 1 phút sau đó là bao nhiêu kilômét (km)?
+Đáp án: 120
+Lời giải: Theo định luật 1 Newton, tàu chuyển động thẳng đều: $s = vt = 2 \cdot 60 = 120$ km.
+
+Câu 3. Một thang máy chở người đang đi lên thẳng đều. Tổng trọng lượng của thang máy và người là 6 000 N, bỏ qua lực cản. Lực căng của dây cáp kéo thang máy là bao nhiêu niutơn (N)?
+Đáp án: 6000
+Lời giải: Thang máy chuyển động thẳng đều nên các lực cân bằng: $T = P = 6\,000$ N.
