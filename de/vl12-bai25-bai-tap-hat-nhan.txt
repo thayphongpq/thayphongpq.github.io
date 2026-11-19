@@ -1,0 +1,88 @@
+VẬT LÍ 12 - CHƯƠNG IV. VẬT LÍ HẠT NHÂN - BÀI 25. BÀI TẬP VỀ VẬT LÍ HẠT NHÂN
+Đề luyện tập theo cấu trúc thi tốt nghiệp THPT (biên soạn: thầy Lâm Thế Phong, THPT An Thới)
+Thời gian: 25
+
+PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn
+Câu 1. Hai hạt nhân $^{14}_{7}\text{N}$ và $^{14}_{6}\text{C}$ có cùng
+A. số proton.
+B. số neutron.
+C. vị trí trong bảng tuần hoàn (là hai đồng vị).
+*D. số nucleon.
+Lời giải: Cả hai có $A = 14$; số proton lần lượt là 7 và 6, số neutron lần lượt là 7 và 8.
+
+Câu 2. Hạt nhân $^{A}_{Z}\text{X}$ phóng xạ $\beta^+$. So với hạt nhân mẹ, hạt nhân con có
+A. số proton tăng 1, số khối không đổi.
+B. số proton giảm 2, số khối giảm 4.
+*C. số proton giảm 1, số khối không đổi.
+D. số proton không đổi, số khối tăng 1.
+Lời giải: $^{A}_{Z}\text{X} \rightarrow {}^{0}_{+1}\text{e} + {}^{A}_{Z-1}\text{Y}$ (kèm neutrino).
+
+Câu 3. Hạt nhân $^{226}_{88}\text{Ra}$ phóng xạ $\alpha$. Hạt nhân con là
+A. $^{222}_{88}\text{Ra}$.
+*B. $^{222}_{86}\text{Rn}$.
+C. $^{226}_{89}\text{Ac}$.
+D. $^{224}_{86}\text{Rn}$.
+Lời giải: $^{226}_{88}\text{Ra} \rightarrow {}^{4}_{2}\text{He} + {}^{222}_{86}\text{Rn}$.
+
+Câu 4. Năng lượng liên kết của các hạt nhân $^{4}_{2}\text{He}$, $^{56}_{26}\text{Fe}$, $^{235}_{92}\text{U}$ lần lượt xấp xỉ 28,3 MeV; 492 MeV và 1784 MeV. Sắp xếp theo thứ tự độ bền vững giảm dần là
+*A. $^{56}_{26}\text{Fe}$, $^{235}_{92}\text{U}$, $^{4}_{2}\text{He}$.
+B. $^{235}_{92}\text{U}$, $^{56}_{26}\text{Fe}$, $^{4}_{2}\text{He}$.
+C. $^{4}_{2}\text{He}$, $^{56}_{26}\text{Fe}$, $^{235}_{92}\text{U}$.
+D. $^{56}_{26}\text{Fe}$, $^{4}_{2}\text{He}$, $^{235}_{92}\text{U}$.
+Lời giải: $E_{lkr}$: He $\approx \dfrac{28{,}3}{4} \approx 7{,}08$; Fe $\approx \dfrac{492}{56} \approx 8{,}79$; U $\approx \dfrac{1784}{235} \approx 7{,}59$ (MeV/nucleon). $E_{lkr}$ càng lớn càng bền.
+
+Câu 5. Một chất phóng xạ có chu kì bán rã 3 ngày. Sau 9 ngày, phần trăm số hạt nhân ban đầu đã bị phân rã là
+A. 12,5%.
+B. 25%.
+C. 75%.
+*D. 87,5%.
+Lời giải: $t = 3T$: còn lại $2^{-3} = 12{,}5\%$, đã phân rã $100\% - 12{,}5\% = 87{,}5\%$.
+
+Câu 6. Trong phản ứng hạt nhân $^{14}_{7}\text{N} + {}^{4}_{2}\text{He} \rightarrow {}^{17}_{8}\text{O} + \text{X}$, hạt X là
+A. neutron.
+*B. proton.
+C. electron.
+D. hạt alpha.
+Lời giải: $A = 14 + 4 - 17 = 1$, $Z = 7 + 2 - 8 = 1$: X là $^{1}_{1}\text{H}$ (proton).
+
+Câu 7. Một nguồn phóng xạ ban đầu có độ phóng xạ 8 Ci. Biết $1\ \text{Ci} = 3{,}7 \cdot 10^{10}$ Bq. Sau thời gian bằng hai chu kì bán rã, độ phóng xạ của nguồn là
+A. 4 Ci.
+B. 1 Ci.
+*C. $7{,}4 \cdot 10^{10}$ Bq.
+D. $2{,}96 \cdot 10^{11}$ Bq.
+Lời giải: $H = H_0 \cdot 2^{-2} = 2$ Ci $= 2 \cdot 3{,}7 \cdot 10^{10} = 7{,}4 \cdot 10^{10}$ Bq.
+
+Câu 8. Một phản ứng hạt nhân tỏa năng lượng khi
+*A. tổng khối lượng nghỉ của các hạt trước phản ứng lớn hơn tổng khối lượng nghỉ của các hạt sau phản ứng.
+B. tổng khối lượng nghỉ của các hạt trước phản ứng nhỏ hơn tổng khối lượng nghỉ của các hạt sau phản ứng.
+C. tổng khối lượng nghỉ của các hạt trước và sau phản ứng bằng nhau.
+D. tổng số nucleon sau phản ứng lớn hơn tổng số nucleon trước phản ứng.
+Lời giải: $\Delta E = (m_{\text{trước}} - m_{\text{sau}})c^2 > 0$ thì phản ứng tỏa năng lượng; số nucleon luôn bảo toàn.
+
+PHẦN II. Câu trắc nghiệm đúng sai
+Câu 1. Radon $^{222}_{86}\text{Rn}$ là chất phóng xạ $\alpha$ có chu kì bán rã 3,8 ngày. Ban đầu có 4 mg $^{222}_{86}\text{Rn}$ nguyên chất. Coi khối lượng mỗi hạt nhân (tính theo u) xấp xỉ bằng số khối của nó.
+a) Hạt nhân con tạo thành là $^{218}_{84}\text{Po}$. (Đ)
+b) Sau 7,6 ngày, khối lượng $^{222}_{86}\text{Rn}$ còn lại là 1 mg. (Đ)
+c) Sau 7,6 ngày, khối lượng hạt nhân con tạo thành đúng bằng 3 mg. (S)
+d) Hằng số phóng xạ của $^{222}_{86}\text{Rn}$ xấp xỉ $2{,}11 \cdot 10^{-6}\ \text{s}^{-1}$. (Đ)
+Lời giải: $^{222}_{86}\text{Rn} \rightarrow {}^{4}_{2}\text{He} + {}^{218}_{84}\text{Po}$. $t = 2T$: $m = \dfrac{4}{4} = 1$ mg. Số hạt nhân Rn đã phân rã ứng với 3 mg Rn, mỗi hạt nhân Rn cho một hạt nhân Po nên $m_{\text{Po}} = 3 \cdot \dfrac{218}{222} \approx 2{,}95$ mg. $\lambda = \dfrac{\ln 2}{3{,}8 \cdot 86400} \approx 2{,}11 \cdot 10^{-6}\ \text{s}^{-1}$.
+
+Câu 2. Xét phản ứng $^{2}_{1}\text{H} + {}^{2}_{1}\text{H} \rightarrow {}^{3}_{2}\text{He} + {}^{1}_{0}\text{n}$. Biết $m_{\text{H2}} = 2{,}0136$ u, $m_{\text{He3}} = 3{,}0149$ u, $m_n = 1{,}0087$ u, $1\ \text{u} = 931{,}5\ \text{MeV}/c^2$, $1\ \text{MeV} = 1{,}6 \cdot 10^{-13}$ J, $N_A = 6{,}02 \cdot 10^{23}$ mol⁻¹, khối lượng mol của $^{2}_{1}\text{H}$ là 2 g/mol.
+a) Đây là phản ứng nhiệt hạch. (Đ)
+b) Mỗi phản ứng tỏa ra năng lượng xấp xỉ 3,35 MeV. (Đ)
+c) Phản ứng này có thể xảy ra ở nhiệt độ phòng. (S)
+d) Năng lượng tỏa ra khi dùng hết 1 g $^{2}_{1}\text{H}$ cho phản ứng này xấp xỉ $1{,}6 \cdot 10^{11}$ J. (S)
+Lời giải: Hai hạt nhân nhẹ kết hợp thành hạt nhân nặng hơn: phản ứng nhiệt hạch, cần nhiệt độ rất cao. $\Delta m = 2 \cdot 2{,}0136 - (3{,}0149 + 1{,}0087) = 0{,}0036$ u; $E = 0{,}0036 \cdot 931{,}5 \approx 3{,}35$ MeV. 1 g $^{2}_{1}\text{H}$ có $0{,}5 \cdot 6{,}02 \cdot 10^{23} = 3{,}01 \cdot 10^{23}$ hạt nhân, mỗi phản ứng dùng 2 hạt nhân nên có $1{,}505 \cdot 10^{23}$ phản ứng: $E \approx 1{,}505 \cdot 10^{23} \cdot 3{,}35 \cdot 1{,}6 \cdot 10^{-13} \approx 8{,}1 \cdot 10^{10}$ J.
+
+PHẦN III. Câu trắc nghiệm trả lời ngắn
+Câu 1. Polonium $^{210}_{84}\text{Po}$ là chất phóng xạ $\alpha$ có chu kì bán rã 138 ngày, hạt nhân con bền. Ban đầu có một mẫu $^{210}_{84}\text{Po}$ nguyên chất. Sau bao nhiêu ngày thì tỉ số giữa số hạt nhân con tạo thành và số hạt nhân $^{210}_{84}\text{Po}$ còn lại trong mẫu bằng 7?
+Đáp án: 414
+Lời giải: $\dfrac{N_{\text{con}}}{N} = \dfrac{N_0 - N}{N} = 2^{t/T} - 1 = 7 \Rightarrow 2^{t/T} = 8 \Rightarrow t = 3T = 414$ ngày.
+
+Câu 2. Hạt nhân $^{16}_{8}\text{O}$ có khối lượng 15,9905 u. Cho $m_p = 1{,}0073$ u, $m_n = 1{,}0087$ u, $1\ \text{u} = 931{,}5\ \text{MeV}/c^2$. Năng lượng liên kết riêng của hạt nhân $^{16}_{8}\text{O}$ là bao nhiêu MeV/nucleon (làm tròn kết quả đến chữ số hàng phần trăm)?
+Đáp án: 8,01|8,005|8,00|8,0
+Lời giải: $\Delta m = 8 \cdot 1{,}0073 + 8 \cdot 1{,}0087 - 15{,}9905 = 0{,}1375$ u; $E_{lk} = 0{,}1375 \cdot 931{,}5 \approx 128{,}08$ MeV; $E_{lkr} = \dfrac{128{,}08}{16} \approx 8{,}01$ MeV/nucleon.
+
+Câu 3. Iodine $^{131}_{53}\text{I}$ có chu kì bán rã 8 ngày. Sau 20 ngày, độ phóng xạ của một mẫu $^{131}_{53}\text{I}$ bằng bao nhiêu phần trăm (%) độ phóng xạ ban đầu (làm tròn kết quả đến chữ số hàng phần mười)?
+Đáp án: 17,7|17,68
+Lời giải: $\dfrac{H}{H_0} = 2^{-t/T} = 2^{-20/8} = 2^{-2{,}5} \approx 0{,}177 = 17{,}7\%$.

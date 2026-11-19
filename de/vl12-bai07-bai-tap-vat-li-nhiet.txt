@@ -1,0 +1,88 @@
+VẬT LÍ 12 - CHƯƠNG I. VẬT LÍ NHIỆT - BÀI 7. BÀI TẬP VỀ VẬT LÍ NHIỆT
+Đề luyện tập theo cấu trúc thi tốt nghiệp THPT (biên soạn: thầy Lâm Thế Phong, THPT An Thới)
+Thời gian: 25
+
+PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn
+Câu 1. Một khối chất rắn kết tinh đang nóng chảy ở nhiệt độ không đổi. Trong quá trình này, nội năng của khối chất
+A. không đổi vì nhiệt độ không đổi.
+*B. tăng vì khối chất nhận nhiệt lượng.
+C. giảm vì các phân tử mất dần liên kết.
+D. bằng không.
+Lời giải: Khối chất nhận nhiệt $Q > 0$, thể tích hầu như không đổi nên $\Delta U \approx Q > 0$: nội năng tăng (thế năng tương tác phân tử tăng), dù nhiệt độ không đổi.
+
+Câu 2. Người ta thực hiện công 150 J để nén một lượng khí thì nội năng của khí tăng 50 J. Kết luận nào sau đây đúng?
+*A. Khí truyền ra môi trường nhiệt lượng 100 J.
+B. Khí nhận từ môi trường nhiệt lượng 100 J.
+C. Khí nhận từ môi trường nhiệt lượng 200 J.
+D. Khí truyền ra môi trường nhiệt lượng 200 J.
+Lời giải: $Q = \Delta U - A = 50 - 150 = -100$ J $< 0$: khí tỏa nhiệt 100 J.
+
+Câu 3. Nhiệt độ của một vật tăng từ $27\ ^\circ\text{C}$ lên $77\ ^\circ\text{C}$. Độ tăng nhiệt độ tuyệt đối của vật là
+A. 323 K.
+B. 350 K.
+C. 77 K.
+*D. 50 K.
+Lời giải: $\Delta T = \Delta t = 77 - 27 = 50$ K.
+
+Câu 4. Ba quả cầu cùng khối lượng làm bằng đồng ($c = 380$ J/(kg.K)), sắt ($c = 460$ J/(kg.K)) và nhôm ($c = 880$ J/(kg.K)) cùng được nung nóng đến $100\ ^\circ\text{C}$ rồi thả lần lượt vào ba cốc nước giống hệt nhau ở $20\ ^\circ\text{C}$. Bỏ qua trao đổi nhiệt với môi trường. Khi cân bằng nhiệt, cốc nước có nhiệt độ cao nhất là cốc thả quả cầu bằng
+A. đồng.
+B. sắt.
+*C. nhôm.
+D. cả ba cốc có nhiệt độ bằng nhau.
+Lời giải: Quả cầu có nhiệt dung riêng lớn hơn tỏa ra nhiều nhiệt hơn khi nguội đi cùng một lượng, nên cốc thả quả cầu nhôm nóng nhất.
+
+Câu 5. Trộn 1 kg nước ở $90\ ^\circ\text{C}$ với 2 kg nước ở $30\ ^\circ\text{C}$. Bỏ qua trao đổi nhiệt với bình và môi trường. Nhiệt độ cân bằng của hỗn hợp là
+*A. $50\ ^\circ\text{C}$.
+B. $60\ ^\circ\text{C}$.
+C. $40\ ^\circ\text{C}$.
+D. $70\ ^\circ\text{C}$.
+Lời giải: $1 \cdot (90 - t) = 2 \cdot (t - 30) \Rightarrow 3t = 150 \Rightarrow t = 50\ ^\circ\text{C}$.
+
+Câu 6. Cung cấp nhiệt đều đặn với công suất có ích 100 W cho 0,2 kg một chất rắn kết tinh. Người ta thấy nhiệt độ của chất dừng ở $80\ ^\circ\text{C}$ trong 5 phút rồi mới tăng tiếp. Nhiệt nóng chảy riêng của chất này là
+A. $2{,}5 \cdot 10^3$ J/kg.
+*B. $1{,}5 \cdot 10^5$ J/kg.
+C. $3{,}0 \cdot 10^4$ J/kg.
+D. $6{,}0 \cdot 10^3$ J/kg.
+Lời giải: Trong 5 phút chất nóng chảy hoàn toàn: $Q = Pt = 100 \cdot 300 = 30\,000$ J; $\lambda = \dfrac{Q}{m} = \dfrac{30\,000}{0{,}2} = 1{,}5 \cdot 10^5$ J/kg.
+
+Câu 7. Cho nhiệt dung riêng của nước đá 2100 J/(kg.K), của nước 4200 J/(kg.K); nhiệt nóng chảy riêng của nước đá $3{,}34 \cdot 10^5$ J/kg; nhiệt hoá hơi riêng của nước $2{,}26 \cdot 10^6$ J/kg. Nhiệt lượng cần để biến 0,1 kg nước đá ở $-5\ ^\circ\text{C}$ thành hơi nước hoàn toàn ở $100\ ^\circ\text{C}$ xấp xỉ bằng
+A. 226 kJ.
+B. 268 kJ.
+*C. 302 kJ.
+D. 335 kJ.
+Lời giải: $Q = 0{,}1 \cdot 2100 \cdot 5 + 0{,}1 \cdot 3{,}34 \cdot 10^5 + 0{,}1 \cdot 4200 \cdot 100 + 0{,}1 \cdot 2{,}26 \cdot 10^6 = 1050 + 33\,400 + 42\,000 + 226\,000 = 302\,450$ J $\approx 302$ kJ.
+
+Câu 8. Một ô tô có khối lượng 1000 kg đang chạy với tốc độ 20 m/s thì phanh gấp đến khi dừng lại. Coi 60% động năng của ô tô chuyển thành nội năng của các đĩa phanh bằng sắt có tổng khối lượng 8 kg, nhiệt dung riêng của sắt là 460 J/(kg.K). Độ tăng nhiệt độ của các đĩa phanh xấp xỉ bằng
+A. 54,3 K.
+B. 19,6 K.
+C. 65,2 K.
+*D. 32,6 K.
+Lời giải: $W_{\text{đ}} = \dfrac{1}{2} \cdot 1000 \cdot 20^2 = 200\,000$ J; $Q = 0{,}6 \cdot 200\,000 = 120\,000$ J; $\Delta T = \dfrac{Q}{mc} = \dfrac{120\,000}{8 \cdot 460} \approx 32{,}6$ K.
+
+PHẦN II. Câu trắc nghiệm đúng sai
+Câu 1. Để xác định nhiệt dung riêng của một kim loại, người ta thả một thỏi kim loại có khối lượng 0,2 kg đã nung nóng tới $100\ ^\circ\text{C}$ vào một nhiệt lượng kế bằng nhôm có khối lượng 0,1 kg chứa 0,4 kg nước ở $20\ ^\circ\text{C}$. Khi cân bằng nhiệt, nhiệt độ là $24\ ^\circ\text{C}$. Cho nhiệt dung riêng của nhôm là 880 J/(kg.K), của nước là 4200 J/(kg.K). Bỏ qua trao đổi nhiệt với môi trường.
+a) Nhiệt lượng nước thu vào là 6720 J. (Đ)
+b) Nhiệt lượng bình nhôm thu vào là 352 J. (Đ)
+c) Nhiệt dung riêng của kim loại xấp xỉ 465 J/(kg.K). (Đ)
+d) Nếu bỏ qua nhiệt lượng bình nhôm thu vào thì giá trị nhiệt dung riêng tính được sẽ lớn hơn giá trị trên. (S)
+Lời giải: $Q_n = 0{,}4 \cdot 4200 \cdot 4 = 6720$ J; $Q_b = 0{,}1 \cdot 880 \cdot 4 = 352$ J. $0{,}2 \cdot c \cdot 76 = 7072 \Rightarrow c \approx 465$ J/(kg.K). Bỏ qua bình thì $c = \dfrac{6720}{15{,}2} \approx 442$ J/(kg.K), nhỏ hơn.
+
+Câu 2. Xét các quá trình biến đổi của một lượng khí đựng trong xilanh có pit-tông.
+a) Khí nhận nhiệt lượng 500 J và đẩy pit-tông, thực hiện công 200 J thì nội năng của khí tăng 300 J. (Đ)
+b) Khi khí bị nén nhanh trong xilanh cách nhiệt, nhiệt độ của khí tăng. (Đ)
+c) Khi giữ pit-tông cố định và cung cấp nhiệt cho khí thì nội năng của khí giảm. (S)
+d) Nhiệt lượng luôn tự truyền từ vật có nội năng lớn hơn sang vật có nội năng nhỏ hơn. (S)
+Lời giải: $\Delta U = A + Q = -200 + 500 = 300$ J. Nén cách nhiệt: $\Delta U = A > 0$ nên khí nóng lên. Pit-tông cố định: $\Delta U = Q > 0$. Nhiệt tự truyền từ vật có nhiệt độ cao sang vật có nhiệt độ thấp, không phải theo nội năng.
+
+PHẦN III. Câu trắc nghiệm trả lời ngắn
+Câu 1. Thả 50 g nước đá ở $0\ ^\circ\text{C}$ vào một cốc chứa 200 g nước ở $40\ ^\circ\text{C}$. Bỏ qua sự trao đổi nhiệt với cốc và môi trường. Cho nhiệt dung riêng của nước là 4200 J/(kg.K), nhiệt nóng chảy riêng của nước đá là $3{,}34 \cdot 10^5$ J/kg. Nhiệt độ của nước trong cốc khi cân bằng nhiệt là bao nhiêu độ Celsius ($^\circ\text{C}$) (làm tròn kết quả đến chữ số hàng phần mười)?
+Đáp án: 16,1|16,10
+Lời giải: Nước nguội về $0\ ^\circ\text{C}$ tỏa $0{,}2 \cdot 4200 \cdot 40 = 33\,600$ J $>$ $\lambda m = 16\,700$ J nên đá tan hết. $16\,700 + 0{,}05 \cdot 4200 \cdot t = 0{,}2 \cdot 4200 \cdot (40 - t) \Rightarrow 1050t = 16\,900 \Rightarrow t \approx 16{,}1\ ^\circ\text{C}$.
+
+Câu 2. Một viên đạn chì bay với tốc độ 300 m/s thì cắm vào một khối gỗ và dừng lại. Coi 50% động năng của viên đạn chuyển thành nội năng làm nóng viên đạn. Nhiệt dung riêng của chì là 130 J/(kg.K). Nhiệt độ của viên đạn tăng thêm bao nhiêu kelvin (K) (làm tròn kết quả đến hàng đơn vị)?
+Đáp án: 173
+Lời giải: $0{,}5 \cdot \dfrac{1}{2}mv^2 = mc\Delta T \Rightarrow \Delta T = \dfrac{0{,}25v^2}{c} = \dfrac{0{,}25 \cdot 90\,000}{130} \approx 173$ K.
+
+Câu 3. Một ấm điện có công suất 1000 W, hiệu suất 90%, chứa 1 kg nước ở $20\ ^\circ\text{C}$. Bỏ qua nhiệt lượng ấm thu vào. Cho nhiệt dung riêng của nước là 4200 J/(kg.K), nhiệt hoá hơi riêng của nước là $2{,}26 \cdot 10^6$ J/kg. Kể từ lúc bắt đầu đun, sau bao nhiêu phút thì lượng nước trong ấm chỉ còn một nửa (làm tròn kết quả đến chữ số hàng phần mười)?
+Đáp án: 27,1|27,15
+Lời giải: $Q = 1 \cdot 4200 \cdot 80 + 0{,}5 \cdot 2{,}26 \cdot 10^6 = 336\,000 + 1\,130\,000 = 1\,466\,000$ J; $t = \dfrac{Q}{0{,}9 \cdot 1000} \approx 1628{,}9$ s $\approx 27{,}1$ phút.

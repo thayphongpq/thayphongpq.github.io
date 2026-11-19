@@ -1,0 +1,88 @@
+VẬT LÍ 12 - CHƯƠNG III. TỪ TRƯỜNG - BÀI 17. MÁY PHÁT ĐIỆN XOAY CHIỀU
+Đề luyện tập theo cấu trúc thi tốt nghiệp THPT (biên soạn: thầy Lâm Thế Phong, THPT An Thới)
+Thời gian: 20
+
+PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn
+Câu 1. Máy phát điện xoay chiều hoạt động dựa trên
+A. hiện tượng nhiễm điện do cọ xát.
+B. tác dụng nhiệt của dòng điện.
+C. lực tương tác giữa các điện tích.
+*D. hiện tượng cảm ứng điện từ.
+Lời giải: Khi khung dây quay trong từ trường (hoặc nam châm quay trước cuộn dây), từ thông qua cuộn dây biến thiên điều hòa, trong cuộn dây xuất hiện suất điện động cảm ứng xoay chiều.
+
+Câu 2. Trong máy phát điện xoay chiều, phần cảm là bộ phận
+A. trong đó xuất hiện suất điện động cảm ứng.
+*B. tạo ra từ trường.
+C. đưa dòng điện ra mạch ngoài.
+D. làm mát cho máy.
+Lời giải: Phần cảm (nam châm điện hoặc nam châm vĩnh cửu) tạo ra từ trường; phần ứng là các cuộn dây, nơi xuất hiện suất điện động cảm ứng.
+
+Câu 3. Suất điện động xoay chiều $e = 220\sqrt{2}\cos\left(100\pi t + \dfrac{\pi}{3}\right)$ (V) có giá trị hiệu dụng là
+*A. 220 V.
+B. $220\sqrt{2}$ V.
+C. $110\sqrt{2}$ V.
+D. 440 V.
+Lời giải: $E = \dfrac{E_0}{\sqrt{2}} = \dfrac{220\sqrt{2}}{\sqrt{2}} = 220$ V.
+
+Câu 4. Suất điện động xoay chiều $e = 100\cos(100\pi t)$ (V) có tần số là
+A. 100 Hz.
+B. $100\pi$ Hz.
+*C. 50 Hz.
+D. 25 Hz.
+Lời giải: $\omega = 100\pi$ rad/s nên $f = \dfrac{\omega}{2\pi} = 50$ Hz.
+
+Câu 5. Một khung dây phẳng gồm 100 vòng, mỗi vòng có diện tích 0,02 m², quay đều với tốc độ góc 50 rad/s quanh một trục nằm trong mặt phẳng khung và vuông góc với các đường sức của từ trường đều có cảm ứng từ 0,5 T. Suất điện động cực đại trong khung là
+A. 5 V.
+*B. 50 V.
+C. 500 V.
+D. 25 V.
+Lời giải: $E_0 = NBS\omega = 100 \cdot 0{,}5 \cdot 0{,}02 \cdot 50 = 50$ V.
+
+Câu 6. Giá trị hiệu dụng của cường độ dòng điện xoay chiều được định nghĩa dựa trên
+A. tác dụng hóa học của dòng điện.
+B. tác dụng từ của dòng điện.
+C. tác dụng sinh lí của dòng điện.
+*D. tác dụng nhiệt của dòng điện.
+Lời giải: Cường độ hiệu dụng bằng cường độ của dòng điện không đổi mà khi đi qua cùng một điện trở trong cùng thời gian thì tỏa ra cùng nhiệt lượng.
+
+Câu 7. Dòng điện xoay chiều $i = 2\cos(100\pi t)$ (A) chạy qua một điện trở 50 Ω. Công suất tỏa nhiệt trên điện trở là
+A. 200 W.
+B. 50 W.
+*C. 100 W.
+D. 400 W.
+Lời giải: $I = \dfrac{I_0}{\sqrt{2}} = \sqrt{2}$ A; $P = I^2R = 2 \cdot 50 = 100$ W.
+
+Câu 8. Một khung dây quay đều trong từ trường đều quanh trục vuông góc với các đường sức từ. Nếu tăng tốc độ quay của khung lên 2 lần thì suất điện động cực đại trong khung
+*A. tăng 2 lần.
+B. tăng 4 lần.
+C. giảm 2 lần.
+D. không đổi.
+Lời giải: $E_0 = NBS\omega$ tỉ lệ với $\omega$.
+
+PHẦN II. Câu trắc nghiệm đúng sai
+Câu 1. Một khung dây phẳng gồm 200 vòng, mỗi vòng có diện tích 100 cm², quay đều với tốc độ 50 vòng/s quanh một trục nằm trong mặt phẳng khung và vuông góc với các đường sức của từ trường đều có cảm ứng từ 0,1 T. Tại thời điểm $t = 0$, vectơ pháp tuyến của mặt phẳng khung cùng hướng với cảm ứng từ.
+a) Suất điện động trong khung biến thiên với tần số 50 Hz. (Đ)
+b) Suất điện động cực đại trong khung xấp xỉ 62,8 V. (Đ)
+c) Giá trị hiệu dụng của suất điện động trong khung xấp xỉ 62,8 V. (S)
+d) Tại thời điểm $t = 0$, suất điện động trong khung có độ lớn cực đại. (S)
+Lời giải: $\omega = 2\pi \cdot 50 = 100\pi$ rad/s, $f = 50$ Hz. $E_0 = NBS\omega = 200 \cdot 0{,}1 \cdot 0{,}01 \cdot 100\pi = 20\pi \approx 62{,}8$ V; $E = \dfrac{E_0}{\sqrt{2}} \approx 44{,}4$ V. Tại $t = 0$ từ thông qua khung cực đại, tốc độ biến thiên từ thông bằng 0 nên $e = 0$.
+
+Câu 2. Mạng điện xoay chiều dùng trong gia đình ở Việt Nam có điện áp 220 V và tần số 50 Hz.
+a) Giá trị 220 V là giá trị hiệu dụng của điện áp. (Đ)
+b) Điện áp cực đại của mạng điện xấp xỉ 311 V. (Đ)
+c) Trong mỗi giây, dòng điện trong mạch đổi chiều 50 lần. (S)
+d) Có thể dùng trực tiếp dòng điện của mạng điện này để mạ điện giống như dòng điện một chiều. (S)
+Lời giải: Các số ghi trên thiết bị là giá trị hiệu dụng; $U_0 = 220\sqrt{2} \approx 311$ V. Mỗi chu kì dòng điện đổi chiều 2 lần nên mỗi giây đổi chiều $2 \cdot 50 = 100$ lần. Mạ điện cần dòng điện một chiều vì dòng xoay chiều liên tục đổi chiều.
+
+PHẦN III. Câu trắc nghiệm trả lời ngắn
+Câu 1. Điện áp xoay chiều giữa hai đầu một đoạn mạch có biểu thức $u = 200\cos(100\pi t)$ (V). Điện áp hiệu dụng giữa hai đầu đoạn mạch là bao nhiêu vôn (V) (làm tròn kết quả đến chữ số hàng phần mười)?
+Đáp án: 141,4|141,42
+Lời giải: $U = \dfrac{U_0}{\sqrt{2}} = \dfrac{200}{\sqrt{2}} \approx 141{,}4$ V.
+
+Câu 2. Dòng điện xoay chiều có cường độ cực đại 3 A chạy qua một điện trở 20 Ω. Nhiệt lượng tỏa ra trên điện trở trong 5 phút là bao nhiêu kilôjun (kJ)?
+Đáp án: 27
+Lời giải: $I^2 = \dfrac{I_0^2}{2} = 4{,}5$ A²; $Q = I^2Rt = 4{,}5 \cdot 20 \cdot 300 = 27000$ J $= 27$ kJ.
+
+Câu 3. Một máy phát điện xoay chiều có khung dây gồm 500 vòng, mỗi vòng có diện tích 200 cm², quay đều trong từ trường đều có cảm ứng từ 0,2 T (trục quay vuông góc với các đường sức từ). Suất điện động do máy tạo ra có tần số 50 Hz. Suất điện động cực đại của máy là bao nhiêu vôn (V) (làm tròn kết quả đến chữ số hàng đơn vị)?
+Đáp án: 628|628,3
+Lời giải: $\omega = 2\pi f = 100\pi$ rad/s; $E_0 = NBS\omega = 500 \cdot 0{,}2 \cdot 0{,}02 \cdot 100\pi = 200\pi \approx 628$ V.

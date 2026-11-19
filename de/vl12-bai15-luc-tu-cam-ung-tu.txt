@@ -1,0 +1,88 @@
+VẬT LÍ 12 - CHƯƠNG III. TỪ TRƯỜNG - BÀI 15. LỰC TỪ TÁC DỤNG LÊN DÂY DẪN MANG DÒNG ĐIỆN. CẢM ỨNG TỪ
+Đề luyện tập theo cấu trúc thi tốt nghiệp THPT (biên soạn: thầy Lâm Thế Phong, THPT An Thới)
+Thời gian: 20
+
+PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn
+Câu 1. Trong hệ SI, đơn vị của cảm ứng từ là
+*A. tesla (T).
+B. weber (Wb).
+C. vôn trên mét (V/m).
+D. niutơn (N).
+Lời giải: Từ $F = BI\ell\sin\alpha$ suy ra $1\ \text{T} = 1\ \dfrac{\text{N}}{\text{A} \cdot \text{m}}$.
+
+Câu 2. Một đoạn dây dẫn thẳng mang dòng điện đặt trong từ trường đều. Lực từ tác dụng lên đoạn dây bằng 0 khi đoạn dây đặt
+A. vuông góc với các đường sức từ.
+B. hợp với các đường sức từ một góc $45^\circ$.
+C. hợp với các đường sức từ một góc $60^\circ$.
+*D. song song với các đường sức từ.
+Lời giải: $F = BI\ell\sin\alpha$, với $\alpha = 0$ (hoặc $180^\circ$) thì $\sin\alpha = 0$ nên $F = 0$.
+
+Câu 3. Chiều của lực từ tác dụng lên đoạn dây dẫn mang dòng điện đặt trong từ trường được xác định bằng
+A. quy tắc nắm tay phải.
+*B. quy tắc bàn tay trái.
+C. định luật Lenz.
+D. định luật Faraday.
+Lời giải: Đặt bàn tay trái sao cho các đường sức từ hướng vào lòng bàn tay, chiều từ cổ tay đến ngón giữa là chiều dòng điện thì ngón cái choãi ra $90^\circ$ chỉ chiều lực từ.
+
+Câu 4. Cảm ứng từ $\vec B$ tại một điểm trong từ trường là đại lượng
+A. đặc trưng cho khả năng sinh công của từ trường.
+B. đặc trưng cho tác dụng nhiệt của từ trường.
+*C. đặc trưng cho từ trường về phương diện tác dụng lực, có hướng là hướng của từ trường tại điểm đó.
+D. vô hướng, luôn có giá trị dương.
+Lời giải: Cảm ứng từ là đại lượng vectơ đặc trưng cho từ trường về độ mạnh yếu (tác dụng lực) và hướng.
+
+Câu 5. Một đoạn dây dẫn thẳng dài 20 cm có dòng điện 5 A chạy qua, đặt vuông góc với các đường sức của một từ trường đều có cảm ứng từ 0,04 T. Độ lớn lực từ tác dụng lên đoạn dây là
+A. 0,4 N.
+B. 4 N.
+C. 0,004 N.
+*D. 0,04 N.
+Lời giải: $F = BI\ell = 0{,}04 \cdot 5 \cdot 0{,}2 = 0{,}04$ N.
+
+Câu 6. Một đoạn dây dẫn thẳng dài 0,5 m có dòng điện 4 A chạy qua, đặt trong từ trường đều có cảm ứng từ 0,1 T. Chiều dòng điện hợp với các đường sức từ một góc $30^\circ$. Độ lớn lực từ tác dụng lên đoạn dây là
+*A. 0,1 N.
+B. 0,2 N.
+C. 0,17 N.
+D. 0,05 N.
+Lời giải: $F = BI\ell\sin\alpha = 0{,}1 \cdot 4 \cdot 0{,}5 \cdot \sin 30^\circ = 0{,}1$ N.
+
+Câu 7. Một đoạn dây dẫn thẳng dài 10 cm có dòng điện 2 A chạy qua, đặt vuông góc với các đường sức của một từ trường đều thì chịu lực từ có độ lớn 0,06 N. Độ lớn cảm ứng từ của từ trường là
+A. 0,03 T.
+B. 3 T.
+*C. 0,3 T.
+D. 0,12 T.
+Lời giải: $B = \dfrac{F}{I\ell} = \dfrac{0{,}06}{2 \cdot 0{,}1} = 0{,}3$ T.
+
+Câu 8. Một đoạn dây dẫn thẳng mang dòng điện đặt vuông góc với các đường sức của một từ trường đều. Nếu tăng cường độ dòng điện lên 2 lần và chỉ để một đoạn có chiều dài bằng $\dfrac{1}{4}$ chiều dài ban đầu nằm trong từ trường thì lực từ tác dụng lên dây
+A. tăng 2 lần.
+*B. giảm 2 lần.
+C. tăng 8 lần.
+D. không đổi.
+Lời giải: $F' = B \cdot 2I \cdot \dfrac{\ell}{4} = \dfrac{BI\ell}{2} = \dfrac{F}{2}$.
+
+PHẦN II. Câu trắc nghiệm đúng sai
+Câu 1. Một đoạn dây dẫn thẳng MN dài 25 cm đặt nằm ngang trong một từ trường đều có các đường sức thẳng đứng hướng lên, cảm ứng từ có độ lớn 0,08 T. Cho dòng điện không đổi 6 A chạy qua đoạn dây theo chiều từ M đến N.
+a) Lực từ tác dụng lên đoạn dây có phương nằm ngang và vuông góc với MN. (Đ)
+b) Lực từ tác dụng lên đoạn dây có độ lớn 0,12 N. (Đ)
+c) Nếu quay đoạn dây quanh trung điểm của nó trong mặt phẳng nằm ngang thì độ lớn lực từ thay đổi. (S)
+d) Nếu đồng thời đổi chiều dòng điện và đổi chiều từ trường thì lực từ đổi sang chiều ngược lại. (S)
+Lời giải: Lực từ vuông góc với cả dây và $\vec B$ (thẳng đứng) nên nằm ngang, vuông góc với MN. $F = BI\ell = 0{,}08 \cdot 6 \cdot 0{,}25 = 0{,}12$ N. Dây luôn nằm ngang nên luôn vuông góc với $\vec B$, độ lớn lực không đổi. Đổi chiều cả $I$ và $\vec B$ thì chiều lực từ giữ nguyên.
+
+Câu 2. Để đo cảm ứng từ giữa hai cực của một nam châm hình chữ U, một nhóm học sinh treo một khung dây dưới đĩa cân sao cho cạnh dưới của khung nằm ngang, dài 5 cm, nằm trong từ trường và vuông góc với các đường sức từ (lực từ tác dụng lên hai cạnh bên triệt tiêu nhau). Thay đổi cường độ dòng điện $I$ qua khung và đọc độ lớn lực từ $F$ tác dụng lên cạnh dưới, nhóm thu được: $I = 1$ A thì $F = 0{,}02$ N; $I = 2$ A thì $F = 0{,}04$ N; $I = 3$ A thì $F = 0{,}06$ N.
+a) Kết quả cho thấy lực từ tỉ lệ thuận với cường độ dòng điện. (Đ)
+b) Cảm ứng từ giữa hai cực nam châm có độ lớn 0,4 T. (Đ)
+c) Khi $I = 2{,}5$ A, lực từ tác dụng lên cạnh dưới có độ lớn 0,5 N. (S)
+d) Đồ thị biểu diễn $F$ theo $I$ là một đường thẳng đi qua gốc tọa độ, có hệ số góc bằng $B\ell$. (Đ)
+Lời giải: $\dfrac{F}{I}$ không đổi bằng 0,02 N/A nên $F$ tỉ lệ với $I$. $B = \dfrac{F}{I\ell} = \dfrac{0{,}02}{1 \cdot 0{,}05} = 0{,}4$ T. Khi $I = 2{,}5$ A: $F = 0{,}4 \cdot 2{,}5 \cdot 0{,}05 = 0{,}05$ N. $F = (B\ell)I$ nên đồ thị là đường thẳng qua gốc, hệ số góc $B\ell$.
+
+PHẦN III. Câu trắc nghiệm trả lời ngắn
+Câu 1. Một đoạn dây dẫn thẳng dài 1,2 m có dòng điện 15 A chạy qua, đặt vuông góc với các đường sức của một từ trường đều có cảm ứng từ 0,05 T. Độ lớn lực từ tác dụng lên đoạn dây là bao nhiêu niutơn (N)?
+Đáp án: 0,9
+Lời giải: $F = BI\ell = 0{,}05 \cdot 15 \cdot 1{,}2 = 0{,}9$ N.
+
+Câu 2. Một thanh kim loại có khối lượng 20 g, dài 40 cm được treo nằm ngang bằng hai sợi dây mảnh, nhẹ, cách điện, trong một từ trường đều có các đường sức thẳng đứng, cảm ứng từ có độ lớn 0,5 T. Cho dòng điện 1 A chạy qua thanh. Lấy $g = 10$ m/s². Khi thanh cân bằng, dây treo lệch khỏi phương thẳng đứng một góc bằng bao nhiêu độ?
+Đáp án: 45
+Lời giải: Lực từ nằm ngang: $F = BI\ell = 0{,}5 \cdot 1 \cdot 0{,}4 = 0{,}2$ N; trọng lực $P = mg = 0{,}02 \cdot 10 = 0{,}2$ N. $\tan\theta = \dfrac{F}{P} = 1 \Rightarrow \theta = 45^\circ$.
+
+Câu 3. Một thanh kim loại có khối lượng 30 g, dài 20 cm được treo nằm ngang bằng hai sợi dây mảnh, nhẹ trong một từ trường đều có các đường sức nằm ngang, vuông góc với thanh, cảm ứng từ có độ lớn 0,25 T. Cho dòng điện chạy qua thanh theo chiều sao cho lực từ hướng thẳng đứng lên trên. Lấy $g = 10$ m/s². Để lực căng của mỗi dây treo bằng 0 thì cường độ dòng điện qua thanh là bao nhiêu ampe (A)?
+Đáp án: 6
+Lời giải: Lực căng bằng 0 khi lực từ cân bằng trọng lực: $BI\ell = mg \Rightarrow I = \dfrac{mg}{B\ell} = \dfrac{0{,}03 \cdot 10}{0{,}25 \cdot 0{,}2} = 6$ A.

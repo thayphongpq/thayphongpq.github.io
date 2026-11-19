@@ -1,0 +1,84 @@
+VẬT LÍ 12 - CHƯƠNG IV. VẬT LÍ HẠT NHÂN - BÀI 23. HIỆN TƯỢNG PHÓNG XẠ
+Đề luyện tập theo cấu trúc thi tốt nghiệp THPT (biên soạn: thầy Lâm Thế Phong, THPT An Thới)
+Thời gian: 20
+
+PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn
+Câu 1. Tia $\alpha$ là dòng các hạt nhân
+*A. $^{4}_{2}\text{He}$.
+B. $^{1}_{1}\text{H}$.
+C. $^{2}_{1}\text{H}$.
+D. $^{3}_{2}\text{He}$.
+
+Câu 2. Khi bay qua khoảng giữa hai bản của một tụ điện tích điện, tia phóng xạ KHÔNG bị lệch là
+A. tia $\alpha$.
+B. tia $\beta^-$.
+C. tia $\beta^+$.
+*D. tia $\gamma$.
+Lời giải: Tia $\gamma$ là sóng điện từ (dòng photon) không mang điện nên không bị lệch trong điện trường.
+
+Câu 3. Phát biểu nào sau đây về hiện tượng phóng xạ là đúng?
+A. Tốc độ phân rã phóng xạ tăng khi tăng nhiệt độ của mẫu.
+B. Tốc độ phân rã phóng xạ tăng khi tăng áp suất lên mẫu.
+*C. Phóng xạ là quá trình tự phát, không chịu tác động của các yếu tố bên ngoài.
+D. Phóng xạ chỉ xảy ra với các hạt nhân nhẹ.
+
+Câu 4. Một chất phóng xạ có chu kì bán rã $T$. Sau thời gian $3T$, số hạt nhân chưa phân rã còn lại bằng bao nhiêu phần số hạt nhân ban đầu?
+A. $\dfrac{1}{3}$.
+*B. $\dfrac{1}{8}$.
+C. $\dfrac{1}{6}$.
+D. $\dfrac{1}{9}$.
+Lời giải: $\dfrac{N}{N_0} = 2^{-t/T} = 2^{-3} = \dfrac{1}{8}$.
+
+Câu 5. Hằng số phóng xạ $\lambda$ liên hệ với chu kì bán rã $T$ theo hệ thức
+*A. $\lambda = \dfrac{\ln 2}{T}$.
+B. $\lambda = \dfrac{T}{\ln 2}$.
+C. $\lambda = T\ln 2$.
+D. $\lambda = \dfrac{1}{2T}$.
+
+Câu 6. Hạt nhân $^{238}_{92}\text{U}$ phóng xạ $\alpha$. Hạt nhân con tạo thành là
+A. $^{238}_{90}\text{Th}$.
+B. $^{234}_{92}\text{U}$.
+*C. $^{234}_{90}\text{Th}$.
+D. $^{238}_{93}\text{Np}$.
+Lời giải: $^{238}_{92}\text{U} \rightarrow {}^{4}_{2}\text{He} + {}^{234}_{90}\text{Th}$ (số khối giảm 4, điện tích giảm 2).
+
+Câu 7. Iodine $^{131}_{53}\text{I}$ có chu kì bán rã 8 ngày. Ban đầu có 80 g $^{131}_{53}\text{I}$. Sau 24 ngày, khối lượng $^{131}_{53}\text{I}$ còn lại là
+A. 20 g.
+*B. 10 g.
+C. 26,7 g.
+D. 5 g.
+Lời giải: $t = 3T$: $m = m_0 \cdot 2^{-3} = \dfrac{80}{8} = 10$ g.
+
+Câu 8. Bản chất của phóng xạ $\beta^-$ là
+A. một proton trong hạt nhân biến thành neutron, phát ra positron.
+B. một electron ở lớp vỏ nguyên tử bị bứt ra.
+C. hạt nhân phát ra một hạt $^{4}_{2}\text{He}$.
+*D. một neutron trong hạt nhân biến thành proton, phát ra electron và phản neutrino.
+
+PHẦN II. Câu trắc nghiệm đúng sai
+Câu 1. Đồng vị cobalt $^{60}_{27}\text{Co}$ phóng xạ $\beta^-$ với chu kì bán rã 5,27 năm, được dùng trong xạ trị và kiểm tra khuyết tật vật liệu.
+a) Hạt nhân con tạo thành là $^{60}_{28}\text{Ni}$. (Đ)
+b) Sau 10,54 năm, 75% số hạt nhân $^{60}_{27}\text{Co}$ ban đầu đã bị phân rã. (Đ)
+c) Độ phóng xạ của một mẫu $^{60}_{27}\text{Co}$ không thay đổi theo thời gian. (S)
+d) Tia $\beta^-$ có khả năng đâm xuyên mạnh hơn tia $\gamma$. (S)
+Lời giải: $^{60}_{27}\text{Co} \rightarrow {}^{0}_{-1}\text{e} + {}^{60}_{28}\text{Ni}$ (kèm phản neutrino). $t = 2T$ nên còn $\dfrac{1}{4}$, đã phân rã $\dfrac{3}{4} = 75\%$. $H = \lambda N$ giảm theo $N$. Tia $\gamma$ đâm xuyên mạnh nhất.
+
+Câu 2. Một mẫu chất phóng xạ có chu kì bán rã 2 giờ.
+a) Sau 6 giờ, số hạt nhân chưa phân rã còn lại bằng $\dfrac{1}{8}$ số hạt nhân ban đầu. (Đ)
+b) Hằng số phóng xạ của chất này xấp xỉ $9{,}63 \cdot 10^{-5}\ \text{s}^{-1}$. (Đ)
+c) Sau 4 giờ, độ phóng xạ của mẫu giảm còn một nửa giá trị ban đầu. (S)
+d) Số hạt nhân bị phân rã trong 2 giờ đầu bằng số hạt nhân bị phân rã trong 2 giờ tiếp theo. (S)
+Lời giải: $6\ \text{h} = 3T$ nên còn $\dfrac{1}{8}$. $\lambda = \dfrac{\ln 2}{7200} \approx 9{,}63 \cdot 10^{-5}\ \text{s}^{-1}$. $4\ \text{h} = 2T$ nên $H = \dfrac{H_0}{4}$. Trong 2 giờ đầu phân rã $\dfrac{N_0}{2}$, trong 2 giờ tiếp theo chỉ phân rã $\dfrac{N_0}{4}$.
+
+PHẦN III. Câu trắc nghiệm trả lời ngắn
+Câu 1. Sau 12 ngày, số hạt nhân của một chất phóng xạ còn lại bằng 25% số hạt nhân ban đầu. Chu kì bán rã của chất phóng xạ này là bao nhiêu ngày?
+Đáp án: 6
+Lời giải: $2^{-t/T} = \dfrac{1}{4} \Rightarrow \dfrac{t}{T} = 2 \Rightarrow T = 6$ ngày.
+
+Câu 2. Một mẫu chất phóng xạ có chu kì bán rã 10 phút, tại một thời điểm chứa $2{,}0 \cdot 10^{15}$ hạt nhân chưa phân rã. Độ phóng xạ của mẫu tại thời điểm đó là $x \cdot 10^{12}$ Bq. Tìm $x$ (làm tròn kết quả đến chữ số hàng phần trăm).
+Đáp án: 2,31|2,3
+Lời giải: $\lambda = \dfrac{\ln 2}{600} \approx 1{,}155 \cdot 10^{-3}\ \text{s}^{-1}$; $H = \lambda N \approx 1{,}155 \cdot 10^{-3} \cdot 2{,}0 \cdot 10^{15} \approx 2{,}31 \cdot 10^{12}$ Bq.
+
+Câu 3. Đồng vị $^{14}_{6}\text{C}$ có chu kì bán rã 5730 năm. Độ phóng xạ $^{14}_{6}\text{C}$ của một mẫu gỗ cổ bằng 25% độ phóng xạ của một mẫu gỗ mới cùng loại, cùng khối lượng. Tuổi của mẫu gỗ cổ là bao nhiêu năm?
+Đáp án: 11460
+Lời giải: $\dfrac{H}{H_0} = 2^{-t/T} = \dfrac{1}{4} \Rightarrow t = 2T = 11460$ năm.

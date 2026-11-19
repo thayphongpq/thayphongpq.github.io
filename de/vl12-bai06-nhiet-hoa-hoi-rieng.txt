@@ -1,0 +1,88 @@
+VẬT LÍ 12 - CHƯƠNG I. VẬT LÍ NHIỆT - BÀI 6. NHIỆT HOÁ HƠI RIÊNG
+Đề luyện tập theo cấu trúc thi tốt nghiệp THPT (biên soạn: thầy Lâm Thế Phong, THPT An Thới)
+Thời gian: 20
+
+PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn
+Câu 1. Nhiệt hoá hơi riêng của một chất lỏng là nhiệt lượng cần cung cấp cho
+*A. 1 kg chất lỏng đó để nó hoá hơi hoàn toàn ở một nhiệt độ xác định.
+B. 1 kg chất lỏng đó để nhiệt độ của nó tăng thêm 1 K.
+C. 1 kg chất rắn để nó nóng chảy hoàn toàn.
+D. một lượng chất lỏng bất kì để nó bắt đầu sôi.
+Lời giải: $L = \dfrac{Q}{m}$: nhiệt lượng để 1 kg chất lỏng hoá hơi hoàn toàn ở nhiệt độ xác định.
+
+Câu 2. Trong khi một chất lỏng đang sôi ở áp suất không đổi, dù vẫn được cung cấp nhiệt, nhiệt độ của chất lỏng
+A. tăng dần.
+B. giảm dần.
+*C. không đổi.
+D. tăng nhanh khi đun mạnh hơn.
+Lời giải: Ở áp suất xác định, chất lỏng sôi ở nhiệt độ không đổi; nhiệt lượng cung cấp dùng để chuyển chất lỏng thành hơi.
+
+Câu 3. Nhiệt độ sôi của một chất lỏng phụ thuộc vào
+A. khối lượng chất lỏng.
+*B. áp suất khí trên mặt chất lỏng.
+C. thể tích của bình chứa.
+D. công suất của nguồn nhiệt.
+Lời giải: Áp suất trên mặt thoáng càng lớn thì nhiệt độ sôi càng cao (nồi áp suất); trên núi cao áp suất thấp nên nước sôi dưới $100\ ^\circ\text{C}$.
+
+Câu 4. Bị bỏng do hơi nước ở $100\ ^\circ\text{C}$ thường nặng hơn bị bỏng do nước sôi ở $100\ ^\circ\text{C}$ (cùng khối lượng) vì
+A. hơi nước có nhiệt độ cao hơn nước sôi.
+B. hơi nước có nhiệt dung riêng lớn hơn.
+C. hơi nước chuyển động nhanh hơn.
+*D. khi ngưng tụ trên da, hơi nước tỏa thêm một nhiệt lượng rất lớn.
+Lời giải: Hơi nước ngưng tụ tỏa nhiệt $Q = Lm$ với $L$ rất lớn, sau đó nước ngưng tụ tiếp tục tỏa nhiệt khi nguội.
+
+Câu 5. Nhiệt hoá hơi riêng của nước ở $100\ ^\circ\text{C}$ là $2{,}26 \cdot 10^6$ J/kg. Nhiệt lượng cần cung cấp để làm 0,5 kg nước ở $100\ ^\circ\text{C}$ hoá hơi hoàn toàn là
+*A. $1{,}13 \cdot 10^6$ J.
+B. $4{,}52 \cdot 10^6$ J.
+C. $2{,}26 \cdot 10^6$ J.
+D. $1{,}13 \cdot 10^5$ J.
+Lời giải: $Q = Lm = 2{,}26 \cdot 10^6 \cdot 0{,}5 = 1{,}13 \cdot 10^6$ J.
+
+Câu 6. Cung cấp nhiệt lượng $4{,}52 \cdot 10^5$ J cho nước đang sôi ở $100\ ^\circ\text{C}$. Nhiệt hoá hơi riêng của nước là $2{,}26 \cdot 10^6$ J/kg. Khối lượng nước đã hoá hơi là
+A. 2 kg.
+*B. 0,2 kg.
+C. 0,5 kg.
+D. 0,02 kg.
+Lời giải: $m = \dfrac{Q}{L} = \dfrac{4{,}52 \cdot 10^5}{2{,}26 \cdot 10^6} = 0{,}2$ kg.
+
+Câu 7. Cho nhiệt dung riêng của nước là 4200 J/(kg.K), nhiệt hoá hơi riêng của nước là $2{,}26 \cdot 10^6$ J/kg. Nhiệt lượng cần để đun 1 kg nước từ $20\ ^\circ\text{C}$ đến khi hoá hơi hoàn toàn ở $100\ ^\circ\text{C}$ xấp xỉ bằng
+A. $2{,}26 \cdot 10^6$ J.
+B. $3{,}36 \cdot 10^5$ J.
+*C. $2{,}6 \cdot 10^6$ J.
+D. $2{,}9 \cdot 10^6$ J.
+Lời giải: $Q = mc\Delta T + Lm = 1 \cdot 4200 \cdot 80 + 2{,}26 \cdot 10^6 = 2{,}596 \cdot 10^6 \approx 2{,}6 \cdot 10^6$ J.
+
+Câu 8. Nồi áp suất giúp nấu chín thức ăn nhanh hơn nồi thường vì
+A. nồi áp suất có thành dày hơn nên giữ nhiệt tốt.
+B. trong nồi áp suất, nước không bay hơi.
+C. nồi áp suất làm giảm nhiệt hoá hơi riêng của nước.
+*D. áp suất trong nồi lớn làm nhiệt độ sôi của nước cao hơn $100\ ^\circ\text{C}$.
+Lời giải: Nhiệt độ sôi tăng khi áp suất trên mặt chất lỏng tăng, thức ăn được nấu ở nhiệt độ cao hơn nên nhanh chín.
+
+PHẦN II. Câu trắc nghiệm đúng sai
+Câu 1. Một ấm điện có công suất 2000 W chứa 1,5 kg nước ở $25\ ^\circ\text{C}$. Bỏ qua nhiệt lượng ấm thu vào và hao phí ra môi trường. Cho nhiệt dung riêng của nước là 4200 J/(kg.K), nhiệt hoá hơi riêng của nước là $2{,}26 \cdot 10^6$ J/kg.
+a) Nhiệt lượng cần để đun nước đến khi bắt đầu sôi ($100\ ^\circ\text{C}$) là 472,5 kJ. (Đ)
+b) Thời gian đun nước đến khi bắt đầu sôi là khoảng 10 phút. (S)
+c) Nếu để ấm tiếp tục sôi thêm 5 phút thì khối lượng nước hoá hơi khoảng 0,27 kg. (Đ)
+d) Trong khi nước sôi, nhiệt độ của nước tăng đều theo thời gian. (S)
+Lời giải: $Q = 1{,}5 \cdot 4200 \cdot 75 = 472\,500$ J; $t = \dfrac{472\,500}{2000} \approx 236$ s $\approx 3{,}9$ phút. Trong 5 phút sôi: $m = \dfrac{2000 \cdot 300}{2{,}26 \cdot 10^6} \approx 0{,}27$ kg. Khi sôi, nhiệt độ nước giữ ở $100\ ^\circ\text{C}$.
+
+Câu 2. Xét các phát biểu về sự hoá hơi và ngưng tụ.
+a) Sự bay hơi làm phần chất lỏng còn lại lạnh đi. (Đ)
+b) Ở trên đỉnh núi cao, nước sôi ở nhiệt độ thấp hơn $100\ ^\circ\text{C}$. (Đ)
+c) Nhiệt hoá hơi riêng của nước ở $100\ ^\circ\text{C}$ là $2{,}26 \cdot 10^6$ J/kg nghĩa là 1 kg hơi nước ngưng tụ hoàn toàn ở $100\ ^\circ\text{C}$ tỏa ra nhiệt lượng $2{,}26 \cdot 10^6$ J. (Đ)
+d) Mọi chất lỏng đều có cùng nhiệt hoá hơi riêng. (S)
+Lời giải: Các phân tử có động năng lớn thoát khỏi mặt thoáng nên động năng trung bình phần còn lại giảm, chất lỏng lạnh đi. Áp suất khí quyển trên núi thấp nên nhiệt độ sôi thấp. Nhiệt hoá hơi riêng phụ thuộc bản chất chất lỏng.
+
+PHẦN III. Câu trắc nghiệm trả lời ngắn
+Câu 1. Nhiệt hoá hơi riêng của nước ở $100\ ^\circ\text{C}$ là $2{,}26 \cdot 10^6$ J/kg. Nhiệt lượng cần để làm 2 kg nước ở $100\ ^\circ\text{C}$ hoá hơi hoàn toàn là bao nhiêu kilôjun (kJ)?
+Đáp án: 4520
+Lời giải: $Q = Lm = 2{,}26 \cdot 10^6 \cdot 2 = 4{,}52 \cdot 10^6$ J $= 4520$ kJ.
+
+Câu 2. Dẫn 0,1 kg hơi nước ở $100\ ^\circ\text{C}$ vào một bình chứa 2 kg nước ở $20\ ^\circ\text{C}$, hơi nước ngưng tụ hoàn toàn. Bỏ qua sự trao đổi nhiệt với bình và môi trường. Cho nhiệt dung riêng của nước là 4200 J/(kg.K), nhiệt hoá hơi riêng của nước là $2{,}26 \cdot 10^6$ J/kg. Nhiệt độ của nước trong bình khi cân bằng nhiệt là bao nhiêu độ Celsius ($^\circ\text{C}$) (làm tròn kết quả đến chữ số hàng phần mười)?
+Đáp án: 49,4|49,43
+Lời giải: $0{,}1 \cdot 2{,}26 \cdot 10^6 + 0{,}1 \cdot 4200(100 - t) = 2 \cdot 4200(t - 20) \Rightarrow 226\,000 + 42\,000 - 420t = 8400t - 168\,000 \Rightarrow t = \dfrac{436\,000}{8820} \approx 49{,}4\ ^\circ\text{C}$.
+
+Câu 3. Cho nhiệt nóng chảy riêng của nước đá là $3{,}34 \cdot 10^5$ J/kg, nhiệt dung riêng của nước là 4200 J/(kg.K), nhiệt hoá hơi riêng của nước là $2{,}26 \cdot 10^6$ J/kg. Nhiệt lượng cần để biến 1 kg nước đá ở $0\ ^\circ\text{C}$ thành hơi nước hoàn toàn ở $100\ ^\circ\text{C}$ là bao nhiêu megajun (MJ) (làm tròn kết quả đến chữ số hàng phần trăm)?
+Đáp án: 3,01|3,014
+Lời giải: $Q = \lambda m + mc\Delta T + Lm = 334\,000 + 420\,000 + 2\,260\,000 = 3\,014\,000$ J $\approx 3{,}01$ MJ.

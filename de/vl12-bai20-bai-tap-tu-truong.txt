@@ -1,0 +1,88 @@
+VẬT LÍ 12 - CHƯƠNG III. TỪ TRƯỜNG - BÀI 20. BÀI TẬP VỀ TỪ TRƯỜNG
+Đề luyện tập theo cấu trúc thi tốt nghiệp THPT (biên soạn: thầy Lâm Thế Phong, THPT An Thới)
+Thời gian: 25
+
+PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn
+Câu 1. Hai dây dẫn thẳng dài đặt song song, gần nhau, có hai dòng điện cùng chiều chạy qua thì
+A. đẩy nhau.
+B. không tương tác với nhau.
+*C. hút nhau.
+D. tự xoay đến vị trí vuông góc với nhau.
+Lời giải: Dòng điện thứ nhất gây ra từ trường tại dây thứ hai; dùng quy tắc nắm tay phải và quy tắc bàn tay trái thấy lực từ hướng về phía dây kia: hai dòng điện cùng chiều thì hút nhau.
+
+Câu 2. Một đoạn dây dẫn thẳng dài 0,3 m có dòng điện 8 A chạy qua, đặt trong từ trường đều có cảm ứng từ 0,5 T, chiều dòng điện hợp với các đường sức từ một góc $30^\circ$. Độ lớn lực từ tác dụng lên đoạn dây là
+A. 1,2 N.
+*B. 0,6 N.
+C. 1,04 N.
+D. 0,3 N.
+Lời giải: $F = BI\ell\sin\alpha = 0{,}5 \cdot 8 \cdot 0{,}3 \cdot 0{,}5 = 0{,}6$ N.
+
+Câu 3. Một khung dây phẳng có diện tích 100 cm² đặt trong từ trường đều có cảm ứng từ 0,2 T. Quay khung từ vị trí vectơ pháp tuyến cùng hướng với cảm ứng từ đến vị trí vectơ pháp tuyến ngược hướng với cảm ứng từ. Độ lớn độ biến thiên từ thông qua khung là
+A. 0.
+B. $2 \cdot 10^{-3}$ Wb.
+C. $10^{-3}$ Wb.
+*D. $4 \cdot 10^{-3}$ Wb.
+Lời giải: $\Phi_1 = BS = 2 \cdot 10^{-3}$ Wb, $\Phi_2 = BS\cos 180^\circ = -2 \cdot 10^{-3}$ Wb; $|\Delta\Phi| = 2BS = 4 \cdot 10^{-3}$ Wb.
+
+Câu 4. Một máy phát điện xoay chiều có suất điện động $e = 120\sqrt{2}\cos(100\pi t)$ (V), điện trở trong không đáng kể, được nối với một điện trở 60 Ω. Cường độ dòng điện hiệu dụng qua điện trở là
+*A. 2 A.
+B. $2\sqrt{2}$ A.
+C. 4 A.
+D. 1 A.
+Lời giải: $E = \dfrac{120\sqrt{2}}{\sqrt{2}} = 120$ V; $I = \dfrac{E}{R} = \dfrac{120}{60} = 2$ A.
+
+Câu 5. Một máy biến áp lí tưởng có tỉ số số vòng dây $\dfrac{N_1}{N_2} = \dfrac{1}{20}$. Đặt vào cuộn sơ cấp điện áp xoay chiều có giá trị hiệu dụng 500 V. Điện áp hiệu dụng giữa hai đầu cuộn thứ cấp để hở là
+A. 25 V.
+*B. 10 kV.
+C. 20 kV.
+D. 1 kV.
+Lời giải: $U_2 = U_1\dfrac{N_2}{N_1} = 500 \cdot 20 = 10000$ V $= 10$ kV.
+
+Câu 6. Một sóng điện từ có bước sóng 0,5 m trong chân không. Lấy $c = 3 \cdot 10^8$ m/s. Tần số của sóng là
+A. $1{,}5 \cdot 10^8$ Hz.
+B. $6 \cdot 10^7$ Hz.
+C. $1{,}67 \cdot 10^{-9}$ Hz.
+*D. $6 \cdot 10^8$ Hz.
+Lời giải: $f = \dfrac{c}{\lambda} = \dfrac{3 \cdot 10^8}{0{,}5} = 6 \cdot 10^8$ Hz.
+
+Câu 7. Thả rơi một thanh nam châm thẳng theo phương thẳng đứng qua tâm một vòng dây dẫn kín đặt nằm ngang (trục nam châm luôn thẳng đứng). Bỏ qua lực cản của không khí. So với gia tốc rơi tự do $g$, gia tốc của nam châm
+*A. nhỏ hơn $g$ cả khi nam châm đang đến gần và khi đang ra xa vòng dây.
+B. lớn hơn $g$ khi nam châm đang đến gần vòng dây.
+C. luôn bằng $g$.
+D. nhỏ hơn $g$ khi đến gần và lớn hơn $g$ khi ra xa vòng dây.
+Lời giải: Theo định luật Lenz, dòng điện cảm ứng luôn chống lại nguyên nhân sinh ra nó: khi nam châm lại gần thì vòng dây đẩy, khi ra xa thì vòng dây hút, lực từ luôn hướng lên nên gia tốc nhỏ hơn $g$.
+
+Câu 8. Một thanh kim loại dài 0,5 m chuyển động đều với tốc độ 6 m/s trên hai thanh ray song song, hai đầu ray nối với điện trở 3 Ω. Hệ đặt trong từ trường đều có cảm ứng từ 0,4 T vuông góc với mặt phẳng hai ray; thanh luôn vuông góc với ray và với cảm ứng từ. Điện trở của thanh và ray không đáng kể. Độ lớn lực từ tác dụng lên thanh là
+A. 0,4 N.
+B. 0,24 N.
+*C. 0,08 N.
+D. 0,8 N.
+Lời giải: $|e| = B\ell v = 0{,}4 \cdot 0{,}5 \cdot 6 = 1{,}2$ V; $I = \dfrac{1{,}2}{3} = 0{,}4$ A; $F = BI\ell = 0{,}4 \cdot 0{,}4 \cdot 0{,}5 = 0{,}08$ N.
+
+PHẦN II. Câu trắc nghiệm đúng sai
+Câu 1. Một khung dây phẳng gồm 100 vòng, mỗi vòng có diện tích 50 cm², hai đầu khung nối kín, điện trở tổng cộng của khung là 2 Ω. Khung đặt trong từ trường đều có cảm ứng từ vuông góc với mặt phẳng khung. Trong 0,2 s đầu, độ lớn cảm ứng từ tăng đều từ 0 đến 0,8 T, sau đó giữ không đổi.
+a) Lúc cảm ứng từ bằng 0,8 T, từ thông qua mỗi vòng dây là $4 \cdot 10^{-3}$ Wb. (Đ)
+b) Trong 0,2 s đầu, suất điện động cảm ứng trong khung có độ lớn 2 V. (Đ)
+c) Sau khi cảm ứng từ giữ không đổi, dòng điện trong khung vẫn có cường độ 1 A. (S)
+d) Nhiệt lượng tỏa ra trong khung trong 0,2 s đầu là 0,4 J. (Đ)
+Lời giải: $\Phi = BS = 0{,}8 \cdot 50 \cdot 10^{-4} = 4 \cdot 10^{-3}$ Wb. $|e| = N\dfrac{\Delta\Phi}{\Delta t} = 100 \cdot \dfrac{4 \cdot 10^{-3}}{0{,}2} = 2$ V; $I = \dfrac{2}{2} = 1$ A; $Q = I^2Rt = 1 \cdot 2 \cdot 0{,}2 = 0{,}4$ J. Khi $B$ không đổi, từ thông không biến thiên nên không còn dòng điện cảm ứng.
+
+Câu 2. Một nhà máy thủy điện nhỏ có máy phát điện xoay chiều tạo ra điện áp hiệu dụng 2 kV, công suất 200 kW. Trước khi truyền đi, điện áp được đưa qua một máy tăng áp lí tưởng có $\dfrac{N_2}{N_1} = 10$, rồi truyền đến nơi tiêu thụ bằng đường dây có điện trở tổng cộng 20 Ω. Coi hệ số công suất bằng 1.
+a) Điện áp hiệu dụng ở đầu đường dây truyền tải là 20 kV. (Đ)
+b) Cường độ dòng điện hiệu dụng trên đường dây là 100 A. (S)
+c) Công suất hao phí trên đường dây là 2 kW. (Đ)
+d) Hiệu suất truyền tải điện là 99%. (Đ)
+Lời giải: $U = 2 \cdot 10 = 20$ kV; $I = \dfrac{P}{U} = \dfrac{200 \cdot 10^3}{20 \cdot 10^3} = 10$ A; $P_{\text{hp}} = I^2R = 100 \cdot 20 = 2000$ W; $H = 1 - \dfrac{2}{200} = 99\%$.
+
+PHẦN III. Câu trắc nghiệm trả lời ngắn
+Câu 1. Một thanh đồng có khối lượng 40 g, dài 25 cm được treo nằm ngang bằng hai sợi dây mảnh, nhẹ, giống nhau, trong một từ trường đều có các đường sức nằm ngang, vuông góc với thanh, cảm ứng từ có độ lớn 0,4 T. Cho dòng điện 4 A chạy qua thanh theo chiều sao cho lực từ hướng thẳng đứng xuống dưới. Lấy $g = 10$ m/s². Lực căng của mỗi sợi dây là bao nhiêu niutơn (N)?
+Đáp án: 0,4
+Lời giải: $F = BI\ell = 0{,}4 \cdot 4 \cdot 0{,}25 = 0{,}4$ N; $P = mg = 0{,}4$ N. Cân bằng: $2T = P + F = 0{,}8$ N $\Rightarrow T = 0{,}4$ N.
+
+Câu 2. Một máy phát điện xoay chiều có khung dây gồm 250 vòng, mỗi vòng có diện tích 400 cm², quay đều với tần số 50 Hz trong từ trường đều có cảm ứng từ 0,1 T (trục quay vuông góc với các đường sức từ). Giá trị hiệu dụng của suất điện động do máy tạo ra là bao nhiêu vôn (V) (làm tròn kết quả đến chữ số hàng đơn vị)?
+Đáp án: 222|222,1
+Lời giải: $E_0 = NBS\omega = 250 \cdot 0{,}1 \cdot 0{,}04 \cdot 100\pi = 100\pi$ V; $E = \dfrac{E_0}{\sqrt{2}} = \dfrac{100\pi}{\sqrt{2}} \approx 222$ V.
+
+Câu 3. Một cuộn dây gồm 500 vòng. Trong thời gian 0,05 s, từ thông qua mỗi vòng dây giảm đều từ 6 mWb về 0. Độ lớn suất điện động cảm ứng trong cuộn dây là bao nhiêu vôn (V)?
+Đáp án: 60
+Lời giải: $|e| = N\dfrac{|\Delta\Phi|}{\Delta t} = 500 \cdot \dfrac{6 \cdot 10^{-3}}{0{,}05} = 60$ V.

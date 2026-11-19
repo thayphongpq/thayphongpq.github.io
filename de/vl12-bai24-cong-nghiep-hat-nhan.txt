@@ -1,0 +1,85 @@
+VẬT LÍ 12 - CHƯƠNG IV. VẬT LÍ HẠT NHÂN - BÀI 24. CÔNG NGHIỆP HẠT NHÂN
+Đề luyện tập theo cấu trúc thi tốt nghiệp THPT (biên soạn: thầy Lâm Thế Phong, THPT An Thới)
+Thời gian: 20
+
+PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn
+Câu 1. Trong lò phản ứng hạt nhân, các thanh điều khiển có tác dụng
+A. làm chậm neutron để dễ gây phân hạch.
+B. tải nhiệt từ vùng hoạt động ra ngoài.
+*C. hấp thụ bớt neutron để điều chỉnh tốc độ phản ứng phân hạch.
+D. cung cấp thêm nhiên liệu cho lò.
+Lời giải: Thanh điều khiển chứa chất hấp thụ mạnh neutron (như cadmium, boron); đưa thanh vào sâu hơn thì số neutron giảm, phản ứng chậm lại.
+
+Câu 2. Chất thường được dùng làm chất làm chậm neutron trong lò phản ứng hạt nhân là
+A. chì.
+*B. nước nặng hoặc than chì (graphite).
+C. cadmium.
+D. uranium.
+
+Câu 3. Để phản ứng phân hạch dây chuyền trong lò phản ứng của nhà máy điện hạt nhân được duy trì ổn định, hệ số nhân neutron $k$ phải thỏa mãn
+A. $k < 1$.
+B. $k > 1$.
+C. $k = 0$.
+*D. $k = 1$.
+Lời giải: $k = 1$: số neutron gây phân hạch không đổi theo thời gian, công suất ổn định. $k > 1$ phản ứng tăng nhanh, có thể gây nổ; $k < 1$ phản ứng tắt dần.
+
+Câu 4. Trong nhà máy điện hạt nhân, quá trình chuyển hóa năng lượng chính là
+*A. năng lượng hạt nhân → nhiệt năng → cơ năng → điện năng.
+B. hóa năng → nhiệt năng → điện năng.
+C. năng lượng hạt nhân → quang năng → điện năng.
+D. cơ năng → năng lượng hạt nhân → điện năng.
+Lời giải: Nhiệt tỏa ra từ phân hạch làm nước hóa hơi, hơi nước làm quay tua bin, tua bin kéo máy phát điện.
+
+Câu 5. Đồng vị phóng xạ thường được dùng để xác định tuổi của các cổ vật có nguồn gốc hữu cơ (gỗ, xương) là
+A. $^{60}_{27}\text{Co}$.
+*B. $^{14}_{6}\text{C}$.
+C. $^{131}_{53}\text{I}$.
+D. $^{235}_{92}\text{U}$.
+
+Câu 6. Trong y học, nguồn phóng xạ $^{60}_{27}\text{Co}$ phát tia $\gamma$ được dùng để
+A. chụp ảnh tim mạch thay cho siêu âm.
+B. làm thuốc bổ sung cho người bệnh.
+*C. xạ trị, tiêu diệt các tế bào ung thư.
+D. khử trùng vết thương bằng cách bôi trực tiếp lên da.
+
+Câu 7. Công suất nhiệt của một lò phản ứng hạt nhân là 1600 MW. Mỗi phân hạch $^{235}_{92}\text{U}$ tỏa ra năng lượng 200 MeV; $1\ \text{MeV} = 1{,}6 \cdot 10^{-13}$ J. Số phân hạch xảy ra trong lò trong mỗi giây là
+*A. $5 \cdot 10^{19}$.
+B. $5 \cdot 10^{22}$.
+C. $8 \cdot 10^{9}$.
+D. $3{,}2 \cdot 10^{-11}$.
+Lời giải: Năng lượng mỗi phân hạch $200 \cdot 1{,}6 \cdot 10^{-13} = 3{,}2 \cdot 10^{-11}$ J; số phân hạch mỗi giây $\dfrac{1{,}6 \cdot 10^9}{3{,}2 \cdot 10^{-11}} = 5 \cdot 10^{19}$.
+
+Câu 8. Biện pháp nào sau đây KHÔNG phù hợp với nguyên tắc an toàn phóng xạ?
+A. Giảm thời gian tiếp xúc với nguồn phóng xạ.
+B. Tăng khoảng cách từ người đến nguồn phóng xạ.
+C. Dùng vật liệu che chắn như chì, bê tông giữa người và nguồn phóng xạ.
+*D. Ăn uống trong khu vực có chất phóng xạ để tiết kiệm thời gian làm việc.
+Lời giải: Ăn uống trong khu vực phóng xạ có thể đưa chất phóng xạ vào cơ thể (chiếu xạ trong), rất nguy hiểm.
+
+PHẦN II. Câu trắc nghiệm đúng sai
+Câu 1. Một nhà máy điện hạt nhân có công suất phát điện 900 MW, hiệu suất chuyển hóa từ năng lượng phân hạch thành điện năng là 30%. Mỗi phân hạch $^{235}_{92}\text{U}$ tỏa ra năng lượng 200 MeV. Lấy $1\ \text{MeV} = 1{,}6 \cdot 10^{-13}$ J, $N_A = 6{,}02 \cdot 10^{23}$ mol⁻¹, khối lượng mol của $^{235}_{92}\text{U}$ là 235 g/mol.
+a) Công suất tỏa nhiệt do phân hạch trong lò là 3000 MW. (Đ)
+b) Số phân hạch xảy ra trong mỗi giây xấp xỉ $9{,}4 \cdot 10^{19}$. (Đ)
+c) Khối lượng $^{235}_{92}\text{U}$ nhà máy tiêu thụ trong một ngày xấp xỉ 31,6 kg. (S)
+d) Toàn bộ năng lượng tỏa ra từ phân hạch đều được chuyển hóa thành điện năng. (S)
+Lời giải: $P_{\text{nhiệt}} = \dfrac{900}{0{,}3} = 3000$ MW. Số phân hạch mỗi giây $\dfrac{3 \cdot 10^9}{3{,}2 \cdot 10^{-11}} \approx 9{,}4 \cdot 10^{19}$. Một ngày: $9{,}375 \cdot 10^{19} \cdot 86400 = 8{,}1 \cdot 10^{24}$ hạt nhân, $m = \dfrac{8{,}1 \cdot 10^{24}}{6{,}02 \cdot 10^{23}} \cdot 235 \approx 3162$ g $\approx 3{,}16$ kg. Hiệu suất chỉ 30%, phần lớn năng lượng tỏa ra môi trường dưới dạng nhiệt.
+
+Câu 2. Xét các ứng dụng của đồng vị phóng xạ và bức xạ hạt nhân.
+a) Đồng vị phóng xạ dùng để chẩn đoán bệnh trong cơ thể người nên có chu kì bán rã ngắn. (Đ)
+b) Thực phẩm sau khi được chiếu xạ bằng tia $\gamma$ để diệt khuẩn sẽ trở thành chất phóng xạ. (S)
+c) Có thể dùng chùm tia $\gamma$ để phát hiện khuyết tật bên trong các vật đúc bằng kim loại. (Đ)
+d) Chất thải phóng xạ từ nhà máy điện hạt nhân có thể đổ trực tiếp ra môi trường vì chúng sẽ phân rã hết sau vài ngày. (S)
+Lời giải: Chu kì bán rã ngắn giúp chất phóng xạ nhanh hết trong cơ thể. Chiếu tia $\gamma$ không làm hạt nhân trong thực phẩm biến đổi nên thực phẩm không trở thành chất phóng xạ. Tia $\gamma$ đâm xuyên mạnh, chỗ khuyết tật cho cường độ tia đi qua khác. Nhiều chất thải có chu kì bán rã rất dài, phải được xử lí và lưu giữ an toàn.
+
+PHẦN III. Câu trắc nghiệm trả lời ngắn
+Câu 1. Một nhà máy điện hạt nhân có công suất phát điện 500 MW, hiệu suất 25%. Mỗi phân hạch $^{235}_{92}\text{U}$ tỏa ra năng lượng 200 MeV. Lấy $1\ \text{MeV} = 1{,}6 \cdot 10^{-13}$ J, $N_A = 6{,}02 \cdot 10^{23}$ mol⁻¹, khối lượng mol của $^{235}_{92}\text{U}$ là 235 g/mol, một ngày có 86400 s. Khối lượng $^{235}_{92}\text{U}$ nhà máy tiêu thụ trong một ngày là bao nhiêu kilôgam (kg) (làm tròn kết quả đến chữ số hàng phần trăm)?
+Đáp án: 2,11|2,1
+Lời giải: $P_{\text{nhiệt}} = \dfrac{500}{0{,}25} = 2000$ MW; số phân hạch mỗi ngày $\dfrac{2 \cdot 10^9 \cdot 86400}{3{,}2 \cdot 10^{-11}} = 5{,}4 \cdot 10^{24}$; $m = \dfrac{5{,}4 \cdot 10^{24}}{6{,}02 \cdot 10^{23}} \cdot 235 \approx 2108$ g $\approx 2{,}11$ kg.
+
+Câu 2. Đồng vị $^{14}_{6}\text{C}$ có chu kì bán rã 5730 năm. Độ phóng xạ $^{14}_{6}\text{C}$ trong một mẫu xương cổ bằng $\dfrac{1}{8}$ độ phóng xạ trong mẫu xương mới cùng loại, cùng khối lượng. Tuổi của mẫu xương cổ là bao nhiêu năm?
+Đáp án: 17190
+Lời giải: $2^{-t/T} = \dfrac{1}{8} \Rightarrow t = 3T = 3 \cdot 5730 = 17190$ năm.
+
+Câu 3. Một bệnh nhân được dùng một liều $^{131}_{53}\text{I}$ (chu kì bán rã 8 ngày) để điều trị bệnh tuyến giáp. Coi lượng $^{131}_{53}\text{I}$ trong cơ thể chỉ giảm do phóng xạ. Sau bao nhiêu ngày thì lượng $^{131}_{53}\text{I}$ còn lại bằng 6,25% lượng ban đầu?
+Đáp án: 32
+Lời giải: $2^{-t/T} = 0{,}0625 = \dfrac{1}{16} \Rightarrow t = 4T = 32$ ngày.

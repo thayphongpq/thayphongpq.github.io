@@ -1,0 +1,88 @@
+VẬT LÍ 12 - CHƯƠNG I. VẬT LÍ NHIỆT - BÀI 2. NỘI NĂNG. ĐỊNH LUẬT I CỦA NHIỆT ĐỘNG LỰC HỌC
+Đề luyện tập theo cấu trúc thi tốt nghiệp THPT (biên soạn: thầy Lâm Thế Phong, THPT An Thới)
+Thời gian: 20
+
+PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn
+Câu 1. Nội năng của một vật là
+*A. tổng động năng và thế năng của các phân tử cấu tạo nên vật.
+B. tổng động năng và thế năng của vật.
+C. nhiệt lượng mà vật nhận được.
+D. động năng của vật khi chuyển động.
+Lời giải: Nội năng là tổng động năng (chuyển động nhiệt) và thế năng (tương tác) của các phân tử cấu tạo nên vật.
+
+Câu 2. Nội năng của một vật phụ thuộc vào
+A. vận tốc và độ cao của vật.
+B. khối lượng và vận tốc của vật.
+*C. nhiệt độ và thể tích của vật.
+D. độ cao và nhiệt độ của vật.
+Lời giải: Động năng phân tử phụ thuộc nhiệt độ, thế năng tương tác phân tử phụ thuộc khoảng cách giữa các phân tử, tức phụ thuộc thể tích.
+
+Câu 3. Trong biểu thức $\Delta U = A + Q$ của định luật I nhiệt động lực học, quy ước dấu nào sau đây là đúng?
+A. $Q > 0$ khi vật truyền nhiệt lượng cho vật khác.
+*B. $Q > 0$ khi vật nhận nhiệt lượng từ vật khác.
+C. $A > 0$ khi vật thực hiện công lên vật khác.
+D. $A < 0$ khi vật nhận công từ vật khác.
+Lời giải: Quy ước: vật nhận nhiệt thì $Q > 0$, vật nhận công thì $A > 0$; vật truyền nhiệt thì $Q < 0$, vật thực hiện công thì $A < 0$.
+
+Câu 4. Trường hợp nào sau đây làm thay đổi nội năng của vật bằng cách thực hiện công?
+A. Thả một thìa kim loại vào cốc nước nóng.
+B. Phơi một tấm tôn dưới nắng.
+C. Đặt một nồi nước lên bếp đang cháy.
+*D. Cọ xát một miếng kim loại lên mặt bàn.
+Lời giải: Cọ xát là thực hiện công (lực ma sát sinh công) làm miếng kim loại nóng lên; ba trường hợp còn lại là truyền nhiệt.
+
+Câu 5. Người ta thực hiện công 100 J để nén khí trong một xilanh, đồng thời khí truyền ra môi trường một nhiệt lượng 40 J. Độ biến thiên nội năng của khí là
+*A. 60 J.
+B. 140 J.
+C. $-60$ J.
+D. $-140$ J.
+Lời giải: Khí nhận công $A = 100$ J, tỏa nhiệt $Q = -40$ J: $\Delta U = A + Q = 100 - 40 = 60$ J.
+
+Câu 6. Truyền cho một lượng khí một nhiệt lượng 300 J thì nội năng của khí tăng 120 J. Khi đó
+A. khí nhận công 180 J.
+*B. khí thực hiện công 180 J.
+C. khí nhận công 420 J.
+D. khí thực hiện công 420 J.
+Lời giải: $A = \Delta U - Q = 120 - 300 = -180$ J $< 0$: khí thực hiện công 180 J.
+
+Câu 7. Một lượng khí đựng trong bình kín có thể tích không đổi nhận nhiệt lượng 50 J. Độ biến thiên nội năng của khí là
+A. 0 J.
+B. $-50$ J.
+*C. 50 J.
+D. 100 J.
+Lời giải: Thể tích không đổi nên khí không trao đổi công, $A = 0$: $\Delta U = Q = 50$ J.
+
+Câu 8. Một khối khí trong xilanh nhận nhiệt lượng 2,5 kJ và dãn nở đẳng áp ở áp suất $2 \cdot 10^5$ Pa, thể tích tăng thêm 5 lít. Độ biến thiên nội năng của khối khí là
+A. 3500 J.
+B. 2500 J.
+C. 1000 J.
+*D. 1500 J.
+Lời giải: Công khí thực hiện $A' = p\Delta V = 2 \cdot 10^5 \cdot 5 \cdot 10^{-3} = 1000$ J nên $A = -1000$ J. $\Delta U = A + Q = -1000 + 2500 = 1500$ J.
+
+PHẦN II. Câu trắc nghiệm đúng sai
+Câu 1. Cung cấp cho một lượng khí trong xilanh nhiệt lượng 800 J, khí dãn nở đẩy pit-tông lên và thực hiện một công 300 J.
+a) Nhiệt lượng $Q$ trong biểu thức của định luật I nhiệt động lực học là $+800$ J. (Đ)
+b) Công $A$ trong biểu thức $\Delta U = A + Q$ là $+300$ J. (S)
+c) Nội năng của khí tăng 500 J. (Đ)
+d) Nếu giữ pit-tông cố định và cung cấp cùng nhiệt lượng 800 J thì nội năng của khí tăng 800 J. (Đ)
+Lời giải: Khí nhận nhiệt $Q = 800$ J, thực hiện công nên $A = -300$ J; $\Delta U = 800 - 300 = 500$ J. Giữ pit-tông cố định thì $A = 0$, $\Delta U = Q = 800$ J.
+
+Câu 2. Xét các phát biểu về nội năng và nhiệt lượng.
+a) Nhiệt lượng là phần nội năng mà vật nhận được hay mất đi trong quá trình truyền nhiệt. (Đ)
+b) Một vật có nhiệt độ càng cao thì chứa càng nhiều nhiệt lượng. (S)
+c) Xoa hai bàn tay vào nhau thấy tay ấm lên là làm thay đổi nội năng bằng cách truyền nhiệt. (S)
+d) Nén nhanh một lượng khí trong xilanh cách nhiệt thì nội năng của khí tăng. (Đ)
+Lời giải: Nhiệt lượng chỉ xuất hiện khi có truyền nhiệt, vật không "chứa" nhiệt lượng. Xoa tay là thực hiện công. Xilanh cách nhiệt: $Q = 0$, khí nhận công $A > 0$ nên $\Delta U = A > 0$.
+
+PHẦN III. Câu trắc nghiệm trả lời ngắn
+Câu 1. Người ta thực hiện công 250 J để nén khí trong một xilanh thì nội năng của khí tăng 180 J. Khí đã truyền ra môi trường xung quanh nhiệt lượng bằng bao nhiêu jun (J)?
+Đáp án: 70
+Lời giải: $Q = \Delta U - A = 180 - 250 = -70$ J: khí truyền ra ngoài 70 J.
+
+Câu 2. Thả một vật có khối lượng 2 kg rơi từ độ cao 15 m xuống mặt đất. Khi chạm đất, 60% cơ năng của vật chuyển thành nội năng của vật. Bỏ qua lực cản không khí, lấy $g = 10$ m/s². Nội năng của vật tăng thêm bao nhiêu jun (J)?
+Đáp án: 180
+Lời giải: $W = mgh = 2 \cdot 10 \cdot 15 = 300$ J; $\Delta U = 60\% \cdot 300 = 180$ J.
+
+Câu 3. Một khối khí ở áp suất không đổi $1{,}5 \cdot 10^5$ Pa nhận nhiệt lượng 900 J và dãn nở, thể tích tăng từ 2 lít lên 5 lít. Nội năng của khối khí tăng thêm bao nhiêu jun (J)?
+Đáp án: 450
+Lời giải: $A' = p\Delta V = 1{,}5 \cdot 10^5 \cdot 3 \cdot 10^{-3} = 450$ J $\Rightarrow A = -450$ J. $\Delta U = -450 + 900 = 450$ J.

@@ -1,0 +1,88 @@
+VẬT LÍ 12 - CHƯƠNG I. VẬT LÍ NHIỆT - BÀI 3. NHIỆT ĐỘ. THANG NHIỆT ĐỘ – NHIỆT KẾ
+Đề luyện tập theo cấu trúc thi tốt nghiệp THPT (biên soạn: thầy Lâm Thế Phong, THPT An Thới)
+Thời gian: 20
+
+PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn
+Câu 1. Khi hai vật có nhiệt độ khác nhau tiếp xúc nhau thì năng lượng nhiệt được truyền
+*A. từ vật có nhiệt độ cao hơn sang vật có nhiệt độ thấp hơn.
+B. từ vật có nhiệt độ thấp hơn sang vật có nhiệt độ cao hơn.
+C. từ vật có khối lượng lớn hơn sang vật có khối lượng nhỏ hơn.
+D. từ vật có nội năng lớn hơn sang vật có nội năng nhỏ hơn.
+Lời giải: Nhiệt tự truyền từ vật nóng hơn (nhiệt độ cao hơn) sang vật lạnh hơn, không phụ thuộc vật nào có nội năng lớn hơn.
+
+Câu 2. Trong hệ SI, đơn vị của nhiệt độ là
+A. độ Celsius ($^\circ\text{C}$).
+*B. kelvin (K).
+C. độ Fahrenheit ($^\circ\text{F}$).
+D. jun (J).
+Lời giải: Nhiệt độ tuyệt đối là một đại lượng cơ bản của hệ SI, đơn vị là kelvin (K).
+
+Câu 3. Độ không tuyệt đối (0 K) là nhiệt độ mà tại đó
+A. nước đá bắt đầu tan ở áp suất tiêu chuẩn.
+B. nước bắt đầu sôi ở áp suất tiêu chuẩn.
+*C. tất cả các phân tử có động năng chuyển động nhiệt bằng không và thế năng của chúng là tối thiểu.
+D. các phân tử chuyển động nhanh nhất.
+Lời giải: Theo SGK, 0 K là nhiệt độ mà tại đó các phân tử có động năng chuyển động nhiệt bằng 0 và thế năng tối thiểu.
+
+Câu 4. Nhiệt độ $27\ ^\circ\text{C}$ trong thang nhiệt độ Kelvin là
+A. 246 K.
+B. 273 K.
+C. 327 K.
+*D. 300 K.
+Lời giải: $T = t + 273 = 27 + 273 = 300$ K.
+
+Câu 5. Nitơ lỏng sôi ở 77 K. Trong thang nhiệt độ Celsius, nhiệt độ này là
+*A. $-196\ ^\circ\text{C}$.
+B. $196\ ^\circ\text{C}$.
+C. $350\ ^\circ\text{C}$.
+D. $-350\ ^\circ\text{C}$.
+Lời giải: $t = T - 273 = 77 - 273 = -196\ ^\circ\text{C}$.
+
+Câu 6. Nhiệt độ của một vật tăng thêm $20\ ^\circ\text{C}$. Trong thang nhiệt độ Kelvin, nhiệt độ của vật tăng thêm
+A. 293 K.
+*B. 20 K.
+C. 253 K.
+D. 2 K.
+Lời giải: Một độ chia của thang Celsius bằng một độ chia của thang Kelvin nên $\Delta T = \Delta t = 20$ K.
+
+Câu 7. Nhiệt kế thủy ngân hoạt động dựa trên hiện tượng
+A. nóng chảy của chất rắn.
+B. bay hơi của chất lỏng.
+*C. dãn nở vì nhiệt của chất lỏng.
+D. thay đổi điện trở theo nhiệt độ.
+Lời giải: Thể tích thủy ngân trong ống tăng theo nhiệt độ, cột thủy ngân dâng lên chỉ nhiệt độ.
+
+Câu 8. Hai vật đặt tiếp xúc nhau và đã ở trạng thái cân bằng nhiệt thì hai vật
+A. có cùng nội năng.
+B. có cùng khối lượng.
+C. có cùng nhiệt lượng.
+*D. có cùng nhiệt độ.
+Lời giải: Ở trạng thái cân bằng nhiệt, nhiệt độ hai vật bằng nhau nên không còn truyền nhiệt giữa chúng.
+
+PHẦN II. Câu trắc nghiệm đúng sai
+Câu 1. Nhiệt độ cơ thể người khỏe mạnh vào khoảng $37\ ^\circ\text{C}$.
+a) Nhiệt độ này trong thang Kelvin là 310 K. (Đ)
+b) Khi bị sốt lên $39\ ^\circ\text{C}$, nhiệt độ cơ thể đã tăng thêm 2 K. (Đ)
+c) Nhiệt độ 0 K tương ứng với $273\ ^\circ\text{C}$. (S)
+d) Nhiệt độ trong thang Kelvin có thể nhận giá trị âm. (S)
+Lời giải: $T = 37 + 273 = 310$ K; $\Delta T = \Delta t = 2$ K. 0 K ứng với $-273\ ^\circ\text{C}$ và là nhiệt độ thấp nhất nên nhiệt độ Kelvin không âm.
+
+Câu 2. Xét các phát biểu về nhiệt độ và nhiệt kế.
+a) Nhiệt kế điện tử đo nhiệt độ nhờ cảm biến nhiệt có tính chất điện thay đổi theo nhiệt độ. (Đ)
+b) Khi đo nhiệt độ, cần chờ đến khi nhiệt kế cân bằng nhiệt với vật cần đo rồi mới đọc kết quả. (Đ)
+c) Nhiệt độ là số đo nhiệt lượng chứa trong vật. (S)
+d) Nhiệt độ của vật càng cao thì các phân tử cấu tạo nên vật chuyển động nhiệt càng chậm. (S)
+Lời giải: Nhiệt độ cho biết mức độ nóng lạnh, liên quan đến tốc độ chuyển động nhiệt của phân tử (nhiệt độ càng cao, phân tử chuyển động càng nhanh); vật không "chứa" nhiệt lượng.
+
+PHẦN III. Câu trắc nghiệm trả lời ngắn
+Câu 1. Nhiệt độ ở bề mặt Mặt Trăng vào ban đêm có thể xuống tới $-173\ ^\circ\text{C}$. Nhiệt độ này bằng bao nhiêu kelvin (K)?
+Đáp án: 100
+Lời giải: $T = -173 + 273 = 100$ K.
+
+Câu 2. Nhiệt độ của một khối khí tăng từ $27\ ^\circ\text{C}$ lên $327\ ^\circ\text{C}$. Nhiệt độ tuyệt đối của khối khí tăng lên bao nhiêu lần?
+Đáp án: 2
+Lời giải: $T_1 = 300$ K, $T_2 = 600$ K $\Rightarrow \dfrac{T_2}{T_1} = 2$.
+
+Câu 3. Một nhiệt kế tự chế có cột chất lỏng dài 2,0 cm khi nhúng trong nước đá đang tan ($0\ ^\circ\text{C}$) và dài 22,0 cm khi nhúng trong nước đang sôi ($100\ ^\circ\text{C}$) ở áp suất tiêu chuẩn. Coi chiều dài cột chất lỏng thay đổi bậc nhất theo nhiệt độ. Khi cột chất lỏng dài 9,2 cm thì nhiệt độ cần đo là bao nhiêu độ Celsius ($^\circ\text{C}$)?
+Đáp án: 36
+Lời giải: Mỗi $1\ ^\circ\text{C}$ ứng với $\dfrac{22 - 2}{100} = 0{,}2$ cm. $t = \dfrac{9{,}2 - 2}{0{,}2} = 36\ ^\circ\text{C}$.

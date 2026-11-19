@@ -1,0 +1,88 @@
+VẬT LÍ 12 - CHƯƠNG II. KHÍ LÍ TƯỞNG - BÀI 12. ÁP SUẤT KHÍ THEO MÔ HÌNH ĐỘNG HỌC PHÂN TỬ. QUAN HỆ GIỮA ĐỘNG NĂNG PHÂN TỬ VÀ NHIỆT ĐỘ
+Đề luyện tập theo cấu trúc thi tốt nghiệp THPT (biên soạn: thầy Lâm Thế Phong, THPT An Thới)
+Thời gian: 20
+
+PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn
+Câu 1. Theo mô hình động học phân tử, áp suất $p$ của khí lí tưởng liên hệ với mật độ phân tử $\mu$, khối lượng mỗi phân tử $m$ và trung bình bình phương tốc độ phân tử $\overline{v^2}$ theo công thức
+*A. $p = \dfrac{1}{3}\mu m\overline{v^2}$.
+B. $p = \dfrac{2}{3}\mu m\overline{v^2}$.
+C. $p = 3\mu m\overline{v^2}$.
+D. $p = \dfrac{1}{2}\mu m\overline{v^2}$.
+Lời giải: Theo SGK: $p = \dfrac{1}{3}\mu m\overline{v^2} = \dfrac{2}{3}\mu\overline{E}_{\text{đ}}$.
+
+Câu 2. Động năng trung bình của chuyển động tịnh tiến của các phân tử khí lí tưởng
+A. tỉ lệ nghịch với nhiệt độ tuyệt đối.
+*B. tỉ lệ thuận với nhiệt độ tuyệt đối.
+C. tỉ lệ thuận với bình phương nhiệt độ tuyệt đối.
+D. không phụ thuộc vào nhiệt độ.
+Lời giải: $\overline{E}_{\text{đ}} = \dfrac{3}{2}kT$.
+
+Câu 3. Hằng số Boltzmann $k$ liên hệ với hằng số khí $R$ và số Avogadro $N_A$ theo hệ thức
+A. $k = RN_A$.
+B. $k = \dfrac{N_A}{R}$.
+*C. $k = \dfrac{R}{N_A}$.
+D. $k = R + N_A$.
+Lời giải: $k = \dfrac{R}{N_A} = \dfrac{8{,}31}{6{,}02 \cdot 10^{23}} \approx 1{,}38 \cdot 10^{-23}$ J/K.
+
+Câu 4. Hai bình chứa khí hydrogen và khí oxygen ở cùng nhiệt độ. Kết luận nào sau đây đúng?
+A. Phân tử oxygen có động năng trung bình lớn hơn vì nặng hơn.
+B. Phân tử hydrogen có động năng trung bình lớn hơn vì nhẹ hơn.
+C. Các phân tử của hai khí có cùng tốc độ trung bình.
+*D. Các phân tử của hai khí có cùng động năng tịnh tiến trung bình.
+Lời giải: $\overline{E}_{\text{đ}} = \dfrac{3}{2}kT$ chỉ phụ thuộc nhiệt độ; phân tử hydrogen nhẹ hơn nên chuyển động nhanh hơn.
+
+Câu 5. Lấy $k = 1{,}38 \cdot 10^{-23}$ J/K. Động năng tịnh tiến trung bình của một phân tử khí lí tưởng ở $27\ ^\circ\text{C}$ là
+*A. $6{,}21 \cdot 10^{-21}$ J.
+B. $4{,}14 \cdot 10^{-21}$ J.
+C. $5{,}59 \cdot 10^{-22}$ J.
+D. $1{,}24 \cdot 10^{-20}$ J.
+Lời giải: $\overline{E}_{\text{đ}} = \dfrac{3}{2}kT = 1{,}5 \cdot 1{,}38 \cdot 10^{-23} \cdot 300 = 6{,}21 \cdot 10^{-21}$ J.
+
+Câu 6. Khi nhiệt độ tuyệt đối của một khối khí lí tưởng tăng 4 lần thì căn bậc hai của trung bình bình phương tốc độ phân tử khí
+A. tăng 4 lần.
+*B. tăng 2 lần.
+C. tăng 16 lần.
+D. không đổi.
+Lời giải: $\dfrac{1}{2}m\overline{v^2} = \dfrac{3}{2}kT \Rightarrow \sqrt{\overline{v^2}} = \sqrt{\dfrac{3kT}{m}} \sim \sqrt{T}$: $T$ tăng 4 lần thì tăng 2 lần.
+
+Câu 7. Lấy $k = 1{,}38 \cdot 10^{-23}$ J/K. Động năng tịnh tiến trung bình của phân tử khí là $1{,}035 \cdot 10^{-20}$ J. Nhiệt độ của khí là
+A. 250 K.
+B. 750 K.
+*C. 500 K.
+D. 227 K.
+Lời giải: $T = \dfrac{2\overline{E}_{\text{đ}}}{3k} = \dfrac{2 \cdot 1{,}035 \cdot 10^{-20}}{3 \cdot 1{,}38 \cdot 10^{-23}} = 500$ K.
+
+Câu 8. Giữ nhiệt độ của một khối khí lí tưởng không đổi và làm mật độ phân tử khí tăng gấp đôi thì áp suất của khí
+A. giảm 2 lần.
+B. không đổi.
+C. tăng 4 lần.
+*D. tăng 2 lần.
+Lời giải: $p = \dfrac{2}{3}\mu\overline{E}_{\text{đ}}$; $T$ không đổi thì $\overline{E}_{\text{đ}}$ không đổi, $\mu$ tăng 2 lần nên $p$ tăng 2 lần.
+
+PHẦN II. Câu trắc nghiệm đúng sai
+Câu 1. Một bình chứa khí nitrogen (khối lượng mol 28 g/mol) ở $27\ ^\circ\text{C}$. Lấy $k = 1{,}38 \cdot 10^{-23}$ J/K, $N_A = 6{,}02 \cdot 10^{23}\ \text{mol}^{-1}$.
+a) Động năng tịnh tiến trung bình của một phân tử nitrogen là $6{,}21 \cdot 10^{-21}$ J. (Đ)
+b) Khối lượng của một phân tử nitrogen xấp xỉ $4{,}65 \cdot 10^{-26}$ kg. (Đ)
+c) Căn bậc hai của trung bình bình phương tốc độ phân tử nitrogen xấp xỉ 517 m/s. (Đ)
+d) Khi nhiệt độ khí tăng lên $327\ ^\circ\text{C}$ thì động năng tịnh tiến trung bình của phân tử tăng khoảng 12 lần. (S)
+Lời giải: $\overline{E}_{\text{đ}} = 1{,}5 \cdot 1{,}38 \cdot 10^{-23} \cdot 300 = 6{,}21 \cdot 10^{-21}$ J; $m = \dfrac{28 \cdot 10^{-3}}{6{,}02 \cdot 10^{23}} \approx 4{,}65 \cdot 10^{-26}$ kg; $\sqrt{\overline{v^2}} = \sqrt{\dfrac{2\overline{E}_{\text{đ}}}{m}} \approx 517$ m/s. Từ 300 K lên 600 K thì $\overline{E}_{\text{đ}}$ chỉ tăng 2 lần.
+
+Câu 2. Xét các phát biểu về áp suất khí và nhiệt độ theo mô hình động học phân tử.
+a) Áp suất của khí lên thành bình là do các phân tử khí va chạm với thành bình. (Đ)
+b) Nhiệt độ tuyệt đối là số đo động năng tịnh tiến trung bình của các phân tử khí. (Đ)
+c) Ở $0\ ^\circ\text{C}$, các phân tử khí ngừng chuyển động. (S)
+d) Giữ nhiệt độ không đổi, giảm thể tích khí một nửa thì áp suất tăng gấp đôi vì mật độ phân tử khí tăng gấp đôi. (Đ)
+Lời giải: Ở $0\ ^\circ\text{C}$ (273 K) phân tử vẫn chuyển động với $\overline{E}_{\text{đ}} = \dfrac{3}{2}kT \neq 0$. Từ $p = \dfrac{2}{3}\mu\overline{E}_{\text{đ}}$ suy ra định luật Boyle.
+
+PHẦN III. Câu trắc nghiệm trả lời ngắn
+Câu 1. Lấy $k = 1{,}38 \cdot 10^{-23}$ J/K. Động năng tịnh tiến trung bình của một phân tử khí ở $127\ ^\circ\text{C}$ là $x \cdot 10^{-21}$ J. Tìm $x$ (làm tròn kết quả đến chữ số hàng phần trăm).
+Đáp án: 8,28
+Lời giải: $\overline{E}_{\text{đ}} = 1{,}5 \cdot 1{,}38 \cdot 10^{-23} \cdot 400 = 8{,}28 \cdot 10^{-21}$ J.
+
+Câu 2. Một khối khí lí tưởng có áp suất $1{,}38 \cdot 10^5$ Pa ở nhiệt độ $27\ ^\circ\text{C}$. Lấy $k = 1{,}38 \cdot 10^{-23}$ J/K. Mật độ phân tử khí là $x \cdot 10^{25}\ \text{m}^{-3}$. Tìm $x$ (làm tròn kết quả đến chữ số hàng phần trăm).
+Đáp án: 3,33|3,3|3,333
+Lời giải: $p = \dfrac{2}{3}\mu \cdot \dfrac{3}{2}kT = \mu kT \Rightarrow \mu = \dfrac{1{,}38 \cdot 10^5}{1{,}38 \cdot 10^{-23} \cdot 300} \approx 3{,}33 \cdot 10^{25}\ \text{m}^{-3}$.
+
+Câu 3. Khí oxygen có khối lượng mol 32 g/mol ở nhiệt độ $27\ ^\circ\text{C}$. Lấy $R = 8{,}31$ J/(mol.K). Căn bậc hai của trung bình bình phương tốc độ phân tử oxygen là bao nhiêu mét trên giây (m/s) (làm tròn kết quả đến hàng đơn vị)?
+Đáp án: 483
+Lời giải: $\dfrac{1}{2}m\overline{v^2} = \dfrac{3}{2}kT \Rightarrow \sqrt{\overline{v^2}} = \sqrt{\dfrac{3kT}{m}} = \sqrt{\dfrac{3RT}{M}} = \sqrt{\dfrac{3 \cdot 8{,}31 \cdot 300}{0{,}032}} \approx 483$ m/s.

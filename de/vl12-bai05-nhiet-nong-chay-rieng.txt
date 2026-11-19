@@ -1,0 +1,88 @@
+VẬT LÍ 12 - CHƯƠNG I. VẬT LÍ NHIỆT - BÀI 5. NHIỆT NÓNG CHẢY RIÊNG
+Đề luyện tập theo cấu trúc thi tốt nghiệp THPT (biên soạn: thầy Lâm Thế Phong, THPT An Thới)
+Thời gian: 20
+
+PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn
+Câu 1. Nhiệt nóng chảy riêng của một chất là nhiệt lượng cần cung cấp cho
+A. 1 kg chất đó để nhiệt độ của nó tăng thêm 1 K.
+*B. 1 kg chất đó ở nhiệt độ nóng chảy để nó chuyển hoàn toàn từ thể rắn sang thể lỏng.
+C. 1 kg chất lỏng đó để nó chuyển hoàn toàn thành hơi.
+D. một vật làm bằng chất đó để nó bắt đầu nóng chảy.
+Lời giải: $\lambda = \dfrac{Q}{m}$: nhiệt lượng để 1 kg chất rắn ở nhiệt độ nóng chảy chuyển hoàn toàn sang thể lỏng.
+
+Câu 2. Đơn vị của nhiệt nóng chảy riêng trong hệ SI là
+*A. J/kg.
+B. J/(kg.K).
+C. J/K.
+D. J.
+Lời giải: $\lambda = \dfrac{Q}{m}$ nên đơn vị là J/kg.
+
+Câu 3. Trong quá trình nóng chảy của một chất rắn kết tinh ở áp suất không đổi, nhiệt độ của chất đó
+A. tăng dần.
+B. giảm dần.
+*C. không đổi.
+D. lúc tăng lúc giảm.
+Lời giải: Chất rắn kết tinh nóng chảy ở một nhiệt độ xác định, nhiệt độ không đổi cho đến khi nóng chảy hết.
+
+Câu 4. Trong quá trình nóng chảy, nhiệt lượng mà chất rắn kết tinh nhận được chủ yếu dùng để
+A. làm tăng nhiệt độ của chất.
+B. làm tăng động năng trung bình của các phân tử.
+C. làm giảm khối lượng của chất.
+*D. phá vỡ liên kết giữa các phân tử trong mạng tinh thể.
+Lời giải: Nhiệt độ không đổi nên động năng phân tử không đổi; nhiệt lượng dùng để phá vỡ cấu trúc mạng tinh thể (tăng thế năng tương tác).
+
+Câu 5. Nhiệt nóng chảy riêng của nước đá là $3{,}34 \cdot 10^5$ J/kg. Nhiệt lượng cần cung cấp để làm nóng chảy hoàn toàn 2 kg nước đá ở $0\ ^\circ\text{C}$ là
+*A. $6{,}68 \cdot 10^5$ J.
+B. $1{,}67 \cdot 10^5$ J.
+C. $3{,}34 \cdot 10^5$ J.
+D. $8{,}4 \cdot 10^3$ J.
+Lời giải: $Q = \lambda m = 3{,}34 \cdot 10^5 \cdot 2 = 6{,}68 \cdot 10^5$ J.
+
+Câu 6. Cần cung cấp nhiệt lượng $1{,}25 \cdot 10^5$ J để làm nóng chảy hoàn toàn 0,5 kg một kim loại đã ở nhiệt độ nóng chảy. Nhiệt nóng chảy riêng của kim loại này là
+A. $6{,}25 \cdot 10^4$ J/kg.
+*B. $2{,}5 \cdot 10^5$ J/kg.
+C. $1{,}25 \cdot 10^5$ J/kg.
+D. $5{,}0 \cdot 10^5$ J/kg.
+Lời giải: $\lambda = \dfrac{Q}{m} = \dfrac{1{,}25 \cdot 10^5}{0{,}5} = 2{,}5 \cdot 10^5$ J/kg.
+
+Câu 7. Khi đun nóng, thủy tinh mềm dần rồi mới chảy lỏng. Điều này là do thủy tinh
+A. là chất rắn kết tinh.
+B. có nhiệt nóng chảy riêng rất lớn.
+*C. là chất rắn vô định hình, không có nhiệt độ nóng chảy xác định.
+D. có nhiệt dung riêng bằng không.
+Lời giải: Chất rắn vô định hình không có cấu trúc tinh thể nên không có nhiệt độ nóng chảy xác định.
+
+Câu 8. Cho nhiệt dung riêng của nước đá là 2100 J/(kg.K), nhiệt nóng chảy riêng của nước đá là $3{,}34 \cdot 10^5$ J/kg. Nhiệt lượng cần cung cấp để 0,2 kg nước đá ở $-10\ ^\circ\text{C}$ chuyển hoàn toàn thành nước ở $0\ ^\circ\text{C}$ là
+A. 4,2 kJ.
+B. 66,8 kJ.
+C. 62,6 kJ.
+*D. 71,0 kJ.
+Lời giải: $Q_1 = 0{,}2 \cdot 2100 \cdot 10 = 4200$ J; $Q_2 = 0{,}2 \cdot 3{,}34 \cdot 10^5 = 66\,800$ J; $Q = 71\,000$ J $= 71{,}0$ kJ.
+
+PHẦN II. Câu trắc nghiệm đúng sai
+Câu 1. Đun nóng 0,5 kg nước đá ở $-20\ ^\circ\text{C}$ cho đến khi chuyển hoàn toàn thành nước ở $20\ ^\circ\text{C}$. Cho nhiệt dung riêng của nước đá là 2100 J/(kg.K), của nước là 4200 J/(kg.K); nhiệt nóng chảy riêng của nước đá là $3{,}34 \cdot 10^5$ J/kg.
+a) Nhiệt lượng cần để làm nóng nước đá từ $-20\ ^\circ\text{C}$ đến $0\ ^\circ\text{C}$ là 21 kJ. (Đ)
+b) Nhiệt lượng cần để làm nóng chảy hoàn toàn nước đá ở $0\ ^\circ\text{C}$ là 167 kJ. (Đ)
+c) Nhiệt lượng cần để làm nóng nước từ $0\ ^\circ\text{C}$ đến $20\ ^\circ\text{C}$ là 84 kJ. (S)
+d) Tổng nhiệt lượng cần cung cấp cho cả quá trình là 230 kJ. (Đ)
+Lời giải: $Q_1 = 0{,}5 \cdot 2100 \cdot 20 = 21\,000$ J; $Q_2 = 0{,}5 \cdot 3{,}34 \cdot 10^5 = 167\,000$ J; $Q_3 = 0{,}5 \cdot 4200 \cdot 20 = 42\,000$ J; $Q = 230\,000$ J.
+
+Câu 2. Xét các phát biểu về sự nóng chảy và đông đặc.
+a) Nhiệt nóng chảy riêng của nước đá là $3{,}34 \cdot 10^5$ J/kg nghĩa là cần cung cấp $3{,}34 \cdot 10^5$ J để 1 kg nước đá ở $0\ ^\circ\text{C}$ nóng chảy hoàn toàn. (Đ)
+b) Trong quá trình đông đặc, chất lỏng nhận nhiệt lượng từ môi trường. (S)
+c) Nhiệt lượng cần để làm nóng chảy hoàn toàn một vật ở nhiệt độ nóng chảy tỉ lệ thuận với khối lượng của vật. (Đ)
+d) Mọi chất rắn đều nóng chảy ở $0\ ^\circ\text{C}$. (S)
+Lời giải: Khi đông đặc, chất lỏng tỏa ra nhiệt lượng đúng bằng nhiệt lượng thu vào khi nóng chảy. $Q = \lambda m$ tỉ lệ với $m$. Mỗi chất rắn kết tinh có nhiệt độ nóng chảy riêng (nước đá $0\ ^\circ\text{C}$, chì $327\ ^\circ\text{C}$...).
+
+PHẦN III. Câu trắc nghiệm trả lời ngắn
+Câu 1. Nhiệt nóng chảy riêng của nước đá là $3{,}34 \cdot 10^5$ J/kg. Nhiệt lượng cần để làm nóng chảy hoàn toàn 3 kg nước đá ở $0\ ^\circ\text{C}$ là bao nhiêu kilôjun (kJ)?
+Đáp án: 1002
+Lời giải: $Q = \lambda m = 3{,}34 \cdot 10^5 \cdot 3 = 1{,}002 \cdot 10^6$ J $= 1002$ kJ.
+
+Câu 2. Thả một cục nước đá ở $0\ ^\circ\text{C}$ vào 1 kg nước ở $30\ ^\circ\text{C}$. Khi cân bằng nhiệt, nước đá vừa tan hết và nhiệt độ của nước là $0\ ^\circ\text{C}$. Bỏ qua sự trao đổi nhiệt với cốc và môi trường. Cho nhiệt dung riêng của nước là 4200 J/(kg.K), nhiệt nóng chảy riêng của nước đá là $3{,}34 \cdot 10^5$ J/kg. Khối lượng cục nước đá là bao nhiêu kilôgam (kg) (làm tròn kết quả đến chữ số hàng phần trăm)?
+Đáp án: 0,38|0,377
+Lời giải: $\lambda m_{\text{đá}} = m_n c \cdot 30 \Rightarrow m_{\text{đá}} = \dfrac{1 \cdot 4200 \cdot 30}{3{,}34 \cdot 10^5} \approx 0{,}377$ kg $\approx 0{,}38$ kg.
+
+Câu 3. Một lò nung cung cấp nhiệt lượng có ích với công suất 5 kW để làm nóng chảy chì đã được đưa tới nhiệt độ nóng chảy. Nhiệt nóng chảy riêng của chì là $2{,}5 \cdot 10^4$ J/kg. Trong 2 phút, lò làm nóng chảy được bao nhiêu kilôgam (kg) chì?
+Đáp án: 24
+Lời giải: $Q = Pt = 5000 \cdot 120 = 6 \cdot 10^5$ J; $m = \dfrac{Q}{\lambda} = \dfrac{6 \cdot 10^5}{2{,}5 \cdot 10^4} = 24$ kg.

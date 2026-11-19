@@ -1,0 +1,86 @@
+VẬT LÍ 12 - CHƯƠNG IV. VẬT LÍ HẠT NHÂN - BÀI 22. PHẢN ỨNG HẠT NHÂN VÀ NĂNG LƯỢNG LIÊN KẾT
+Đề luyện tập theo cấu trúc thi tốt nghiệp THPT (biên soạn: thầy Lâm Thế Phong, THPT An Thới)
+Thời gian: 20
+
+PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn
+Câu 1. Đại lượng đặc trưng cho mức độ bền vững của một hạt nhân là
+A. năng lượng liên kết.
+*B. năng lượng liên kết riêng.
+C. số khối.
+D. độ hụt khối.
+Lời giải: Hạt nhân có năng lượng liên kết riêng $E_{lkr} = \dfrac{E_{lk}}{A}$ càng lớn thì càng bền vững.
+
+Câu 2. Cho phản ứng hạt nhân $^{27}_{13}\text{Al} + {}^{4}_{2}\text{He} \rightarrow {}^{30}_{15}\text{P} + \text{X}$. Hạt X là
+A. proton.
+B. electron.
+*C. neutron.
+D. hạt alpha.
+Lời giải: Bảo toàn số nucleon: $27 + 4 = 30 + A \Rightarrow A = 1$; bảo toàn điện tích: $13 + 2 = 15 + Z \Rightarrow Z = 0$. X là $^{1}_{0}\text{n}$.
+
+Câu 3. Trong một phản ứng hạt nhân, các đại lượng luôn được bảo toàn là
+*A. số nucleon và điện tích.
+B. số proton và khối lượng nghỉ.
+C. số neutron và số proton.
+D. khối lượng nghỉ và số nucleon.
+
+Câu 4. Hạt nhân $^{4}_{2}\text{He}$ có khối lượng 4,0015 u. Cho $m_p = 1{,}0073$ u, $m_n = 1{,}0087$ u, $1\ \text{u} = 931{,}5\ \text{MeV}/c^2$. Năng lượng liên kết của hạt nhân $^{4}_{2}\text{He}$ xấp xỉ bằng
+A. 0,0305 MeV.
+B. 2,84 MeV.
+C. 7,10 MeV.
+*D. 28,4 MeV.
+Lời giải: $\Delta m = 2 \cdot 1{,}0073 + 2 \cdot 1{,}0087 - 4{,}0015 = 0{,}0305$ u; $E_{lk} = \Delta m c^2 = 0{,}0305 \cdot 931{,}5 \approx 28{,}4$ MeV.
+
+Câu 5. Phản ứng phân hạch là quá trình
+A. hai hạt nhân nhẹ kết hợp thành một hạt nhân nặng hơn.
+B. một hạt nhân tự phát ra tia phóng xạ.
+*C. một hạt nhân nặng hấp thụ một neutron rồi vỡ thành hai hạt nhân có khối lượng trung bình.
+D. một hạt nhân hấp thụ một photon rồi phát ra một electron.
+
+Câu 6. Phản ứng nhiệt hạch chỉ xảy ra được ở điều kiện
+*A. nhiệt độ rất cao (hàng chục triệu độ).
+B. nhiệt độ rất thấp, gần độ không tuyệt đối.
+C. áp suất thấp và nhiệt độ thường.
+D. có neutron chậm bắn vào hạt nhân nặng.
+Lời giải: Các hạt nhân nhẹ mang điện dương đẩy nhau, cần động năng rất lớn (nhiệt độ rất cao) để tiến lại đủ gần và kết hợp.
+
+Câu 7. Hạt nhân X có số khối 20 và năng lượng liên kết 160 MeV. Năng lượng liên kết riêng của hạt nhân X là
+A. 3200 MeV/nucleon.
+B. 80 MeV/nucleon.
+C. 0,125 MeV/nucleon.
+*D. 8 MeV/nucleon.
+Lời giải: $E_{lkr} = \dfrac{E_{lk}}{A} = \dfrac{160}{20} = 8$ MeV/nucleon.
+
+Câu 8. Cho phản ứng $^{2}_{1}\text{H} + {}^{3}_{1}\text{H} \rightarrow {}^{4}_{2}\text{He} + {}^{1}_{0}\text{n}$. Biết khối lượng các hạt: $m_{\text{H2}} = 2{,}0136$ u, $m_{\text{H3}} = 3{,}0155$ u, $m_{\text{He}} = 4{,}0015$ u, $m_n = 1{,}0087$ u; $1\ \text{u} = 931{,}5\ \text{MeV}/c^2$. Phản ứng này
+A. tỏa ra năng lượng 1,76 MeV.
+*B. tỏa ra năng lượng 17,6 MeV.
+C. thu vào năng lượng 17,6 MeV.
+D. tỏa ra năng lượng 176 MeV.
+Lời giải: $m_{\text{trước}} - m_{\text{sau}} = (2{,}0136 + 3{,}0155) - (4{,}0015 + 1{,}0087) = 0{,}0189$ u $> 0$ nên phản ứng tỏa năng lượng $0{,}0189 \cdot 931{,}5 \approx 17{,}6$ MeV.
+
+PHẦN II. Câu trắc nghiệm đúng sai
+Câu 1. Hạt nhân $^{56}_{26}\text{Fe}$ có khối lượng 55,9207 u. Cho $m_p = 1{,}0073$ u, $m_n = 1{,}0087$ u, $1\ \text{u} = 931{,}5\ \text{MeV}/c^2$; năng lượng liên kết riêng của $^{4}_{2}\text{He}$ là 7,10 MeV/nucleon.
+a) Hạt nhân $^{56}_{26}\text{Fe}$ có 30 neutron. (Đ)
+b) Độ hụt khối của hạt nhân $^{56}_{26}\text{Fe}$ xấp xỉ 0,5301 u. (Đ)
+c) Năng lượng liên kết của hạt nhân $^{56}_{26}\text{Fe}$ xấp xỉ 49,4 MeV. (S)
+d) Năng lượng liên kết riêng của $^{56}_{26}\text{Fe}$ xấp xỉ 8,82 MeV/nucleon nên hạt nhân $^{56}_{26}\text{Fe}$ bền vững hơn hạt nhân $^{4}_{2}\text{He}$. (Đ)
+Lời giải: $N = 56 - 26 = 30$. $\Delta m = 26 \cdot 1{,}0073 + 30 \cdot 1{,}0087 - 55{,}9207 = 0{,}5301$ u. $E_{lk} = 0{,}5301 \cdot 931{,}5 \approx 493{,}8$ MeV; $E_{lkr} = \dfrac{493{,}8}{56} \approx 8{,}82$ MeV/nucleon $> 7{,}10$ MeV/nucleon.
+
+Câu 2. Một phản ứng phân hạch của uranium là $^{1}_{0}\text{n} + {}^{235}_{92}\text{U} \rightarrow {}^{141}_{56}\text{Ba} + {}^{92}_{36}\text{Kr} + 3\,{}^{1}_{0}\text{n}$, mỗi phân hạch tỏa ra năng lượng khoảng 200 MeV. Lấy $N_A = 6{,}02 \cdot 10^{23}$ mol⁻¹, khối lượng mol của $^{235}_{92}\text{U}$ là 235 g/mol, $1\ \text{MeV} = 1{,}6 \cdot 10^{-13}$ J.
+a) Mỗi phân hạch giải phóng 3 neutron, các neutron này có thể gây ra các phân hạch tiếp theo (phản ứng dây chuyền). (Đ)
+b) Tổng số proton của các hạt trước và sau phản ứng bằng nhau. (Đ)
+c) Tổng khối lượng nghỉ của các hạt sau phản ứng lớn hơn tổng khối lượng nghỉ của các hạt trước phản ứng. (S)
+d) Năng lượng tỏa ra khi phân hạch hết 1 g $^{235}_{92}\text{U}$ xấp xỉ $8{,}2 \cdot 10^{10}$ J. (Đ)
+Lời giải: Số proton: $92 = 56 + 36$. Phản ứng tỏa năng lượng nên khối lượng sau nhỏ hơn khối lượng trước. Số hạt nhân trong 1 g: $\dfrac{1}{235} \cdot 6{,}02 \cdot 10^{23} \approx 2{,}56 \cdot 10^{21}$; $E \approx 2{,}56 \cdot 10^{21} \cdot 200 \cdot 1{,}6 \cdot 10^{-13} \approx 8{,}2 \cdot 10^{10}$ J.
+
+PHẦN III. Câu trắc nghiệm trả lời ngắn
+Câu 1. Hạt nhân deuterium $^{2}_{1}\text{H}$ có khối lượng 2,0136 u. Cho $m_p = 1{,}0073$ u, $m_n = 1{,}0087$ u, $1\ \text{u} = 931{,}5\ \text{MeV}/c^2$. Năng lượng liên kết của hạt nhân $^{2}_{1}\text{H}$ là bao nhiêu MeV (làm tròn kết quả đến chữ số hàng phần trăm)?
+Đáp án: 2,24|2,236
+Lời giải: $\Delta m = 1{,}0073 + 1{,}0087 - 2{,}0136 = 0{,}0024$ u; $E_{lk} = 0{,}0024 \cdot 931{,}5 \approx 2{,}24$ MeV.
+
+Câu 2. Cho phản ứng $^{7}_{3}\text{Li} + {}^{1}_{1}\text{H} \rightarrow 2\,{}^{4}_{2}\text{He}$. Biết $m_{\text{Li}} = 7{,}0144$ u, $m_p = 1{,}0073$ u, $m_{\text{He}} = 4{,}0015$ u, $1\ \text{u} = 931{,}5\ \text{MeV}/c^2$. Năng lượng tỏa ra của phản ứng là bao nhiêu MeV (làm tròn kết quả đến chữ số hàng phần mười)?
+Đáp án: 17,4|17,42
+Lời giải: $\Delta m = (7{,}0144 + 1{,}0073) - 2 \cdot 4{,}0015 = 0{,}0187$ u; $E = 0{,}0187 \cdot 931{,}5 \approx 17{,}4$ MeV.
+
+Câu 3. Cho phản ứng phân hạch $^{1}_{0}\text{n} + {}^{235}_{92}\text{U} \rightarrow {}^{94}_{38}\text{Sr} + \text{X} + 2\,{}^{1}_{0}\text{n}$. Hạt nhân X có bao nhiêu neutron?
+Đáp án: 86
+Lời giải: Bảo toàn số nucleon: $1 + 235 = 94 + A + 2 \Rightarrow A = 140$; bảo toàn điện tích: $92 = 38 + Z \Rightarrow Z = 54$. Số neutron của X: $140 - 54 = 86$.

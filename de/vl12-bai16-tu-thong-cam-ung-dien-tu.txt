@@ -1,0 +1,87 @@
+VẬT LÍ 12 - CHƯƠNG III. TỪ TRƯỜNG - BÀI 16. TỪ THÔNG. HIỆN TƯỢNG CẢM ỨNG ĐIỆN TỪ
+Đề luyện tập theo cấu trúc thi tốt nghiệp THPT (biên soạn: thầy Lâm Thế Phong, THPT An Thới)
+Thời gian: 20
+
+PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn
+Câu 1. Trong hệ SI, đơn vị của từ thông là
+A. tesla (T).
+B. henry (H).
+*C. weber (Wb).
+D. vôn (V).
+Lời giải: $\Phi = BS\cos\alpha$ nên $1\ \text{Wb} = 1\ \text{T} \cdot \text{m}^2$.
+
+Câu 2. Một mặt phẳng diện tích $S$ đặt trong từ trường đều có cảm ứng từ $\vec B$. Gọi $\alpha$ là góc giữa $\vec B$ và vectơ pháp tuyến $\vec n$ của mặt phẳng. Từ thông qua diện tích $S$ là
+*A. $\Phi = BS\cos\alpha$.
+B. $\Phi = BS\sin\alpha$.
+C. $\Phi = \dfrac{B}{S}\cos\alpha$.
+D. $\Phi = BS\tan\alpha$.
+
+Câu 3. Hiện tượng cảm ứng điện từ xảy ra trong một mạch kín khi
+A. mạch được đặt trong một từ trường rất mạnh.
+B. trong mạch có dòng điện không đổi chạy qua.
+C. mạch được đặt cố định gần một nam châm đứng yên.
+*D. từ thông qua mạch biến thiên theo thời gian.
+Lời giải: Dòng điện cảm ứng chỉ xuất hiện trong mạch kín khi từ thông qua mạch biến thiên.
+
+Câu 4. Theo định luật Faraday, độ lớn suất điện động cảm ứng xuất hiện trong mạch kín tỉ lệ với
+A. độ lớn của từ thông qua mạch.
+*B. tốc độ biến thiên của từ thông qua mạch.
+C. diện tích của mạch.
+D. điện trở của mạch.
+Lời giải: $|e| = \left|\dfrac{\Delta\Phi}{\Delta t}\right|$.
+
+Câu 5. Một khung dây phẳng có diện tích 50 cm² đặt trong từ trường đều có cảm ứng từ 0,2 T, mặt phẳng khung dây vuông góc với các đường sức từ. Từ thông qua khung dây có độ lớn là
+*A. $10^{-3}$ Wb.
+B. $10^{-1}$ Wb.
+C. 0 Wb.
+D. $5 \cdot 10^{-4}$ Wb.
+Lời giải: Mặt khung vuông góc với đường sức nên $\alpha = 0$: $\Phi = BS = 0{,}2 \cdot 50 \cdot 10^{-4} = 10^{-3}$ Wb.
+
+Câu 6. Đưa cực Bắc của một thanh nam châm lại gần một vòng dây dẫn kín. Theo định luật Lenz, mặt của vòng dây đối diện với nam châm trở thành
+A. cực Nam, vòng dây hút nam châm.
+B. cực Nam, vòng dây đẩy nam châm.
+*C. cực Bắc, vòng dây đẩy nam châm.
+D. cực Bắc, vòng dây hút nam châm.
+Lời giải: Từ thông qua vòng dây tăng, dòng điện cảm ứng sinh ra từ trường chống lại sự tăng đó, nên mặt đối diện là cực Bắc và đẩy nam châm ra xa.
+
+Câu 7. Từ thông qua một mạch kín giảm đều từ 0,6 Wb xuống 0,2 Wb trong thời gian 0,1 s. Độ lớn suất điện động cảm ứng trong mạch là
+A. 0,4 V.
+*B. 4 V.
+C. 8 V.
+D. 6 V.
+Lời giải: $|e| = \left|\dfrac{\Delta\Phi}{\Delta t}\right| = \dfrac{0{,}6 - 0{,}2}{0{,}1} = 4$ V.
+
+Câu 8. Một khung dây phẳng gồm 100 vòng, mỗi vòng có diện tích 20 cm², đặt trong từ trường đều có cảm ứng từ vuông góc với mặt phẳng khung. Trong thời gian 0,05 s, độ lớn cảm ứng từ tăng đều từ 0 đến 0,5 T. Độ lớn suất điện động cảm ứng trong khung là
+A. 0,02 V.
+B. 20 V.
+C. 0,2 V.
+*D. 2 V.
+Lời giải: $|e| = N\dfrac{S\Delta B}{\Delta t} = 100 \cdot \dfrac{20 \cdot 10^{-4} \cdot 0{,}5}{0{,}05} = 2$ V.
+
+PHẦN II. Câu trắc nghiệm đúng sai
+Câu 1. Một vòng dây dẫn kín có diện tích 0,01 m² và điện trở 0,5 Ω, đặt trong từ trường đều sao cho mặt phẳng vòng dây vuông góc với các đường sức từ. Trong thời gian 0,2 s, độ lớn cảm ứng từ tăng đều từ 0,1 T đến 0,5 T.
+a) Từ thông ban đầu qua vòng dây là $10^{-3}$ Wb. (Đ)
+b) Suất điện động cảm ứng trong vòng dây có độ lớn 0,2 V. (S)
+c) Cường độ dòng điện cảm ứng trong vòng dây là 0,04 A. (Đ)
+d) Trong lòng vòng dây, từ trường do dòng điện cảm ứng sinh ra cùng chiều với từ trường ngoài. (S)
+Lời giải: $\Phi_1 = B_1S = 0{,}1 \cdot 0{,}01 = 10^{-3}$ Wb. $|e| = \dfrac{(0{,}5 - 0{,}1) \cdot 0{,}01}{0{,}2} = 0{,}02$ V; $I = \dfrac{|e|}{R} = \dfrac{0{,}02}{0{,}5} = 0{,}04$ A. Từ thông tăng nên từ trường cảm ứng ngược chiều từ trường ngoài (định luật Lenz).
+
+Câu 2. Nối hai đầu một ống dây với một điện kế nhạy thành mạch kín rồi làm thí nghiệm với một thanh nam châm thẳng.
+a) Khi nam châm nằm yên trong lòng ống dây, kim điện kế chỉ số 0. (Đ)
+b) Khi đưa nam châm lại gần ống dây và khi kéo nam châm ra xa ống dây, kim điện kế lệch theo hai chiều ngược nhau. (Đ)
+c) Di chuyển nam châm càng nhanh thì kim điện kế lệch càng ít. (S)
+d) Giữ nam châm đứng yên và di chuyển ống dây lại gần nam châm thì trong ống dây cũng xuất hiện dòng điện cảm ứng. (Đ)
+Lời giải: Nam châm đứng yên thì từ thông không đổi, không có dòng cảm ứng. Từ thông tăng hay giảm cho dòng cảm ứng ngược chiều nhau. Di chuyển càng nhanh thì $\left|\dfrac{\Delta\Phi}{\Delta t}\right|$ càng lớn nên dòng cảm ứng càng lớn. Chỉ cần có chuyển động tương đối làm từ thông biến thiên là có dòng cảm ứng.
+
+PHẦN III. Câu trắc nghiệm trả lời ngắn
+Câu 1. Một khung dây phẳng có diện tích 0,04 m² đặt trong từ trường đều có cảm ứng từ 0,5 T. Vectơ pháp tuyến của mặt phẳng khung hợp với cảm ứng từ một góc $60^\circ$. Từ thông qua khung dây là bao nhiêu miliweber (mWb)?
+Đáp án: 10
+Lời giải: $\Phi = BS\cos\alpha = 0{,}5 \cdot 0{,}04 \cdot \cos 60^\circ = 0{,}01$ Wb $= 10$ mWb.
+
+Câu 2. Một khung dây phẳng gồm 50 vòng, mỗi vòng có diện tích 100 cm², đặt trong từ trường đều có cảm ứng từ 0,4 T. Ban đầu mặt phẳng khung vuông góc với các đường sức từ. Quay đều khung trong 0,1 s đến vị trí mặt phẳng khung song song với các đường sức từ. Độ lớn suất điện động cảm ứng trung bình trong khung trong thời gian đó là bao nhiêu vôn (V)?
+Đáp án: 2
+Lời giải: Từ thông qua mỗi vòng giảm từ $BS = 0{,}4 \cdot 0{,}01 = 4 \cdot 10^{-3}$ Wb về 0. $|e| = N\dfrac{|\Delta\Phi|}{\Delta t} = 50 \cdot \dfrac{4 \cdot 10^{-3}}{0{,}1} = 2$ V.
+
+Câu 3. Một thanh kim loại dài 0,5 m trượt đều với tốc độ 4 m/s trên hai thanh ray song song nằm ngang, hai đầu ray nối với một điện trở 2 Ω tạo thành mạch kín. Hệ đặt trong từ trường đều có cảm ứng từ 0,2 T, vuông góc với mặt phẳng hai ray. Thanh luôn vuông góc với hai ray; điện trở của thanh, ray và dây nối không đáng kể. Cường độ dòng điện cảm ứng trong mạch là bao nhiêu ampe (A)?
+Đáp án: 0,2
+Lời giải: Trong thời gian $\Delta t$, diện tích mạch thay đổi $\Delta S = \ell v\Delta t$ nên $|e| = \dfrac{B\Delta S}{\Delta t} = B\ell v = 0{,}2 \cdot 0{,}5 \cdot 4 = 0{,}4$ V. $I = \dfrac{|e|}{R} = \dfrac{0{,}4}{2} = 0{,}2$ A.

@@ -1,0 +1,84 @@
+VẬT LÍ 12 - CHƯƠNG III. TỪ TRƯỜNG - BÀI 19. ĐIỆN TỪ TRƯỜNG. MÔ HÌNH SÓNG ĐIỆN TỪ
+Đề luyện tập theo cấu trúc thi tốt nghiệp THPT (biên soạn: thầy Lâm Thế Phong, THPT An Thới)
+Thời gian: 20
+
+PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn
+Câu 1. Theo thuyết điện từ của Maxwell, khi từ trường biến thiên theo thời gian thì nó sinh ra
+*A. điện trường xoáy.
+B. điện trường tĩnh có đường sức không khép kín.
+C. dòng điện không đổi trong không gian.
+D. trường hấp dẫn.
+Lời giải: Từ trường biến thiên theo thời gian sinh ra điện trường xoáy, kể cả khi không có dây dẫn.
+
+Câu 2. Đường sức của điện trường xoáy là
+A. những đường thẳng song song cách đều.
+B. những đường xuất phát từ điện tích dương và kết thúc ở điện tích âm.
+*C. những đường cong khép kín.
+D. những đường thẳng hội tụ tại một điểm.
+
+Câu 3. Phát biểu nào sau đây về sóng điện từ là đúng?
+A. Sóng điện từ là sóng dọc.
+B. Sóng điện từ không truyền được trong chân không.
+C. Tại mỗi điểm, điện trường và từ trường của sóng dao động lệch pha nhau $\dfrac{\pi}{2}$.
+*D. Sóng điện từ là sóng ngang; tại mỗi điểm, $\vec E$ và $\vec B$ dao động cùng pha, vuông góc với nhau và vuông góc với phương truyền sóng.
+
+Câu 4. Trong chân không, sóng điện từ truyền với tốc độ
+A. 340 m/s.
+*B. $3 \cdot 10^8$ m/s.
+C. $3 \cdot 10^5$ m/s.
+D. 1500 m/s.
+
+Câu 5. Một đài phát thanh FM phát sóng điện từ có tần số 100 MHz. Lấy $c = 3 \cdot 10^8$ m/s. Bước sóng của sóng này trong không khí (coi như chân không) là
+A. 30 m.
+B. 0,3 m.
+*C. 3 m.
+D. 300 m.
+Lời giải: $\lambda = \dfrac{c}{f} = \dfrac{3 \cdot 10^8}{10^8} = 3$ m.
+
+Câu 6. Điện từ trường là
+*A. trường thống nhất gồm điện trường biến thiên và từ trường biến thiên, chúng liên quan mật thiết và chuyển hóa lẫn nhau.
+B. trường gồm điện trường tĩnh và từ trường không đổi tồn tại độc lập với nhau.
+C. trường chỉ tồn tại bên trong dây dẫn có dòng điện xoay chiều.
+D. trường do các điện tích đứng yên gây ra.
+
+Câu 7. Một sóng điện từ có bước sóng 600 m trong chân không. Lấy $c = 3 \cdot 10^8$ m/s. Tần số của sóng là
+A. 5 MHz.
+*B. 500 kHz.
+C. 50 kHz.
+D. 180 kHz.
+Lời giải: $f = \dfrac{c}{\lambda} = \dfrac{3 \cdot 10^8}{600} = 5 \cdot 10^5$ Hz $= 500$ kHz.
+
+Câu 8. Khi sóng điện từ truyền qua một điểm, tại thời điểm cường độ điện trường tại điểm đó đạt giá trị cực đại thì cảm ứng từ tại điểm đó
+A. bằng 0.
+B. bằng một nửa giá trị cực đại.
+C. bằng giá trị cực đại chia cho $\sqrt{2}$.
+*D. đạt giá trị cực đại.
+Lời giải: $\vec E$ và $\vec B$ dao động cùng pha nên cùng đạt cực đại.
+
+PHẦN II. Câu trắc nghiệm đúng sai
+Câu 1. Đặt một vòng dây dẫn kín trong một từ trường có cảm ứng từ biến thiên theo thời gian, thấy trong vòng dây xuất hiện dòng điện cảm ứng.
+a) Dòng điện cảm ứng xuất hiện chứng tỏ có một điện trường tác dụng lực lên các electron tự do trong vòng dây. (Đ)
+b) Điện trường này chỉ tồn tại khi có vòng dây; nếu bỏ vòng dây đi thì không còn điện trường. (S)
+c) Đường sức của điện trường này là những đường cong khép kín bao quanh các đường sức từ. (Đ)
+d) Điện trường do các điện tích đứng yên gây ra cũng có đường sức khép kín như điện trường này. (S)
+Lời giải: Theo Maxwell, từ trường biến thiên sinh ra điện trường xoáy ở mọi nơi trong không gian, vòng dây chỉ giúp phát hiện nó. Điện trường xoáy có đường sức khép kín; điện trường tĩnh có đường sức đi ra từ điện tích dương, kết thúc ở điện tích âm.
+
+Câu 2. Bộ phát wifi phát ra sóng điện từ có tần số 2,4 GHz. Lấy $c = 3 \cdot 10^8$ m/s.
+a) Bước sóng của sóng này trong không khí (coi như chân không) là 12,5 cm. (Đ)
+b) Sóng này không truyền được trong chân không vì không có môi trường vật chất. (S)
+c) Tại mỗi điểm sóng truyền qua, vectơ cường độ điện trường và vectơ cảm ứng từ luôn vuông góc với nhau và vuông góc với phương truyền sóng. (Đ)
+d) Khi sóng truyền từ không khí vào bức tường bê tông, tần số của sóng thay đổi. (S)
+Lời giải: $\lambda = \dfrac{3 \cdot 10^8}{2{,}4 \cdot 10^9} = 0{,}125$ m $= 12{,}5$ cm. Sóng điện từ truyền được trong chân không. Khi truyền qua các môi trường, tần số của sóng không đổi (tốc độ và bước sóng thay đổi).
+
+PHẦN III. Câu trắc nghiệm trả lời ngắn
+Câu 1. Một đài phát thanh phát sóng có tần số 91 MHz. Lấy $c = 3 \cdot 10^8$ m/s. Bước sóng của sóng này trong không khí (coi như chân không) là bao nhiêu mét (m) (làm tròn kết quả đến chữ số hàng phần trăm)?
+Đáp án: 3,30|3,3
+Lời giải: $\lambda = \dfrac{c}{f} = \dfrac{3 \cdot 10^8}{91 \cdot 10^6} \approx 3{,}30$ m.
+
+Câu 2. Từ Trái Đất, người ta phát một xung sóng điện từ (radar) hướng về Mặt Trăng. Sau 2,56 s kể từ lúc phát thì thu được xung phản xạ trở lại. Lấy $c = 3 \cdot 10^8$ m/s. Khoảng cách từ Trái Đất đến Mặt Trăng là $x \cdot 10^8$ m. Tìm $x$ (làm tròn kết quả đến chữ số hàng phần trăm).
+Đáp án: 3,84
+Lời giải: Sóng đi và về nên $d = \dfrac{ct}{2} = \dfrac{3 \cdot 10^8 \cdot 2{,}56}{2} = 3{,}84 \cdot 10^8$ m.
+
+Câu 3. Một sóng điện từ có bước sóng 20 m trong chân không. Lấy $c = 3 \cdot 10^8$ m/s. Trong thời gian $1\ \mu\text{s}$, cường độ điện trường tại một điểm có sóng truyền qua thực hiện được bao nhiêu dao động toàn phần?
+Đáp án: 15
+Lời giải: $f = \dfrac{c}{\lambda} = \dfrac{3 \cdot 10^8}{20} = 1{,}5 \cdot 10^7$ Hz; số dao động $n = f \cdot t = 1{,}5 \cdot 10^7 \cdot 10^{-6} = 15$.

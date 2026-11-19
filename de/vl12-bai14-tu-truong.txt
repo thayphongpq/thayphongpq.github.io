@@ -1,0 +1,94 @@
+VẬT LÍ 12 - CHƯƠNG III. TỪ TRƯỜNG - BÀI 14. TỪ TRƯỜNG
+Đề luyện tập theo cấu trúc thi tốt nghiệp THPT (biên soạn: thầy Lâm Thế Phong, THPT An Thới)
+Thời gian: 20
+
+PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn
+Câu 1. Từ trường tồn tại ở xung quanh
+A. các điện tích đứng yên.
+*B. nam châm và dòng điện.
+C. các vật nhiễm điện do cọ xát.
+D. mọi vật có khối lượng.
+Lời giải: Nam châm và dòng điện (điện tích chuyển động) gây ra từ trường xung quanh nó; điện tích đứng yên chỉ gây ra điện trường.
+
+Câu 2. Tính chất cơ bản của từ trường là
+A. gây ra lực hấp dẫn lên các vật đặt trong nó.
+B. gây ra lực đàn hồi lên các vật đặt trong nó.
+*C. gây ra lực từ tác dụng lên nam châm hoặc dòng điện đặt trong nó.
+D. làm nóng các vật dẫn điện đặt trong nó.
+Lời giải: Từ trường được nhận biết nhờ lực từ tác dụng lên nam châm thử hoặc dòng điện đặt trong nó.
+
+Câu 3. Đường sức từ có đặc điểm nào sau đây?
+*A. Là những đường cong khép kín hoặc vô hạn ở hai đầu.
+B. Các đường sức từ có thể cắt nhau tại những điểm có từ trường mạnh.
+C. Ở bên ngoài nam châm, đường sức từ đi ra từ cực Nam và đi vào cực Bắc.
+D. Ở nơi từ trường mạnh, các đường sức từ được vẽ thưa hơn.
+Lời giải: Đường sức từ khép kín (hoặc vô hạn ở hai đầu), không cắt nhau; bên ngoài nam châm đi ra từ cực Bắc, vào cực Nam; nơi từ trường mạnh đường sức mau hơn.
+
+Câu 4. Đặt một kim nam châm nhỏ tại một điểm trong từ trường. Khi kim nằm cân bằng, chiều của từ trường tại điểm đó là
+A. chiều từ cực Bắc sang cực Nam của kim nam châm.
+B. vuông góc với trục của kim nam châm.
+C. hợp với trục của kim nam châm một góc $45^\circ$.
+*D. chiều từ cực Nam sang cực Bắc của kim nam châm.
+Lời giải: Quy ước: chiều của từ trường tại một điểm là chiều đi từ cực Nam sang cực Bắc của kim nam châm thử nằm cân bằng tại điểm đó.
+
+Câu 5. Đường sức từ của dòng điện không đổi chạy trong một dây dẫn thẳng dài là
+A. những đường thẳng song song với dây dẫn.
+B. những đường thẳng vuông góc với dây dẫn, hướng ra xa dây.
+*C. những đường tròn đồng tâm nằm trong mặt phẳng vuông góc với dây dẫn, có tâm nằm trên dây dẫn.
+D. những đường elip bao quanh dây dẫn, nằm trong mặt phẳng chứa dây dẫn.
+Lời giải: Từ phổ của dòng điện thẳng dài là các đường tròn đồng tâm nằm trong mặt phẳng vuông góc với dây, tâm là giao điểm của mặt phẳng với dây.
+
+Câu 6. Chiều của các đường sức từ do dòng điện chạy trong dây dẫn thẳng dài gây ra được xác định bằng
+*A. quy tắc nắm tay phải.
+B. quy tắc bàn tay trái.
+C. định luật Lenz.
+D. định luật Coulomb.
+Lời giải: Nắm tay phải sao cho ngón cái choãi ra chỉ chiều dòng điện thì các ngón tay khum lại chỉ chiều đường sức từ.
+
+Câu 7. Bên trong lòng một ống dây dài có dòng điện không đổi chạy qua, các đường sức từ
+A. là những đường tròn đồng tâm.
+B. là những đường cong khép kín rất nhỏ quanh từng vòng dây.
+C. không tồn tại vì trong lòng ống dây không có từ trường.
+*D. gần như là những đường thẳng song song, cách đều nhau.
+Lời giải: Từ trường trong lòng ống dây dài gần như là từ trường đều, đường sức là các đường thẳng song song cách đều.
+
+Câu 8. Ở một nơi trên mặt đất (xa các nam châm và dòng điện), kim la bàn nằm cân bằng có cực Bắc chỉ về phía Bắc địa lí. Điều này chứng tỏ
+A. Trái Đất không có từ trường, kim la bàn chỉ chịu tác dụng của trọng lực.
+*B. Trái Đất có từ trường, cực từ ở gần cực Bắc địa lí có tính chất như cực Nam của một thanh nam châm.
+C. Trái Đất có từ trường, cực từ ở gần cực Bắc địa lí có tính chất như cực Bắc của một thanh nam châm.
+D. kim la bàn chịu tác dụng của lực hấp dẫn do khối lượng Trái Đất ở phía Bắc lớn hơn.
+Lời giải: Các cực khác tên hút nhau: cực Bắc của kim bị hút về phía Bắc địa lí nên cực từ ở đó có tính chất của cực Nam.
+
+PHẦN II. Câu trắc nghiệm đúng sai
+Câu 1. Một học sinh làm lại thí nghiệm Oersted: đặt một kim nam châm nhỏ nằm cân bằng theo hướng Bắc – Nam, rồi đặt một dây dẫn thẳng nằm ngang ngay phía trên và song song với kim. Sau đó cho dòng điện không đổi chạy qua dây dẫn.
+a) Kim nam châm bị lệch khỏi hướng Bắc – Nam, chứng tỏ dòng điện đã sinh ra từ trường. (Đ)
+b) Khi đổi chiều dòng điện, kim nam châm bị lệch theo chiều ngược lại. (Đ)
+c) Khi ngắt dòng điện, kim nam châm vẫn giữ nguyên vị trí lệch như lúc có dòng điện. (S)
+d) Kim nam châm bị lệch là do lực điện của các điện tích trong dây dẫn tác dụng lên kim. (S)
+Lời giải: Dòng điện gây ra từ trường, từ trường tác dụng lực từ lên kim nam châm. Đổi chiều dòng điện thì chiều từ trường đổi nên kim lệch ngược lại. Ngắt dòng điện thì chỉ còn từ trường Trái Đất, kim trở về hướng Bắc – Nam. Dây dẫn có dòng điện vẫn trung hòa về điện nên không phải lực điện.
+
+Câu 2. Cho dòng điện không đổi chạy qua một ống dây dài. Nhìn từ đầu M của ống dây, ta thấy dòng điện chạy trong các vòng dây theo chiều ngược chiều kim đồng hồ.
+a) Đầu M của ống dây là cực Bắc. (Đ)
+b) Đặt một kim nam châm nhỏ trong lòng ống dây, khi cân bằng cực Bắc của kim hướng về phía đầu M. (Đ)
+c) Ở bên ngoài ống dây, từ phổ của ống dây giống từ phổ của một thanh nam châm thẳng. (Đ)
+d) Khi đổi chiều dòng điện trong ống dây thì đầu M vẫn là cực Bắc. (S)
+Lời giải: Quy tắc nắm tay phải: các ngón tay khum theo chiều dòng điện (ngược chiều kim đồng hồ khi nhìn từ M) thì ngón cái hướng về phía người nhìn, tức đường sức từ trong lòng ống đi ra ở đầu M, nên M là cực Bắc. Kim nam châm trong lòng ống định hướng theo đường sức (từ Nam sang Bắc của kim) nên cực Bắc của kim hướng về M. Đổi chiều dòng điện thì M thành cực Nam.
+
+PHẦN III. Câu trắc nghiệm trả lời ngắn
+Câu 1. Cắt một thanh nam châm thẳng thành 3 đoạn bằng nhau theo phương vuông góc với trục của nó. Tổng số cực từ của 3 đoạn nam châm thu được là bao nhiêu?
+Đáp án: 6
+Lời giải: Mỗi đoạn là một nam châm mới có đủ hai cực Bắc và Nam (không tách riêng được từng cực), nên có $3 \cdot 2 = 6$ cực từ.
+
+Câu 2. Một kim la bàn nằm cân bằng theo hướng Bắc – Nam dưới tác dụng của thành phần nằm ngang của từ trường Trái Đất. Đặt gần kim một dây dẫn có dòng điện sao cho tại vị trí của kim, từ trường do dòng điện gây ra nằm ngang, vuông góc với hướng Bắc – Nam và mạnh gấp $\sqrt{3}$ lần thành phần nằm ngang của từ trường Trái Đất. Khi cân bằng, kim la bàn lệch khỏi hướng Bắc – Nam một góc bằng bao nhiêu độ?
+Đáp án: 60
+Lời giải: Kim định hướng theo từ trường tổng hợp. Hai từ trường thành phần vuông góc nên $\tan\alpha = \dfrac{B_{\text{dòng}}}{B_{\text{TĐ}}} = \sqrt{3} \Rightarrow \alpha = 60^\circ$.
+
+Câu 3. Cho các phát biểu sau:
+(1) Qua mỗi điểm trong từ trường chỉ vẽ được một đường sức từ.
+(2) Các đường sức từ không cắt nhau.
+(3) Ở bên ngoài thanh nam châm, đường sức từ đi ra từ cực Nam và đi vào cực Bắc.
+(4) Từ phổ là hình ảnh các đường mạt sắt cho biết dạng của các đường sức từ.
+(5) Từ trường chỉ tác dụng lực lên nam châm, không tác dụng lực lên dòng điện.
+Có bao nhiêu phát biểu đúng?
+Đáp án: 3
+Lời giải: Các phát biểu đúng là (1), (2), (4). Phát biểu (3) sai vì bên ngoài nam châm đường sức đi ra từ cực Bắc, vào cực Nam. Phát biểu (5) sai vì từ trường tác dụng lực từ lên cả dòng điện.

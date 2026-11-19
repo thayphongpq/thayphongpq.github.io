@@ -1,0 +1,88 @@
+VẬT LÍ 12 - CHƯƠNG II. KHÍ LÍ TƯỞNG - BÀI 10. ĐỊNH LUẬT CHARLES
+Đề luyện tập theo cấu trúc thi tốt nghiệp THPT (biên soạn: thầy Lâm Thế Phong, THPT An Thới)
+Thời gian: 20
+
+PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn
+Câu 1. Định luật Charles phát biểu: khi áp suất của một lượng khí xác định được giữ không đổi thì thể tích của khí
+*A. tỉ lệ thuận với nhiệt độ tuyệt đối của nó.
+B. tỉ lệ nghịch với nhiệt độ tuyệt đối của nó.
+C. tỉ lệ thuận với nhiệt độ Celsius của nó.
+D. tỉ lệ nghịch với áp suất.
+Lời giải: Định luật Charles: $\dfrac{V}{T} = \text{hằng số}$ khi $p$ không đổi.
+
+Câu 2. Hệ thức nào sau đây là của định luật Charles cho một lượng khí xác định?
+A. $p_1V_1 = p_2V_2$.
+*B. $\dfrac{V_1}{T_1} = \dfrac{V_2}{T_2}$.
+C. $V_1T_1 = V_2T_2$.
+D. $\dfrac{p_1}{T_1} = \dfrac{p_2}{T_2}$.
+Lời giải: Quá trình đẳng áp: $\dfrac{V_1}{T_1} = \dfrac{V_2}{T_2}$.
+
+Câu 3. Trong hệ tọa độ $(V, T)$, đường đẳng áp của một lượng khí xác định là
+A. đường hypebol.
+B. đường thẳng song song với trục $T$.
+*C. đường thẳng mà nếu kéo dài sẽ đi qua gốc tọa độ.
+D. đường thẳng song song với trục $V$.
+Lời giải: $V = \text{hằng số} \cdot T$ nên đồ thị là đường thẳng qua gốc tọa độ (phần gần 0 K vẽ nét đứt).
+
+Câu 4. Một quả bóng bàn bị bẹp nhẹ (chưa thủng) được thả vào cốc nước nóng thì phồng trở lại. Nguyên nhân chủ yếu là
+A. nước nóng thấm vào trong quả bóng.
+B. vỏ quả bóng co lại khi gặp nóng.
+C. khối lượng khí trong quả bóng tăng.
+*D. khí trong quả bóng nóng lên và nở ra.
+Lời giải: Khí trong bóng nhận nhiệt, nhiệt độ tăng nên thể tích tăng, đẩy vỏ bóng phồng lên.
+
+Câu 5. Một lượng khí có thể tích 6 lít ở $27\ ^\circ\text{C}$. Đun nóng đẳng áp lượng khí này đến $127\ ^\circ\text{C}$ thì thể tích của khí là
+*A. 8 lít.
+B. 4,5 lít.
+C. 28,2 lít.
+D. 7,5 lít.
+Lời giải: $V_2 = V_1\dfrac{T_2}{T_1} = 6 \cdot \dfrac{400}{300} = 8$ lít.
+
+Câu 6. Một lượng khí ở $27\ ^\circ\text{C}$. Để thể tích của khí tăng gấp đôi trong điều kiện áp suất không đổi thì cần đun nóng khí đến nhiệt độ
+A. $54\ ^\circ\text{C}$.
+*B. $327\ ^\circ\text{C}$.
+C. $600\ ^\circ\text{C}$.
+D. $150\ ^\circ\text{C}$.
+Lời giải: $T_2 = 2T_1 = 600$ K $\Rightarrow t_2 = 600 - 273 = 327\ ^\circ\text{C}$.
+
+Câu 7. Đun nóng đẳng áp một lượng khí từ $7\ ^\circ\text{C}$ lên $77\ ^\circ\text{C}$. Thể tích của khí tăng thêm
+A. 11 lần.
+B. 10%.
+*C. 25%.
+D. 125%.
+Lời giải: $\dfrac{V_2}{V_1} = \dfrac{T_2}{T_1} = \dfrac{350}{280} = 1{,}25$: thể tích tăng thêm 25%.
+
+Câu 8. Đun nóng đẳng áp một lượng khí để nhiệt độ tuyệt đối tăng gấp đôi. Khối lượng riêng của khí
+A. tăng 2 lần.
+B. không đổi.
+C. tăng 4 lần.
+*D. giảm 2 lần.
+Lời giải: Khối lượng khí không đổi, thể tích tăng 2 lần nên khối lượng riêng $\rho = \dfrac{m}{V}$ giảm 2 lần.
+
+PHẦN II. Câu trắc nghiệm đúng sai
+Câu 1. Một xilanh có pit-tông di chuyển không ma sát chứa 0,5 lít khí ở $27\ ^\circ\text{C}$. Áp suất khí luôn bằng $1{,}0 \cdot 10^5$ Pa. Đun nóng khí đến $87\ ^\circ\text{C}$.
+a) Nhiệt độ tuyệt đối ban đầu của khí là 300 K. (Đ)
+b) Thể tích khí sau khi đun nóng là 0,6 lít. (Đ)
+c) Công mà khí thực hiện khi đẩy pit-tông là 100 J. (S)
+d) Thể tích của khí tỉ lệ thuận với nhiệt độ Celsius của khí. (S)
+Lời giải: $V_2 = 0{,}5 \cdot \dfrac{360}{300} = 0{,}6$ lít; $A' = p\Delta V = 10^5 \cdot 0{,}1 \cdot 10^{-3} = 10$ J. Thể tích tỉ lệ thuận với nhiệt độ tuyệt đối $T$, không phải với $t\ (^\circ\text{C})$.
+
+Câu 2. Để kiểm chứng định luật Charles, một nhóm học sinh dùng một ống thủy tinh tiết diện đều, đầu dưới kín, chứa một cột khí được ngăn với bên ngoài bởi một giọt chất lỏng có thể dịch chuyển dễ dàng. Nhúng ống vào nước có nhiệt độ thay đổi được và đo chiều dài cột khí. Ở $27\ ^\circ\text{C}$, cột khí dài 15 cm.
+a) Trong thí nghiệm, áp suất của khối khí trong ống được coi là không đổi. (Đ)
+b) Ở $67\ ^\circ\text{C}$, cột khí dài 17 cm. (Đ)
+c) Ở $127\ ^\circ\text{C}$, cột khí dài 20 cm. (Đ)
+d) Đồ thị biểu diễn chiều dài cột khí theo nhiệt độ Celsius là đường thẳng đi qua gốc tọa độ. (S)
+Lời giải: Giọt chất lỏng cân bằng giữa khí trong ống và khí quyển nên áp suất không đổi. Tiết diện đều nên $\ell \sim V \sim T$: $\ell = 15 \cdot \dfrac{340}{300} = 17$ cm; $\ell = 15 \cdot \dfrac{400}{300} = 20$ cm. Đường thẳng đi qua gốc trong hệ tọa độ với nhiệt độ tuyệt đối, còn theo $t\ (^\circ\text{C})$ thì cắt trục ở $-273\ ^\circ\text{C}$.
+
+PHẦN III. Câu trắc nghiệm trả lời ngắn
+Câu 1. Một lượng khí có thể tích 3 lít ở $27\ ^\circ\text{C}$. Đun nóng đẳng áp đến khi thể tích là 4 lít. Nhiệt độ của khí lúc này là bao nhiêu độ Celsius ($^\circ\text{C}$)?
+Đáp án: 127
+Lời giải: $T_2 = T_1\dfrac{V_2}{V_1} = 300 \cdot \dfrac{4}{3} = 400$ K $\Rightarrow t_2 = 127\ ^\circ\text{C}$.
+
+Câu 2. Đun nóng đẳng áp một lượng khí ở $27\ ^\circ\text{C}$ thì thể tích tăng thêm $\dfrac{1}{10}$ thể tích ban đầu. Nhiệt độ của khí sau khi đun là bao nhiêu kelvin (K)?
+Đáp án: 330
+Lời giải: $T_2 = T_1 \cdot \dfrac{V_2}{V_1} = 300 \cdot 1{,}1 = 330$ K.
+
+Câu 3. Không khí trong một căn phòng có cửa thông với bên ngoài (áp suất không đổi) được sưởi ấm từ $17\ ^\circ\text{C}$ lên $27\ ^\circ\text{C}$. Coi không khí là khí lí tưởng. Khối lượng không khí đã thoát ra khỏi phòng bằng bao nhiêu phần trăm khối lượng không khí ban đầu trong phòng (làm tròn kết quả đến chữ số hàng phần mười)?
+Đáp án: 3,3|3,33
+Lời giải: Lượng khí ban đầu khi nóng lên đẳng áp có thể tích $V' = V\dfrac{300}{290}$; phần còn lại trong phòng là $\dfrac{V}{V'} = \dfrac{290}{300}$. Phần thoát ra: $1 - \dfrac{290}{300} \approx 3{,}3\%$.

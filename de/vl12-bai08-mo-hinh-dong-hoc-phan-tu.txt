@@ -1,0 +1,88 @@
+VẬT LÍ 12 - CHƯƠNG II. KHÍ LÍ TƯỞNG - BÀI 8. MÔ HÌNH ĐỘNG HỌC PHÂN TỬ CHẤT KHÍ
+Đề luyện tập theo cấu trúc thi tốt nghiệp THPT (biên soạn: thầy Lâm Thế Phong, THPT An Thới)
+Thời gian: 20
+
+PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn
+Câu 1. Theo mô hình động học phân tử, chất khí được cấu tạo từ các phân tử
+*A. chuyển động hỗn loạn, không ngừng.
+B. đứng yên tại các vị trí cố định.
+C. dao động quanh các vị trí cân bằng cố định.
+D. chuyển động theo cùng một hướng.
+Lời giải: Các phân tử khí chuyển động hỗn loạn, không ngừng theo mọi hướng.
+
+Câu 2. Nhiệt độ của chất khí càng cao thì
+A. các phân tử khí chuyển động càng chậm.
+*B. các phân tử khí chuyển động càng nhanh.
+C. kích thước các phân tử khí càng lớn.
+D. số phân tử khí càng nhiều.
+Lời giải: Tốc độ chuyển động hỗn loạn của phân tử khí tăng khi nhiệt độ tăng.
+
+Câu 3. Theo mô hình khí lí tưởng, các phân tử khí
+A. hút nhau rất mạnh khi ở xa nhau.
+B. có kích thước lớn so với khoảng cách giữa chúng.
+*C. được coi là chất điểm và chỉ tương tác với nhau khi va chạm.
+D. va chạm không đàn hồi với thành bình.
+Lời giải: Khí lí tưởng: phân tử coi là chất điểm, bỏ qua tương tác trừ lúc va chạm; va chạm với nhau và với thành bình là đàn hồi.
+
+Câu 4. Chuyển động Brown là
+A. chuyển động của các phân tử nước.
+B. chuyển động có hướng của các hạt phấn hoa.
+C. chuyển động của các electron trong kim loại.
+*D. chuyển động hỗn loạn của các hạt nhỏ (như hạt phấn hoa) trong chất lỏng hoặc chất khí do bị các phân tử va chạm.
+Lời giải: Hạt phấn hoa bị các phân tử nước chuyển động hỗn loạn va chạm từ mọi phía nên chuyển động hỗn loạn; đây là bằng chứng của chuyển động phân tử.
+
+Câu 5. Khối lượng mol của khí oxygen ($\text{O}_2$) là 32 g/mol. Số mol có trong 64 g khí oxygen là
+*A. 2 mol.
+B. 0,5 mol.
+C. 32 mol.
+D. 4 mol.
+Lời giải: $n = \dfrac{m}{M} = \dfrac{64}{32} = 2$ mol.
+
+Câu 6. Biết số Avogadro $N_A = 6{,}02 \cdot 10^{23}\ \text{mol}^{-1}$. Số phân tử khí có trong 2 mol khí là
+A. $3{,}01 \cdot 10^{23}$.
+*B. $1{,}204 \cdot 10^{24}$.
+C. $6{,}02 \cdot 10^{23}$.
+D. $1{,}204 \cdot 10^{23}$.
+Lời giải: $N = nN_A = 2 \cdot 6{,}02 \cdot 10^{23} = 1{,}204 \cdot 10^{24}$.
+
+Câu 7. Khối lượng mol của khí carbon dioxide ($\text{CO}_2$) là 44 g/mol, $N_A = 6{,}02 \cdot 10^{23}\ \text{mol}^{-1}$. Khối lượng của một phân tử $\text{CO}_2$ xấp xỉ bằng
+A. $2{,}65 \cdot 10^{-26}$ kg.
+B. $7{,}31 \cdot 10^{-23}$ kg.
+*C. $7{,}31 \cdot 10^{-26}$ kg.
+D. $4{,}40 \cdot 10^{-26}$ kg.
+Lời giải: $m_0 = \dfrac{M}{N_A} = \dfrac{44 \cdot 10^{-3}}{6{,}02 \cdot 10^{23}} \approx 7{,}31 \cdot 10^{-26}$ kg.
+
+Câu 8. Xịt nước hoa ở một góc phòng, một lúc sau cả phòng đều ngửi thấy mùi thơm. Hiện tượng này chứng tỏ
+A. các phân tử khí đứng yên.
+B. các phân tử nước hoa có kích thước rất lớn.
+C. giữa các phân tử khí có lực hút rất mạnh.
+*D. các phân tử khí chuyển động hỗn loạn không ngừng.
+Lời giải: Do chuyển động hỗn loạn không ngừng, các phân tử nước hoa khuếch tán xen vào các phân tử không khí và lan khắp phòng.
+
+PHẦN II. Câu trắc nghiệm đúng sai
+Câu 1. Một bình chứa 4 g khí helium. Khối lượng mol của helium là 4 g/mol, $N_A = 6{,}02 \cdot 10^{23}\ \text{mol}^{-1}$.
+a) Lượng khí trong bình là 1 mol. (Đ)
+b) Số nguyên tử helium trong bình là $1{,}2 \cdot 10^{24}$. (S)
+c) Khối lượng của một nguyên tử helium xấp xỉ $6{,}64 \cdot 10^{-27}$ kg. (Đ)
+d) Nếu thể tích bình là 22,4 lít thì mật độ nguyên tử helium trong bình xấp xỉ $2{,}69 \cdot 10^{25}\ \text{m}^{-3}$. (Đ)
+Lời giải: $n = \dfrac{4}{4} = 1$ mol; $N = 6{,}02 \cdot 10^{23}$; $m_0 = \dfrac{4 \cdot 10^{-3}}{6{,}02 \cdot 10^{23}} \approx 6{,}64 \cdot 10^{-27}$ kg; $\mu = \dfrac{N}{V} = \dfrac{6{,}02 \cdot 10^{23}}{22{,}4 \cdot 10^{-3}} \approx 2{,}69 \cdot 10^{25}\ \text{m}^{-3}$.
+
+Câu 2. Xét các nội dung của mô hình động học phân tử chất khí.
+a) Giữa hai lần va chạm, mỗi phân tử khí chuyển động thẳng đều. (Đ)
+b) Với khí lí tưởng, lực tương tác giữa các phân tử ở xa nhau là rất mạnh. (S)
+c) Va chạm của các phân tử khí lí tưởng với thành bình là va chạm đàn hồi. (Đ)
+d) Ở cùng một nhiệt độ, mọi phân tử của một khối khí đều có cùng tốc độ. (S)
+Lời giải: Phân tử khí lí tưởng chỉ tương tác khi va chạm nên giữa hai va chạm chuyển động thẳng đều. Tốc độ các phân tử rất khác nhau và luôn thay đổi do va chạm; nhiệt độ chỉ quyết định giá trị trung bình.
+
+PHẦN III. Câu trắc nghiệm trả lời ngắn
+Câu 1. Khối lượng mol của khí carbon dioxide là 44 g/mol. Trong 11 g khí carbon dioxide có bao nhiêu mol khí?
+Đáp án: 0,25
+Lời giải: $n = \dfrac{m}{M} = \dfrac{11}{44} = 0{,}25$ mol.
+
+Câu 2. Một bình chứa $3{,}01 \cdot 10^{23}$ phân tử khí oxygen. Khối lượng mol của oxygen là 32 g/mol, $N_A = 6{,}02 \cdot 10^{23}\ \text{mol}^{-1}$. Khối lượng khí oxygen trong bình là bao nhiêu gam (g)?
+Đáp án: 16
+Lời giải: $n = \dfrac{N}{N_A} = 0{,}5$ mol; $m = nM = 0{,}5 \cdot 32 = 16$ g.
+
+Câu 3. Ở điều kiện tiêu chuẩn, 1 mol khí bất kì chiếm thể tích 22,4 lít; $N_A = 6{,}02 \cdot 10^{23}\ \text{mol}^{-1}$. Số phân tử khí có trong $1\ \text{cm}^3$ khí ở điều kiện tiêu chuẩn là $x \cdot 10^{19}$. Tìm $x$ (làm tròn kết quả đến chữ số hàng phần trăm).
+Đáp án: 2,69|2,7|2,687
+Lời giải: $22{,}4$ lít $= 22\,400\ \text{cm}^3$; $N = \dfrac{6{,}02 \cdot 10^{23}}{22\,400} \approx 2{,}69 \cdot 10^{19}$.

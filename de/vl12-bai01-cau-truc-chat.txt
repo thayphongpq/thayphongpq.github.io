@@ -1,0 +1,88 @@
+VẬT LÍ 12 - CHƯƠNG I. VẬT LÍ NHIỆT - BÀI 1. CẤU TRÚC CỦA CHẤT. SỰ CHUYỂN THỂ
+Đề luyện tập theo cấu trúc thi tốt nghiệp THPT (biên soạn: thầy Lâm Thế Phong, THPT An Thới)
+Thời gian: 20
+
+PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn
+Câu 1. Theo mô hình động học phân tử, các phân tử cấu tạo nên chất
+*A. chuyển động không ngừng.
+B. luôn đứng yên tại những vị trí xác định.
+C. chỉ chuyển động khi vật được đun nóng.
+D. chỉ chuyển động ở thể khí.
+Lời giải: Mô hình động học phân tử: vật chất gồm các phân tử chuyển động không ngừng; giữa chúng có lực liên kết.
+
+Câu 2. Ở thể rắn, các phân tử
+A. chuyển động hỗn loạn tự do trong toàn bộ thể tích bình chứa.
+*B. dao động quanh những vị trí cân bằng xác định.
+C. ở rất xa nhau và hầu như không tương tác với nhau.
+D. dao động quanh những vị trí cân bằng luôn di chuyển.
+Lời giải: Ở thể rắn, các phân tử rất gần nhau, lực liên kết mạnh nên chỉ dao động quanh vị trí cân bằng xác định.
+
+Câu 3. Đặc điểm nào sau đây là của chất ở thể khí?
+A. Có thể tích và hình dạng xác định.
+B. Có thể tích xác định nhưng không có hình dạng xác định.
+*C. Khoảng cách giữa các phân tử rất lớn so với kích thước của chúng, chất khí chiếm toàn bộ thể tích bình chứa.
+D. Lực liên kết giữa các phân tử rất mạnh.
+Lời giải: Ở thể khí, các phân tử ở xa nhau, lực liên kết rất yếu nên khí không có hình dạng và thể tích riêng.
+
+Câu 4. Sự bay hơi của chất lỏng
+A. chỉ xảy ra ở nhiệt độ sôi.
+B. xảy ra cả ở mặt thoáng và trong lòng chất lỏng.
+C. chỉ xảy ra khi có gió.
+*D. xảy ra ở mặt thoáng của chất lỏng, ở mọi nhiệt độ.
+Lời giải: Bay hơi là sự hóa hơi xảy ra ở mặt thoáng, ở nhiệt độ bất kì; sôi mới xảy ra cả trong lòng chất lỏng.
+
+Câu 5. Các phân tử cấu tạo nên vật chuyển động càng nhanh thì
+*A. nhiệt độ của vật càng cao.
+B. nhiệt độ của vật càng thấp.
+C. khối lượng của vật càng lớn.
+D. thể tích của vật càng nhỏ.
+Lời giải: Nhiệt độ liên quan đến tốc độ chuyển động nhiệt của các phân tử: phân tử chuyển động càng nhanh, nhiệt độ càng cao.
+
+Câu 6. Quá trình chuyển từ thể khí (hơi) sang thể lỏng được gọi là
+A. sự hóa hơi.
+*B. sự ngưng tụ.
+C. sự đông đặc.
+D. sự thăng hoa.
+Lời giải: Khí (hơi) → lỏng là ngưng tụ; lỏng → rắn là đông đặc; rắn → khí là thăng hoa.
+
+Câu 7. Điểm khác nhau cơ bản giữa chất rắn kết tinh và chất rắn vô định hình là
+A. chất rắn vô định hình có nhiệt độ nóng chảy xác định.
+B. chất rắn kết tinh không có cấu trúc tinh thể.
+*C. chất rắn kết tinh có nhiệt độ nóng chảy xác định, chất rắn vô định hình thì không.
+D. chất rắn kết tinh nóng chảy ở mọi nhiệt độ.
+Lời giải: Chất rắn kết tinh (muối ăn, kim loại...) có cấu trúc tinh thể và nhiệt độ nóng chảy xác định; chất rắn vô định hình (thủy tinh, nhựa đường...) mềm dần khi nóng.
+
+Câu 8. Sự sôi khác sự bay hơi ở chỗ sự sôi
+A. xảy ra ở mọi nhiệt độ.
+B. chỉ xảy ra ở mặt thoáng của chất lỏng.
+C. không cần cung cấp nhiệt lượng.
+*D. xảy ra cả ở mặt thoáng và trong lòng chất lỏng, ở một nhiệt độ xác định.
+Lời giải: Sự sôi xảy ra ở nhiệt độ sôi (phụ thuộc áp suất), hơi tạo ra cả trong lòng chất lỏng (các bọt hơi) và ở mặt thoáng.
+
+PHẦN II. Câu trắc nghiệm đúng sai
+Câu 1. Xét cấu trúc của chất ở các thể rắn, lỏng, khí.
+a) Chất lỏng có thể tích xác định nhưng không có hình dạng xác định. (Đ)
+b) Lực tương tác giữa các phân tử ở thể khí mạnh hơn ở thể rắn. (S)
+c) Ở thể khí, khoảng cách giữa các phân tử lớn hơn rất nhiều lần kích thước của phân tử. (Đ)
+d) Ở thể lỏng, các phân tử dao động quanh những vị trí cân bằng cố định, không di chuyển được. (S)
+Lời giải: Lực liên kết mạnh nhất ở thể rắn, yếu nhất ở thể khí. Ở thể lỏng, phân tử dao động quanh vị trí cân bằng nhưng các vị trí này luôn di chuyển, nên chất lỏng chảy được.
+
+Câu 2. Một cục nước đá ở $-10\ ^\circ\text{C}$ được đun nóng liên tục ở áp suất tiêu chuẩn cho đến khi nước sôi.
+a) Trong suốt quá trình nước đá nóng chảy, nhiệt độ của hỗn hợp nước đá và nước không đổi và bằng $0\ ^\circ\text{C}$. (Đ)
+b) Khi nước đá nóng chảy, nhiệt lượng nhận được dùng để phá vỡ cấu trúc mạng tinh thể. (Đ)
+c) Trong khi nước đang sôi, nhiệt độ của nước tiếp tục tăng do vẫn được đun. (S)
+d) Nước chỉ bắt đầu bay hơi khi nhiệt độ đạt $100\ ^\circ\text{C}$. (S)
+Lời giải: Nước đá là chất rắn kết tinh, nóng chảy ở $0\ ^\circ\text{C}$ không đổi. Khi sôi, nhiệt độ giữ ở $100\ ^\circ\text{C}$. Sự bay hơi xảy ra ở mọi nhiệt độ, kể cả trước khi sôi.
+
+PHẦN III. Câu trắc nghiệm trả lời ngắn
+Câu 1. Cho nhiệt độ nóng chảy và nhiệt độ sôi (ở áp suất tiêu chuẩn) của một số chất: nước ($0\ ^\circ\text{C}$ và $100\ ^\circ\text{C}$); rượu etylic ($-117\ ^\circ\text{C}$ và $78\ ^\circ\text{C}$); thủy ngân ($-39\ ^\circ\text{C}$ và $357\ ^\circ\text{C}$); chì ($327\ ^\circ\text{C}$ và $1749\ ^\circ\text{C}$); oxygen ($-218\ ^\circ\text{C}$ và $-183\ ^\circ\text{C}$). Ở $20\ ^\circ\text{C}$ và áp suất tiêu chuẩn, có bao nhiêu chất trong số này ở thể lỏng?
+Đáp án: 3
+Lời giải: Chất ở thể lỏng khi $t_{\text{nc}} < 20\ ^\circ\text{C} < t_{\text{sôi}}$: nước, rượu etylic, thủy ngân (3 chất). Chì ở thể rắn, oxygen ở thể khí.
+
+Câu 2. Biết khối lượng mol của nước là 18 g/mol, số Avogadro $N_A = 6{,}02 \cdot 10^{23}\ \text{mol}^{-1}$. Số phân tử nước có trong 36 g nước là $x \cdot 10^{24}$. Tìm $x$ (làm tròn kết quả đến chữ số hàng phần trăm).
+Đáp án: 1,20|1,2
+Lời giải: $N = \dfrac{m}{M}N_A = \dfrac{36}{18} \cdot 6{,}02 \cdot 10^{23} = 1{,}204 \cdot 10^{24} \Rightarrow x \approx 1{,}20$.
+
+Câu 3. Biết khối lượng mol của nước là 18 g/mol, số Avogadro $N_A = 6{,}02 \cdot 10^{23}\ \text{mol}^{-1}$. Khối lượng của một phân tử nước là $x \cdot 10^{-26}$ kg. Tìm $x$ (làm tròn kết quả đến chữ số hàng phần trăm).
+Đáp án: 2,99|3,0|3
+Lời giải: $m_0 = \dfrac{M}{N_A} = \dfrac{18 \cdot 10^{-3}}{6{,}02 \cdot 10^{23}} \approx 2{,}99 \cdot 10^{-26}$ kg.

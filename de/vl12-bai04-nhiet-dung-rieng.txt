@@ -1,0 +1,88 @@
+VẬT LÍ 12 - CHƯƠNG I. VẬT LÍ NHIỆT - BÀI 4. NHIỆT DUNG RIÊNG
+Đề luyện tập theo cấu trúc thi tốt nghiệp THPT (biên soạn: thầy Lâm Thế Phong, THPT An Thới)
+Thời gian: 20
+
+PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn
+Câu 1. Nhiệt dung riêng của một chất là nhiệt lượng cần truyền cho
+*A. 1 kg chất đó để nhiệt độ của nó tăng thêm 1 K.
+B. 1 kg chất đó để nó nóng chảy hoàn toàn.
+C. 1 g chất đó để nó hóa hơi hoàn toàn.
+D. một vật làm bằng chất đó để nhiệt độ tăng thêm 100 K.
+Lời giải: Định nghĩa: $c = \dfrac{Q}{m\Delta T}$ là nhiệt lượng cần để 1 kg chất tăng thêm 1 K (hay $1\ ^\circ\text{C}$).
+
+Câu 2. Đơn vị của nhiệt dung riêng trong hệ SI là
+A. J/kg.
+*B. J/(kg.K).
+C. J/K.
+D. kg.K/J.
+Lời giải: Từ $c = \dfrac{Q}{m\Delta T}$, đơn vị là $\dfrac{\text{J}}{\text{kg} \cdot \text{K}}$.
+
+Câu 3. Nhiệt lượng cần cung cấp để làm một vật nóng lên (không chuyển thể) KHÔNG phụ thuộc vào
+A. khối lượng của vật.
+B. chất làm vật.
+*C. hình dạng của vật.
+D. độ tăng nhiệt độ của vật.
+Lời giải: $Q = mc\Delta T$ chỉ phụ thuộc khối lượng, nhiệt dung riêng (chất làm vật) và độ tăng nhiệt độ.
+
+Câu 4. Nước được dùng làm chất làm mát trong động cơ ô tô, xe máy chủ yếu vì nước
+A. có khối lượng riêng nhỏ.
+B. dễ bay hơi.
+C. có nhiệt độ sôi thấp.
+*D. có nhiệt dung riêng lớn.
+Lời giải: Nhiệt dung riêng của nước lớn (4200 J/(kg.K)) nên một lượng nước nhận được nhiều nhiệt mà nhiệt độ tăng ít.
+
+Câu 5. Cho nhiệt dung riêng của nước là 4200 J/(kg.K). Nhiệt lượng cần cung cấp để đun nóng 2 kg nước từ $20\ ^\circ\text{C}$ lên $70\ ^\circ\text{C}$ là
+*A. 420 kJ.
+B. 42 kJ.
+C. 588 kJ.
+D. 168 kJ.
+Lời giải: $Q = mc\Delta T = 2 \cdot 4200 \cdot 50 = 420\,000$ J $= 420$ kJ.
+
+Câu 6. Cung cấp nhiệt lượng 17,6 kJ cho một khối nhôm có khối lượng 0,5 kg. Nhiệt dung riêng của nhôm là 880 J/(kg.K). Nhiệt độ của khối nhôm tăng thêm
+A. 20 K.
+*B. 40 K.
+C. 80 K.
+D. 4 K.
+Lời giải: $\Delta T = \dfrac{Q}{mc} = \dfrac{17\,600}{0{,}5 \cdot 880} = 40$ K.
+
+Câu 7. Truyền cùng một nhiệt lượng cho hai khối kim loại có cùng khối lượng: một khối bằng đồng (nhiệt dung riêng 380 J/(kg.K)) và một khối bằng nhôm (nhiệt dung riêng 880 J/(kg.K)). Không có sự chuyển thể. Kết luận nào sau đây đúng?
+A. Hai khối có độ tăng nhiệt độ như nhau.
+B. Khối nhôm có độ tăng nhiệt độ lớn hơn.
+*C. Khối đồng có độ tăng nhiệt độ lớn hơn.
+D. Không so sánh được vì chưa biết nhiệt độ ban đầu.
+Lời giải: $\Delta T = \dfrac{Q}{mc}$: cùng $Q$, $m$ thì chất có $c$ nhỏ hơn (đồng) tăng nhiệt độ nhiều hơn.
+
+Câu 8. Trộn 2 kg nước ở $80\ ^\circ\text{C}$ với 3 kg nước ở $20\ ^\circ\text{C}$. Bỏ qua sự trao đổi nhiệt với bình và môi trường. Nhiệt độ của hỗn hợp khi cân bằng nhiệt là
+A. $50\ ^\circ\text{C}$.
+B. $56\ ^\circ\text{C}$.
+C. $36\ ^\circ\text{C}$.
+*D. $44\ ^\circ\text{C}$.
+Lời giải: $2c(80 - t) = 3c(t - 20) \Rightarrow 160 - 2t = 3t - 60 \Rightarrow t = 44\ ^\circ\text{C}$.
+
+PHẦN II. Câu trắc nghiệm đúng sai
+Câu 1. Một ấm nhôm có khối lượng 0,4 kg chứa 2 kg nước ở $25\ ^\circ\text{C}$ được đun đến khi nước bắt đầu sôi ($100\ ^\circ\text{C}$). Cho nhiệt dung riêng của nhôm là 880 J/(kg.K), của nước là 4200 J/(kg.K). Ấm được đặt trên bếp điện có công suất 1000 W, hiệu suất 80%.
+a) Nhiệt lượng nước thu vào là 630 kJ. (Đ)
+b) Nhiệt lượng ấm nhôm thu vào là 26,4 kJ. (Đ)
+c) Tổng nhiệt lượng cần cung cấp cho ấm nước là 630 kJ. (S)
+d) Thời gian đun nước đến khi sôi nhỏ hơn 10 phút. (S)
+Lời giải: $Q_n = 2 \cdot 4200 \cdot 75 = 630\,000$ J; $Q_{\text{ấm}} = 0{,}4 \cdot 880 \cdot 75 = 26\,400$ J; $Q = 656\,400$ J. Công suất có ích 800 W: $t = \dfrac{656\,400}{800} \approx 820{,}5$ s $\approx 13{,}7$ phút.
+
+Câu 2. Một nhóm học sinh đo nhiệt dung riêng của nước bằng bộ thí nghiệm gồm nhiệt lượng kế có dây điện trở, oát kế, nhiệt kế, cân và đồng hồ. Cho 0,2 kg nước vào nhiệt lượng kế, bật nguồn, oát kế chỉ 40 W; sau 5 phút nhiệt độ của nước tăng thêm 14 K.
+a) Nhiệt lượng do dây điện trở tỏa ra được tính bằng $Q = P\tau$ với $\tau$ là thời gian cấp điện. (Đ)
+b) Trong khi đun cần khuấy nhẹ nước để nhiệt độ của nước đồng đều. (Đ)
+c) Do có hao phí nhiệt ra môi trường, giá trị nhiệt dung riêng tính được thường lớn hơn giá trị thực. (Đ)
+d) Từ số liệu trên, nhiệt dung riêng của nước tính được khoảng $3{,}43 \cdot 10^3$ J/(kg.K). (S)
+Lời giải: $c = \dfrac{P\tau}{m\Delta T} = \dfrac{40 \cdot 300}{0{,}2 \cdot 14} \approx 4286$ J/(kg.K). Có hao phí nên $\Delta T$ đo được nhỏ hơn lí thuyết, làm $c$ tính được lớn hơn giá trị thực.
+
+PHẦN III. Câu trắc nghiệm trả lời ngắn
+Câu 1. Cho nhiệt dung riêng của nước là 4200 J/(kg.K). Nhiệt lượng cần cung cấp để đun 5 kg nước từ $30\ ^\circ\text{C}$ đến $100\ ^\circ\text{C}$ là bao nhiêu kilôjun (kJ)?
+Đáp án: 1470
+Lời giải: $Q = 5 \cdot 4200 \cdot 70 = 1\,470\,000$ J $= 1470$ kJ.
+
+Câu 2. Thả một miếng kim loại có khối lượng 0,4 kg đã được nung nóng tới $100\ ^\circ\text{C}$ vào 0,5 kg nước ở $20\ ^\circ\text{C}$. Khi cân bằng nhiệt, nhiệt độ của nước là $25\ ^\circ\text{C}$. Bỏ qua sự trao đổi nhiệt với bình và môi trường. Cho nhiệt dung riêng của nước là 4200 J/(kg.K). Nhiệt dung riêng của kim loại là bao nhiêu J/(kg.K)?
+Đáp án: 350
+Lời giải: $Q_{\text{tỏa}} = Q_{\text{thu}}$: $0{,}4 \cdot c \cdot (100 - 25) = 0{,}5 \cdot 4200 \cdot (25 - 20) \Rightarrow 30c = 10\,500 \Rightarrow c = 350$ J/(kg.K).
+
+Câu 3. Một ấm điện có công suất 1500 W, hiệu suất 84%, dùng để đun 1,5 kg nước từ $20\ ^\circ\text{C}$ đến $100\ ^\circ\text{C}$. Bỏ qua nhiệt lượng ấm thu vào. Cho nhiệt dung riêng của nước là 4200 J/(kg.K). Thời gian đun là bao nhiêu giây (s)?
+Đáp án: 400
+Lời giải: $Q = 1{,}5 \cdot 4200 \cdot 80 = 504\,000$ J; $P_{\text{có ích}} = 0{,}84 \cdot 1500 = 1260$ W; $t = \dfrac{504\,000}{1260} = 400$ s.

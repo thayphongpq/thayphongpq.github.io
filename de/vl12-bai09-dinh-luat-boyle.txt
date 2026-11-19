@@ -1,0 +1,88 @@
+VẬT LÍ 12 - CHƯƠNG II. KHÍ LÍ TƯỞNG - BÀI 9. ĐỊNH LUẬT BOYLE
+Đề luyện tập theo cấu trúc thi tốt nghiệp THPT (biên soạn: thầy Lâm Thế Phong, THPT An Thới)
+Thời gian: 20
+
+PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn
+Câu 1. Định luật Boyle phát biểu: khi nhiệt độ của một lượng khí xác định được giữ không đổi thì áp suất của khí
+*A. tỉ lệ nghịch với thể tích của nó.
+B. tỉ lệ thuận với thể tích của nó.
+C. tỉ lệ thuận với nhiệt độ tuyệt đối.
+D. không phụ thuộc vào thể tích.
+Lời giải: Định luật Boyle: $pV = \text{hằng số}$ khi $T$ không đổi, tức $p$ tỉ lệ nghịch với $V$.
+
+Câu 2. Hệ thức nào sau đây là của định luật Boyle cho một lượng khí xác định?
+A. $\dfrac{p_1}{V_1} = \dfrac{p_2}{V_2}$.
+*B. $p_1V_1 = p_2V_2$.
+C. $\dfrac{V_1}{T_1} = \dfrac{V_2}{T_2}$.
+D. $p_1V_2 = p_2V_1$.
+Lời giải: Quá trình đẳng nhiệt: $p_1V_1 = p_2V_2$.
+
+Câu 3. Trong hệ tọa độ $(p, V)$, đường đẳng nhiệt của một lượng khí xác định có dạng
+A. đường thẳng song song với trục $p$.
+B. đường thẳng đi qua gốc tọa độ.
+*C. đường hypebol.
+D. đường thẳng song song với trục $V$.
+Lời giải: $p = \dfrac{\text{hằng số}}{V}$ nên đồ thị $p$ theo $V$ là một nhánh hypebol.
+
+Câu 4. Với một lượng khí xác định ở nhiệt độ không đổi, đồ thị biểu diễn áp suất $p$ theo $\dfrac{1}{V}$ là
+A. đường hypebol.
+B. đường parabol.
+C. đường thẳng song song với trục hoành.
+*D. đường thẳng mà nếu kéo dài sẽ đi qua gốc tọa độ.
+Lời giải: $p = \text{hằng số} \cdot \dfrac{1}{V}$: $p$ tỉ lệ thuận với $\dfrac{1}{V}$.
+
+Câu 5. Nén đẳng nhiệt một lượng khí từ thể tích 6 lít xuống 4 lít thì áp suất tăng thêm 0,5 atm. Áp suất ban đầu của khí là
+*A. 1 atm.
+B. 2 atm.
+C. 1,5 atm.
+D. 0,5 atm.
+Lời giải: $p_1 \cdot 6 = (p_1 + 0{,}5) \cdot 4 \Rightarrow 2p_1 = 2 \Rightarrow p_1 = 1$ atm.
+
+Câu 6. Một lượng khí có thể tích 2 lít ở áp suất 1 atm được nén đẳng nhiệt đến áp suất 4 atm. Thể tích của khí lúc này là
+A. 8 lít.
+*B. 0,5 lít.
+C. 2 lít.
+D. 0,25 lít.
+Lời giải: $V_2 = \dfrac{p_1V_1}{p_2} = \dfrac{1 \cdot 2}{4} = 0{,}5$ lít.
+
+Câu 7. Nén đẳng nhiệt một lượng khí để thể tích giảm 3 lần thì
+A. áp suất giảm 3 lần.
+B. áp suất không đổi.
+*C. áp suất tăng 3 lần.
+D. áp suất tăng 9 lần.
+Lời giải: $pV$ không đổi nên $V$ giảm 3 lần thì $p$ tăng 3 lần (mật độ phân tử tăng 3 lần).
+
+Câu 8. Một bọt khí nổi từ đáy hồ sâu 10 m lên mặt nước. Áp suất khí quyển là $1{,}0 \cdot 10^5$ Pa, khối lượng riêng của nước là 1000 kg/m³, $g = 10$ m/s²; coi nhiệt độ không đổi. Khi lên tới mặt nước, thể tích bọt khí
+A. giảm 2 lần.
+B. tăng 10 lần.
+C. không đổi.
+*D. tăng 2 lần.
+Lời giải: Ở đáy hồ: $p_1 = p_0 + \rho gh = 10^5 + 1000 \cdot 10 \cdot 10 = 2 \cdot 10^5$ Pa; ở mặt nước $p_2 = 10^5$ Pa. $\dfrac{V_2}{V_1} = \dfrac{p_1}{p_2} = 2$.
+
+PHẦN II. Câu trắc nghiệm đúng sai
+Câu 1. Một nhóm học sinh dùng bộ thí nghiệm gồm xilanh có pit-tông, áp kế gắn với xilanh để kiểm chứng định luật Boyle. Kết quả đo ba lần như sau. Lần 1: $V = 20\ \text{cm}^3$, $p = 2{,}0 \cdot 10^5$ Pa. Lần 2: $V = 25\ \text{cm}^3$, $p = 1{,}6 \cdot 10^5$ Pa. Lần 3: $V = 40\ \text{cm}^3$, $p = 1{,}0 \cdot 10^5$ Pa.
+a) Trong thí nghiệm, cần dịch chuyển pit-tông thật chậm để nhiệt độ khí trong xilanh coi như không đổi. (Đ)
+b) Tích $pV$ trong ba lần đo có giá trị như nhau, phù hợp với định luật Boyle. (Đ)
+c) Khi thể tích khí là $50\ \text{cm}^3$ thì áp suất khí là $0{,}8 \cdot 10^5$ Pa. (Đ)
+d) Đồ thị biểu diễn $p$ theo $V$ từ số liệu trên là một đường thẳng đi qua gốc tọa độ. (S)
+Lời giải: $pV = 4{,}0 \cdot 10^6\ \text{Pa} \cdot \text{cm}^3$ ở cả ba lần. Với $V = 50\ \text{cm}^3$: $p = \dfrac{4{,}0 \cdot 10^6}{50} = 0{,}8 \cdot 10^5$ Pa. Đồ thị $p$ theo $V$ là hypebol.
+
+Câu 2. Một lốp xe có thể tích 2 lít (coi không đổi), ban đầu chứa không khí ở áp suất 1 atm. Mỗi lần bơm đưa thêm vào lốp 0,1 lít không khí ở áp suất 1 atm. Coi nhiệt độ không khí không đổi trong quá trình bơm.
+a) Sau 10 lần bơm, áp suất khí trong lốp là 1,5 atm. (Đ)
+b) Để áp suất khí trong lốp đạt 3 atm cần bơm 40 lần. (Đ)
+c) Thể tích khí trong lốp không đổi nên quá trình bơm tuân theo định luật Charles. (S)
+d) Sau 20 lần bơm, áp suất khí trong lốp là 4 atm. (S)
+Lời giải: Sau $n$ lần bơm, toàn bộ khí (thể tích $2 + 0{,}1n$ lít ở 1 atm) bị nén vào 2 lít: $p = \dfrac{2 + 0{,}1n}{2}$ atm. $n = 10$: $p = 1{,}5$ atm; $p = 3$ atm $\Rightarrow n = 40$; $n = 20$: $p = 2$ atm. Quá trình đẳng nhiệt nên dùng định luật Boyle.
+
+PHẦN III. Câu trắc nghiệm trả lời ngắn
+Câu 1. Một lượng khí có thể tích 10 lít ở áp suất $1{,}0 \cdot 10^5$ Pa được nén đẳng nhiệt đến áp suất $2{,}5 \cdot 10^5$ Pa. Thể tích của khí sau khi nén là bao nhiêu lít?
+Đáp án: 4
+Lời giải: $V_2 = \dfrac{p_1V_1}{p_2} = \dfrac{1{,}0 \cdot 10}{2{,}5} = 4$ lít.
+
+Câu 2. Một lượng khí trong xilanh có thể tích $150\ \text{cm}^3$ ở áp suất $2{,}0 \cdot 10^5$ Pa. Cho khí dãn nở đẳng nhiệt đến áp suất $1{,}2 \cdot 10^5$ Pa. Thể tích khí đã tăng thêm bao nhiêu $\text{cm}^3$?
+Đáp án: 100
+Lời giải: $V_2 = \dfrac{2{,}0 \cdot 150}{1{,}2} = 250\ \text{cm}^3$; $\Delta V = 250 - 150 = 100\ \text{cm}^3$.
+
+Câu 3. Một bọt khí nổi từ đáy hồ lên mặt nước thì thể tích của nó tăng 1,5 lần. Áp suất khí quyển là $1{,}0 \cdot 10^5$ Pa, khối lượng riêng của nước là 1000 kg/m³, $g = 10$ m/s²; coi nhiệt độ của bọt khí không đổi. Độ sâu của hồ là bao nhiêu mét (m)?
+Đáp án: 5
+Lời giải: $p_1 = 1{,}5p_0 = 1{,}5 \cdot 10^5$ Pa; $\rho gh = p_1 - p_0 = 0{,}5 \cdot 10^5$ Pa $\Rightarrow h = \dfrac{0{,}5 \cdot 10^5}{1000 \cdot 10} = 5$ m.

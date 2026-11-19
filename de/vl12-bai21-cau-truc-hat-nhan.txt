@@ -1,0 +1,86 @@
+VẬT LÍ 12 - CHƯƠNG IV. VẬT LÍ HẠT NHÂN - BÀI 21. CẤU TRÚC HẠT NHÂN
+Đề luyện tập theo cấu trúc thi tốt nghiệp THPT (biên soạn: thầy Lâm Thế Phong, THPT An Thới)
+Thời gian: 20
+
+PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn
+Câu 1. Hạt nhân nguyên tử được cấu tạo từ
+A. các proton và electron.
+B. các proton, neutron và electron.
+C. các neutron và electron.
+*D. các proton và neutron.
+Lời giải: Hạt nhân gồm các nucleon: proton (mang điện dương) và neutron (không mang điện).
+
+Câu 2. Số neutron trong hạt nhân $^{23}_{11}\text{Na}$ là
+*A. 12.
+B. 11.
+C. 23.
+D. 34.
+Lời giải: $N = A - Z = 23 - 11 = 12$.
+
+Câu 3. Các hạt nhân đồng vị là những hạt nhân có
+A. cùng số khối nhưng khác số proton.
+*B. cùng số proton nhưng khác số neutron.
+C. cùng số neutron nhưng khác số proton.
+D. cùng số nucleon và cùng số neutron.
+
+Câu 4. Hạt nhân carbon có 6 proton và 8 neutron được kí hiệu là
+A. $^{8}_{6}\text{C}$.
+B. $^{6}_{14}\text{C}$.
+*C. $^{14}_{6}\text{C}$.
+D. $^{14}_{8}\text{C}$.
+Lời giải: Kí hiệu $^{A}_{Z}\text{X}$ với $Z = 6$, $A = Z + N = 6 + 8 = 14$.
+
+Câu 5. Trong thí nghiệm tán xạ hạt alpha của Rutherford, phần lớn các hạt alpha đi thẳng qua lá vàng mỏng. Kết quả này cho thấy
+A. hạt nhân mang điện tích âm.
+B. nguyên tử là một khối đặc, điện tích dương phân bố đều.
+C. electron có khối lượng rất lớn so với hạt alpha.
+*D. nguyên tử có cấu trúc rỗng, hạt nhân có kích thước rất nhỏ so với nguyên tử.
+Lời giải: Hầu hết hạt alpha không gặp hạt nhân nên đi thẳng; chỉ rất ít hạt đến gần hạt nhân (nhỏ, nặng, mang điện dương) thì bị lệch mạnh.
+
+Câu 6. Đơn vị khối lượng nguyên tử (u) có giá trị bằng
+A. khối lượng của một nguyên tử hydrogen $^{1}_{1}\text{H}$.
+*B. $\dfrac{1}{12}$ khối lượng của một nguyên tử carbon $^{12}_{6}\text{C}$.
+C. khối lượng của một proton.
+D. $\dfrac{1}{16}$ khối lượng của một nguyên tử oxygen $^{16}_{8}\text{O}$.
+
+Câu 7. Lấy $N_A = 6{,}02 \cdot 10^{23}$ mol⁻¹, khối lượng mol của $^{16}_{8}\text{O}$ là 16 g/mol. Số proton có trong 16 g $^{16}_{8}\text{O}$ là
+*A. $4{,}82 \cdot 10^{24}$.
+B. $6{,}02 \cdot 10^{23}$.
+C. $9{,}63 \cdot 10^{24}$.
+D. $2{,}41 \cdot 10^{24}$.
+Lời giải: 16 g ứng với 1 mol, có $6{,}02 \cdot 10^{23}$ hạt nhân, mỗi hạt nhân có 8 proton: $8 \cdot 6{,}02 \cdot 10^{23} \approx 4{,}82 \cdot 10^{24}$.
+
+Câu 8. Bán kính hạt nhân được tính gần đúng theo công thức $R = 1{,}2 \cdot 10^{-15} A^{1/3}$ (m). Tỉ số bán kính của hạt nhân $^{64}_{29}\text{Cu}$ và hạt nhân $^{27}_{13}\text{Al}$ là
+A. $\dfrac{64}{27}$.
+B. $\dfrac{16}{9}$.
+*C. $\dfrac{4}{3}$.
+D. 2.
+Lời giải: $\dfrac{R_{\text{Cu}}}{R_{\text{Al}}} = \left(\dfrac{64}{27}\right)^{1/3} = \dfrac{4}{3}$.
+
+PHẦN II. Câu trắc nghiệm đúng sai
+Câu 1. Xét hạt nhân sắt $^{56}_{26}\text{Fe}$. Biết điện tích nguyên tố $e = 1{,}6 \cdot 10^{-19}$ C, bán kính hạt nhân $R = 1{,}2 \cdot 10^{-15} A^{1/3}$ (m).
+a) Hạt nhân có 26 proton. (Đ)
+b) Hạt nhân có 56 neutron. (S)
+c) Điện tích của hạt nhân là $4{,}16 \cdot 10^{-18}$ C. (Đ)
+d) Bán kính của hạt nhân xấp xỉ $4{,}6 \cdot 10^{-15}$ m. (Đ)
+Lời giải: $Z = 26$; $N = 56 - 26 = 30$. $q = Ze = 26 \cdot 1{,}6 \cdot 10^{-19} = 4{,}16 \cdot 10^{-18}$ C. $R = 1{,}2 \cdot 10^{-15} \cdot 56^{1/3} \approx 1{,}2 \cdot 10^{-15} \cdot 3{,}83 \approx 4{,}6 \cdot 10^{-15}$ m.
+
+Câu 2. Hydrogen có ba đồng vị: $^{1}_{1}\text{H}$, $^{2}_{1}\text{H}$ (deuterium) và $^{3}_{1}\text{H}$ (tritium).
+a) Hạt nhân của ba đồng vị này có cùng số proton. (Đ)
+b) Hạt nhân $^{3}_{1}\text{H}$ có 3 neutron. (S)
+c) Các nguyên tử đồng vị có tính chất hóa học gần như giống nhau. (Đ)
+d) Hạt nhân $^{2}_{1}\text{H}$ có số khối bằng 1. (S)
+Lời giải: Ba đồng vị đều có $Z = 1$. Hạt nhân $^{3}_{1}\text{H}$ có $N = 3 - 1 = 2$ neutron. Hạt nhân $^{2}_{1}\text{H}$ có số khối $A = 2$. Các đồng vị có cùng số electron nên tính chất hóa học gần như nhau.
+
+PHẦN III. Câu trắc nghiệm trả lời ngắn
+Câu 1. Hạt nhân uranium $^{238}_{92}\text{U}$ có bao nhiêu neutron?
+Đáp án: 146
+Lời giải: $N = A - Z = 238 - 92 = 146$.
+
+Câu 2. Coi khối lượng của một hạt nhân có số khối $A$ xấp xỉ bằng $A$ (u), với $1\ \text{u} = 1{,}66 \cdot 10^{-27}$ kg, và hạt nhân là quả cầu bán kính $R = 1{,}2 \cdot 10^{-15} A^{1/3}$ (m). Khối lượng riêng của hạt nhân là $x \cdot 10^{17}$ kg/m³. Tìm $x$ (làm tròn kết quả đến chữ số hàng phần trăm).
+Đáp án: 2,29|2,3
+Lời giải: $\rho = \dfrac{A \cdot 1{,}66 \cdot 10^{-27}}{\dfrac{4}{3}\pi (1{,}2 \cdot 10^{-15})^3 A} = \dfrac{1{,}66 \cdot 10^{-27}}{7{,}238 \cdot 10^{-45}} \approx 2{,}29 \cdot 10^{17}$ kg/m³ (không phụ thuộc $A$).
+
+Câu 3. Lấy $N_A = 6{,}02 \cdot 10^{23}$ mol⁻¹ và khối lượng mol của $^{238}_{92}\text{U}$ là 238 g/mol. Số neutron có trong 2,38 g $^{238}_{92}\text{U}$ là $x \cdot 10^{23}$. Tìm $x$ (làm tròn kết quả đến chữ số hàng phần trăm).
+Đáp án: 8,79|8,8
+Lời giải: $n = \dfrac{2{,}38}{238} = 0{,}01$ mol, số hạt nhân $0{,}01 \cdot 6{,}02 \cdot 10^{23} = 6{,}02 \cdot 10^{21}$; số neutron $146 \cdot 6{,}02 \cdot 10^{21} \approx 8{,}79 \cdot 10^{23}$.

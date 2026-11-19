@@ -1,0 +1,87 @@
+VẬT LÍ 12 - CHƯƠNG III. TỪ TRƯỜNG - BÀI 18. ỨNG DỤNG HIỆN TƯỢNG CẢM ỨNG ĐIỆN TỪ
+Đề luyện tập theo cấu trúc thi tốt nghiệp THPT (biên soạn: thầy Lâm Thế Phong, THPT An Thới)
+Thời gian: 20
+
+PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn
+Câu 1. Máy biến áp hoạt động dựa trên
+A. tác dụng nhiệt của dòng điện.
+*B. hiện tượng cảm ứng điện từ.
+C. hiện tượng phóng xạ.
+D. lực tương tác giữa các điện tích đứng yên.
+Lời giải: Dòng điện xoay chiều trong cuộn sơ cấp tạo ra từ thông biến thiên trong lõi thép, gây ra suất điện động cảm ứng ở cuộn thứ cấp.
+
+Câu 2. Máy biến áp là thiết bị
+*A. biến đổi điện áp xoay chiều mà không làm thay đổi tần số.
+B. biến đổi điện áp của dòng điện không đổi.
+C. biến đổi tần số của dòng điện xoay chiều.
+D. biến đổi dòng điện xoay chiều thành dòng điện một chiều.
+
+Câu 3. Khi dùng bếp từ, nồi đặt trên mặt bếp nóng lên chủ yếu là do
+A. ngọn lửa cháy dưới đáy nồi.
+B. bức xạ hồng ngoại phát ra từ mặt kính của bếp.
+*C. dòng điện cảm ứng (dòng điện Foucault) xuất hiện trong đáy nồi bằng vật liệu sắt từ.
+D. ma sát giữa đáy nồi và mặt bếp.
+Lời giải: Cuộn dây dưới mặt bếp tạo ra từ trường biến thiên với tần số cao, gây ra dòng điện Foucault trong đáy nồi, làm đáy nồi tỏa nhiệt.
+
+Câu 4. Để giảm hao phí điện năng trên đường dây khi truyền tải điện đi xa, biện pháp hiệu quả và được dùng phổ biến là
+A. giảm tiết diện của dây dẫn.
+B. tăng chiều dài của đường dây.
+C. giảm điện áp ở nơi truyền đi.
+*D. tăng điện áp ở nơi truyền đi bằng máy tăng áp.
+Lời giải: $P_{\text{hp}} = I^2R = \dfrac{P^2R}{U^2}$: tăng $U$ thì hao phí giảm theo $U^2$.
+
+Câu 5. Một máy biến áp lí tưởng có cuộn sơ cấp 1000 vòng, cuộn thứ cấp 50 vòng. Đặt vào hai đầu cuộn sơ cấp điện áp xoay chiều có giá trị hiệu dụng 220 V. Điện áp hiệu dụng giữa hai đầu cuộn thứ cấp để hở là
+*A. 11 V.
+B. 4400 V.
+C. 22 V.
+D. 110 V.
+Lời giải: $U_2 = U_1\dfrac{N_2}{N_1} = 220 \cdot \dfrac{50}{1000} = 11$ V.
+
+Câu 6. Một máy biến áp lí tưởng biến đổi điện áp hiệu dụng 220 V thành 22 V. Cuộn thứ cấp có 120 vòng. Số vòng của cuộn sơ cấp là
+A. 12 vòng.
+*B. 1200 vòng.
+C. 2400 vòng.
+D. 600 vòng.
+Lời giải: $N_1 = N_2\dfrac{U_1}{U_2} = 120 \cdot \dfrac{220}{22} = 1200$ vòng.
+
+Câu 7. Truyền tải một công suất điện không đổi trên một đường dây. Nếu tăng điện áp ở nơi truyền đi lên 10 lần thì công suất hao phí trên đường dây
+A. giảm 10 lần.
+B. tăng 10 lần.
+C. tăng 100 lần.
+*D. giảm 100 lần.
+Lời giải: $P_{\text{hp}} = \dfrac{P^2R}{U^2}$ tỉ lệ nghịch với $U^2$ nên giảm $10^2 = 100$ lần.
+
+Câu 8. Lõi của máy biến áp được ghép từ nhiều lá thép kĩ thuật điện mỏng, cách điện với nhau nhằm
+A. tăng điện trở của các cuộn dây.
+B. tăng cường dòng điện Foucault trong lõi.
+*C. giảm dòng điện Foucault trong lõi, giảm hao phí do tỏa nhiệt.
+D. tăng khối lượng của máy để máy đứng vững.
+Lời giải: Các lá thép mỏng cách điện ngăn cản dòng điện Foucault chạy trong lõi, nhờ đó giảm nhiệt lượng hao phí.
+
+PHẦN II. Câu trắc nghiệm đúng sai
+Câu 1. Một máy biến áp lí tưởng có cuộn sơ cấp 2200 vòng, cuộn thứ cấp 120 vòng. Đặt vào hai đầu cuộn sơ cấp điện áp xoay chiều có giá trị hiệu dụng 220 V. Nối hai đầu cuộn thứ cấp với một điện trở 6 Ω.
+a) Đây là máy hạ áp. (Đ)
+b) Điện áp hiệu dụng giữa hai đầu cuộn thứ cấp là 12 V. (Đ)
+c) Cường độ dòng điện hiệu dụng trong cuộn sơ cấp lớn hơn trong cuộn thứ cấp. (S)
+d) Công suất điện đưa vào cuộn sơ cấp là 24 W. (Đ)
+Lời giải: $N_2 < N_1$ nên là máy hạ áp; $U_2 = 220 \cdot \dfrac{120}{2200} = 12$ V; $I_2 = \dfrac{12}{6} = 2$ A; $P = U_2I_2 = 24$ W. Máy lí tưởng: $P_1 = P_2 = 24$ W, $I_1 = \dfrac{24}{220} \approx 0{,}11$ A $< I_2$.
+
+Câu 2. Một nhà máy điện truyền đi công suất 1 MW với điện áp hiệu dụng 25 kV đến nơi tiêu thụ bằng đường dây có điện trở tổng cộng 10 Ω. Coi hệ số công suất của mạch truyền tải bằng 1.
+a) Cường độ dòng điện hiệu dụng trên đường dây là 40 A. (Đ)
+b) Công suất hao phí trên đường dây là 16 kW. (Đ)
+c) Hiệu suất truyền tải là 84%. (S)
+d) Nếu tăng điện áp truyền đi lên 50 kV thì công suất hao phí còn 8 kW. (S)
+Lời giải: $I = \dfrac{P}{U} = \dfrac{10^6}{25 \cdot 10^3} = 40$ A; $P_{\text{hp}} = I^2R = 1600 \cdot 10 = 16000$ W. $H = 1 - \dfrac{16}{1000} = 98{,}4\%$. Tăng $U$ lên 2 lần thì hao phí giảm 4 lần, còn 4 kW.
+
+PHẦN III. Câu trắc nghiệm trả lời ngắn
+Câu 1. Một máy biến áp lí tưởng có cuộn sơ cấp 1100 vòng, được nối với mạng điện có điện áp hiệu dụng 220 V. Để điện áp hiệu dụng giữa hai đầu cuộn thứ cấp để hở là 12 V thì cuộn thứ cấp phải có bao nhiêu vòng?
+Đáp án: 60
+Lời giải: $N_2 = N_1\dfrac{U_2}{U_1} = 1100 \cdot \dfrac{12}{220} = 60$ vòng.
+
+Câu 2. Một máy biến áp lí tưởng có điện áp hiệu dụng ở cuộn sơ cấp là 220 V, cường độ dòng điện hiệu dụng ở cuộn sơ cấp là 0,5 A. Điện áp hiệu dụng ở cuộn thứ cấp là 44 V. Cường độ dòng điện hiệu dụng ở cuộn thứ cấp là bao nhiêu ampe (A)?
+Đáp án: 2,5
+Lời giải: Máy lí tưởng: $U_1I_1 = U_2I_2 \Rightarrow I_2 = \dfrac{220 \cdot 0{,}5}{44} = 2{,}5$ A.
+
+Câu 3. Một trạm điện truyền đi công suất 500 kW với điện áp hiệu dụng 10 kV bằng đường dây có điện trở tổng cộng 8 Ω. Coi hệ số công suất bằng 1. Hiệu suất truyền tải điện là bao nhiêu phần trăm (%)?
+Đáp án: 96
+Lời giải: $I = \dfrac{P}{U} = \dfrac{500 \cdot 10^3}{10^4} = 50$ A; $P_{\text{hp}} = I^2R = 2500 \cdot 8 = 20$ kW; $H = \dfrac{500 - 20}{500} = 96\%$.

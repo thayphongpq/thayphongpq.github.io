@@ -1,0 +1,88 @@
+VẬT LÍ 12 - CHƯƠNG II. KHÍ LÍ TƯỞNG - BÀI 11. PHƯƠNG TRÌNH TRẠNG THÁI CỦA KHÍ LÍ TƯỞNG
+Đề luyện tập theo cấu trúc thi tốt nghiệp THPT (biên soạn: thầy Lâm Thế Phong, THPT An Thới)
+Thời gian: 20
+
+PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn
+Câu 1. Phương trình trạng thái của một lượng khí lí tưởng xác định là
+*A. $\dfrac{pV}{T} = \text{hằng số}$.
+B. $pVT = \text{hằng số}$.
+C. $\dfrac{pT}{V} = \text{hằng số}$.
+D. $\dfrac{VT}{p} = \text{hằng số}$.
+Lời giải: Với lượng khí xác định: $\dfrac{p_1V_1}{T_1} = \dfrac{p_2V_2}{T_2}$.
+
+Câu 2. Khi thể tích của một lượng khí lí tưởng xác định được giữ không đổi thì áp suất của khí
+A. tỉ lệ nghịch với nhiệt độ tuyệt đối.
+*B. tỉ lệ thuận với nhiệt độ tuyệt đối.
+C. không phụ thuộc vào nhiệt độ.
+D. tỉ lệ thuận với nhiệt độ Celsius.
+Lời giải: Từ phương trình trạng thái với $V$ không đổi: $\dfrac{p}{T} = \text{hằng số}$.
+
+Câu 3. Trong phương trình Clapeyron $pV = nRT$, đại lượng $n$ là
+A. số phân tử khí.
+B. mật độ phân tử khí.
+*C. số mol khí.
+D. khối lượng khí.
+Lời giải: $n = \dfrac{m}{M}$ là số mol khí, $R = 8{,}31$ J/(mol.K) là hằng số khí.
+
+Câu 4. Trong hệ tọa độ $(p, T)$, đường đẳng tích của một lượng khí xác định là
+A. đường hypebol.
+B. đường thẳng song song với trục $p$.
+C. đường thẳng song song với trục $T$.
+*D. đường thẳng mà nếu kéo dài sẽ đi qua gốc tọa độ.
+Lời giải: $p = \text{hằng số} \cdot T$ khi $V$ không đổi.
+
+Câu 5. Một lượng khí lí tưởng có áp suất 3 atm, thể tích 10 lít, nhiệt độ 300 K. Khi thể tích là 5 lít và nhiệt độ là 400 K thì áp suất của khí là
+*A. 8 atm.
+B. 4,5 atm.
+C. 2 atm.
+D. 6 atm.
+Lời giải: $p_2 = \dfrac{p_1V_1T_2}{T_1V_2} = \dfrac{3 \cdot 10 \cdot 400}{300 \cdot 5} = 8$ atm.
+
+Câu 6. Khí trong một lốp xe có áp suất 2 atm ở $27\ ^\circ\text{C}$. Coi thể tích lốp không đổi. Khi nhiệt độ khí trong lốp tăng lên $42\ ^\circ\text{C}$ thì áp suất khí trong lốp là
+A. 3,1 atm.
+*B. 2,1 atm.
+C. 1,9 atm.
+D. 2,5 atm.
+Lời giải: $p_2 = p_1\dfrac{T_2}{T_1} = 2 \cdot \dfrac{315}{300} = 2{,}1$ atm.
+
+Câu 7. Một bình kín có thể tích 8,31 lít chứa khí lí tưởng ở áp suất $1{,}0 \cdot 10^5$ Pa và nhiệt độ 300 K. Lấy $R = 8{,}31$ J/(mol.K). Số mol khí trong bình xấp xỉ bằng
+A. 3 mol.
+B. 0,10 mol.
+*C. 0,33 mol.
+D. 33 mol.
+Lời giải: $n = \dfrac{pV}{RT} = \dfrac{10^5 \cdot 8{,}31 \cdot 10^{-3}}{8{,}31 \cdot 300} = \dfrac{1}{3} \approx 0{,}33$ mol.
+
+Câu 8. Khối lượng riêng của không khí ở $0\ ^\circ\text{C}$ và áp suất 1 atm là 1,29 kg/m³. Ở $100\ ^\circ\text{C}$ và cùng áp suất 1 atm, khối lượng riêng của không khí xấp xỉ bằng
+A. 1,29 kg/m³.
+B. 1,76 kg/m³.
+C. 1,05 kg/m³.
+*D. 0,94 kg/m³.
+Lời giải: Từ $pV = \dfrac{m}{M}RT$: $\rho = \dfrac{pM}{RT}$. Cùng $p$ thì $\rho_2 = \rho_1\dfrac{T_1}{T_2} = 1{,}29 \cdot \dfrac{273}{373} \approx 0{,}94$ kg/m³.
+
+PHẦN II. Câu trắc nghiệm đúng sai
+Câu 1. Một bình kín có thể tích 16,62 lít chứa khí oxygen (khối lượng mol 32 g/mol) ở $27\ ^\circ\text{C}$ và áp suất $1{,}5 \cdot 10^5$ Pa. Lấy $R = 8{,}31$ J/(mol.K). Đun nóng khí trong bình đến $127\ ^\circ\text{C}$.
+a) Lượng khí trong bình là 1 mol. (Đ)
+b) Sau khi đun nóng, áp suất khí trong bình là $2{,}0 \cdot 10^5$ Pa. (Đ)
+c) Trong quá trình đun nóng, khí trong bình thực hiện công dương. (S)
+d) Khối lượng khí oxygen trong bình là 32 g. (Đ)
+Lời giải: $n = \dfrac{pV}{RT} = \dfrac{1{,}5 \cdot 10^5 \cdot 16{,}62 \cdot 10^{-3}}{8{,}31 \cdot 300} = 1$ mol, $m = 32$ g. Đẳng tích: $p_2 = 1{,}5 \cdot 10^5 \cdot \dfrac{400}{300} = 2{,}0 \cdot 10^5$ Pa. Thể tích không đổi nên khí không thực hiện công.
+
+Câu 2. Một lượng khí lí tưởng ở trạng thái (1) có $p_1 = 1$ atm, $V_1 = 4$ lít, $T_1 = 300$ K. Khí được đun nóng đẳng tích đến trạng thái (2) có $T_2 = 600$ K, rồi dãn nở đẳng nhiệt đến trạng thái (3) có $V_3 = 8$ lít.
+a) Áp suất của khí ở trạng thái (2) là 2 atm. (Đ)
+b) Áp suất của khí ở trạng thái (3) là 4 atm. (S)
+c) Nhiệt độ của khí ở trạng thái (3) bằng nhiệt độ ở trạng thái (1). (S)
+d) Trong quá trình từ (2) sang (3), mật độ phân tử khí giảm một nửa. (Đ)
+Lời giải: $p_2 = p_1\dfrac{T_2}{T_1} = 2$ atm; $p_3 = \dfrac{p_2V_2}{V_3} = \dfrac{2 \cdot 4}{8} = 1$ atm. Quá trình (2) → (3) đẳng nhiệt nên $T_3 = 600$ K. Thể tích tăng gấp đôi, số phân tử không đổi nên mật độ phân tử giảm một nửa.
+
+PHẦN III. Câu trắc nghiệm trả lời ngắn
+Câu 1. Một lượng khí lí tưởng ở $27\ ^\circ\text{C}$ có áp suất 2 atm và thể tích 6 lít. Nén khí đến thể tích 3 lít thì áp suất là 5 atm. Nhiệt độ của khí lúc này là bao nhiêu độ Celsius ($^\circ\text{C}$)?
+Đáp án: 102
+Lời giải: $T_2 = T_1\dfrac{p_2V_2}{p_1V_1} = 300 \cdot \dfrac{5 \cdot 3}{2 \cdot 6} = 375$ K $\Rightarrow t_2 = 102\ ^\circ\text{C}$.
+
+Câu 2. Một bình có thể tích 10 lít chứa khí oxygen (khối lượng mol 32 g/mol) ở nhiệt độ $-23\ ^\circ\text{C}$ và áp suất $8{,}31 \cdot 10^5$ Pa. Lấy $R = 8{,}31$ J/(mol.K). Khối lượng khí oxygen trong bình là bao nhiêu gam (g)?
+Đáp án: 128
+Lời giải: $T = 250$ K; $n = \dfrac{pV}{RT} = \dfrac{8{,}31 \cdot 10^5 \cdot 10^{-2}}{8{,}31 \cdot 250} = 4$ mol; $m = nM = 4 \cdot 32 = 128$ g.
+
+Câu 3. Một bọt khí ở đáy hồ sâu 20 m, nơi nhiệt độ nước là $7\ ^\circ\text{C}$, nổi lên mặt hồ nơi nhiệt độ nước là $27\ ^\circ\text{C}$. Áp suất khí quyển là $1{,}0 \cdot 10^5$ Pa, khối lượng riêng của nước là 1000 kg/m³, $g = 10$ m/s². Khi tới mặt nước, thể tích bọt khí tăng lên bao nhiêu lần so với ở đáy hồ (làm tròn kết quả đến chữ số hàng phần trăm)?
+Đáp án: 3,21|3,2|3,214
+Lời giải: $p_1 = 10^5 + 1000 \cdot 10 \cdot 20 = 3 \cdot 10^5$ Pa, $T_1 = 280$ K; $p_2 = 10^5$ Pa, $T_2 = 300$ K. $\dfrac{V_2}{V_1} = \dfrac{p_1T_2}{p_2T_1} = \dfrac{3 \cdot 300}{280} \approx 3{,}21$.
