@@ -1,0 +1,173 @@
+VẬT LÍ 10 - CHƯƠNG I. MỞ ĐẦU - BÀI 2. CÁC QUY TẮC AN TOÀN TRONG PHÒNG THỰC HÀNH VẬT LÍ - ĐỀ 2
+Đề kiểm tra theo cấu trúc thi tốt nghiệp THPT (biên soạn: thầy Lâm Thế Phong, THPT An Thới)
+Thời gian: 50
+
+PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn
+Câu 1. Khi làm thí nghiệm, đảm bảo an toàn nghĩa là
+A. chỉ cần người làm thí nghiệm không bị thương.
+B. chỉ cần thiết bị không bị hư hỏng.
+*C. người làm thí nghiệm không gặp nguy hiểm, đồ dùng, thiết bị không bị hư hỏng, không xảy ra cháy nổ.
+D. thí nghiệm cho kết quả đúng với dự đoán.
+
+Câu 2. Để sử dụng thiết bị điện đúng chức năng, đúng yêu cầu kĩ thuật, trước hết cần
+A. thử cắm thiết bị vào nguồn điện lớn nhất.
+*B. quan sát kĩ các kí hiệu và nhãn thông số trên thiết bị.
+C. tháo vỏ thiết bị để xem bên trong.
+D. hỏi bạn cùng nhóm cách dùng.
+
+Câu 3. Một thiết bị trong phòng thực hành có ghi "INPUT 220 V AC" và "OUTPUT 3...24 V AC/DC", có núm xoay chọn điện áp. Chức năng của thiết bị này là
+A. đo cường độ dòng điện trong mạch.
+*B. biến đổi hiệu điện thế 220 V của lưới điện thành các hiệu điện thế nhỏ hơn để dùng cho thí nghiệm.
+C. tạo ra tia laser.
+D. đo nhiệt độ của vật.
+Lời giải: Đây là máy biến áp (máy biến thế) – thiết bị cung cấp nguồn điện cho thí nghiệm.
+
+Câu 4. Kí hiệu "hai mũi tên cùng hướng lên" trên thùng, hộp đựng dụng cụ cho biết
+A. dụng cụ dễ vỡ.
+*B. dụng cụ đặt đứng.
+C. tránh ánh nắng chiếu trực tiếp.
+D. lưu ý cẩn thận.
+
+Câu 5. Trên thiết bị thí nghiệm, kí hiệu hình thoi có viền đỏ cảnh báo
+A. chất độc môi trường.
+B. từ trường.
+*C. bình khí nén áp suất cao.
+D. nhiệt độ cao.
+
+Câu 6. Trên một hộp đựng ống thuỷ tinh có in kí hiệu hình chiếc cốc bị vỡ. Kí hiệu này cho biết
+A. dụng cụ không được phép bỏ vào thùng rác.
+*B. dụng cụ dễ vỡ.
+C. dụng cụ phải đặt đứng.
+D. dụng cụ chịu được nhiệt độ cao.
+
+Câu 7. Trên một thiết bị có kí hiệu "–" hoặc chốt cắm màu xanh. Đó là
+A. cực dương.
+*B. cực âm.
+C. đầu vào.
+D. dòng điện xoay chiều.
+
+Câu 8. Một học sinh dùng tay còn ướt để cắm phích điện của máy biến áp vào ổ cắm. Việc làm này nguy hiểm vì
+A. nước làm phích điện bị gỉ ngay lập tức.
+*B. nước dẫn điện, có thể gây điện giật.
+C. nước làm hiệu điện thế của nguồn giảm.
+D. nước làm máy biến áp chạy nhanh hơn.
+Lời giải: Không để nước cũng như các dung dịch dẫn điện gần thiết bị điện; tay ướt chạm vào phích điện có thể bị điện giật.
+
+Câu 9. Việc làm nào sau đây giúp bảo quản tốt các thiết bị quang học?
+A. Dùng tay trần lau mặt thấu kính.
+B. Để thấu kính ở nơi ẩm ướt.
+*C. Giữ thiết bị sạch, khô, tránh va chạm làm xước, nứt, vỡ.
+D. Chồng các gương lên nhau, không có lớp lót.
+Lời giải: Thiết bị quang học rất dễ mốc, xước, nứt, vỡ và dính bụi bẩn.
+
+Câu 10. Dây điện của một thiết bị thí nghiệm bị sờn có thể gây nguy hiểm vì
+A. dây điện ngắn lại.
+*B. phần lõi dẫn điện có thể lộ ra, gây điện giật hoặc chập điện.
+C. dòng điện qua dây yếu đi.
+D. dây điện nặng hơn.
+
+Câu 11. Khi sử dụng đồng hồ đo điện đa năng, cần lưu ý
+A. luôn đặt ở thang đo nhỏ nhất.
+*B. chọn chức năng và thang đo phù hợp; cắm dây đo vào chốt cắm phù hợp với chức năng đo.
+C. cắm dây đo vào chốt bất kì.
+D. chỉ dùng để đo dòng điện một chiều.
+
+Câu 12. Muốn dùng đồng hồ đo điện đa năng để đo điện trở của một đoạn dây dẫn, cần vặn núm xoay đến vùng chức năng
+*A. đo điện trở (Ω).
+B. đo dòng điện xoay chiều (A~).
+C. đo hiệu điện thế một chiều (V–).
+D. đo hiệu điện thế xoay chiều (V~).
+Lời giải: Đồng hồ đo điện đa năng có các chức năng chính là đo điện trở, hiệu điện thế và dòng điện AC, DC; phải chọn đúng chức năng cần đo.
+
+Câu 13. Khi tiến hành thí nghiệm với thiết bị điện và hoá chất, chất dễ cháy nổ, cần đặc biệt tuân thủ các quy tắc an toàn về
+A. ghi chép số liệu.
+*B. phòng cháy chữa cháy và an toàn khi sử dụng hoá chất dễ cháy, nổ.
+C. tính sai số phép đo.
+D. vẽ đồ thị.
+
+Câu 14. Khi làm thí nghiệm với mạch điện, tình huống nào sau đây có nguy cơ gây chập điện, cháy nổ?
+*A. Để các kẹp điện gần nhau.
+B. Đeo găng tay cao su chịu nhiệt khi làm thí nghiệm với nhiệt độ cao.
+C. Tắt công tắc nguồn trước khi tháo dây.
+D. Đặt chất dễ cháy xa mạch điện.
+Lời giải: Hai kẹp điện gần nhau dễ chạm vào nhau gây đoản mạch.
+
+Câu 15. Đám cháy nào sau đây KHÔNG được dập bằng nước?
+A. Đám cháy giấy vụn không có điện.
+*B. Đám cháy dầu, cồn (chất lỏng có tỉ trọng nhẹ hơn nước).
+C. Đám cháy gỗ vụn.
+D. Đám cháy vải không có điện.
+Lời giải: Dầu, cồn nhẹ hơn nước, nổi lên trên và tiếp tục cháy, lan rộng theo dòng nước.
+
+Câu 16. Theo SGK, không được sử dụng CO₂ để dập tắt đám cháy
+A. giấy trên bàn.
+*B. kim loại như magnesium (Mg).
+C. gỗ trong kho.
+D. rác khô.
+Lời giải: Magnesium cháy được cả trong khí CO₂ nên không dùng CO₂ để dập đám cháy magnesium.
+
+Câu 17. Khi tiến hành thí nghiệm có tia laser hoặc có các vật bắn ra, cần
+A. nhìn thẳng vào tia laser để quan sát rõ.
+*B. giữ khoảng cách an toàn.
+C. đứng ngay sát vị trí vật bắn ra.
+D. tắt hết đèn trong phòng rồi đi lại tự do.
+
+Câu 18. Sốc điện (điện giật) xảy ra khi
+A. người đứng gần ổ điện.
+*B. dòng điện chạy qua người.
+C. người nhìn vào bóng đèn.
+D. thiết bị điện bị tắt.
+Lời giải: Sốc điện xảy ra khi dòng điện chạy qua người, có thể gây tổn thương các bộ phận của cơ thể hoặc tử vong.
+
+PHẦN II. Câu trắc nghiệm đúng sai
+Câu 1. Về các kí hiệu cảnh báo trên thiết bị thí nghiệm:
+a) Kí hiệu hình tam giác màu vàng có biểu tượng tia sáng là cảnh báo tia laser. (Đ)
+b) Kí hiệu hình mặt trời trên bao bì cho biết dụng cụ cần đặt dưới ánh nắng. (S)
+c) Kí hiệu hình tam giác màu vàng có dấu chấm than cho biết cần lưu ý cẩn thận. (Đ)
+d) Ở gần thiết bị có kí hiệu cảnh báo từ trường thì không nên để la bàn hay thẻ từ sát thiết bị. (Đ)
+Lời giải: Kí hiệu hình mặt trời có nghĩa là tránh ánh nắng chiếu trực tiếp. Từ trường mạnh làm lệch kim la bàn, có thể làm hỏng thẻ từ.
+
+Câu 2. Một học sinh dùng ampe kế có hai chốt "0,6 A" và "3 A" để đo dòng điện trong mạch.
+a) Khi chưa biết cường độ dòng điện, nên mắc vào chốt có giới hạn đo lớn (3 A) trước. (Đ)
+b) Khi dùng chốt "0,6 A" thì đo được dòng điện 2 A mà không ảnh hưởng gì đến ampe kế. (S)
+c) Chọn đúng thang đo giúp tránh làm hỏng thiết bị đo điện. (Đ)
+d) Nếu dòng điện khoảng 0,3 A thì dùng chốt "0,6 A" sẽ đọc được kết quả chính xác hơn chốt "3 A". (Đ)
+Lời giải: 2 A vượt giới hạn đo 0,6 A, có thể làm hỏng ampe kế. Với dòng nhỏ, thang đo nhỏ hơn mà vẫn đủ lớn cho kim lệch nhiều hơn, đọc chính xác hơn.
+
+Câu 3. Khi phòng thực hành có đám cháy:
+a) Cần ngắt điện, tổ chức thoát nạn, cứu người, cứu tài sản, chống cháy lan, dập tắt đám cháy. (Đ)
+b) Cần đưa toàn bộ các hoá chất, chất dễ cháy ra khu vực an toàn. (Đ)
+c) Có thể dùng CO₂ để dập đám cháy quần áo trên người. (S)
+d) Cần bình tĩnh, sử dụng các biện pháp dập tắt ngọn lửa theo hướng dẫn của phòng thực hành. (Đ)
+Lời giải: SGK lưu ý không được sử dụng CO₂ để dập tắt đám cháy quần áo trên người.
+
+Câu 4. Một nhóm học sinh chuẩn bị làm thí nghiệm với máy biến áp có ghi "AC – DC POWER SUPPLY 3...24 V".
+a) Máy có thể cung cấp cả dòng điện xoay chiều và dòng điện một chiều. (Đ)
+b) Trước khi bật máy, cần đặt nút điều chỉnh điện áp ở mức 24 V. (S)
+c) Cần tắt công tắc nguồn trước khi cắm hoặc tháo dây nối thiết bị. (Đ)
+d) Để cốc nước uống ngay cạnh máy biến áp không ảnh hưởng đến an toàn. (S)
+Lời giải: Nút điều chỉnh phải đặt ở mức thấp nhất rồi tăng dần; không để nước gần thiết bị điện.
+
+PHẦN III. Câu trắc nghiệm trả lời ngắn
+Câu 1. Cho các việc làm: (1) cắm dụng cụ có hiệu điện thế định mức 12 V trực tiếp vào ổ điện 220 V; (2) bố trí dây điện gọn gàng, không vướng lối đi; (3) đặt cốc dung dịch muối cạnh nguồn điện; (4) nhìn thẳng vào tia laser; (5) chỉ làm thí nghiệm khi giáo viên cho phép; (6) cầm bình nước vừa đun sôi bằng tay trần. Có bao nhiêu việc làm SAI quy tắc an toàn?
+Đáp án: 4
+Lời giải: Sai: (1), (3), (4), (6). Đúng: (2), (5).
+
+Câu 2. Một bộ chuyển đổi điện áp có nhãn OUTPUT 12 V AC 1670 mA. Cường độ dòng điện đầu ra ghi trên nhãn bằng bao nhiêu ampe? (Làm tròn đến hàng phần mười.)
+Đáp án: 1,7|1.7
+Lời giải: 1670 mA = 1,67 A ≈ 1,7 A.
+
+Câu 3. Một bộ chuyển đổi điện áp có nhãn INPUT 220–240 V AC 50/60 Hz. Hiệu điện thế đầu vào lớn nhất ghi trên nhãn là bao nhiêu vôn?
+Đáp án: 240
+
+Câu 4. Một bộ nguồn có nhãn OUTPUT 12 V – 1,5 A. Công suất lớn nhất mà bộ nguồn có thể cung cấp là bao nhiêu oát? (Dùng công thức P = U.I.)
+Đáp án: 18
+Lời giải: P = 12 . 1,5 = 18 W. Không dùng bộ nguồn cho dụng cụ cần công suất lớn hơn mức này.
+
+Câu 5. Cho các biển báo trong phòng thí nghiệm: (1) chất dễ cháy; (2) chất độc môi trường; (3) lối thoát hiểm; (4) chất ăn mòn; (5) nơi có chất phóng xạ. Có bao nhiêu biển báo cảnh báo nguy hiểm (không phải biển chỉ dẫn)?
+Đáp án: 4
+Lời giải: (3) lối thoát hiểm là biển chỉ dẫn; các biển còn lại cảnh báo nguy hiểm.
+
+Câu 6. Một ampe kế có thang đo 0 – 0,6 A, trên mặt chia thành 30 vạch đều nhau. Mỗi vạch chia ứng với bao nhiêu ampe?
+Đáp án: 0,02|0.02
+Lời giải: 0,6 : 30 = 0,02 A.

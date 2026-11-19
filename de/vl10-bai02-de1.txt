@@ -1,0 +1,171 @@
+VẬT LÍ 10 - CHƯƠNG I. MỞ ĐẦU - BÀI 2. CÁC QUY TẮC AN TOÀN TRONG PHÒNG THỰC HÀNH VẬT LÍ - ĐỀ 1
+Đề kiểm tra theo cấu trúc thi tốt nghiệp THPT (biên soạn: thầy Lâm Thế Phong, THPT An Thới)
+Thời gian: 50
+
+PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn
+Câu 1. Trong số các thí nghiệm vật lí phổ thông, loại thiết bị có nguy cơ mất an toàn cao nhất là
+A. thiết bị quang học.
+B. dụng cụ đo chiều dài.
+*C. thiết bị sử dụng điện.
+D. dụng cụ bằng nhựa.
+Lời giải: SGK: trong số các thí nghiệm vật lí phổ thông thì các thiết bị sử dụng điện có nguy cơ mất an toàn cao nhất.
+
+Câu 2. Trên thiết bị thí nghiệm, kí hiệu "DC" hoặc dấu "–" cho biết
+*A. dòng điện một chiều.
+B. dòng điện xoay chiều.
+C. cực dương.
+D. đầu vào.
+
+Câu 3. Trên thiết bị thí nghiệm, kí hiệu "AC" hoặc dấu "~" cho biết
+A. dòng điện một chiều.
+*B. dòng điện xoay chiều.
+C. cực âm.
+D. đầu ra.
+
+Câu 4. Kí hiệu "Input (I)" trên thiết bị điện có nghĩa là
+A. đầu ra.
+B. cực dương.
+*C. đầu vào.
+D. dòng điện xoay chiều.
+
+Câu 5. Trên thiết bị thí nghiệm, cực dương của thiết bị điện thường được kí hiệu bằng
+*A. dấu "+" hoặc màu đỏ.
+B. dấu "–" hoặc màu xanh.
+C. chữ "AC".
+D. chữ "Output".
+
+Câu 6. Khi sử dụng các thiết bị đun nóng trong phòng thực hành, nguy cơ cần chú ý là
+A. làm mốc thấu kính.
+*B. gây bỏng cho người sử dụng, gây nứt, vỡ các bộ phận làm bằng thuỷ tinh.
+C. làm sai thang đo của ampe kế.
+D. làm nhiễm từ các dụng cụ bằng sắt.
+
+Câu 7. Các thiết bị quang học như thấu kính, gương rất dễ bị mốc, xước, nứt, vỡ và dính bụi bẩn. Điều đó làm
+A. tăng độ sáng của ảnh.
+*B. ảnh hưởng đến đường truyền tia sáng và sai lệch kết quả thí nghiệm.
+C. thiết bị bị nhiễm điện.
+D. dòng điện trong mạch tăng lên.
+
+Câu 8. Khi đun nước bằng đèn cồn để đo nhiệt độ sôi của nước, người ta dùng bình thuỷ tinh chịu nhiệt mà không dùng cốc thuỷ tinh thường vì
+A. bình thuỷ tinh chịu nhiệt rẻ hơn.
+*B. thuỷ tinh thường dễ bị nứt, vỡ khi bị đun nóng.
+C. cốc thuỷ tinh thường làm nước sôi nhanh hơn.
+D. bình thuỷ tinh chịu nhiệt dẫn điện tốt hơn.
+Lời giải: Thiết bị đun nóng có thể gây nứt, vỡ các bộ phận làm bằng thuỷ tinh; dùng thuỷ tinh chịu nhiệt để hạn chế nguy cơ này.
+
+Câu 9. Theo quy tắc an toàn trong phòng thực hành, học sinh chỉ được tiến hành thí nghiệm khi
+A. đã chuẩn bị xong dụng cụ.
+B. cả nhóm đã có mặt đầy đủ.
+*C. được sự cho phép của giáo viên hướng dẫn thí nghiệm.
+D. đã đọc xong phần lí thuyết trong sách.
+
+Câu 10. Trước khi cắm hoặc tháo thiết bị điện, cần
+A. kiểm tra lại số chỉ của ampe kế.
+*B. tắt công tắc nguồn thiết bị điện.
+C. tăng hiệu điện thế của nguồn lên mức cao nhất.
+D. nối thêm một dây dẫn dự phòng.
+
+Câu 11. Chỉ được cắm phích/giắc cắm của thiết bị điện vào ổ cắm khi
+A. thiết bị đã được lau sạch.
+B. ổ cắm còn mới.
+*C. hiệu điện thế của nguồn điện tương ứng với hiệu điện thế định mức của dụng cụ.
+D. dây điện dài hơn 1 m.
+
+Câu 12. Một ampe kế có chốt "–" và hai chốt đo "0,6 A", "3 A". Khi mắc dây vào chốt "0,6 A" thì giới hạn đo của ampe kế là
+*A. 0,6 A.
+B. 3 A.
+C. 3,6 A.
+D. 2,4 A.
+Lời giải: Giới hạn đo là giá trị lớn nhất ghi trên chốt đang dùng: 0,6 A.
+
+Câu 13. Nếu dùng ampe kế để đo dòng điện vượt quá giới hạn đo thì
+A. số chỉ của ampe kế chính xác hơn.
+*B. có thể làm hỏng ampe kế.
+C. dòng điện trong mạch giảm xuống.
+D. ampe kế tự chuyển sang thang đo lớn hơn.
+
+Câu 14. Đồng hồ đo điện đa năng có các chức năng chính là
+A. đo khối lượng, đo thời gian và đo nhiệt độ.
+*B. đo điện trở, đo hiệu điện thế và đo dòng điện AC, DC.
+C. đo áp suất, đo thể tích và đo lực.
+D. đo cường độ ánh sáng và đo độ ẩm.
+
+Câu 15. Khi phát hiện người bị điện giật, cần
+A. dùng tay kéo ngay người bị nạn ra.
+B. tạt nước vào người bị nạn.
+*C. nhanh chóng ngắt nguồn điện hoặc dùng vật cách điện để tách người bị nạn ra khỏi nguồn điện.
+D. chờ người bị nạn tự rời khỏi nguồn điện.
+Lời giải: Dùng tay trần chạm vào người đang bị điện giật thì dòng điện có thể truyền sang cả người cứu.
+
+Câu 16. Trong phòng thí nghiệm, biển báo hình chữ nhật nền xanh lá, có hình người đang chạy và mũi tên chỉ về phía cửa, có ý nghĩa là
+A. nơi cấm lửa.
+*B. lối thoát hiểm.
+C. nơi nguy hiểm về điện.
+D. chất độc môi trường.
+
+Câu 17. Khi có đám cháy trong phòng thực hành ở nơi có thiết bị điện, việc KHÔNG được làm là
+A. ngắt toàn bộ hệ thống điện.
+B. đưa các hoá chất, chất dễ cháy ra khu vực an toàn.
+*C. dùng nước để dập đám cháy.
+D. tổ chức thoát nạn, cứu người.
+Lời giải: SGK lưu ý không sử dụng nước dập đám cháy nơi có các thiết bị điện (nước dẫn điện, gây điện giật).
+
+Câu 18. Khi bắt đầu sử dụng máy biến áp trong thí nghiệm, nút điều chỉnh điện áp phải được đặt ở
+A. mức cao nhất rồi giảm dần.
+*B. mức thấp nhất rồi tăng dần lên.
+C. mức ở giữa.
+D. vị trí bất kì.
+Lời giải: Đặt ở mức thấp nhất rồi tăng dần để tránh hiệu điện thế quá lớn đột ngột làm hỏng dụng cụ hoặc gây nguy hiểm.
+
+PHẦN II. Câu trắc nghiệm đúng sai
+Câu 1. Về các kí hiệu trên thiết bị thí nghiệm:
+a) Kí hiệu "Output" cho biết đầu ra của thiết bị. (Đ)
+b) Dấu "–" hoặc màu xanh dùng để chỉ cực âm. (Đ)
+c) Kí hiệu hai mũi tên hướng lên trên vỏ hộp cho biết dụng cụ phải đặt nằm ngang. (S)
+d) Kí hiệu thùng rác bị gạch chéo cho biết thiết bị không được phép bỏ vào thùng rác. (Đ)
+Lời giải: Kí hiệu hai mũi tên hướng lên nghĩa là dụng cụ phải đặt đứng.
+
+Câu 2. Một bộ chuyển đổi điện áp có nhãn: INPUT 220–240 V AC 50/60 Hz; OUTPUT 12 V AC 1670 mA.
+a) Thiết bị này dùng với nguồn điện xoay chiều có hiệu điện thế khoảng 220–240 V. (Đ)
+b) Hiệu điện thế đầu ra của thiết bị là 12 V. (Đ)
+c) Có thể cắm trực tiếp một dụng cụ có hiệu điện thế định mức 220 V vào đầu ra của thiết bị này để dụng cụ hoạt động bình thường. (S)
+d) Dòng điện đầu ra của thiết bị là dòng điện một chiều. (S)
+Lời giải: Đầu ra chỉ có 12 V nên không phù hợp với dụng cụ 220 V. Nhãn ghi "12 V AC" nghĩa là đầu ra xoay chiều.
+
+Câu 3. Một nhóm học sinh làm thí nghiệm đo nhiệt độ sôi của nước bằng đèn cồn, bình thuỷ tinh chịu nhiệt và nhiệt kế.
+a) Có thể dùng tay trần cầm bình nước vừa đun sôi để rót nước ra. (S)
+b) Thiết bị đun nóng có thể làm nứt, vỡ các bộ phận làm bằng thuỷ tinh. (Đ)
+c) Cần giữ khoảng cách an toàn khi tiến hành thí nghiệm nung nóng các vật. (Đ)
+d) Có thể để chai cồn mở nắp ngay sát đèn cồn đang cháy cho tiện thêm cồn. (S)
+Lời giải: Không tiếp xúc trực tiếp với vật có nhiệt độ cao khi không có dụng cụ bảo hộ; chất dễ cháy phải để xa nguồn lửa.
+
+Câu 4. Về quy tắc an toàn trong phòng thực hành:
+a) Cần kiểm tra cẩn thận thiết bị, phương tiện, dụng cụ thí nghiệm trước khi sử dụng. (Đ)
+b) Dây điện nên để tự do trên lối đi để dễ kéo khi cần. (S)
+c) Không để nước cũng như các dung dịch dẫn điện, dung dịch dễ cháy gần thiết bị điện. (Đ)
+d) Sau khi làm thí nghiệm, chất thải thí nghiệm có thể đổ vào bất kì thùng rác nào. (S)
+Lời giải: Dây điện phải bố trí gọn gàng, không bị vướng khi qua lại; chất thải thí nghiệm phải bỏ đúng nơi quy định.
+
+PHẦN III. Câu trắc nghiệm trả lời ngắn
+Câu 1. Một ampe kế có hai chốt đo "0,6 A" và "3 A". Muốn đo dòng điện có cường độ khoảng 1,2 A thì phải mắc dây vào chốt có giới hạn đo bao nhiêu ampe?
+Đáp án: 3
+Lời giải: 1,2 A vượt quá 0,6 A nên phải dùng chốt 3 A.
+
+Câu 2. Trên một máy biến áp dùng trong phòng thực hành có ghi "AC – DC POWER SUPPLY 3...24 V". Hiệu điện thế lớn nhất mà máy có thể cung cấp là bao nhiêu vôn?
+Đáp án: 24
+
+Câu 3. Trên vỏ một bộ nguồn có các kí hiệu: DC, AC, Input, Output, "+". Có bao nhiêu kí hiệu cho biết loại dòng điện (một chiều hay xoay chiều)?
+Đáp án: 2
+Lời giải: DC (dòng điện một chiều) và AC (dòng điện xoay chiều). Input, Output chỉ đầu vào, đầu ra; "+" chỉ cực dương.
+
+Câu 4. Cho các thiết bị: (1) máy biến áp; (2) thấu kính; (3) đồng hồ đo điện đa năng; (4) gương phẳng; (5) ampe kế. Có bao nhiêu thiết bị là thiết bị điện?
+Đáp án: 3
+Lời giải: (1), (3), (5) là thiết bị điện; thấu kính và gương phẳng là thiết bị quang học.
+
+Câu 5. Cho các việc làm: (1) tắt công tắc nguồn trước khi tháo dây nối; (2) để cốc nước cạnh nguồn điện; (3) đọc kĩ hướng dẫn trước khi dùng thiết bị; (4) tự ý làm thí nghiệm khi giáo viên chưa cho phép; (5) sắp xếp gọn gàng dụng cụ sau khi làm thí nghiệm. Có bao nhiêu việc làm đúng quy tắc an toàn?
+Đáp án: 3
+Lời giải: Đúng: (1), (3), (5).
+
+Câu 6. Một dụng cụ có hiệu điện thế định mức 6 V. Nguồn điện trong phòng thực hành có hiệu điện thế 220 V. Hiệu điện thế của nguồn lớn gấp bao nhiêu lần hiệu điện thế định mức của dụng cụ? (Làm tròn đến hàng phần mười.)
+Đáp án: 36,7|36.7
+Lời giải: 220 : 6 ≈ 36,7 lần. Vì vậy không được cắm trực tiếp dụng cụ 6 V vào nguồn 220 V.

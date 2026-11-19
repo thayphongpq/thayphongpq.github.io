@@ -1,0 +1,168 @@
+VẬT LÍ 10 - CHƯƠNG I. MỞ ĐẦU - BÀI 2. CÁC QUY TẮC AN TOÀN TRONG PHÒNG THỰC HÀNH VẬT LÍ - ĐỀ 3
+Đề kiểm tra theo cấu trúc thi tốt nghiệp THPT (biên soạn: thầy Lâm Thế Phong, THPT An Thới)
+Thời gian: 50
+
+PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn
+Câu 1. Theo SGK, các nguy cơ mất an toàn trong sử dụng thiết bị thí nghiệm Vật lí gồm
+A. nguy cơ sai số và nguy cơ ghi chép nhầm.
+*B. nguy cơ gây nguy hiểm cho người sử dụng, nguy cơ hỏng thiết bị đo điện, nguy cơ cháy nổ.
+C. nguy cơ mất điện và nguy cơ mất nước.
+D. nguy cơ thiếu dụng cụ và nguy cơ hết giờ.
+
+Câu 2. Máy biến áp trong phòng thực hành còn được gọi là
+A. máy phát điện.
+*B. máy biến thế.
+C. bộ chia điện.
+D. pin điện hoá.
+
+Câu 3. Trên thiết bị thí nghiệm, kí hiệu hình tam giác màu vàng có biểu tượng những đường lượn sóng hướng lên cảnh báo
+A. tia laser.
+B. từ trường.
+*C. nhiệt độ cao.
+D. bình khí nén áp suất cao.
+
+Câu 4. Trên thiết bị thí nghiệm, kí hiệu hình tam giác màu vàng có hình nam châm chữ U cảnh báo
+*A. từ trường.
+B. nhiệt độ cao.
+C. dụng cụ dễ vỡ.
+D. dòng điện xoay chiều.
+
+Câu 5. Đang làm thí nghiệm với mạch điện, một nhóm học sinh thấy thiết bị bốc khói, có mùi khét. Việc cần làm ngay là
+A. tiếp tục làm cho xong thí nghiệm.
+*B. ngắt nguồn điện và báo ngay cho giáo viên.
+C. dùng nước dội vào thiết bị.
+D. dùng tay sờ vào thiết bị để kiểm tra độ nóng.
+Lời giải: Ngắt điện trước để tránh cháy, điện giật; không dùng nước với thiết bị điện, không chạm tay vào vật có nhiệt độ cao.
+
+Câu 6. Khi muốn rút phích điện ra khỏi ổ cắm, thao tác an toàn là
+A. kéo mạnh dây điện.
+*B. tắt công tắc nguồn, cầm vào phần vỏ cách điện của phích rồi rút ra.
+C. dùng tay ướt rút phích ra cho nhanh.
+D. dùng kìm kim loại kẹp vào chân phích để rút.
+
+Câu 7. Theo quy tắc an toàn, khi không có dụng cụ bảo hộ thì
+A. được cầm các vật có nhiệt độ cao trong thời gian ngắn.
+*B. không tiếp xúc trực tiếp với các vật và các thiết bị thí nghiệm có nhiệt độ cao.
+C. được dùng khăn ướt để cầm bình đang đun.
+D. chỉ cần đeo kính.
+
+Câu 8. Sau khi tiến hành thí nghiệm, học sinh phải
+A. để nguyên dụng cụ trên bàn cho buổi sau.
+*B. vệ sinh, sắp xếp gọn gàng các thiết bị và dụng cụ thí nghiệm, bỏ chất thải thí nghiệm vào đúng nơi quy định.
+C. đổ hoá chất thừa vào bồn rửa tay.
+D. mang dụng cụ về nhà để tiếp tục làm.
+
+Câu 9. Một học sinh không đeo găng tay cao su chịu nhiệt khi làm thí nghiệm với vật có nhiệt độ cao. Nguy cơ chủ yếu là
+A. bị điện giật.
+*B. bị bỏng.
+C. làm hỏng ampe kế.
+D. bị nhiễm phóng xạ.
+
+Câu 10. Một nhóm học sinh để chai cồn (chất dễ cháy) ngay cạnh thí nghiệm mạch điện. Tình huống này nguy hiểm vì
+A. chất dễ cháy làm dòng điện mạnh lên.
+*B. tia lửa điện hoặc chỗ dây nóng lên có thể làm chất dễ cháy bốc cháy, gây cháy nổ.
+C. mạch điện làm chất dễ cháy đông đặc.
+D. chất dễ cháy làm ampe kế chỉ sai.
+
+Câu 11. Theo SGK, không được sử dụng CO₂ để dập tắt đám cháy của
+A. giấy và gỗ.
+B. rác khô.
+*C. các chất cháy có khả năng tách oxygen như peroxide, chlorate, potassium nitrate.
+D. vải không có điện.
+
+Câu 12. Khi phát hiện một dây điện của bộ thí nghiệm bị sờn, lộ lõi dây, học sinh nên
+A. tiếp tục dùng nhưng không chạm tay vào chỗ sờn.
+B. dùng băng dính giấy quấn lại rồi dùng tiếp.
+*C. không sử dụng và báo ngay cho giáo viên.
+D. tự cắt bỏ đoạn sờn khi nguồn đang bật.
+
+Câu 13. Một máy biến áp dùng trong phòng thực hành có hai cặp chốt lấy điện ghi "AC" và "DC". Muốn lấy dòng điện một chiều để thắp sáng một bóng đèn pin, cần nối dây vào cặp chốt
+A. ghi "AC".
+*B. ghi "DC".
+C. bất kì, vì hai cặp chốt như nhau.
+D. ghi "AC" và "DC" cùng lúc.
+Lời giải: DC là kí hiệu dòng điện một chiều, AC là kí hiệu dòng điện xoay chiều.
+
+Câu 14. Muốn dùng đồng hồ đo điện đa năng để đo hiệu điện thế của nguồn điện xoay chiều, cần vặn núm xoay đến vùng chức năng
+A. đo điện trở (Ω).
+B. đo dòng điện một chiều (A–).
+*C. đo hiệu điện thế xoay chiều (V~).
+D. đo hiệu điện thế một chiều (V–).
+
+Câu 15. Trong phòng thí nghiệm, biển báo hình tam giác màu vàng có biểu tượng tia sét có nghĩa là
+A. nơi cấm lửa.
+*B. nơi nguy hiểm về điện.
+C. chất ăn mòn.
+D. lối thoát hiểm.
+
+Câu 16. Theo các biển báo trong phòng thí nghiệm ở SGK, biển báo hình vuông nền cam có hình đầu lâu và hai xương bắt chéo có nghĩa là
+*A. chất độc sức khoẻ.
+B. chất dễ cháy.
+C. nơi có chất phóng xạ.
+D. nơi nguy hiểm về điện.
+
+Câu 17. Trong phòng thí nghiệm, biển báo hình tròn viền đỏ có ngọn lửa bị gạch chéo có nghĩa là
+A. chất dễ cháy.
+B. lối thoát hiểm.
+*C. nơi cấm lửa.
+D. chất độc môi trường.
+
+Câu 18. Một học sinh cần cắm một bóng đèn có hiệu điện thế định mức 6 V vào máy biến áp có các mức 3 V, 6 V, 9 V, 12 V. Để đèn sáng bình thường mà không bị hỏng, khi sử dụng cần đặt núm điều chỉnh ở mức
+A. 3 V.
+*B. 6 V.
+C. 9 V.
+D. 12 V.
+Lời giải: Hiệu điện thế của nguồn phải tương ứng với hiệu điện thế định mức của dụng cụ (6 V). Ở 3 V đèn sáng yếu; ở 9 V, 12 V đèn có thể bị hỏng.
+
+PHẦN II. Câu trắc nghiệm đúng sai
+Câu 1. Một nhóm học sinh làm thí nghiệm với bộ thí nghiệm quang hình có đèn laser, thấu kính, gương phẳng và màn ảnh.
+a) Không được nhìn thẳng vào tia laser. (Đ)
+b) Mặt thấu kính bị dính bụi bẩn, bị xước không ảnh hưởng gì đến kết quả thí nghiệm. (S)
+c) Gương phẳng, thấu kính dễ bị nứt, vỡ nên cần cầm, đặt nhẹ nhàng. (Đ)
+d) Cần giữ khoảng cách an toàn khi tiến hành thí nghiệm có tia laser. (Đ)
+Lời giải: Bụi bẩn, vết xước làm ảnh hưởng đến đường truyền tia sáng và gây sai lệch kết quả thí nghiệm.
+
+Câu 2. Trong giờ thực hành, một bạn bị điện giật do chạm vào chỗ dây điện bị hở.
+a) Người phát hiện cần nhanh chóng ngắt nguồn điện. (Đ)
+b) Có thể dùng thanh gỗ khô (vật cách điện) để tách người bị nạn ra khỏi nguồn điện. (Đ)
+c) Có thể dùng tay trần kéo người bị nạn ra ngay khi nguồn điện chưa ngắt. (S)
+d) Sốc điện chỉ gây cảm giác tê nhẹ, không thể gây tử vong. (S)
+Lời giải: Chạm tay trần vào người đang bị điện giật, dòng điện có thể truyền sang người cứu. Sốc điện có thể gây tổn thương các bộ phận cơ thể hoặc tử vong.
+
+Câu 3. Một học sinh dùng đồng hồ đo điện đa năng hiện số để đo hiệu điện thế giữa hai cực của một pin.
+a) Cần chọn chức năng đo hiệu điện thế một chiều (V–). (Đ)
+b) Cần cắm dây đo vào chốt cắm phù hợp với chức năng đo. (Đ)
+c) Có thể để núm xoay ở chức năng đo điện trở khi đo hiệu điện thế. (S)
+d) Nên chọn thang đo có giới hạn lớn hơn hiệu điện thế cần đo. (Đ)
+Lời giải: Pin cho dòng điện một chiều nên chọn V–. Chọn sai chức năng có thể làm hỏng đồng hồ hoặc cho kết quả sai.
+
+Câu 4. Về nguy cơ cháy nổ trong phòng thực hành:
+a) Để các kẹp điện gần nhau có thể gây chập điện. (Đ)
+b) Để chất dễ cháy gần thí nghiệm mạch điện là an toàn nếu mạch có dòng điện nhỏ. (S)
+c) Không đeo găng tay cao su chịu nhiệt khi làm thí nghiệm với nhiệt độ cao có thể gây bỏng. (Đ)
+d) Khi tiến hành thí nghiệm với thiết bị điện và hoá chất dễ cháy nổ, cần tuân thủ các quy tắc an toàn về phòng cháy chữa cháy. (Đ)
+Lời giải: Chất dễ cháy phải để xa mạch điện, vì tia lửa điện có thể xuất hiện ngay cả khi dòng điện nhỏ.
+
+PHẦN III. Câu trắc nghiệm trả lời ngắn
+Câu 1. Một ampe kế có hai chốt đo "0,6 A" và "3 A". Cần đo dòng điện có cường độ khoảng 0,45 A. Để vừa an toàn cho ampe kế vừa đọc được kết quả chính xác hơn, nên dùng chốt có giới hạn đo bao nhiêu ampe?
+Đáp án: 0,6|0.6
+Lời giải: 0,45 A < 0,6 A nên dùng chốt 0,6 A an toàn; thang nhỏ hơn cho kim lệch nhiều hơn, đọc chính xác hơn so với thang 3 A.
+
+Câu 2. Một dụng cụ có hiệu điện thế định mức 12 V được nối vào máy biến áp. Lúc đầu đặt núm điều chỉnh ở mức thấp nhất 3 V, mỗi lần tăng thêm 3 V. Sau bao nhiêu lần tăng thì hiệu điện thế đạt 12 V?
+Đáp án: 3
+Lời giải: 3 V → 6 V → 9 V → 12 V: tăng 3 lần.
+
+Câu 3. Một bộ chuyển đổi điện áp có nhãn INPUT 220–240 V AC 50/60 Hz. Tần số lớn nhất của dòng điện đầu vào ghi trên nhãn là bao nhiêu héc (Hz)?
+Đáp án: 60
+
+Câu 4. Một bóng đèn có ghi 6 V – 3 W. Khi đèn sáng bình thường, cường độ dòng điện qua đèn là bao nhiêu ampe? (Dùng công thức P = U.I.)
+Đáp án: 0,5|0.5
+Lời giải: I = P/U = 3/6 = 0,5 A. Nếu đo dòng này bằng ampe kế có chốt 0,6 A và 3 A thì dùng chốt 0,6 A.
+
+Câu 5. Cho các việc làm: (1) để chai cồn xa đèn cồn đang cháy; (2) đứng sát vị trí có vật bắn ra để quan sát rõ; (3) kiểm tra dụng cụ trước khi sử dụng; (4) đặt nút điều chỉnh của máy biến áp ở mức thấp nhất rồi tăng dần; (5) bỏ chất thải thí nghiệm vào đúng nơi quy định; (6) dùng nước dập đám cháy ở ổ cắm điện. Có bao nhiêu việc làm đúng quy tắc an toàn?
+Đáp án: 4
+Lời giải: Đúng: (1), (3), (4), (5). Sai: (2) phải giữ khoảng cách an toàn; (6) không dùng nước dập đám cháy nơi có thiết bị điện.
+
+Câu 6. Một vôn kế kim có thang đo 0 – 10 V, mặt chia thành 50 vạch đều nhau. Khi đo, kim chỉ đúng vạch thứ 32. Hiệu điện thế đo được là bao nhiêu vôn?
+Đáp án: 6,4|6.4
+Lời giải: Mỗi vạch ứng với 10 : 50 = 0,2 V; hiệu điện thế 32 × 0,2 = 6,4 V.
