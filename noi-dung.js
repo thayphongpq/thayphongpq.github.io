@@ -17,7 +17,7 @@ const THONG_TIN = {
   truong: "THPT An Thới",
 
   // Dòng thông báo trên đầu trang. Để "" nếu không có thông báo.
-  thongBao: "Mới: mục Song ngữ chia theo lớp 10 – 11 – 12, khóa Tiếng Anh cho giáo viên Lý – Tin, đố vui từ vựng và phụ đề tiếng Anh cho video.",
+  thongBao: "Mới: khóa Tiếng Anh cho giáo viên Lý – Tin miễn phí (kiểm tra đầu vào, luyện nghe – nói – chép chính tả, nhắc lịch học) và mục Song ngữ theo từng lớp.",
 
   gioiThieu: "Nơi tập hợp bài giảng, tài liệu và đề ôn luyện môn Vật lý, Tin học dành cho học sinh THPT.",
 

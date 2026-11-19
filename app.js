@@ -269,7 +269,7 @@
   ];
   function khoaSN(b) { return b.lop === "GV" ? "giao-vien" : duongMon(b.mon) + "-" + b.lop; }
   function nhomSN(khoa) { return NHOM_SN.find(function (n) { return n.khoa === khoa; }); }
-  function veLaiBai(b) { return b && nhomSN(khoaSN(b)) ? "#/song-ngu/" + khoaSN(b) : "#/song-ngu"; }
+  function veLaiBai(b) { return b && b.lop === "GV" ? "#/giao-vien" : b && nhomSN(khoaSN(b)) ? "#/song-ngu/" + khoaSN(b) : "#/song-ngu"; }
   function tenVeLaiBai(b) { const n = b && nhomSN(khoaSN(b)); return n ? n.ten : "Học song ngữ"; }
 
   /* ----- Trang Học song ngữ: bài học song ngữ + từ điển thuật ngữ ----- */
@@ -295,9 +295,9 @@
     const bai = dsBai.filter(function (b) { return khoaSN(b) === n.khoa; }).length;
     const tu = TV.filter(function (t) { return t.mon === n.mon && t.lop === n.lop; }).length;
     const gv = n.lop === "GV";
-    return '<a class="thu-muc__the ' + mauMon(n.mon, n.lop) + (gv ? " thu-muc__the--gv" : "") + '" href="#/song-ngu/' + n.khoa + '"><span class="thu-muc__cap">' + esc(gv ? "Giáo viên" : "Lớp " + n.lop) + "</span>" +
-      "<h2>" + esc(n.ten) + "</h2><p>" + esc(gv ? "Dành cho thầy cô chưa quen tiếng Anh: học từ căn bản để dạy Vật lý, Tin học bằng tiếng Anh." : "Bài học song ngữ theo sách giáo khoa, thuật ngữ và đố vui từ vựng.") + "</p>" +
-      '<span class="phu">' + bai + " bài" + (gv ? "" : " · " + tu + " thuật ngữ") + '</span><span class="thu-muc__vao">Vào học ›</span></a>';
+    return '<a class="thu-muc__the ' + mauMon(n.mon, n.lop) + (gv ? " thu-muc__the--gv" : "") + '" href="' + (gv ? "#/giao-vien" : "#/song-ngu/" + n.khoa) + '"><span class="thu-muc__cap">' + esc(gv ? "Giáo viên" : "Lớp " + n.lop) + "</span>" +
+      "<h2>" + esc(n.ten) + "</h2><p>" + esc(gv ? "Lộ trình tự học cho thầy cô chưa quen tiếng Anh: kiểm tra đầu vào, luyện nghe – nói – viết, ôn tập thông minh, nhắc lịch." : "Bài học song ngữ theo sách giáo khoa, thuật ngữ và đố vui từ vựng.") + "</p>" +
+      '<span class="phu">' + (gv && window.GiaoVien ? window.GiaoVien.soBai + " bài luyện · " + window.GiaoVien.soCau + " câu · " + bai + " bài đọc" : bai + " bài · " + tu + " thuật ngữ") + '</span><span class="thu-muc__vao">Vào học ›</span></a>';
   }
   // Trang của một lớp (hoặc khóa giáo viên): bài học xếp theo chương, thuật ngữ, đố vui.
   function trangNhomSN(khoa) {
@@ -510,6 +510,7 @@
         " thuật ngữ Lý – Tin, bấm loa nghe phát âm và tự kiểm tra từ vựng.</p>" +
         '<a class="nut" href="#/song-ngu">Vào học song ngữ ›</a></div>') +
       khoi("Công cụ học tập", '<div class="lien-ket">' + [
+        ["#/giao-vien", "Tiếng Anh cho giáo viên", "Lộ trình tự học miễn phí để dạy Lý – Tin song ngữ: nghe, nói, chép chính tả, nhắc lịch"],
         ["#/thi-nghiem", "Thí nghiệm ảo Vật lý", dsThiNghiem.length + " mô phỏng PhET tiếng Việt, tự làm thí nghiệm ngay trên trang"],
         ["#/python", "Chạy Python trực tuyến", "Viết và chạy chương trình Python không cần cài đặt"],
         ["#/ket-qua", "Kết quả của em", "Xem lại điểm các bài đã làm và theo dõi tiến bộ"],
@@ -1260,6 +1261,7 @@
     if (ten === "thi-nghiem") return trangThiNghiem(phu);
     if (ten === "ket-qua") return trangKetQua();
     if (ten === "python") return trangPython();
+    if (ten === "giao-vien") return window.GiaoVien ? window.GiaoVien.trang(phu) : khongThay();
     return khongThay();
   }
   function hienThi() {
@@ -1283,6 +1285,7 @@
     if (d[0] === "lam-bai" && hop()) moDe(d[1]);
     if (d[0] === "bai" && document.getElementById("bai-hoc")) moBai(d[1]);
     if (d[0] === "tro-choi" && d[1] && document.getElementById("tro-choi")) moTroChoi(d[1]);
+    if (d[0] === "giao-vien" && window.GiaoVien) window.GiaoVien.sauKhiVe();
     if (d[0] === "song-ngu" || d[0] === "tim") {
       toan(app);
       if (!window.BaiHoc.coPhatAm()) app.querySelectorAll(".bh-nghe").forEach(function (n) { n.hidden = true; });

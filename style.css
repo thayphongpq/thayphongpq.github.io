@@ -376,6 +376,66 @@ pre.ma[data-lang]::before { content: attr(data-lang); position: absolute; top: 6
 .do-vui__kq { display: flex; align-items: baseline; gap: 8px; }
 .do-vui__kq b { font-size: 44px; font-weight: 800; color: var(--tin); }
 
+/* Tiếng Anh cho giáo viên */
+.gv-dau { background: linear-gradient(135deg, var(--sau), #1f4f78); color: #fff; border-radius: 14px; padding: 26px 26px 24px; margin-bottom: 24px; }
+.gv-dau h1 { font-size: clamp(26px, 4vw, 36px); font-weight: 800; letter-spacing: -0.02em; }
+.gv-dau p { margin: 8px 0 0; color: #d7e0ea; max-width: 46em; }
+.gv-diem-manh { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 250px), 1fr)); gap: 12px; }
+.gv-diem-manh div { background: var(--trang); border: 1px solid var(--vien); border-top: 4px solid var(--hsg); border-radius: 10px; padding: 14px 16px; display: flex; flex-direction: column; gap: 4px; }
+.gv-diem-manh span { color: var(--mo); font-size: 15px; }
+.gv-bat-dau { margin-top: 20px; }
+.gv-bat-dau .nut { margin-top: 0; }
+.gv-ke-hoach { display: grid; gap: 10px; margin-bottom: 10px; }
+.gv-viec { display: grid; grid-template-columns: 1fr auto; gap: 2px 12px; align-items: center; text-decoration: none; background: var(--trang); border: 1px solid var(--vien); border-left: 6px solid var(--tin); border-radius: 10px; padding: 14px 16px; }
+a.gv-viec:hover { border-color: var(--tin); }
+.gv-viec b { font-weight: 700; }
+.gv-viec span { grid-column: 1; color: var(--mo); font-size: 14px; }
+.gv-viec em { grid-row: 1 / span 2; grid-column: 2; font-style: normal; font-weight: 700; color: var(--tin); }
+.gv-ds-bai { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 320px), 1fr)); gap: 10px; }
+.gv-bai { display: flex; align-items: center; gap: 12px; text-decoration: none; background: var(--trang); border: 1px solid var(--vien); border-radius: 10px; padding: 12px 14px; }
+.gv-bai:hover { border-color: var(--muc); }
+.gv-bai__so { flex: none; width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-weight: 800; background: var(--hsg-nhat); color: var(--hsg); }
+.gv-bai--xong .gv-bai__so { background: #e6f4ea; color: #2f8f4e; }
+.gv-bai__chu { flex: 1; min-width: 0; display: flex; flex-direction: column; gap: 3px; }
+.gv-bai__chu b { font-weight: 600; }
+.gv-bai__tt { flex: none; font-size: 13px; font-weight: 700; color: var(--mo); }
+.gv-bai--xong .gv-bai__tt { color: #2f8f4e; }
+.gv-thanh { display: block; height: 6px; background: var(--giay); border: 1px solid var(--vien); border-radius: 99px; overflow: hidden; }
+.gv-thanh i { display: block; height: 100%; background: var(--tin); border-radius: 99px; }
+.tro-choi__dau .gv-thanh { flex: 0 1 50%; }
+.gv-tien-do-bai { display: flex; align-items: center; gap: 12px; margin: -8px 0 18px; font-size: 14px; color: var(--mo); }
+.gv-tien-do-bai .gv-thanh { flex: 0 0 180px; }
+.gv-tab { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 16px; scroll-margin-top: 12px; }
+.gv-hd { background: var(--trang); border: 1px solid var(--vien); border-radius: 12px; padding: 18px 20px; }
+.gv-hoi { display: flex; align-items: center; flex-wrap: wrap; gap: 10px; font-size: 22px; font-weight: 600; margin-top: 6px; }
+.gv-hoi--noi b { font-size: 24px; }
+.gv-loa { display: inline-flex; align-items: center; justify-content: center; width: 44px; height: 44px; border-radius: 50%; border: 1px solid var(--vien); background: var(--tin-nhat); font-size: 20px; cursor: pointer; flex: none; }
+.gv-loa:hover { border-color: var(--tin); }
+.gv-loa--cham { background: var(--hsg-nhat); width: 38px; height: 38px; font-size: 17px; }
+.gv-cau-ds { list-style: none; margin: 0 0 16px; padding: 0; }
+.gv-cau-ds li { display: flex; align-items: center; gap: 12px; padding: 10px 0; border-bottom: 1px dashed var(--vien); }
+.gv-cau-nut { display: flex; gap: 6px; flex: none; }
+.gv-cau-chu { flex: 1; display: flex; flex-direction: column; }
+.gv-cau-chu b { font-size: 18px; font-weight: 600; }
+.gv-cau-chu span { color: var(--mo); }
+.gv-cham { flex: none; width: 12px; height: 12px; border-radius: 50%; background: var(--vien); }
+.gv-cham--hoc { background: #f6c453; }
+.gv-cham--thuoc { background: #2f8f4e; }
+.gv-mic { font-size: 17px; }
+.gv-mic--dang { background: var(--ly) !important; }
+.gv-go { display: flex; gap: 8px; margin-top: 8px; }
+.gv-go input { flex: 1; min-width: 0; font: inherit; font-size: 18px; padding: 10px 12px; border: 2px solid var(--vien); border-radius: 8px; }
+.gv-go input:focus { border-color: var(--tin); outline: none; }
+.gv-go .nut { margin-top: 0; }
+.gv-tu--dung { color: #2f8f4e; font-weight: 600; }
+.gv-tu--sai { color: var(--ly); font-weight: 700; text-decoration: underline wavy; }
+.gv-ghep { display: flex; flex-wrap: wrap; gap: 8px; min-height: 50px; padding: 10px; border: 2px dashed var(--vien); border-radius: 10px; margin-top: 10px; }
+.gv-ghep--kho { border-style: solid; background: var(--giay); }
+.gv-tu { font: inherit; font-size: 17px; padding: 6px 12px; border: 1px solid var(--vien); border-radius: 8px; background: var(--trang); cursor: pointer; }
+.gv-tu:hover { border-color: var(--sau); }
+.gv-chon { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; margin: 12px 0; }
+.gv-chon input[type="time"] { font: inherit; font-size: 17px; padding: 6px 10px; border: 1px solid var(--vien); border-radius: 8px; }
+
 /* Ô bẫy chống thư rác (người thật không thấy) */
 .bay { position: absolute !important; left: -10000px; width: 1px; height: 1px; overflow: hidden; }
 
@@ -387,6 +447,11 @@ pre.ma[data-lang]::before { content: attr(data-lang); position: absolute; top: 6
   .menu a { padding: 7px 9px; font-size: 14.5px; }
   .bai-ke { grid-template-columns: 1fr; }
   .so-lieu { grid-template-columns: 1fr 1fr; }
+  .gv-dau { padding: 20px 18px; }
+  .gv-hd { padding: 14px; }
+  .gv-hoi { font-size: 19px; }
+  .gv-cau-chu b { font-size: 16px; }
+  .gv-tien-do-bai .gv-thanh { flex-basis: 100px; }
   .bang-kq { font-size: 14px; }
   .bang-kq th, .bang-kq td { padding: 7px 8px; }
   .bai-ke__muc--sau { grid-column: auto; }
