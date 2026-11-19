@@ -1,0 +1,22 @@
+{
+  "ten": {
+    "vi": "Bài 4. Đặt câu hỏi và nhận xét học sinh",
+    "en": "Lesson 4. Asking questions and giving feedback"
+  },
+  "mon": "Tiếng Anh",
+  "lop": "GV",
+  "noiDung": {
+    "vi": "## 1. Câu hỏi đơn giản\n\n- Đây là gì?\n- Đơn vị của lực là gì?\n- Công thức tính vận tốc là gì?\n- Đáp án nào đúng: A, B, C hay D?\n- Đúng hay sai?\n\n## 2. Câu hỏi giúp học sinh suy nghĩ\n\n- Vì sao em nghĩ vậy?\n- Điều gì xảy ra nếu ta tăng khối lượng?\n- Em có thể cho một ví dụ không?\n- Hai cách giải này khác nhau thế nào?\n\n## 3. Nhận xét và sửa lỗi nhẹ nhàng\n\n- Ý của em rất hay.\n- Gần đúng rồi, em kiểm tra lại đơn vị nhé.\n- Bạn nào giúp bạn được không?\n- Em giải thích rõ hơn được không?\n- Cảm ơn em, câu trả lời rất rõ ràng.\n\n**Mẹo:** sau khi hỏi, hãy chờ 3 đến 5 giây rồi mới gọi học sinh trả lời. Thời gian chờ giúp nhiều em kịp suy nghĩ và mạnh dạn nói bằng tiếng Anh hơn.",
+    "en": "## 1. Simple questions\n\n- What is this?\n- What is the unit of force?\n- What is the formula for velocity?\n- Which answer is correct: A, B, C or D?\n- True or false?\n\n## 2. Questions that make students think\n\n- Why do you think so?\n- What happens if we increase the mass?\n- Can you give an example?\n- How are these two methods different?\n\n## 3. Feedback and gentle correction\n\n- That's a great idea.\n- You're nearly there. Check the units again.\n- Can anyone help?\n- Could you explain that more clearly?\n- Thank you, that's a very clear answer.\n\n**Tip:** after asking a question, wait 3 to 5 seconds before calling on a student. This wait time gives more students a chance to think and to speak English with more confidence."
+  },
+  "thuatNgu": [
+    { "en": "What is the unit of force?", "ipa": "", "vi": "Đơn vị của lực là gì?", "ghiChu": "" },
+    { "en": "Which answer is correct?", "ipa": "", "vi": "Đáp án nào đúng?", "ghiChu": "" },
+    { "en": "True or false?", "ipa": "", "vi": "Đúng hay sai?", "ghiChu": "" },
+    { "en": "Why do you think so?", "ipa": "", "vi": "Vì sao em nghĩ vậy?", "ghiChu": "" },
+    { "en": "Can you give an example?", "ipa": "", "vi": "Em cho một ví dụ được không?", "ghiChu": "" },
+    { "en": "Check the units again.", "ipa": "", "vi": "Em kiểm tra lại đơn vị nhé.", "ghiChu": "" },
+    { "en": "Could you explain that more clearly?", "ipa": "", "vi": "Em giải thích rõ hơn được không?", "ghiChu": "" },
+    { "en": "That's a very clear answer.", "ipa": "", "vi": "Câu trả lời rất rõ ràng.", "ghiChu": "" }
+  ]
+}

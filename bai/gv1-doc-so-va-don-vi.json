@@ -1,0 +1,22 @@
+{
+  "ten": {
+    "vi": "Bài 1. Đọc số, số thập phân và đơn vị đo",
+    "en": "Lesson 1. Reading numbers, decimals and units"
+  },
+  "mon": "Tiếng Anh",
+  "lop": "GV",
+  "noiDung": {
+    "vi": "## 1. Số đếm\n\nĐây là bài đầu tiên của khóa học. Thầy cô bấm loa ở các thẻ cuối bài để nghe, rồi đọc theo 3 lần.\n\n- 13 **thirteen** và 30 **thirty**: chú ý trọng âm, 13 nhấn âm sau (thir-**TEEN**), 30 nhấn âm đầu (**THIR**-ty).\n- 100 **one hundred**, 1 000 **one thousand**, 1 000 000 **one million**.\n- 245 **two hundred and forty-five** (người Anh đọc có **and**, người Mỹ thường bỏ **and**).\n\n## 2. Số thập phân và phân số\n\n- Tiếng Anh dùng **dấu chấm** cho số thập phân: 9.8 đọc là **nine point eight**.\n- 0.25 đọc là **zero point two five**: sau dấu chấm đọc từng chữ số.\n- 1/2 **one half**, 1/3 **one third**, 3/4 **three quarters**.\n\n## 3. Lũy thừa và cách viết khoa học\n\n- $x^2$: **x squared**; $x^3$: **x cubed**; $x^n$: **x to the power of n**.\n- $3 \\times 10^8$: **three times ten to the power of eight**.\n- $10^{-3}$: **ten to the power of minus three**.\n\n## 4. Đơn vị đo\n\n- m/s: **metres per second**\n- m/s²: **metres per second squared**\n- kg: **kilograms**; N: **newtons**; J: **joules**; W: **watts**\n- °C: **degrees Celsius**; K: **kelvins**\n\n**Mẹo:** dấu \"/\" trong đơn vị đọc là **per** (trên mỗi). Ví dụ 60 km/h đọc là **sixty kilometres per hour**.",
+    "en": "## 1. Cardinal numbers\n\nThis is the first lesson of the course. Click the speaker on the cards at the end of the lesson to listen, then repeat three times.\n\n- 13 **thirteen** and 30 **thirty**: mind the stress. 13 is stressed on the second syllable (thir-**TEEN**), 30 on the first (**THIR**-ty).\n- 100 **one hundred**, 1,000 **one thousand**, 1,000,000 **one million**.\n- 245 **two hundred and forty-five** (British English says **and**; American English often leaves it out).\n\n## 2. Decimals and fractions\n\n- English uses a **decimal point**: 9.8 is read **nine point eight**.\n- 0.25 is read **zero point two five**: after the point, read each digit separately.\n- 1/2 **one half**, 1/3 **one third**, 3/4 **three quarters**.\n\n## 3. Powers and scientific notation\n\n- $x^2$: **x squared**; $x^3$: **x cubed**; $x^n$: **x to the power of n**.\n- $3 \\times 10^8$: **three times ten to the power of eight**.\n- $10^{-3}$: **ten to the power of minus three**.\n\n## 4. Units of measurement\n\n- m/s: **metres per second**\n- m/s²: **metres per second squared**\n- kg: **kilograms**; N: **newtons**; J: **joules**; W: **watts**\n- °C: **degrees Celsius**; K: **kelvins**\n\n**Tip:** the slash \"/\" in a unit is read as **per**. For example, 60 km/h is read **sixty kilometres per hour**."
+  },
+  "thuatNgu": [
+    { "en": "thirteen", "ipa": "/ˌθɜːˈtiːn/", "vi": "13 (mười ba)", "ghiChu": "Nhấn âm sau." },
+    { "en": "thirty", "ipa": "/ˈθɜːti/", "vi": "30 (ba mươi)", "ghiChu": "Nhấn âm đầu." },
+    { "en": "nine point eight", "ipa": "", "vi": "9,8", "ghiChu": "Gia tốc trọng trường $g$." },
+    { "en": "three quarters", "ipa": "/θriː ˈkwɔːtəz/", "vi": "ba phần tư", "ghiChu": "" },
+    { "en": "x squared", "ipa": "/eks skweəd/", "vi": "x bình phương", "ghiChu": "$x^2$" },
+    { "en": "ten to the power of eight", "ipa": "", "vi": "mười mũ tám", "ghiChu": "$10^8$" },
+    { "en": "metres per second", "ipa": "/ˈmiːtəz pə ˈsekənd/", "vi": "mét trên giây", "ghiChu": "m/s" },
+    { "en": "degrees Celsius", "ipa": "/dɪˈɡriːz ˈselsiəs/", "vi": "độ C", "ghiChu": "°C" }
+  ]
+}

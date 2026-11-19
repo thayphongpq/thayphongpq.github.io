@@ -1,0 +1,23 @@
+{
+  "ten": {
+    "vi": "Bài 5. Dạy một bài Vật lý bằng tiếng Anh",
+    "en": "Lesson 5. Teaching a physics lesson in English"
+  },
+  "mon": "Tiếng Anh",
+  "lop": "GV",
+  "noiDung": {
+    "vi": "## 1. Giới thiệu bài\n\n- Hôm nay chúng ta sẽ tìm hiểu vì sao vật rơi xuống đất.\n- Các em đã bao giờ thắc mắc vì sao bầu trời có màu xanh chưa?\n- Chúng ta cùng ôn lại bài trước.\n\n## 2. Làm thí nghiệm\n\n- Các em cẩn thận nhé.\n- Đeo kính bảo hộ vào.\n- Đo chiều dài sợi dây.\n- Ghi kết quả vào bảng.\n- Lặp lại thí nghiệm ba lần.\n- Tính giá trị trung bình.\n\n## 3. Mô tả đồ thị\n\n- Trục hoành biểu diễn thời gian.\n- Trục tung biểu diễn vận tốc.\n- Đồ thị là một đường thẳng đi qua gốc tọa độ.\n- Vận tốc tăng đều theo thời gian.\n- Độ dốc của đồ thị cho biết gia tốc.\n\n## 4. Hướng dẫn giải bài tập\n\n- Đề bài cho biết những gì?\n- Ta cần tìm đại lượng nào?\n- Ta dùng công thức nào?\n- Thay số vào công thức.\n- Đừng quên ghi đơn vị.",
+    "en": "## 1. Introducing the lesson\n\n- Today we are going to find out why objects fall to the ground.\n- Have you ever wondered why the sky is blue?\n- Let's review the last lesson.\n\n## 2. Doing an experiment\n\n- Please be careful.\n- Put on your safety goggles.\n- Measure the length of the string.\n- Record your results in the table.\n- Repeat the experiment three times.\n- Calculate the average value.\n\n## 3. Describing a graph\n\n- The horizontal axis shows time.\n- The vertical axis shows velocity.\n- The graph is a straight line through the origin.\n- The velocity increases steadily with time.\n- The slope of the graph gives the acceleration.\n\n## 4. Guiding problem solving\n\n- What information is given?\n- What do we need to find?\n- Which formula should we use?\n- Substitute the values into the formula.\n- Don't forget the units."
+  },
+  "thuatNgu": [
+    { "en": "experiment", "ipa": "/ɪkˈsperɪmənt/", "vi": "thí nghiệm", "ghiChu": "" },
+    { "en": "safety goggles", "ipa": "/ˈseɪfti ˈɡɒɡlz/", "vi": "kính bảo hộ", "ghiChu": "" },
+    { "en": "measure", "ipa": "/ˈmeʒə(r)/", "vi": "đo", "ghiChu": "" },
+    { "en": "average value", "ipa": "/ˈævərɪdʒ ˈvæljuː/", "vi": "giá trị trung bình", "ghiChu": "" },
+    { "en": "horizontal axis", "ipa": "/ˌhɒrɪˈzɒntl ˈæksɪs/", "vi": "trục hoành", "ghiChu": "" },
+    { "en": "vertical axis", "ipa": "/ˈvɜːtɪkl ˈæksɪs/", "vi": "trục tung", "ghiChu": "" },
+    { "en": "origin", "ipa": "/ˈɒrɪdʒɪn/", "vi": "gốc tọa độ", "ghiChu": "" },
+    { "en": "slope", "ipa": "/sləʊp/", "vi": "độ dốc", "ghiChu": "" },
+    { "en": "substitute", "ipa": "/ˈsʌbstɪtjuːt/", "vi": "thay (số vào công thức)", "ghiChu": "" }
+  ]
+}

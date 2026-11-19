@@ -1,0 +1,23 @@
+{
+  "ten": {
+    "vi": "Bài 2. Đọc công thức bằng tiếng Anh",
+    "en": "Lesson 2. Reading formulas aloud"
+  },
+  "mon": "Tiếng Anh",
+  "lop": "GV",
+  "noiDung": {
+    "vi": "## 1. Các phép toán\n\n- $a + b$: **a plus b**\n- $a - b$: **a minus b**\n- $a \\times b$ hoặc $ab$: **a times b**\n- $\\dfrac{a}{b}$: **a over b** hoặc **a divided by b**\n- $=$: **equals** hoặc **is equal to**\n\n## 2. Kí hiệu thường gặp\n\n- $\\Delta v$: **delta v** (độ biến thiên của v)\n- $v_0$: **v nought** hoặc **v zero**\n- $\\sqrt{x}$: **the square root of x**\n- $\\approx$: **is approximately equal to**\n- $\\propto$: **is proportional to** (tỉ lệ thuận với)\n- $\\omega$: **omega**; $\\lambda$: **lambda**; $\\pi$: **pi**\n\n## 3. Đọc thử một số công thức\n\n- $v = \\dfrac{s}{t}$: **v equals s over t**\n- $F = ma$: **F equals m a** (lực bằng khối lượng nhân gia tốc)\n- $W_{\\text{đ}} = \\dfrac{1}{2}mv^2$: **kinetic energy equals one half m v squared**\n- $v^2 - v_0^2 = 2ad$: **v squared minus v nought squared equals two a d**\n- $T = 2\\pi\\sqrt{\\dfrac{l}{g}}$: **T equals two pi times the square root of l over g**\n\n**Mẹo:** khi đọc công thức trên lớp, hãy nói chậm và chỉ vào từng kí hiệu trên bảng; học sinh sẽ quen dần với cách đọc.",
+    "en": "## 1. Operations\n\n- $a + b$: **a plus b**\n- $a - b$: **a minus b**\n- $a \\times b$ or $ab$: **a times b**\n- $\\dfrac{a}{b}$: **a over b** or **a divided by b**\n- $=$: **equals** or **is equal to**\n\n## 2. Common symbols\n\n- $\\Delta v$: **delta v** (the change in v)\n- $v_0$: **v nought** or **v zero**\n- $\\sqrt{x}$: **the square root of x**\n- $\\approx$: **is approximately equal to**\n- $\\propto$: **is proportional to**\n- $\\omega$: **omega**; $\\lambda$: **lambda**; $\\pi$: **pi**\n\n## 3. Reading some formulas\n\n- $v = \\dfrac{s}{t}$: **v equals s over t**\n- $F = ma$: **F equals m a** (force equals mass times acceleration)\n- $E_k = \\dfrac{1}{2}mv^2$: **kinetic energy equals one half m v squared**\n- $v^2 - v_0^2 = 2ad$: **v squared minus v nought squared equals two a d**\n- $T = 2\\pi\\sqrt{\\dfrac{l}{g}}$: **T equals two pi times the square root of l over g**\n\n**Tip:** when reading a formula in class, speak slowly and point to each symbol on the board; students will gradually get used to it."
+  },
+  "thuatNgu": [
+    { "en": "plus", "ipa": "/plʌs/", "vi": "cộng", "ghiChu": "" },
+    { "en": "minus", "ipa": "/ˈmaɪnəs/", "vi": "trừ", "ghiChu": "" },
+    { "en": "times", "ipa": "/taɪmz/", "vi": "nhân", "ghiChu": "" },
+    { "en": "divided by", "ipa": "/dɪˈvaɪdɪd baɪ/", "vi": "chia cho", "ghiChu": "" },
+    { "en": "equals", "ipa": "/ˈiːkwəlz/", "vi": "bằng", "ghiChu": "" },
+    { "en": "the square root of", "ipa": "/ðə skweə ruːt əv/", "vi": "căn bậc hai của", "ghiChu": "$\\sqrt{x}$" },
+    { "en": "is proportional to", "ipa": "/ɪz prəˈpɔːʃənl tuː/", "vi": "tỉ lệ thuận với", "ghiChu": "" },
+    { "en": "v nought", "ipa": "/viː nɔːt/", "vi": "v không (vận tốc ban đầu)", "ghiChu": "$v_0$" },
+    { "en": "F equals m a", "ipa": "", "vi": "F bằng m nhân a", "ghiChu": "$F = ma$" }
+  ]
+}

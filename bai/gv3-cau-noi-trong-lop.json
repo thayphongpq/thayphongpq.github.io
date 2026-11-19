@@ -1,0 +1,24 @@
+{
+  "ten": {
+    "vi": "Bài 3. Câu nói thường dùng trong lớp học",
+    "en": "Lesson 3. Everyday classroom language"
+  },
+  "mon": "Tiếng Anh",
+  "lop": "GV",
+  "noiDung": {
+    "vi": "Thầy cô nên đọc bài này ở chế độ **Song ngữ**: mỗi câu tiếng Việt nằm ngay cạnh câu tiếng Anh tương ứng.\n\n## 1. Bắt đầu buổi học\n\n- Chào cả lớp!\n- Các em ngồi xuống nhé.\n- Hôm nay bạn nào vắng?\n- Hôm nay chúng ta sẽ học về chuyển động.\n\n## 2. Giao nhiệm vụ\n\n- Các em mở sách trang 25.\n- Các em nhìn lên bảng.\n- Các em làm việc theo cặp.\n- Các em làm việc theo nhóm bốn người.\n- Các em có năm phút.\n- Em nào biết thì giơ tay.\n\n## 3. Kiểm tra học sinh có hiểu không\n\n- Các em hiểu chưa?\n- Có câu hỏi nào không?\n- Em nhắc lại được không?\n- Em giải thích vì sao được không?\n\n## 4. Khen và động viên\n\n- Làm tốt lắm!\n- Xuất sắc!\n- Em đã cố gắng rồi.\n- Gần đúng rồi, em thử lại nhé.\n- Đừng lo, sai giúp chúng ta học tốt hơn.\n\n## 5. Kết thúc buổi học\n\n- Hôm nay đến đây là hết.\n- Bài tập về nhà là bài 3 trang 30.\n- Hẹn gặp lại các em buổi sau.",
+    "en": "Teachers should read this lesson in **Bilingual** mode: each Vietnamese sentence sits right next to its English version.\n\n## 1. Starting the lesson\n\n- Good morning, class!\n- Please sit down.\n- Who is absent today?\n- Today we are going to learn about motion.\n\n## 2. Giving instructions\n\n- Open your books to page 25.\n- Look at the board, please.\n- Work in pairs.\n- Work in groups of four.\n- You have five minutes.\n- Raise your hand if you know the answer.\n\n## 3. Checking understanding\n\n- Is that clear?\n- Are there any questions?\n- Can you say that again?\n- Can you explain why?\n\n## 4. Praise and encouragement\n\n- Well done!\n- Excellent!\n- Good try!\n- You're nearly there. Try again.\n- Don't worry, mistakes help us learn.\n\n## 5. Ending the lesson\n\n- That's all for today.\n- Your homework is exercise 3 on page 30.\n- See you next time."
+  },
+  "thuatNgu": [
+    { "en": "Good morning, class!", "ipa": "", "vi": "Chào cả lớp! (buổi sáng)", "ghiChu": "Buổi chiều: Good afternoon, class!" },
+    { "en": "Open your books to page 25.", "ipa": "", "vi": "Các em mở sách trang 25.", "ghiChu": "" },
+    { "en": "Work in pairs.", "ipa": "", "vi": "Các em làm việc theo cặp.", "ghiChu": "" },
+    { "en": "Raise your hand.", "ipa": "", "vi": "Các em giơ tay.", "ghiChu": "" },
+    { "en": "Is that clear?", "ipa": "", "vi": "Các em hiểu chưa?", "ghiChu": "" },
+    { "en": "Are there any questions?", "ipa": "", "vi": "Có câu hỏi nào không?", "ghiChu": "" },
+    { "en": "Well done!", "ipa": "", "vi": "Làm tốt lắm!", "ghiChu": "" },
+    { "en": "You're nearly there. Try again.", "ipa": "", "vi": "Gần đúng rồi, em thử lại nhé.", "ghiChu": "" },
+    { "en": "That's all for today.", "ipa": "", "vi": "Hôm nay đến đây là hết.", "ghiChu": "" },
+    { "en": "See you next time.", "ipa": "", "vi": "Hẹn gặp lại buổi sau.", "ghiChu": "" }
+  ]
+}

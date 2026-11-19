@@ -1,0 +1,23 @@
+{
+  "ten": {
+    "vi": "Bài 6. Dạy Tin học và lập trình bằng tiếng Anh",
+    "en": "Lesson 6. Teaching IT and programming in English"
+  },
+  "mon": "Tiếng Anh",
+  "lop": "GV",
+  "noiDung": {
+    "vi": "## 1. Trong phòng máy\n\n- Các em bật máy tính.\n- Đăng nhập bằng tài khoản của em.\n- Mở phần mềm Python.\n- Tạo một tệp mới.\n- Lưu tệp với tên bai1.py.\n- Tắt máy trước khi ra về.\n\n## 2. Đọc mã lệnh thành tiếng\n\n```python\nx = 10\nif x > 5:\n    print(\"Big\")\nfor i in range(3):\n    print(i)\n```\n\n- `x = 10`: **set x to ten** (gán cho x giá trị 10)\n- `x > 5`: **x is greater than five**; `x < 5`: **x is less than five**\n- `x == 5`: **x is equal to five**\n- `print(\"Big\")`: **print the word Big**\n- `for i in range(3)`: **for i in range three**, i lần lượt nhận 0, 1, 2\n\n## 3. Khi chương trình bị lỗi\n\n- Chương trình có lỗi cú pháp.\n- Em kiểm tra lại thụt lề.\n- Em quên dấu hai chấm rồi.\n- Em thiếu một dấu ngoặc.\n- Em chạy lại chương trình nhé.\n- Đọc kĩ thông báo lỗi.",
+    "en": "## 1. In the computer lab\n\n- Turn on your computer.\n- Log in with your account.\n- Open Python.\n- Create a new file.\n- Save the file as bai1.py.\n- Shut down the computer before you leave.\n\n## 2. Reading code aloud\n\n```python\nx = 10\nif x > 5:\n    print(\"Big\")\nfor i in range(3):\n    print(i)\n```\n\n- `x = 10`: **set x to ten**\n- `x > 5`: **x is greater than five**; `x < 5`: **x is less than five**\n- `x == 5`: **x is equal to five**\n- `print(\"Big\")`: **print the word Big**\n- `for i in range(3)`: **for i in range three**, so i takes the values 0, 1 and 2\n\n## 3. When the program has an error\n\n- There is a syntax error.\n- Check the indentation.\n- You forgot the colon.\n- You are missing a bracket.\n- Run the program again.\n- Read the error message carefully."
+  },
+  "thuatNgu": [
+    { "en": "log in", "ipa": "/lɒɡ ɪn/", "vi": "đăng nhập", "ghiChu": "" },
+    { "en": "save the file", "ipa": "/seɪv ðə faɪl/", "vi": "lưu tệp", "ghiChu": "" },
+    { "en": "run the program", "ipa": "/rʌn ðə ˈprəʊɡræm/", "vi": "chạy chương trình", "ghiChu": "" },
+    { "en": "is greater than", "ipa": "/ɪz ˈɡreɪtə(r) ðæn/", "vi": "lớn hơn", "ghiChu": "`>`" },
+    { "en": "is less than", "ipa": "/ɪz les ðæn/", "vi": "nhỏ hơn", "ghiChu": "`<`" },
+    { "en": "syntax error", "ipa": "/ˈsɪntæks ˈerə(r)/", "vi": "lỗi cú pháp", "ghiChu": "" },
+    { "en": "colon", "ipa": "/ˈkəʊlən/", "vi": "dấu hai chấm", "ghiChu": "`:`" },
+    { "en": "bracket", "ipa": "/ˈbrækɪt/", "vi": "dấu ngoặc", "ghiChu": "`( )`" },
+    { "en": "error message", "ipa": "/ˈerə(r) ˈmesɪdʒ/", "vi": "thông báo lỗi", "ghiChu": "" }
+  ]
+}
