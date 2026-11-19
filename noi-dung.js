@@ -98,6 +98,12 @@ const VIDEO = [
 const DE_THI = [
   // ▼▼▼ DÁN ĐỀ MỚI NGAY DƯỚI DÒNG NÀY ▼▼▼
 
+  // ----- Vật lý 10 (sách thống nhất) - Chương II. Động học -----
+  { ten: "Bài 4. Độ dịch chuyển và quãng đường đi được", mon: "Vật lý", lop: "10", loai: "Luyện tập", tep: "de/vl10-bai04-do-dich-chuyen.txt", thoiGian: 20, ngay: "2026-11-19" },
+  { ten: "Bài 5. Tốc độ và vận tốc", mon: "Vật lý", lop: "10", loai: "Luyện tập", tep: "de/vl10-bai05-toc-do-van-toc.txt", thoiGian: 20, ngay: "2026-11-19" },
+  { ten: "Bài 6. Thực hành: Đo tốc độ của vật chuyển động", mon: "Vật lý", lop: "10", loai: "Luyện tập", tep: "de/vl10-bai06-thuc-hanh-do-toc-do.txt", thoiGian: 20, ngay: "2026-11-19" },
+  { ten: "Bài 7. Đồ thị độ dịch chuyển – thời gian", mon: "Vật lý", lop: "10", loai: "Luyện tập", tep: "de/vl10-bai07-do-thi-dich-chuyen.txt", thoiGian: 20, ngay: "2026-11-19" },
+
   // ----- Đề thi tốt nghiệp THPT chính thức của Bộ GD&ĐT -----
   { ten: "Đề chính thức TN THPT 2026 - Vật lí (mã đề 0214)", mon: "Vật lý", lop: "12", loai: "Thi thử TN THPT", tep: "de/2026-vat-li-chinh-thuc-0214.txt", thoiGian: 50, ngay: "2026-06-12" },
   { ten: "Đề chính thức TN THPT 2026 - Tin học (mã đề 0504) - Định hướng Khoa học máy tính", mon: "Tin học", lop: "12", loai: "Thi thử TN THPT", tep: ["de/tin2026-0504-p1.txt", "de/2026-tin-hoc-0504-cs.txt"], thoiGian: 50, ngay: "2026-06-12" },
@@ -149,14 +155,15 @@ const THI_NGHIEM_AO = [
   // ▼▼▼ DÁN THÍ NGHIỆM MỚI NGAY DƯỚI DÒNG NÀY ▼▼▼
 
   // ----- Vật lý 10 -----
-  { ten: "Chuyển động ném", phet: "projectile-motion", lop: "10", chuDe: "Động học", moTa: "Thay đổi góc ném, vận tốc đầu, độ cao; quan sát quỹ đạo, tầm xa và tầm cao." },
-  { ten: "Lực và chuyển động", phet: "forces-and-motion-basics", lop: "10", chuDe: "Động lực học", moTa: "Hợp lực, lực ma sát và định luật II Newton." },
-  { ten: "Mômen lực và cân bằng", phet: "balancing-act", lop: "10", chuDe: "Mômen lực", moTa: "Đặt vật lên đòn cân để tìm điều kiện cân bằng của vật rắn." },
-  { ten: "Bảo toàn cơ năng (trượt ván)", phet: "energy-skate-park-basics", lop: "10", chuDe: "Năng lượng, công, công suất", moTa: "Quan sát động năng, thế năng và cơ năng khi người trượt ván chuyển động." },
-  { ten: "Va chạm và động lượng", phet: "collision-lab", lop: "10", chuDe: "Động lượng", moTa: "Va chạm đàn hồi, va chạm mềm; kiểm chứng bảo toàn động lượng." },
-  { ten: "Lực đàn hồi của lò xo", phet: "masses-and-springs", lop: "10", chuDe: "Biến dạng của vật rắn", moTa: "Treo vật vào lò xo, đo độ giãn để kiểm chứng định luật Hooke." },
-  { ten: "Áp suất chất lỏng", phet: "under-pressure", lop: "10", chuDe: "Áp suất", moTa: "Áp suất phụ thuộc độ sâu và khối lượng riêng chất lỏng." },
-  { ten: "Lực hấp dẫn và quỹ đạo", phet: "gravity-and-orbits", lop: "10", chuDe: "Chuyển động tròn", moTa: "Chuyển động của Trái Đất, Mặt Trăng; lực hướng tâm." },
+  { ten: "Cộng vectơ: độ dịch chuyển, tổng hợp lực", phet: "vector-addition", lop: "10", chuDe: "Chương II. Động học · Bài 4. Độ dịch chuyển và quãng đường đi được", moTa: "Cộng hai vectơ độ dịch chuyển (hoặc hai lực); xem độ lớn, hướng và các thành phần của vectơ tổng." },
+  { ten: "Chuyển động ném", phet: "projectile-motion", lop: "10", chuDe: "Chương II. Động học · Bài 12. Chuyển động ném", moTa: "Thay đổi góc ném, vận tốc đầu, độ cao; quan sát quỹ đạo, tầm xa và tầm cao." },
+  { ten: "Lực và chuyển động", phet: "forces-and-motion-basics", lop: "10", chuDe: "Chương III. Động lực học · Bài 15. Định luật 2 Newton", moTa: "Hợp lực, lực ma sát và định luật 2 Newton." },
+  { ten: "Moment lực và cân bằng", phet: "balancing-act", lop: "10", chuDe: "Chương III. Động lực học · Bài 21. Moment lực. Cân bằng của vật rắn", moTa: "Đặt vật lên đòn cân để tìm điều kiện cân bằng của vật rắn." },
+  { ten: "Bảo toàn cơ năng (trượt ván)", phet: "energy-skate-park-basics", lop: "10", chuDe: "Chương IV. Năng lượng, công, công suất · Bài 26. Cơ năng và định luật bảo toàn cơ năng", moTa: "Quan sát động năng, thế năng và cơ năng khi người trượt ván chuyển động." },
+  { ten: "Va chạm và động lượng", phet: "collision-lab", lop: "10", chuDe: "Chương V. Động lượng · Bài 29. Định luật bảo toàn động lượng", moTa: "Va chạm đàn hồi, va chạm mềm; kiểm chứng bảo toàn động lượng." },
+  { ten: "Lực hấp dẫn và quỹ đạo", phet: "gravity-and-orbits", lop: "10", chuDe: "Chương VI. Chuyển động tròn · Bài 32. Lực hướng tâm và gia tốc hướng tâm", moTa: "Chuyển động của Trái Đất, Mặt Trăng; lực hướng tâm." },
+  { ten: "Lực đàn hồi của lò xo", phet: "masses-and-springs", lop: "10", chuDe: "Chương VII. Biến dạng của vật rắn. Áp suất chất lỏng · Bài 33. Biến dạng của vật rắn", moTa: "Treo vật vào lò xo, đo độ giãn để kiểm chứng định luật Hooke." },
+  { ten: "Áp suất chất lỏng", phet: "under-pressure", lop: "10", chuDe: "Chương VII. Biến dạng của vật rắn. Áp suất chất lỏng · Bài 34. Khối lượng riêng. Áp suất chất lỏng", moTa: "Áp suất phụ thuộc độ sâu và khối lượng riêng chất lỏng." },
 
   // ----- Vật lý 11 -----
   { ten: "Con lắc đơn", phet: "pendulum-lab", lop: "11", chuDe: "Dao động", moTa: "Chu kì con lắc phụ thuộc chiều dài, gia tốc trọng trường." },
