@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 320" font-family="Segoe UI, Arial, sans-serif">
+  <rect width="560" height="320" fill="#ffffff"/>
+  <defs>
+    <marker id="m" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#0f172a"/></marker>
+    <marker id="g" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#16a34a"/></marker>
+  </defs>
+  <!-- trục: gốc (60,160); e = E0 cos(2πt/T), E0 = 100 px, T = 200 px -->
+  <line x1="60" y1="160" x2="530" y2="160" stroke="#0f172a" stroke-width="2" marker-end="url(#m)"/>
+  <line x1="60" y1="290" x2="60" y2="25" stroke="#0f172a" stroke-width="2" marker-end="url(#m)"/>
+  <text x="518" y="185" font-size="20" font-style="italic" fill="#0f172a">t</text>
+  <text x="70" y="32" font-size="20" font-style="italic" fill="#0f172a">e</text>
+  <text x="48" y="178" text-anchor="end" font-size="18" fill="#0f172a">O</text>
+  <line x1="56" y1="60" x2="500" y2="60" stroke="#cbd5e1" stroke-width="1.5" stroke-dasharray="5 5"/>
+  <line x1="56" y1="260" x2="500" y2="260" stroke="#cbd5e1" stroke-width="1.5" stroke-dasharray="5 5"/>
+  <text x="48" y="66" text-anchor="end" font-size="19" fill="#dc2626">E₀</text>
+  <text x="48" y="266" text-anchor="end" font-size="19" fill="#dc2626">−E₀</text>
+  <!-- giá trị hiệu dụng E = E0/√2 ≈ 70.7 px -->
+  <line x1="56" y1="89.3" x2="500" y2="89.3" stroke="#f59e0b" stroke-width="1.5" stroke-dasharray="8 4"/>
+  <text x="48" y="95" text-anchor="end" font-size="17" fill="#b45309">E</text>
+  <text x="468" y="84" font-size="14" fill="#b45309">E = E₀/√2</text>
+  <polyline points="60,60 70,64.9 80,79.1 90,101.2 100,129.1 110,160 120,190.9 130,218.8 140,240.9 150,255.1 160,260 170,255.1 180,240.9 190,218.8 200,190.9 210,160 220,129.1 230,101.2 240,79.1 250,64.9 260,60 270,64.9 280,79.1 290,101.2 300,129.1 310,160 320,190.9 330,218.8 340,240.9 350,255.1 360,260 370,255.1 380,240.9 390,218.8 400,190.9 410,160 420,129.1 430,101.2 440,79.1 450,64.9 460,60" fill="none" stroke="#2563eb" stroke-width="3.5" stroke-linejoin="round"/>
+  <!-- chu kì T -->
+  <line x1="60" y1="40" x2="260" y2="40" stroke="#16a34a" stroke-width="2.5" marker-start="url(#g)" marker-end="url(#g)"/>
+  <text x="160" y="32" text-anchor="middle" font-size="20" font-weight="700" fill="#16a34a">T</text>
+  <line x1="260" y1="40" x2="260" y2="60" stroke="#16a34a" stroke-width="1.5" stroke-dasharray="3 3"/>
+  <text x="290" y="312" text-anchor="middle" font-size="16" fill="#475569">e = E₀ cos(ωt + φ₀), E₀ = NBSω (ở đây φ₀ = 0)</text>
+</svg>

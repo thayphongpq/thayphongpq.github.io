@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 330" font-family="Segoe UI, Arial, sans-serif">
+  <rect width="560" height="330" fill="#ffffff"/>
+  <defs>
+    <marker id="b" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#2563eb"/></marker>
+    <marker id="k" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#0f172a"/></marker>
+    <marker id="g" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#16a34a"/></marker>
+  </defs>
+  <!-- đường sức từ trường đều -->
+  <line x1="40" y1="60" x2="520" y2="60" stroke="#93c5fd" stroke-width="2" marker-end="url(#b)"/>
+  <line x1="40" y1="110" x2="520" y2="110" stroke="#93c5fd" stroke-width="2" marker-end="url(#b)"/>
+  <line x1="40" y1="210" x2="520" y2="210" stroke="#93c5fd" stroke-width="2" marker-end="url(#b)"/>
+  <line x1="40" y1="260" x2="520" y2="260" stroke="#93c5fd" stroke-width="2" marker-end="url(#b)"/>
+  <line x1="40" y1="160" x2="270" y2="160" stroke="#93c5fd" stroke-width="2"/>
+  <line x1="390" y1="160" x2="520" y2="160" stroke="#93c5fd" stroke-width="2" marker-end="url(#b)"/>
+  <text x="500" y="50" font-size="20" font-style="italic" font-weight="700" fill="#2563eb">B</text>
+  <!-- vòng dây nhìn nghiêng: tâm (280,160), mặt phẳng hướng (0.643, 0.766), nửa dài 110 -->
+  <line x1="209.3" y1="75.7" x2="350.7" y2="244.3" stroke="#dc2626" stroke-width="6" stroke-linecap="round"/>
+  <text x="362" y="262" font-size="18" font-weight="700" fill="#dc2626">S</text>
+  <!-- vectơ B tại tâm và pháp tuyến n (α = 40°) -->
+  <line x1="280" y1="160" x2="385" y2="160" stroke="#2563eb" stroke-width="3.5" marker-end="url(#b)"/>
+  <line x1="280" y1="160" x2="356.6" y2="95.7" stroke="#16a34a" stroke-width="3.5" marker-end="url(#g)"/>
+  <text x="362" y="92" font-size="20" font-style="italic" font-weight="700" fill="#16a34a">n</text>
+  <path d="M325,160 A45,45 0 0 0 314.5,131.1" fill="none" stroke="#0f172a" stroke-width="2"/>
+  <text x="331" y="148" font-size="19" font-style="italic" fill="#0f172a">α</text>
+  <circle cx="280" cy="160" r="4" fill="#0f172a"/>
+  <text x="280" y="318" text-anchor="middle" font-size="19" font-style="italic" fill="#0f172a">Φ = BS cos α</text>
+</svg>

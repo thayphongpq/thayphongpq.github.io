@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 330" font-family="Segoe UI, Arial, sans-serif">
+  <rect width="560" height="330" fill="#ffffff"/>
+  <!-- lõi biến áp: khung vuông -->
+  <path d="M180,50 H380 V270 H180 Z M230,100 V220 H330 V100 Z" fill="#cbd5e1" fill-rule="evenodd" stroke="#475569" stroke-width="2"/>
+  <text x="280" y="40" text-anchor="middle" font-size="15" fill="#475569">lõi thép (core)</text>
+  <!-- cuộn sơ cấp trên cạnh trái: 8 vòng -->
+  <g stroke="#dc2626" stroke-width="4" stroke-linecap="round">
+    <line x1="170" y1="110" x2="240" y2="116"/>
+    <line x1="170" y1="124" x2="240" y2="130"/>
+    <line x1="170" y1="138" x2="240" y2="144"/>
+    <line x1="170" y1="152" x2="240" y2="158"/>
+    <line x1="170" y1="166" x2="240" y2="172"/>
+    <line x1="170" y1="180" x2="240" y2="186"/>
+    <line x1="170" y1="194" x2="240" y2="200"/>
+    <line x1="170" y1="208" x2="240" y2="214"/>
+  </g>
+  <!-- cuộn thứ cấp trên cạnh phải: 13 vòng -->
+  <g stroke="#2563eb" stroke-width="3" stroke-linecap="round">
+    <line x1="320" y1="104" x2="390" y2="110"/>
+    <line x1="320" y1="113" x2="390" y2="119"/>
+    <line x1="320" y1="122" x2="390" y2="128"/>
+    <line x1="320" y1="131" x2="390" y2="137"/>
+    <line x1="320" y1="140" x2="390" y2="146"/>
+    <line x1="320" y1="149" x2="390" y2="155"/>
+    <line x1="320" y1="158" x2="390" y2="164"/>
+    <line x1="320" y1="167" x2="390" y2="173"/>
+    <line x1="320" y1="176" x2="390" y2="182"/>
+    <line x1="320" y1="185" x2="390" y2="191"/>
+    <line x1="320" y1="194" x2="390" y2="200"/>
+    <line x1="320" y1="203" x2="390" y2="209"/>
+    <line x1="320" y1="212" x2="390" y2="218"/>
+  </g>
+  <!-- dây ra -->
+  <path d="M170,110 H90" stroke="#dc2626" stroke-width="2.5" fill="none"/>
+  <path d="M170,208 H90" stroke="#dc2626" stroke-width="2.5" fill="none"/>
+  <circle cx="90" cy="110" r="5" fill="#dc2626"/>
+  <circle cx="90" cy="208" r="5" fill="#dc2626"/>
+  <path d="M390,110 H470" stroke="#2563eb" stroke-width="2.5" fill="none"/>
+  <path d="M390,218 H470" stroke="#2563eb" stroke-width="2.5" fill="none"/>
+  <circle cx="470" cy="110" r="5" fill="#2563eb"/>
+  <circle cx="470" cy="218" r="5" fill="#2563eb"/>
+  <text x="80" y="166" text-anchor="end" font-size="20" font-style="italic" font-weight="700" fill="#dc2626">U₁</text>
+  <text x="480" y="170" font-size="20" font-style="italic" font-weight="700" fill="#2563eb">U₂</text>
+  <text x="140" y="250" text-anchor="middle" font-size="17" font-style="italic" fill="#dc2626">N₁</text>
+  <text x="420" y="250" text-anchor="middle" font-size="17" font-style="italic" fill="#2563eb">N₂</text>
+  <text x="140" y="90" text-anchor="middle" font-size="14" fill="#475569">sơ cấp (primary)</text>
+  <text x="420" y="90" text-anchor="middle" font-size="14" fill="#475569">thứ cấp (secondary)</text>
+  <text x="280" y="312" text-anchor="middle" font-size="19" font-style="italic" fill="#0f172a">U₁ / U₂ = N₁ / N₂</text>
+</svg>
