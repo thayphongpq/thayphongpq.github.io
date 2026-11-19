@@ -1,0 +1,169 @@
+VẬT LÍ 10 - CHƯƠNG II. ĐỘNG HỌC - BÀI 11. THỰC HÀNH: ĐO GIA TỐC RƠI TỰ DO - ĐỀ 2
+Đề kiểm tra theo cấu trúc thi tốt nghiệp THPT (biên soạn: thầy Lâm Thế Phong, THPT An Thới)
+Thời gian: 50
+
+PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn
+Câu 1. Vật rơi tự do chuyển động rất nhanh. Để đo chính xác thời gian rơi trong thí nghiệm, người ta dùng
+A. đồng hồ bấm giây cầm tay.
+B. đồng hồ treo tường.
+*C. đồng hồ đo thời gian hiện số kết hợp với cổng quang điện.
+D. đồng hồ cát.
+
+Câu 2. Trong thí nghiệm đo gia tốc rơi tự do theo SGK, vật được thả rơi là
+A. quả bóng bàn.
+*B. vật bằng thép hình trụ.
+C. tờ giấy.
+D. chiếc lông chim.
+
+Câu 3. Quãng đường s cần đo trong thí nghiệm là khoảng cách
+A. từ mặt đất đến cổng quang điện.
+B. từ nam châm điện đến mặt đất.
+C. từ đồng hồ đến cổng quang điện.
+*D. từ vị trí trụ thép bắt đầu rơi đến cổng quang điện.
+
+Câu 4. Công tắc kép trong bộ thí nghiệm được nối với
+*A. nam châm điện, để ngắt điện vào nam châm khi muốn thả trụ thép.
+B. cổng quang điện, để bật tắt tia sáng.
+C. nguồn điện của đồng hồ.
+D. dây dọi.
+
+Câu 5. Trong Bảng 11.1 (mẫu báo cáo), ứng với mỗi vị trí của cổng quang điện, người ta đo thời gian rơi
+A. 1 lần.
+B. 2 lần.
+*C. nhiều lần (5 lần) để lấy giá trị trung bình.
+D. không cần đo.
+
+Câu 6. Trụ thép rơi được quãng đường 0,600 m trong thời gian 0,350 s. Gia tốc rơi tự do tính từ số liệu này xấp xỉ
+*A. 9,80 m/s².
+B. 3,43 m/s².
+C. 4,90 m/s².
+D. 1,71 m/s².
+Lời giải: $g = \dfrac{1{,}2}{0{,}1225} \approx 9{,}80$ m/s².
+
+Câu 7. Lấy g = 9,8 m/s². Thời gian để trụ thép rơi tự do được 0,9 m xấp xỉ
+A. 0,18 s.
+*B. 0,43 s.
+C. 0,30 s.
+D. 0,09 s.
+Lời giải: $t = \sqrt{\dfrac{2\cdot 0{,}9}{9{,}8}} \approx 0{,}43$ s.
+
+Câu 8. Nếu dịch cổng quang điện để quãng đường rơi tăng gấp 4 lần thì thời gian rơi đo được sẽ
+A. tăng gấp 4 lần.
+*B. tăng gấp 2 lần.
+C. không đổi.
+D. giảm 2 lần.
+
+Câu 9. Mục đích của việc đo ở nhiều vị trí khác nhau của cổng quang điện là
+A. để trụ thép rơi nhanh hơn.
+*B. để có nhiều cặp giá trị (s, t), vẽ đồ thị s – $t^2$ và kiểm tra tính chất của chuyển động rơi tự do.
+C. để giảm khối lượng trụ thép.
+D. để đo được lực cản không khí.
+
+Câu 10. Đồ thị s theo $t^2$ vẽ từ số liệu thí nghiệm là một đường thẳng. Điều đó chứng tỏ
+A. trụ thép chuyển động thẳng đều.
+*B. quãng đường rơi tỉ lệ với bình phương thời gian, chuyển động rơi là nhanh dần đều.
+C. trụ thép chuyển động chậm dần đều.
+D. gia tốc rơi thay đổi.
+
+Câu 11. Mỗi lần đo quãng đường s, một học sinh đều đặt vạch số 0 của thước cao hơn vị trí trụ thép bắt đầu rơi 1 cm. Sai số này thuộc loại
+A. sai số ngẫu nhiên.
+*B. sai số hệ thống.
+C. không phải sai số.
+D. sai số tỉ đối bằng 0.
+Lời giải: Lần đo nào cũng lệch cùng một lượng theo cùng một chiều.
+
+Câu 12. Sau khi kết thúc thí nghiệm, cần
+A. để nguyên đồng hồ đang bật.
+*B. tắt nguồn điện đồng hồ đo thời gian, tháo và sắp xếp dụng cụ ngăn nắp.
+C. tháo cổng quang điện khi đồng hồ đang bật.
+D. để trụ thép trên nam châm điện.
+
+Câu 13. Năm giá trị g đo được có trung bình là 9,79 m/s², sai số tuyệt đối 0,02 m/s². Kết quả đo được ghi là
+A. g = 9,79 . 0,02 m/s².
+*B. g = 9,79 ± 0,02 m/s².
+C. g = 0,02 ± 9,79 m/s².
+D. g = 9,81 m/s².
+
+Câu 14. Khi dùng camera điện thoại và phần mềm phân tích video để đo gia tốc rơi tự do, cần đặt cạnh vật rơi
+A. một nhiệt kế.
+*B. một thước đo độ dài, để quy đổi khoảng cách trên video ra khoảng cách thật.
+C. một lực kế.
+D. một cái cân.
+
+Câu 15. Gia tốc rơi tự do có thể đo bằng con lắc đơn nhờ phát hiện rằng chu kì dao động của con lắc
+A. tỉ lệ với khối lượng quả nặng.
+B. không phụ thuộc chiều dài con lắc.
+*C. tỉ lệ với căn bậc hai chiều dài con lắc.
+D. tỉ lệ với bình phương chiều dài con lắc.
+
+Câu 16. Trong bộ dụng cụ, máng đứng có gắn
+A. nhiệt kế.
+B. lực kế.
+C. thước đo góc.
+*D. dây dọi.
+
+Câu 17. Kết quả đo: $s = 0{,}400 \pm 0{,}001$ m; $t = 0{,}286 \pm 0{,}001$ s. Sai số tỉ đối của g gần nhất với giá trị nào sau đây?
+A. 0,35%.
+*B. 0,95%.
+C. 0,6%.
+D. 2%.
+Lời giải: $\delta s = 0{,}25\%$; $\delta t \approx 0{,}35\%$; $\delta g = 0{,}25\% + 2\cdot 0{,}35\% \approx 0{,}95\%$.
+
+Câu 18. Một học sinh muốn dùng viên bi thép thay cho trụ thép. Điều kiện cần để thí nghiệm vẫn thực hiện được là
+*A. nam châm điện giữ được viên bi và viên bi rơi qua cổng quang điện, chắn được tia sáng.
+B. viên bi phải nhẹ hơn tờ giấy.
+C. viên bi phải được ném xuống.
+D. không thể thay vì bi thép không rơi tự do.
+
+PHẦN II. Câu trắc nghiệm đúng sai
+Câu 1. Cổng quang điện đặt cách vị trí trụ thép bắt đầu rơi 0,300 m. Năm lần đo thời gian rơi được: 0,247 s; 0,248 s; 0,247 s; 0,246 s; 0,247 s.
+a) Giá trị trung bình của thời gian rơi là 0,247 s. (Đ)
+b) Gia tốc rơi tự do tính theo giá trị trung bình xấp xỉ 9,83 m/s². (Đ)
+c) Sai số ngẫu nhiên tuyệt đối trung bình của thời gian là 0,001 s. (S)
+d) Các lần đo cho kết quả khác nhau một chút là do sai số ngẫu nhiên. (Đ)
+Lời giải: $\overline{t} = \dfrac{1{,}235}{5} = 0{,}247$ s; $g = \dfrac{0{,}6}{0{,}247^2} \approx 9{,}83$ m/s². Các $\Delta t_i$: 0; 0,001; 0; 0,001; 0, nên $\overline{\Delta t} = 0{,}0004$ s.
+
+Câu 2. Một nhóm vẽ đồ thị s theo $t^2$ từ số liệu đo và được một đường thẳng đi qua gốc toạ độ, hệ số góc 4,90 m/s².
+a) Gia tốc rơi tự do đo được là 9,80 m/s². (Đ)
+b) Chuyển động của trụ thép là chuyển động thẳng nhanh dần đều. (Đ)
+c) Nếu đồ thị s theo t (không bình phương) thì cũng là đường thẳng. (S)
+d) Đồ thị s theo $t^2$ là đường thẳng đi qua gốc toạ độ, chứng tỏ trụ thép bắt đầu rơi không vận tốc đầu. (Đ)
+Lời giải: $s = \dfrac{1}{2}g.t^2$ nên s theo t là đường parabol, chỉ s theo $t^2$ mới là đường thẳng. Nếu có vận tốc đầu $v_0$ thì $s = v_0.t + \dfrac{1}{2}g.t^2$, đồ thị s – $t^2$ không còn là đường thẳng.
+
+Câu 3. Về vai trò các dụng cụ trong thí nghiệm:
+a) Cổng quang điện được cắm vào ổ B ở mặt sau đồng hồ. (Đ)
+b) Nam châm điện có nhiệm vụ đo thời gian rơi. (S)
+c) Đồng hồ đo thời gian hiện số có thể đo thời gian chính xác đến phần nghìn giây. (Đ)
+d) Giá đỡ có đế ba chân, có vít chỉnh cân bằng giúp đặt máng đứng ổn định. (Đ)
+Lời giải: Nam châm điện dùng để giữ và thả trụ thép.
+
+Câu 4. Một nhóm đo được ba giá trị: g₁ = 9,76 m/s²; g₂ = 9,84 m/s²; g₃ = 9,80 m/s².
+a) Giá trị trung bình là 9,80 m/s². (Đ)
+b) Sai số tuyệt đối trung bình là 0,04 m/s². (S)
+c) Kết quả có thể ghi là g = 9,80 ± 0,03 m/s². (Đ)
+d) Giá trị đo được phù hợp với giá trị g ≈ 9,8 m/s² thường dùng ở gần mặt đất. (Đ)
+Lời giải: Các $\Delta g_i$: 0,04; 0,04; 0, nên $\overline{\Delta g} = \dfrac{0{,}08}{3} \approx 0{,}027 \approx 0{,}03$ m/s².
+
+PHẦN III. Câu trắc nghiệm trả lời ngắn
+Câu 1. Trụ thép rơi được quãng đường 0,60 m trong thời gian 0,35 s. Gia tốc rơi tự do tính từ số liệu này là bao nhiêu m/s²? (Làm tròn đến hàng phần mười.)
+Đáp án: 9,8|9.8
+
+Câu 2. Lấy g = 9,8 m/s². Quãng đường trụ thép rơi tự do được trong 0,3 s là bao nhiêu mét? (Làm tròn đến hàng phần trăm.)
+Đáp án: 0,44|0.44
+Lời giải: $s = \dfrac{1}{2}\cdot 9{,}8\cdot 0{,}09 = 0{,}441 \approx 0{,}44$ m.
+
+Câu 3. Đồ thị s theo $t^2$ là đường thẳng qua gốc. Với $t^2$ = 0,10 s² thì s = 0,49 m. Gia tốc rơi tự do là bao nhiêu m/s²?
+Đáp án: 9,8|9.8
+Lời giải: Hệ số góc 4,9 m/s² $= \dfrac{g}{2}$ ⇒ g = 9,8 m/s².
+
+Câu 4. Thời gian rơi được đo 5 lần: 0,301 s; 0,303 s; 0,302 s; 0,300 s; 0,304 s. Giá trị trung bình của thời gian rơi là bao nhiêu mili giây (ms)?
+Đáp án: 302
+Lời giải: Tổng 1,510 s; trung bình 0,302 s = 302 ms.
+
+Câu 5. Kết quả đo: $s = 0{,}800 \pm 0{,}002$ m; $t = 0{,}404 \pm 0{,}002$ s. Sai số tỉ đối của g là bao nhiêu phần trăm? (Làm tròn đến hàng phần mười.)
+Đáp án: 1,2|1.2
+Lời giải: $\delta s = 0{,}25\%$; $\delta t \approx 0{,}495\%$; $\delta g \approx 0{,}25\% + 0{,}99\% \approx 1{,}24\% \approx 1{,}2\%$.
+
+Câu 6. Gia tốc rơi tự do đo được là $\overline{g}$ = 9,79 m/s² với sai số tỉ đối 0,5%. Sai số tuyệt đối của g là bao nhiêu m/s²? (Làm tròn đến hàng phần trăm.)
+Đáp án: 0,05|0.05
+Lời giải: $\Delta g = 0{,}005\cdot 9{,}79 \approx 0{,}049 \approx 0{,}05$ m/s².
