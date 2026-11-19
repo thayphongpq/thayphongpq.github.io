@@ -1,0 +1,22 @@
+{
+  "ten": {
+    "vi": "Kịch bản tiết dạy mẫu Tin học: Câu lệnh if",
+    "en": "Sample IT lesson script: The if statement"
+  },
+  "mon": "Tiếng Anh",
+  "lop": "GV",
+  "noiDung": {
+    "vi": "Kịch bản cho một tiết Tin học 10 khoảng 45 phút ở phòng máy. Thầy cô đọc ở chế độ **Song ngữ**, luyện đọc to phần tiếng Anh, rồi điều chỉnh cho phù hợp lớp mình.\n\n## Bước 1. Khởi động (5 phút)\n\n- Chào cả lớp. Các em đăng nhập vào máy tính nhé.\n- Hôm nay chúng ta học cách để chương trình tự đưa ra quyết định.\n- Nếu trời mưa, thầy cô mang ô. Nếu không, thầy cô không mang.\n- Em nào cho một ví dụ khác có chữ \"nếu\"?\n\n## Bước 2. Hình thành kiến thức (15 phút)\n\n- Trong Python, chúng ta dùng câu lệnh if.\n- Các em nhìn đoạn mã trên màn hình.\n- Nếu điểm lớn hơn hoặc bằng năm thì in ra Đạt.\n- Đừng quên dấu hai chấm ở cuối điều kiện.\n- Các lệnh bên trong khối if phải được thụt lề.\n\n## Bước 3. Thực hành (20 phút)\n\n- Các em mở trình soạn thảo Python và gõ chương trình này.\n- Chạy chương trình và nhập một điểm số.\n- Điều gì xảy ra nếu em nhập số bốn?\n- Bây giờ sửa chương trình để in ra Giỏi nếu điểm từ tám trở lên.\n- Nếu bị lỗi, các em kiểm tra lại thụt lề.\n\n## Bước 4. Củng cố và giao bài (5 phút)\n\n- Hôm nay chúng ta đã học câu lệnh if.\n- Các em nhớ: điều kiện, dấu hai chấm, thụt lề.\n- Lưu tệp và đăng xuất nhé.\n- Hẹn gặp lại các em buổi sau.",
+    "en": "A script for a 45-minute Grade 10 IT lesson in the computer lab. Read it in **Bilingual** mode, practise reading the English aloud, then adapt it to your own class.\n\n## Step 1. Warm-up (5 minutes)\n\n- Good afternoon, everyone. Please log in to your computers.\n- Today we will learn how a program makes decisions.\n- If it rains, I take an umbrella. If not, I don't.\n- Can you give me another example with \"if\"?\n\n## Step 2. New knowledge (15 minutes)\n\n- In Python, we use the if statement.\n- Look at the code on the screen.\n- If the score is greater than or equal to five, print Pass.\n- Don't forget the colon at the end of the condition.\n- The code inside the if block must be indented.\n\n## Step 3. Practice (20 minutes)\n\n- Open the Python editor and type this program.\n- Run the program and enter a score.\n- What happens if you enter four?\n- Now change the program to print Excellent if the score is eight or more.\n- If you get an error, check the indentation.\n\n## Step 4. Summary and homework (5 minutes)\n\n- Today we learned the if statement.\n- Remember: condition, colon, indentation.\n- Save your file and log out, please.\n- See you next lesson."
+  },
+  "thuatNgu": [
+    { "en": "Please log in to your computers.", "ipa": "", "vi": "Các em đăng nhập vào máy tính nhé.", "ghiChu": "" },
+    { "en": "Today we will learn how a program makes decisions.", "ipa": "", "vi": "Hôm nay chúng ta học cách để chương trình tự đưa ra quyết định.", "ghiChu": "" },
+    { "en": "In Python, we use the if statement.", "ipa": "", "vi": "Trong Python, ta dùng câu lệnh if.", "ghiChu": "" },
+    { "en": "Don't forget the colon at the end of the condition.", "ipa": "", "vi": "Đừng quên dấu hai chấm ở cuối điều kiện.", "ghiChu": "" },
+    { "en": "The code inside the if block must be indented.", "ipa": "", "vi": "Các lệnh trong khối if phải được thụt lề.", "ghiChu": "" },
+    { "en": "Run the program and enter a score.", "ipa": "", "vi": "Chạy chương trình và nhập một điểm số.", "ghiChu": "" },
+    { "en": "What happens if you enter four?", "ipa": "", "vi": "Điều gì xảy ra nếu em nhập số bốn?", "ghiChu": "" },
+    { "en": "Remember: condition, colon, indentation.", "ipa": "", "vi": "Nhớ nhé: điều kiện, dấu hai chấm, thụt lề.", "ghiChu": "" }
+  ]
+}

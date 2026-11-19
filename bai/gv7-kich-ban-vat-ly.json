@@ -1,0 +1,22 @@
+{
+  "ten": {
+    "vi": "Kịch bản tiết dạy mẫu Vật lý: Gia tốc",
+    "en": "Sample physics lesson script: Acceleration"
+  },
+  "mon": "Tiếng Anh",
+  "lop": "GV",
+  "noiDung": {
+    "vi": "Kịch bản cho một tiết Vật lý 10 khoảng 45 phút. Thầy cô đọc ở chế độ **Song ngữ**, luyện đọc to phần tiếng Anh, rồi điều chỉnh cho phù hợp lớp mình.\n\n## Bước 1. Khởi động (5 phút)\n\n- Chào cả lớp. Hôm nay chúng ta học về gia tốc.\n- Các em xem đoạn video này: ô tô bắt đầu chạy và nhanh dần.\n- Các em thấy vận tốc của ô tô thay đổi thế nào?\n- Đúng rồi, vận tốc tăng. Vậy nó tăng nhanh hay chậm?\n\n## Bước 2. Hình thành kiến thức (15 phút)\n\n- Gia tốc cho biết vận tốc thay đổi nhanh hay chậm.\n- Chúng ta viết công thức: a bằng đenta v chia cho đenta t.\n- Đơn vị của gia tốc là mét trên giây bình phương.\n- Các em đọc theo thầy cô: acceleration.\n- Nếu vận tốc giảm thì gia tốc ngược chiều với vận tốc.\n\n## Bước 3. Luyện tập (20 phút)\n\n- Chúng ta cùng làm bài tập thứ nhất.\n- Ô tô tăng tốc từ 10 lên 20 mét trên giây trong 5 giây. Tính gia tốc.\n- Đề bài cho biết gì? Ta cần tìm gì?\n- Các em làm việc theo cặp trong ba phút.\n- Bạn nào muốn lên bảng?\n- Làm tốt lắm! Gia tốc bằng hai mét trên giây bình phương.\n\n## Bước 4. Củng cố và giao bài (5 phút)\n\n- Hôm nay chúng ta đã học được gì?\n- Gia tốc là tốc độ thay đổi của vận tốc.\n- Bài tập về nhà: bài hai và bài ba.\n- Hẹn gặp lại các em buổi sau.",
+    "en": "A script for a 45-minute Grade 10 physics lesson. Read it in **Bilingual** mode, practise reading the English aloud, then adapt it to your own class.\n\n## Step 1. Warm-up (5 minutes)\n\n- Good morning, class. Today we are going to learn about acceleration.\n- Look at this video. The car starts and speeds up.\n- What do you notice about the velocity of the car?\n- That's right, the velocity increases. Does it increase quickly or slowly?\n\n## Step 2. New knowledge (15 minutes)\n\n- Acceleration tells us how quickly the velocity changes.\n- Let's write the formula: a equals delta v over delta t.\n- The unit of acceleration is metres per second squared.\n- Please repeat after me: acceleration.\n- If the velocity decreases, the acceleration is opposite to the velocity.\n\n## Step 3. Practice (20 minutes)\n\n- Let's do the first exercise together.\n- A car speeds up from 10 to 20 metres per second in 5 seconds. Find the acceleration.\n- What information is given? What do we need to find?\n- Work in pairs for three minutes.\n- Who would like to come to the board?\n- Well done! The acceleration is two metres per second squared.\n\n## Step 4. Summary and homework (5 minutes)\n\n- What have we learned today?\n- Acceleration is the rate of change of velocity.\n- For homework, do exercises two and three.\n- See you next time."
+  },
+  "thuatNgu": [
+    { "en": "Today we are going to learn about acceleration.", "ipa": "", "vi": "Hôm nay chúng ta học về gia tốc.", "ghiChu": "" },
+    { "en": "What do you notice about the velocity of the car?", "ipa": "", "vi": "Các em thấy vận tốc của ô tô thay đổi thế nào?", "ghiChu": "" },
+    { "en": "Acceleration tells us how quickly the velocity changes.", "ipa": "", "vi": "Gia tốc cho biết vận tốc thay đổi nhanh hay chậm.", "ghiChu": "" },
+    { "en": "a equals delta v over delta t", "ipa": "", "vi": "a bằng đenta v chia đenta t", "ghiChu": "$a = \\dfrac{\\Delta v}{\\Delta t}$" },
+    { "en": "Please repeat after me: acceleration.", "ipa": "", "vi": "Các em đọc theo: acceleration.", "ghiChu": "" },
+    { "en": "What information is given? What do we need to find?", "ipa": "", "vi": "Đề bài cho biết gì? Ta cần tìm gì?", "ghiChu": "" },
+    { "en": "Who would like to come to the board?", "ipa": "", "vi": "Bạn nào muốn lên bảng?", "ghiChu": "" },
+    { "en": "Acceleration is the rate of change of velocity.", "ipa": "", "vi": "Gia tốc là tốc độ thay đổi của vận tốc.", "ghiChu": "" }
+  ]
+}
