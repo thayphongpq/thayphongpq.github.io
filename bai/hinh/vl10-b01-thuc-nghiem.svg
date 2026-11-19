@@ -1,21 +1,21 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 600" font-family="Segoe UI, Arial, sans-serif">
-  <rect width="520" height="600" fill="#ffffff"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 620" font-family="Segoe UI, Arial, sans-serif">
+  <rect width="520" height="620" fill="#ffffff"/>
   <defs>
     <marker id="m" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#334155"/></marker>
     <marker id="d" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#dc2626"/></marker>
   </defs>
   <text x="260" y="36" text-anchor="middle" font-size="24" font-weight="700" fill="#0f172a">Phương pháp thực nghiệm</text>
-  <g font-size="21" fill="#0f172a">
+  <g font-size="20" fill="#0f172a">
     <rect x="30" y="60" width="340" height="70" rx="12" fill="#e0f2fe" stroke="#0284c7" stroke-width="2.5"/>
-    <text x="50" y="92" font-weight="700" fill="#0369a1">Bước 1</text><text x="50" y="118">Quan sát, suy luận</text>
+    <text x="50" y="92" font-weight="700" fill="#0369a1">Bước 1</text><text x="50" y="118">Xác định vấn đề cần nghiên cứu</text>
     <rect x="30" y="160" width="340" height="70" rx="12" fill="#e0f2fe" stroke="#0284c7" stroke-width="2.5"/>
-    <text x="50" y="192" font-weight="700" fill="#0369a1">Bước 2</text><text x="50" y="218">Đề xuất vấn đề</text>
+    <text x="50" y="192" font-weight="700" fill="#0369a1">Bước 2</text><text x="50" y="218">Quan sát, thu thập thông tin</text>
     <rect x="30" y="260" width="340" height="70" rx="12" fill="#fef3c7" stroke="#d97706" stroke-width="2.5"/>
-    <text x="50" y="292" font-weight="700" fill="#b45309">Bước 3</text><text x="50" y="318">Hình thành giả thuyết</text>
+    <text x="50" y="292" font-weight="700" fill="#b45309">Bước 3</text><text x="50" y="318">Đưa ra dự đoán</text>
     <rect x="30" y="360" width="340" height="70" rx="12" fill="#e0f2fe" stroke="#0284c7" stroke-width="2.5"/>
-    <text x="50" y="392" font-weight="700" fill="#0369a1">Bước 4</text><text x="50" y="418">Kiểm tra bằng thí nghiệm</text>
+    <text x="50" y="392" font-weight="700" fill="#0369a1">Bước 4</text><text x="50" y="418">Thí nghiệm kiểm tra dự đoán</text>
     <rect x="30" y="460" width="340" height="70" rx="12" fill="#dcfce7" stroke="#16a34a" stroke-width="2.5"/>
-    <text x="50" y="492" font-weight="700" fill="#15803d">Bước 5</text><text x="50" y="518">Rút ra kết luận</text>
+    <text x="50" y="492" font-weight="700" fill="#15803d">Bước 5</text><text x="50" y="518">Kết luận</text>
   </g>
   <g stroke="#334155" stroke-width="2.5" marker-end="url(#m)">
     <line x1="200" y1="130" x2="200" y2="157"/>
@@ -24,8 +24,11 @@
     <line x1="200" y1="430" x2="200" y2="457"/>
   </g>
   <path d="M370,495 L440,495 L440,295 L374,295" fill="none" stroke="#dc2626" stroke-width="2.5" stroke-dasharray="7 5" marker-end="url(#d)"/>
-  <g font-size="17" fill="#dc2626" text-anchor="middle">
-    <text x="476" y="380">Không</text><text x="476" y="402">phù hợp:</text><text x="476" y="424">làm lại</text>
+  <path d="M440,295 L440,95 L374,95" fill="none" stroke="#dc2626" stroke-width="2" stroke-dasharray="3 5" marker-end="url(#d)"/>
+  <g font-size="16" fill="#dc2626" text-anchor="middle">
+    <text x="478" y="372">Dự đoán</text><text x="478" y="392">sai:</text><text x="478" y="412">dự đoán</text><text x="478" y="432">mới</text>
+    <text x="478" y="172">hoặc</text><text x="478" y="192">xác định</text><text x="478" y="212">lại vấn đề</text>
   </g>
-  <text x="200" y="566" text-anchor="middle" font-size="18" fill="#15803d">Kết quả phù hợp → giả thuyết đúng</text>
+  <text x="200" y="566" text-anchor="middle" font-size="18" fill="#15803d">Dự đoán đúng → rút ra kết luận</text>
+  <text x="260" y="600" text-anchor="middle" font-size="14" fill="#475569">Theo sơ đồ phương pháp thực nghiệm, SGK Vật lí 10</text>
 </svg>
