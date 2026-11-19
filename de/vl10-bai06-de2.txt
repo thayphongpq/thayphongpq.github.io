@@ -1,0 +1,163 @@
+VẬT LÍ 10 - CHƯƠNG II. ĐỘNG HỌC - BÀI 6. THỰC HÀNH: ĐO TỐC ĐỘ CỦA VẬT CHUYỂN ĐỘNG - ĐỀ 2
+Đề kiểm tra theo cấu trúc thi tốt nghiệp THPT (biên soạn: thầy Lâm Thế Phong, THPT An Thới)
+Thời gian: 50
+
+PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn
+Câu 1. Ở chế độ MODE A, đồng hồ đo thời gian hiện số đo
+*A. thời gian vật chắn cổng quang điện nối với ổ A.
+B. thời gian vật đi từ cổng A tới cổng B.
+C. tổng thời gian vật chắn hai cổng.
+D. chu kì dao động.
+
+Câu 2. Ở chế độ MODE A + B, đồng hồ đo thời gian hiện số đo
+A. thời gian vật đi từ cổng nối ổ A tới cổng nối ổ B.
+*B. tổng của hai khoảng thời gian vật chắn cổng quang điện nối với ổ A và vật chắn cổng quang điện nối với ổ B.
+C. hiệu hai khoảng thời gian vật chắn hai cổng.
+D. thời gian vật chắn cổng nối với ổ B.
+
+Câu 3. Ở chế độ MODE T, đồng hồ đo thời gian hiện số đo
+A. tổng thời gian chắn hai cổng.
+B. thời gian vật chắn cổng nối với ổ A.
+*C. khoảng thời gian T của từng chu kì dao động.
+D. nhiệt độ của vật.
+
+Câu 4. Núm THANG ĐO của đồng hồ đo thời gian hiện số MC964 cho phép chọn độ chia nhỏ nhất là
+A. 0,1 s hoặc 1 s.
+*B. 0,001 s hoặc 0,01 s.
+C. 1 phút hoặc 1 giây.
+D. 0,5 s hoặc 0,05 s.
+
+Câu 5. Muốn đo tốc độ tức thời của viên bi khi đi qua một cổng quang điện nối với ổ A, cần đặt đồng hồ ở chế độ
+*A. MODE A.
+B. MODE A ↔ B.
+C. MODE T.
+D. MODE A + B.
+
+Câu 6. Cổng quang điện gồm một bộ phận phát tia sáng và một bộ phận thu. Đồng hồ được điều khiển khi
+A. cổng quang điện bị nung nóng.
+*B. vật chuyển động đi qua cổng và chắn tia sáng giữa bộ phận phát và bộ phận thu.
+C. vật chạm vào cổng.
+D. người đo nhấn nút trên cổng.
+
+Câu 7. Đồng hồ cần rung đo chuyển động của xe bằng cách
+A. đếm số vòng quay của bánh xe.
+*B. đánh dấu các chấm trên băng giấy gắn vào xe chuyển động, mỗi khoảng giữa hai chấm liên tiếp ứng với khoảng 0,02 s.
+C. chiếu tia laser vào xe.
+D. dùng sóng siêu âm.
+
+Câu 8. Ưu điểm chính của việc dùng đồng hồ đo thời gian hiện số và cổng quang điện so với đồng hồ bấm giây bằng tay là
+A. rẻ hơn.
+*B. đo thời gian chính xác đến phần nghìn giây, không phụ thuộc vào phản xạ của tay người đo.
+C. không cần nguồn điện.
+D. đo được khối lượng của vật.
+
+Câu 9. Trong thí nghiệm đo tốc độ của viên bi thép, việc cần làm ngay trước mỗi lần thả viên bi là
+A. tắt nguồn đồng hồ.
+*B. nhấn nút RESET để số hiển thị về 0.000.
+C. đổi MODE.
+D. tháo cổng quang điện.
+
+Câu 10. Trên băng giấy của đồng hồ cần rung (50 lần/giây), hai chấm liên tiếp cách nhau 1,2 cm. Tốc độ của xe trong khoảng đó là
+A. 0,24 m/s.
+*B. 0,6 m/s.
+C. 6 m/s.
+D. 0,024 m/s.
+Lời giải: $v = \dfrac{0{,}012}{0{,}02} = 0{,}6$ m/s.
+
+Câu 11. Khoảng cách giữa hai cổng quang điện là 0,60 m, viên bi đi giữa hai cổng hết 0,75 s. Tốc độ trung bình của viên bi là
+*A. 0,8 m/s.
+B. 1,25 m/s.
+C. 0,45 m/s.
+D. 1,35 m/s.
+
+Câu 12. Một viên bi đường kính 1,6 cm chắn cổng quang điện trong 0,008 s. Tốc độ tức thời của viên bi khi qua cổng là
+A. 0,2 m/s.
+*B. 2 m/s.
+C. 20 m/s.
+D. 0,5 m/s.
+
+Câu 13. Để đo tốc độ tức thời của viên bi chính xác hơn, cổng quang điện cần được đặt sao cho tia sáng
+A. chỉ chạm vào mép viên bi.
+*B. bị viên bi chắn theo đúng đường kính (đi qua ngang tâm viên bi).
+C. không bị viên bi chắn.
+D. chiếu song song với máng.
+Lời giải: Công thức $v = \dfrac{d}{t}$ dùng đường kính viên bi; nếu tia sáng chỉ bị chắn bởi phần mép bi thì đoạn bị chắn ngắn hơn d, kết quả sai.
+
+Câu 14. Một video quay chuyển động có 30 khung hình mỗi giây. Khoảng thời gian giữa hai khung hình liên tiếp là
+A. 30 s.
+B. 0,3 s.
+*C. $\dfrac{1}{30}$ s.
+D. 3 s.
+
+Câu 15. Nguyên nhân nào sau đây có thể gây ra sai số khi đo tốc độ trung bình của viên bi giữa hai cổng quang điện?
+A. Đồng hồ đặt đúng MODE A ↔ B.
+*B. Mỗi lần thả, viên bi không xuất phát từ cùng một vị trí.
+C. Nhấn RESET trước mỗi lần đo.
+D. Dùng thước cặp đo đường kính viên bi.
+
+Câu 16. Tốc độ trung bình của viên bi trên đoạn EF được tính theo công thức
+A. $v = \overline{s}\cdot\overline{t}$.
+*B. $v = \dfrac{\overline{s}}{\overline{t}}$.
+C. $v = \dfrac{\overline{t}}{\overline{s}}$.
+D. $v = \overline{s} - \overline{t}$.
+
+Câu 17. Cảm biến chuyển động truyền các sóng siêu âm đập vào
+A. mặt đường.
+*B. tấm cản gắn trên xe.
+C. bánh xe.
+D. đồng hồ đo thời gian.
+
+Câu 18. Một học sinh đo thời gian xe chạy 10 m bằng đồng hồ bấm giây cầm tay. Nguồn sai số lớn nhất thường là
+A. độ dài 10 m.
+*B. phản xạ của tay khi bấm bắt đầu và kết thúc.
+C. khối lượng của xe.
+D. màu sơn của xe.
+
+PHẦN II. Câu trắc nghiệm đúng sai
+Câu 1. Một viên bi lăn qua hai cổng quang điện: cổng nối với ổ A, sau đó cổng nối với ổ B. Bi chắn cổng nối ổ A trong 0,015 s, chắn cổng nối ổ B trong 0,010 s; thời gian bi đi từ cổng nối ổ A đến cổng nối ổ B là 0,40 s.
+a) Nếu đặt MODE A, đồng hồ chỉ 0,015 s. (Đ)
+b) Nếu đặt MODE A + B, đồng hồ chỉ 0,025 s. (Đ)
+c) Nếu đặt MODE A ↔ B, đồng hồ chỉ 0,025 s. (S)
+d) Nếu đặt MODE B, đồng hồ chỉ 0,010 s. (Đ)
+Lời giải: MODE A ↔ B đo thời gian bi đi từ cổng nối ổ A tới cổng nối ổ B: 0,40 s.
+
+Câu 2. Đo tốc độ trung bình của viên bi giữa hai cổng quang điện cách nhau s = 0,300 m. Ba lần đo thời gian được: 0,198 s; 0,202 s; 0,200 s.
+a) Giá trị trung bình của thời gian là 0,200 s. (Đ)
+b) Tốc độ trung bình của viên bi là 1,5 m/s. (Đ)
+c) Sai số ngẫu nhiên tuyệt đối trung bình của thời gian xấp xỉ 0,001 s. (Đ)
+d) Lặp lại phép đo nhiều lần giúp loại bỏ hoàn toàn sai số của phép đo. (S)
+Lời giải: Các $\Delta t_i$: 0,002; 0,002; 0, nên $\overline{\Delta t} = \dfrac{0{,}004}{3} \approx 0{,}0013 \approx 0{,}001$ s. Mọi phép đo đều có sai số; đo nhiều lần chỉ hạn chế sai số ngẫu nhiên.
+
+Câu 3. Dùng điện thoại quay video chuyển động của một xe đồ chơi với 30 khung hình mỗi giây, rồi dùng phần mềm phân tích video. Từ khung hình thứ 1 đến khung hình thứ 31, xe đi được 0,90 m.
+a) Thời gian xe đi từ khung hình thứ 1 đến khung hình thứ 31 là 1 s. (Đ)
+b) Tốc độ trung bình của xe trong khoảng đó là 0,9 m/s. (Đ)
+c) Để tính khoảng cách thực tế, cần biết tỉ lệ giữa kích thước trên khung hình và khoảng cách thực tế. (Đ)
+d) Số khung hình mỗi giây càng lớn thì khoảng thời gian giữa hai khung hình liên tiếp càng lớn. (S)
+Lời giải: Từ khung 1 đến khung 31 có 30 khoảng, mỗi khoảng $\dfrac{1}{30}$ s: t = 1 s. Số khung hình mỗi giây càng lớn thì khoảng thời gian giữa hai khung càng nhỏ.
+
+Câu 4. So sánh các phương án đo thời gian:
+a) Dùng đồng hồ bấm giây cầm tay có sai số lớn do phản xạ của người bấm. (Đ)
+b) Đồng hồ đo thời gian hiện số có thể đo thời gian chính xác đến 0,001 s. (Đ)
+c) Khi dùng cổng quang điện, người đo phải bấm tay để bắt đầu và kết thúc đo. (S)
+d) Đồng hồ cần rung cho phép xác định quãng đường xe đi được trong mỗi khoảng 0,02 s. (Đ)
+Lời giải: Cổng quang điện tự điều khiển đóng/mở đồng hồ khi vật chắn tia sáng.
+
+PHẦN III. Câu trắc nghiệm trả lời ngắn
+Câu 1. Khoảng cách giữa hai cổng quang điện là 0,72 m, viên bi đi giữa hai cổng hết 0,60 s. Tốc độ trung bình của viên bi là bao nhiêu m/s?
+Đáp án: 1,2|1.2
+
+Câu 2. Một viên bi đường kính 1,8 cm chắn cổng quang điện trong 0,012 s. Tốc độ tức thời của viên bi khi qua cổng là bao nhiêu m/s?
+Đáp án: 1,5|1.5
+
+Câu 3. Đồng hồ cần rung rung 50 lần trong một giây. Trên băng giấy, giữa chấm đầu và chấm cuối có 20 khoảng. Thời gian xe đi giữa hai chấm đó là bao nhiêu giây?
+Đáp án: 0,4|0.4
+
+Câu 4. Trên băng giấy của đồng hồ cần rung (50 lần/giây), hai chấm liên tiếp cách nhau 1,0 cm. Tốc độ trung bình của xe trong khoảng đó là bao nhiêu m/s?
+Đáp án: 0,5|0.5
+
+Câu 5. Đồng hồ đặt ở MODE A + B. Viên bi chắn cổng quang điện nối với ổ A trong 0,016 s và chắn cổng quang điện nối với ổ B trong 0,014 s. Số chỉ của đồng hồ là bao nhiêu giây?
+Đáp án: 0,03|0.03
+
+Câu 6. Đo tốc độ tức thời bằng $v = \dfrac{d}{t}$ với $d = 1{,}20 \pm 0{,}01$ cm và $t = 0{,}0100 \pm 0{,}0002$ s. Sai số tỉ đối của v là bao nhiêu phần trăm? (Làm tròn đến hàng phần mười.)
+Đáp án: 2,8|2.8
+Lời giải: $\delta d = \dfrac{0{,}01}{1{,}20}\cdot 100\% \approx 0{,}83\%$; $\delta t = 2\%$; $\delta v \approx 2{,}83\% \approx 2{,}8\%$.
