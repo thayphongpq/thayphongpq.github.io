@@ -1,0 +1,175 @@
+VẬT LÍ 10 - CHƯƠNG II. ĐỘNG HỌC - BÀI 9. CHUYỂN ĐỘNG THẲNG BIẾN ĐỔI ĐỀU - ĐỀ 2
+Đề kiểm tra theo cấu trúc thi tốt nghiệp THPT (biên soạn: thầy Lâm Thế Phong, THPT An Thới)
+Thời gian: 50
+
+PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn
+Câu 1. Chuyển động thẳng chậm dần đều có
+A. a.v > 0.
+*B. a.v < 0.
+C. a = 0.
+D. v không đổi.
+
+Câu 2. Trong chuyển động thẳng biến đổi đều, gia tốc
+*A. không đổi theo thời gian: $a = \dfrac{\Delta v}{\Delta t}$ = hằng số.
+B. tăng đều theo thời gian.
+C. giảm đều theo thời gian.
+D. luôn bằng 0.
+
+Câu 3. Một vật bắt đầu chuyển động thẳng nhanh dần đều từ trạng thái đứng yên tại t = 0. Đồ thị vận tốc – thời gian của vật là
+*A. đường xiên đi lên, đi qua gốc toạ độ.
+B. đường nằm ngang.
+C. đường xiên đi xuống.
+D. đường parabol.
+
+Câu 4. Đồ thị vận tốc – thời gian của một chuyển động thẳng biến đổi đều có vận tốc ban đầu $v_0 \ne 0$ cắt trục vận tốc tại điểm có tung độ
+A. bằng gia tốc.
+*B. bằng $v_0$.
+C. bằng 0.
+D. bằng thời gian chuyển động.
+
+Câu 5. Một vật chuyển động thẳng đều với vận tốc v trong thời gian t. Độ dịch chuyển d = v.t bằng diện tích
+*A. hình chữ nhật có các cạnh là v và t trên đồ thị vận tốc – thời gian.
+B. hình tam giác có các cạnh là v và t.
+C. hình tròn bán kính v.
+D. hình vuông cạnh t.
+
+Câu 6. Gọi $v_0$ là vận tốc tại thời điểm $t_0$, $v_t$ là vận tốc tại thời điểm t của chuyển động thẳng biến đổi đều. Hệ thức đúng là
+A. $v_t = v_0 - a.\Delta t$.
+*B. $v_t = v_0 + a.\Delta t$ với $\Delta t = t - t_0$.
+C. $v_t = a.\Delta t - v_0$.
+D. $v_t = \dfrac{v_0}{a.\Delta t}$.
+
+Câu 7. Một đoàn tàu đang chạy với vận tốc 15 m/s thì hãm phanh, chuyển động thẳng chậm dần đều với gia tốc −0,5 m/s². Vận tốc của tàu sau 10 s là
+A. 5 m/s.
+*B. 10 m/s.
+C. 20 m/s.
+D. 14,5 m/s.
+
+Câu 8. Một xe bắt đầu chuyển động thẳng nhanh dần đều từ trạng thái đứng yên, sau khi đi được 40 m thì đạt vận tốc 20 m/s. Gia tốc của xe là
+A. 0,5 m/s².
+B. 10 m/s².
+*C. 5 m/s².
+D. 2 m/s².
+Lời giải: $a = \dfrac{20^2 - 0}{2\cdot 40} = 5$ m/s².
+
+Câu 9. Một vật bắt đầu chuyển động thẳng nhanh dần đều từ trạng thái đứng yên với gia tốc 4 m/s². Độ dịch chuyển của vật sau 3 s là
+A. 12 m.
+*B. 18 m.
+C. 36 m.
+D. 6 m.
+
+Câu 10. Một ô tô đang chạy với vận tốc 72 km/h thì hãm phanh, chuyển động thẳng chậm dần đều và dừng lại sau khi đi thêm 40 m. Gia tốc của ô tô là
+A. −0,5 m/s².
+*B. −5 m/s².
+C. −10 m/s².
+D. −64,8 m/s².
+Lời giải: 72 km/h = 20 m/s; $a = \dfrac{0 - 20^2}{2\cdot 40} = -5$ m/s².
+
+Câu 11. Hình bên là đồ thị vận tốc – thời gian của một vật chuyển động thẳng. Vận tốc ban đầu của vật là
+Hình: de/hinh/vl10-b09-h2.svg
+A. 0.
+*B. 12 m/s.
+C. −4 m/s.
+D. 8 m/s.
+
+Câu 12. Hình bên là đồ thị vận tốc – thời gian của một vật chuyển động thẳng. Gia tốc của vật là
+Hình: de/hinh/vl10-b09-h2.svg
+A. 2 m/s².
+*B. −2 m/s².
+C. −12 m/s².
+D. −1,5 m/s².
+Lời giải: $a = \dfrac{0 - 12}{6 - 0} = -2$ m/s².
+
+Câu 13. Hình bên là đồ thị vận tốc – thời gian của một vật chuyển động thẳng. Vật dừng lại (vận tốc bằng 0) tại thời điểm
+Hình: de/hinh/vl10-b09-h2.svg
+A. 4 s.
+*B. 6 s.
+C. 8 s.
+D. 12 s.
+
+Câu 14. Hình bên là đồ thị vận tốc – thời gian của một vật chuyển động thẳng. Độ dịch chuyển của vật trong 6 s đầu là
+Hình: de/hinh/vl10-b09-h2.svg
+A. 72 m.
+*B. 36 m.
+C. 12 m.
+D. 18 m.
+Lời giải: Diện tích tam giác: $\dfrac{12\cdot 6}{2} = 36$ m.
+
+Câu 15. Hình bên là đồ thị vận tốc – thời gian của một vật chuyển động thẳng. Từ giây thứ 6 đến giây thứ 8, vật
+Hình: de/hinh/vl10-b09-h2.svg
+A. đứng yên.
+B. chuyển động theo chiều dương, chậm dần đều.
+*C. chuyển động ngược chiều dương, nhanh dần đều.
+D. chuyển động thẳng đều.
+
+Câu 16. Hình bên là đồ thị vận tốc – thời gian của một vật chuyển động thẳng. Độ dịch chuyển của vật trong 8 s là
+Hình: de/hinh/vl10-b09-h2.svg
+A. 40 m.
+*B. 32 m.
+C. 36 m.
+D. 48 m.
+Lời giải: 0 – 6 s: +36 m; 6 – 8 s: phần diện tích dưới trục thời gian $\dfrac{2\cdot 4}{2} = 4$ m mang dấu âm; d = 36 − 4 = 32 m.
+
+Câu 17. Một xe chuyển động thẳng nhanh dần đều, vận tốc tăng từ 4 m/s lên 10 m/s. Vận tốc trung bình của xe trong khoảng thời gian đó là
+A. 14 m/s.
+*B. 7 m/s.
+C. 6 m/s.
+D. 3 m/s.
+Lời giải: Trong chuyển động thẳng biến đổi đều (không đổi chiều), $d = \dfrac{(v_0 + v_t)t}{2}$ nên $v_{tb} = \dfrac{v_0 + v_t}{2} = 7$ m/s.
+
+Câu 18. Để chứng minh độ dịch chuyển bằng diện tích hình thang dưới đồ thị vận tốc – thời gian, SGK chia hình thang thành các hình thang nhỏ có đường cao Δt rất nhỏ vì
+A. trong Δt rất nhỏ, vật đứng yên.
+*B. trong Δt rất nhỏ, có thể coi chuyển động là thẳng đều với vận tốc bằng trung bình vận tốc ở hai đầu khoảng thời gian.
+C. trong Δt rất nhỏ, gia tốc bằng 0.
+D. để đồ thị trở thành đường cong.
+
+PHẦN II. Câu trắc nghiệm đúng sai
+Câu 1. Hình bên là đồ thị vận tốc – thời gian của một vật chuyển động thẳng.
+Hình: de/hinh/vl10-b09-h2.svg
+a) Gia tốc của vật là −2 m/s². (Đ)
+b) Vật dừng lại tại thời điểm 6 s, sau đó đổi chiều chuyển động. (Đ)
+c) Quãng đường vật đi được trong 8 s là 32 m. (S)
+d) Độ dịch chuyển của vật trong 8 s là 32 m. (Đ)
+Lời giải: Quãng đường: 36 + 4 = 40 m; độ dịch chuyển: 36 − 4 = 32 m.
+
+Câu 2. Một xe máy đang chuyển động thẳng với vận tốc 6 m/s thì tăng tốc, chuyển động thẳng nhanh dần đều với gia tốc 0,8 m/s² trong 10 s.
+a) Vận tốc của xe sau 10 s là 14 m/s. (Đ)
+b) Độ dịch chuyển của xe trong 10 s đó là 100 m. (Đ)
+c) Vận tốc trung bình của xe trong 10 s đó là 10 m/s. (Đ)
+d) Dùng hệ thức $v_t^2 - v_0^2 = 2.a.d$ tính được độ dịch chuyển là 80 m. (S)
+Lời giải: $v_t = 6 + 0{,}8\cdot 10 = 14$ m/s; $d = 60 + \dfrac{1}{2}\cdot 0{,}8\cdot 100 = 100$ m; kiểm tra: $\dfrac{196 - 36}{2\cdot 0{,}8} = 100$ m.
+
+Câu 3. Cùng lúc, tại cùng một vị trí, xe A bắt đầu chuyển động thẳng nhanh dần đều từ trạng thái đứng yên với gia tốc 2 m/s², còn xe B chuyển động thẳng đều với vận tốc 10 m/s cùng chiều với xe A.
+a) Sau 5 s, vận tốc của xe A là 10 m/s. (Đ)
+b) Sau 5 s, xe A đi được 25 m, xe B đi được 50 m. (Đ)
+c) Xe A đuổi kịp xe B sau 10 s. (Đ)
+d) Lúc đuổi kịp xe B, vận tốc của xe A là 10 m/s. (S)
+Lời giải: Đuổi kịp khi $t^2 = 10t \Rightarrow t = 10$ s; lúc đó $v_A = 2\cdot 10 = 20$ m/s.
+
+Câu 4. Về đồ thị vận tốc – thời gian của chuyển động thẳng biến đổi đều:
+a) Độ lớn độ dịch chuyển (khi vật không đổi chiều) bằng diện tích giới hạn bởi đồ thị và trục thời gian. (Đ)
+b) Hệ số góc của đồ thị cho biết giá trị của gia tốc. (Đ)
+c) Trong chuyển động thẳng nhanh dần đều, gia tốc luôn có giá trị dương. (S)
+d) Độ dịch chuyển được tính bằng $d = v_0.t + \dfrac{1}{2}a.t^2$. (Đ)
+Lời giải: Nếu vật chuyển động ngược chiều dương và nhanh dần đều thì v < 0 và a < 0 (a.v > 0).
+
+PHẦN III. Câu trắc nghiệm trả lời ngắn
+Câu 1. Một xe đang chạy với vận tốc 18 m/s thì hãm phanh, chuyển động thẳng chậm dần đều với gia tốc −1,2 m/s². Sau bao nhiêu giây xe dừng lại?
+Đáp án: 15
+
+Câu 2. Một ô tô đang chạy với vận tốc 72 km/h thì hãm phanh, chuyển động thẳng chậm dần đều và dừng lại sau khi đi thêm 50 m. Gia tốc của ô tô là bao nhiêu m/s²?
+Đáp án: -4|−4
+Lời giải: $a = \dfrac{0 - 20^2}{2\cdot 50} = -4$ m/s².
+
+Câu 3. Một vật bắt đầu chuyển động thẳng nhanh dần đều từ trạng thái đứng yên với gia tốc 3 m/s². Độ dịch chuyển của vật sau 4 s là bao nhiêu mét?
+Đáp án: 24
+
+Câu 4. Một xe chuyển động thẳng nhanh dần đều với vận tốc ban đầu 2 m/s và gia tốc 0,5 m/s². Vận tốc của xe sau khi đi được 21 m là bao nhiêu m/s?
+Đáp án: 5
+Lời giải: $v_t^2 = 2^2 + 2\cdot 0{,}5\cdot 21 = 25 \Rightarrow v_t = 5$ m/s.
+
+Câu 5. Một xe chuyển động thẳng nhanh dần đều, vận tốc tăng từ 6 m/s lên 14 m/s. Vận tốc trung bình của xe trong khoảng thời gian đó là bao nhiêu m/s?
+Đáp án: 10
+
+Câu 6. Đồ thị vận tốc – thời gian của một xe chuyển động thẳng là đoạn thẳng đi từ điểm (0 s; 10 m/s) đến điểm (5 s; 0 m/s). Độ dịch chuyển của xe trong 5 s đó là bao nhiêu mét?
+Đáp án: 25
