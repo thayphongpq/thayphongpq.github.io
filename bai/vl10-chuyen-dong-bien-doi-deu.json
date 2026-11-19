@@ -1,0 +1,20 @@
+{
+  "ten": {
+    "vi": "Chuyển động thẳng biến đổi đều",
+    "en": "Uniformly accelerated linear motion"
+  },
+  "mon": "Vật lý",
+  "lop": "10",
+  "noiDung": {
+    "vi": "## 1. Gia tốc\n\n**Gia tốc** cho biết vận tốc thay đổi nhanh hay chậm. Gia tốc bằng độ biến thiên vận tốc chia cho khoảng thời gian xảy ra sự biến thiên đó:\n\n$$a = \\dfrac{\\Delta v}{\\Delta t} = \\dfrac{v - v_0}{t - t_0}$$\n\nĐơn vị của gia tốc là mét trên giây bình phương (m/s²). Chuyển động thẳng **biến đổi đều** là chuyển động thẳng có gia tốc không đổi.\n\n## 2. Các công thức\n\n- Vận tốc: $v = v_0 + at$\n- Độ dịch chuyển: $d = v_0 t + \\dfrac{1}{2}at^2$\n- Công thức liên hệ: $v^2 - v_0^2 = 2ad$\n\nNếu $a$ cùng dấu với $v$ thì vật **chuyển động nhanh dần**; nếu $a$ ngược dấu với $v$ thì vật **chuyển động chậm dần**.\n\n## 3. Ví dụ\n\nMột ô tô đang chạy với vận tốc $10$ m/s thì tăng tốc đều với gia tốc $2$ m/s². Sau $5$ s, vận tốc của ô tô là $v = 10 + 2 \\cdot 5 = 20$ m/s và độ dịch chuyển là $d = 10 \\cdot 5 + \\dfrac{1}{2} \\cdot 2 \\cdot 5^2 = 75$ m.",
+    "en": "## 1. Acceleration\n\n**Acceleration** tells us how quickly the velocity changes. It equals the change in velocity divided by the time interval in which the change happens:\n\n$$a = \\dfrac{\\Delta v}{\\Delta t} = \\dfrac{v - v_0}{t - t_0}$$\n\nThe unit of acceleration is metres per second squared (m/s²). **Uniformly accelerated** linear motion is motion along a straight line with constant acceleration.\n\n## 2. Equations of motion\n\n- Velocity: $v = v_0 + at$\n- Displacement: $d = v_0 t + \\dfrac{1}{2}at^2$\n- Velocity–displacement relation: $v^2 - v_0^2 = 2ad$\n\nIf $a$ has the same sign as $v$, the object is **speeding up**; if $a$ has the opposite sign to $v$, the object is **slowing down**.\n\n## 3. Example\n\nA car moving at $10$ m/s speeds up uniformly with an acceleration of $2$ m/s². After $5$ s, its velocity is $v = 10 + 2 \\cdot 5 = 20$ m/s and its displacement is $d = 10 \\cdot 5 + \\dfrac{1}{2} \\cdot 2 \\cdot 5^2 = 75$ m."
+  },
+  "thuatNgu": [
+    { "en": "acceleration", "ipa": "/əkˌseləˈreɪʃn/", "vi": "gia tốc", "ghiChu": "$a = \\dfrac{\\Delta v}{\\Delta t}$" },
+    { "en": "uniformly accelerated motion", "ipa": "/ˈjuːnɪfɔːmli əkˈseləreɪtɪd ˈməʊʃn/", "vi": "chuyển động biến đổi đều", "ghiChu": "Gia tốc không đổi." },
+    { "en": "initial velocity", "ipa": "/ɪˈnɪʃl vəˈlɒsəti/", "vi": "vận tốc ban đầu", "ghiChu": "Kí hiệu $v_0$." },
+    { "en": "displacement", "ipa": "/dɪsˈpleɪsmənt/", "vi": "độ dịch chuyển", "ghiChu": "" },
+    { "en": "speed up", "ipa": "/spiːd ʌp/", "vi": "nhanh dần", "ghiChu": "" },
+    { "en": "slow down", "ipa": "/sləʊ daʊn/", "vi": "chậm dần", "ghiChu": "" }
+  ]
+}

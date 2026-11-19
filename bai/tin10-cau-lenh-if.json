@@ -1,0 +1,20 @@
+{
+  "ten": {
+    "vi": "Câu lệnh rẽ nhánh if trong Python",
+    "en": "The if statement in Python"
+  },
+  "mon": "Tin học",
+  "lop": "10",
+  "noiDung": {
+    "vi": "## 1. Câu lệnh rẽ nhánh\n\nTrong cuộc sống, nhiều việc chỉ được làm khi một **điều kiện** đúng. Trong Python, ta dùng câu lệnh **if** để chương trình tự chọn việc cần làm.\n\n```python\ndiem = float(input(\"Nhập điểm: \"))\nif diem >= 5:\n    print(\"Đạt\")\nelse:\n    print(\"Chưa đạt\")\n```\n\nCác lệnh bên trong `if` và `else` phải được **thụt lề** (thường là 4 dấu cách). Sau điều kiện và sau `else` phải có dấu hai chấm `:`.\n\n## 2. Nhiều nhánh với elif\n\n```python\ndiem = float(input(\"Nhập điểm: \"))\nif diem >= 8:\n    print(\"Giỏi\")\nelif diem >= 6.5:\n    print(\"Khá\")\nelif diem >= 5:\n    print(\"Trung bình\")\nelse:\n    print(\"Yếu\")\n```\n\n## 3. Phép so sánh và phép logic\n\n- So sánh: `==`, `!=`, `<`, `<=`, `>`, `>=`\n- Logic: `and` (và), `or` (hoặc), `not` (phủ định)\n\nVí dụ: điều kiện `n % 2 == 0 and n > 0` đúng khi `n` là số chẵn dương. Em bấm **Chạy thử** dưới mỗi đoạn mã, gõ điểm vào ô Dữ liệu vào để xem kết quả.",
+    "en": "## 1. Conditional statements\n\nIn real life, many actions happen only when a **condition** is true. In Python, we use the **if** statement so that the program can choose what to do.\n\n```python\nscore = float(input(\"Enter your score: \"))\nif score >= 5:\n    print(\"Pass\")\nelse:\n    print(\"Fail\")\n```\n\nThe statements inside `if` and `else` must be **indented** (usually 4 spaces). A colon `:` is required after the condition and after `else`.\n\n## 2. Several branches with elif\n\n```python\nscore = float(input(\"Enter your score: \"))\nif score >= 8:\n    print(\"Excellent\")\nelif score >= 6.5:\n    print(\"Good\")\nelif score >= 5:\n    print(\"Average\")\nelse:\n    print(\"Weak\")\n```\n\n## 3. Comparison and logical operators\n\n- Comparison: `==`, `!=`, `<`, `<=`, `>`, `>=`\n- Logical: `and`, `or`, `not`\n\nExample: the condition `n % 2 == 0 and n > 0` is true when `n` is a positive even number. Click **Run** under each code block and type a score in the input box to see the result."
+  },
+  "thuatNgu": [
+    { "en": "conditional statement", "ipa": "/kənˈdɪʃənl ˈsteɪtmənt/", "vi": "câu lệnh rẽ nhánh", "ghiChu": "`if`, `elif`, `else`" },
+    { "en": "condition", "ipa": "/kənˈdɪʃn/", "vi": "điều kiện", "ghiChu": "" },
+    { "en": "branch", "ipa": "/brɑːntʃ/", "vi": "nhánh", "ghiChu": "" },
+    { "en": "indentation", "ipa": "/ˌɪndenˈteɪʃn/", "vi": "thụt lề", "ghiChu": "Thường là 4 dấu cách." },
+    { "en": "comparison operator", "ipa": "/kəmˈpærɪsn ˈɒpəreɪtə(r)/", "vi": "phép so sánh", "ghiChu": "" },
+    { "en": "logical operator", "ipa": "/ˈlɒdʒɪkl ˈɒpəreɪtə(r)/", "vi": "phép logic", "ghiChu": "`and`, `or`, `not`" }
+  ]
+}

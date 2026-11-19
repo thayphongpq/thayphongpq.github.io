@@ -1,0 +1,20 @@
+{
+  "ten": {
+    "vi": "Thuật toán tìm kiếm nhị phân",
+    "en": "The binary search algorithm"
+  },
+  "mon": "Tin học",
+  "lop": "11",
+  "noiDung": {
+    "vi": "## 1. Ý tưởng\n\n**Tìm kiếm nhị phân** chỉ dùng cho dãy **đã sắp xếp**. Ở mỗi bước, ta so sánh giá trị cần tìm $x$ với phần tử ở giữa đoạn đang xét, rồi bỏ đi nửa đoạn chắc chắn không chứa $x$.\n\n1. Đặt `trai = 0`, `phai = n - 1`.\n2. Khi `trai <= phai`: lấy `giua = (trai + phai) // 2`.\n3. Nếu `a[giua] == x` thì đã tìm thấy; nếu `a[giua] < x` thì tìm tiếp ở nửa phải (`trai = giua + 1`); ngược lại tìm ở nửa trái (`phai = giua - 1`).\n4. Nếu `trai > phai` thì dãy không có `x`.\n\n## 2. Chương trình Python\n\n```python\ndef tim_nhi_phan(a, x):\n    trai, phai = 0, len(a) - 1\n    while trai <= phai:\n        giua = (trai + phai) // 2\n        if a[giua] == x:\n            return giua\n        elif a[giua] < x:\n            trai = giua + 1\n        else:\n            phai = giua - 1\n    return -1\n\na = [2, 5, 8, 12, 16, 23, 38, 56, 72, 91]\nprint(tim_nhi_phan(a, 23))   # 5\nprint(tim_nhi_phan(a, 7))    # -1\n```\n\n## 3. Độ phức tạp\n\nMỗi bước loại bỏ một nửa dãy nên với dãy $n$ phần tử chỉ cần khoảng $\\log_2 n$ bước. Độ phức tạp thời gian là $O(\\log n)$, nhanh hơn nhiều so với tìm kiếm tuần tự $O(n)$. Ví dụ, với $n = 1\\,000\\,000$ phần tử chỉ cần khoảng $20$ bước.",
+    "en": "## 1. The idea\n\n**Binary search** works only on a **sorted** list. At each step, we compare the target value $x$ with the middle element of the current range, then discard the half that cannot contain $x$.\n\n1. Set `left = 0`, `right = n - 1`.\n2. While `left <= right`: take `mid = (left + right) // 2`.\n3. If `a[mid] == x`, the value is found; if `a[mid] < x`, search the right half (`left = mid + 1`); otherwise search the left half (`right = mid - 1`).\n4. If `left > right`, the list does not contain `x`.\n\n## 2. Python program\n\n```python\ndef binary_search(a, x):\n    left, right = 0, len(a) - 1\n    while left <= right:\n        mid = (left + right) // 2\n        if a[mid] == x:\n            return mid\n        elif a[mid] < x:\n            left = mid + 1\n        else:\n            right = mid - 1\n    return -1\n\na = [2, 5, 8, 12, 16, 23, 38, 56, 72, 91]\nprint(binary_search(a, 23))   # 5\nprint(binary_search(a, 7))    # -1\n```\n\n## 3. Complexity\n\nEach step removes half of the list, so a list of $n$ elements needs only about $\\log_2 n$ steps. The time complexity is $O(\\log n)$, much faster than sequential search, which is $O(n)$. For example, with $n = 1\\,000\\,000$ elements, only about $20$ steps are needed."
+  },
+  "thuatNgu": [
+    { "en": "binary search", "ipa": "/ˈbaɪnəri sɜːtʃ/", "vi": "tìm kiếm nhị phân", "ghiChu": "Độ phức tạp $O(\\log n)$." },
+    { "en": "sequential search", "ipa": "/sɪˈkwenʃl sɜːtʃ/", "vi": "tìm kiếm tuần tự", "ghiChu": "Độ phức tạp $O(n)$." },
+    { "en": "sorted list", "ipa": "/ˈsɔːtɪd lɪst/", "vi": "dãy đã sắp xếp", "ghiChu": "" },
+    { "en": "middle element", "ipa": "/ˈmɪdl ˈelɪmənt/", "vi": "phần tử ở giữa", "ghiChu": "" },
+    { "en": "time complexity", "ipa": "/taɪm kəmˈpleksəti/", "vi": "độ phức tạp thời gian", "ghiChu": "" },
+    { "en": "logarithm", "ipa": "/ˈlɒɡərɪðəm/", "vi": "lôgarit", "ghiChu": "" }
+  ]
+}

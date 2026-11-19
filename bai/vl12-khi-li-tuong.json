@@ -1,0 +1,21 @@
+{
+  "ten": {
+    "vi": "Khí lí tưởng và phương trình trạng thái",
+    "en": "Ideal gases and the equation of state"
+  },
+  "mon": "Vật lý",
+  "lop": "12",
+  "noiDung": {
+    "vi": "## 1. Mô hình khí lí tưởng\n\nTrong mô hình **khí lí tưởng**, các phân tử khí được coi là chất điểm, chuyển động hỗn loạn không ngừng và chỉ tương tác với nhau khi va chạm. Ở áp suất thấp và nhiệt độ không quá thấp, chất khí thực có thể coi gần đúng là khí lí tưởng.\n\n## 2. Ba thông số trạng thái\n\n- Áp suất $p$ (Pa)\n- Thể tích $V$ (m³)\n- Nhiệt độ tuyệt đối $T$ (K), với $T = t + 273$ ($t$ tính bằng °C)\n\n## 3. Phương trình trạng thái\n\nVới một lượng khí xác định, ta có phương trình trạng thái của khí lí tưởng:\n\n$$\\dfrac{pV}{T} = \\text{const} \\qquad\\text{hay}\\qquad pV = nRT$$\n\ntrong đó $n$ là số mol khí và $R = 8{,}31$ J/(mol·K) là hằng số khí.\n\n## 4. Các đẳng quá trình\n\n- Đẳng nhiệt ($T$ không đổi): $pV$ không đổi (định luật Boyle)\n- Đẳng áp ($p$ không đổi): $\\dfrac{V}{T}$ không đổi (định luật Charles)\n- Đẳng tích ($V$ không đổi): $\\dfrac{p}{T}$ không đổi\n\n## 5. Ví dụ\n\nMột lượng khí có thể tích $2$ lít ở áp suất $1$ atm. Nén đẳng nhiệt đến thể tích $0{,}5$ lít thì áp suất là $p_2 = \\dfrac{p_1 V_1}{V_2} = \\dfrac{1 \\cdot 2}{0{,}5} = 4$ atm.",
+    "en": "## 1. The ideal gas model\n\nIn the **ideal gas** model, gas molecules are treated as point particles that move randomly and continuously, and interact with each other only when they collide. At low pressure and not too low temperature, a real gas behaves approximately like an ideal gas.\n\n## 2. Three state variables\n\n- Pressure $p$ (Pa)\n- Volume $V$ (m³)\n- Absolute temperature $T$ (K), where $T = t + 273$ ($t$ in °C)\n\n## 3. The equation of state\n\nFor a fixed amount of gas, the equation of state of an ideal gas is:\n\n$$\\dfrac{pV}{T} = \\text{const} \\qquad\\text{or}\\qquad pV = nRT$$\n\nwhere $n$ is the number of moles and $R = 8.31$ J/(mol·K) is the gas constant.\n\n## 4. Special processes\n\n- Isothermal ($T$ constant): $pV$ is constant (Boyle's law)\n- Isobaric ($p$ constant): $\\dfrac{V}{T}$ is constant (Charles's law)\n- Isochoric ($V$ constant): $\\dfrac{p}{T}$ is constant\n\n## 5. Example\n\nA gas has a volume of $2$ litres at a pressure of $1$ atm. It is compressed isothermally to $0.5$ litres, so its pressure becomes $p_2 = \\dfrac{p_1 V_1}{V_2} = \\dfrac{1 \\cdot 2}{0.5} = 4$ atm."
+  },
+  "thuatNgu": [
+    { "en": "ideal gas", "ipa": "/aɪˈdiːəl ɡæs/", "vi": "khí lí tưởng", "ghiChu": "$pV = nRT$" },
+    { "en": "equation of state", "ipa": "/ɪˈkweɪʒn əv steɪt/", "vi": "phương trình trạng thái", "ghiChu": "" },
+    { "en": "absolute temperature", "ipa": "/ˈæbsəluːt ˈtemprətʃə(r)/", "vi": "nhiệt độ tuyệt đối", "ghiChu": "Đơn vị kelvin (K)." },
+    { "en": "isothermal", "ipa": "/ˌaɪsəˈθɜːml/", "vi": "đẳng nhiệt", "ghiChu": "" },
+    { "en": "isobaric", "ipa": "/ˌaɪsəʊˈbærɪk/", "vi": "đẳng áp", "ghiChu": "" },
+    { "en": "isochoric", "ipa": "/ˌaɪsəʊˈkɒrɪk/", "vi": "đẳng tích", "ghiChu": "" },
+    { "en": "mole", "ipa": "/məʊl/", "vi": "mol", "ghiChu": "" }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "ten": {
+    "vi": "Dao động điều hòa",
+    "en": "Simple harmonic motion"
+  },
+  "mon": "Vật lý",
+  "lop": "11",
+  "noiDung": {
+    "vi": "## 1. Dao động điều hòa là gì?\n\n**Dao động điều hòa** là dao động trong đó li độ của vật là một hàm côsin (hoặc sin) của thời gian:\n\n$$x = A\\cos(\\omega t + \\varphi)$$\n\n- $x$: li độ (m)\n- $A$: biên độ, là li độ cực đại (m)\n- $\\omega$: tần số góc (rad/s)\n- $\\varphi$: pha ban đầu (rad)\n\n## 2. Chu kì và tần số\n\n**Chu kì** $T$ là thời gian vật thực hiện một dao động toàn phần. **Tần số** $f$ là số dao động toàn phần vật thực hiện trong một giây:\n\n$$T = \\dfrac{2\\pi}{\\omega}, \\qquad f = \\dfrac{1}{T} = \\dfrac{\\omega}{2\\pi}$$\n\n## 3. Vận tốc và gia tốc\n\n$$v = -\\omega A\\sin(\\omega t + \\varphi), \\qquad a = -\\omega^2 x$$\n\nỞ vị trí cân bằng ($x = 0$), tốc độ của vật lớn nhất: $v_{max} = \\omega A$. Ở hai vị trí biên ($x = \\pm A$), vận tốc bằng $0$ và độ lớn gia tốc lớn nhất: $a_{max} = \\omega^2 A$.\n\n## 4. Ví dụ\n\nMột vật dao động với phương trình $x = 5\\cos(4\\pi t)$ (cm). Biên độ $A = 5$ cm, tần số góc $\\omega = 4\\pi$ rad/s, chu kì $T = \\dfrac{2\\pi}{4\\pi} = 0{,}5$ s, tốc độ cực đại $v_{max} = 4\\pi \\cdot 5 \\approx 62{,}8$ cm/s.",
+    "en": "## 1. What is simple harmonic motion?\n\n**Simple harmonic motion** is an oscillation in which the displacement of the object is a cosine (or sine) function of time:\n\n$$x = A\\cos(\\omega t + \\varphi)$$\n\n- $x$: displacement (m)\n- $A$: amplitude, the maximum displacement (m)\n- $\\omega$: angular frequency (rad/s)\n- $\\varphi$: initial phase (rad)\n\n## 2. Period and frequency\n\nThe **period** $T$ is the time taken for one complete oscillation. The **frequency** $f$ is the number of complete oscillations per second:\n\n$$T = \\dfrac{2\\pi}{\\omega}, \\qquad f = \\dfrac{1}{T} = \\dfrac{\\omega}{2\\pi}$$\n\n## 3. Velocity and acceleration\n\n$$v = -\\omega A\\sin(\\omega t + \\varphi), \\qquad a = -\\omega^2 x$$\n\nAt the equilibrium position ($x = 0$), the speed is maximum: $v_{max} = \\omega A$. At the two extreme positions ($x = \\pm A$), the velocity is $0$ and the magnitude of the acceleration is maximum: $a_{max} = \\omega^2 A$.\n\n## 4. Example\n\nAn object oscillates according to $x = 5\\cos(4\\pi t)$ (cm). The amplitude is $A = 5$ cm, the angular frequency is $\\omega = 4\\pi$ rad/s, the period is $T = \\dfrac{2\\pi}{4\\pi} = 0.5$ s and the maximum speed is $v_{max} = 4\\pi \\cdot 5 \\approx 62.8$ cm/s."
+  },
+  "thuatNgu": [
+    { "en": "simple harmonic motion", "ipa": "/ˈsɪmpl hɑːˈmɒnɪk ˈməʊʃn/", "vi": "dao động điều hòa", "ghiChu": "$x = A\\cos(\\omega t + \\varphi)$" },
+    { "en": "amplitude", "ipa": "/ˈæmplɪtjuːd/", "vi": "biên độ", "ghiChu": "" },
+    { "en": "angular frequency", "ipa": "/ˈæŋɡjələ(r) ˈfriːkwənsi/", "vi": "tần số góc", "ghiChu": "Đơn vị rad/s." },
+    { "en": "phase", "ipa": "/feɪz/", "vi": "pha", "ghiChu": "" },
+    { "en": "period", "ipa": "/ˈpɪəriəd/", "vi": "chu kì", "ghiChu": "" },
+    { "en": "equilibrium position", "ipa": "/ˌiːkwɪˈlɪbriəm pəˈzɪʃn/", "vi": "vị trí cân bằng", "ghiChu": "" }
+  ]
+}
