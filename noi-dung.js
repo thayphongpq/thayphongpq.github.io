@@ -129,6 +129,9 @@ const DE_THI = [
   { ten: "Bài 10 – Đề 1. Sự rơi tự do", mon: "Vật lý", lop: "10", loai: "Luyện tập", tep: "de/vl10-bai10-de1.txt", thoiGian: 50, ngay: "2026-11-19" },
   { ten: "Bài 10 – Đề 2. Sự rơi tự do", mon: "Vật lý", lop: "10", loai: "Luyện tập", tep: "de/vl10-bai10-de2.txt", thoiGian: 50, ngay: "2026-11-19" },
   { ten: "Bài 10 – Đề 3. Sự rơi tự do", mon: "Vật lý", lop: "10", loai: "Luyện tập", tep: "de/vl10-bai10-de3.txt", thoiGian: 50, ngay: "2026-11-19" },
+  { ten: "Bài 11 – Đề 1. Thực hành: Đo gia tốc rơi tự do", mon: "Vật lý", lop: "10", loai: "Luyện tập", tep: "de/vl10-bai11-de1.txt", thoiGian: 50, ngay: "2026-11-19" },
+  { ten: "Bài 11 – Đề 2. Thực hành: Đo gia tốc rơi tự do", mon: "Vật lý", lop: "10", loai: "Luyện tập", tep: "de/vl10-bai11-de2.txt", thoiGian: 50, ngay: "2026-11-19" },
+  { ten: "Bài 11 – Đề 3. Thực hành: Đo gia tốc rơi tự do", mon: "Vật lý", lop: "10", loai: "Luyện tập", tep: "de/vl10-bai11-de3.txt", thoiGian: 50, ngay: "2026-11-19" },
 
   // ----- Vật lý 10 (sách thống nhất) - Chương II. Động học -----
   // (đề cũ 13 câu, đã thay bằng 3 đề 28 câu) { ten: "Bài 4. Độ dịch chuyển và quãng đường đi được", mon: "Vật lý", lop: "10", loai: "Luyện tập", tep: "de/vl10-bai04-do-dich-chuyen.txt", thoiGian: 20, ngay: "2026-11-19" },
@@ -138,7 +141,7 @@ const DE_THI = [
   // (đề cũ 13 câu, đã thay bằng 3 đề 28 câu) { ten: "Bài 8. Chuyển động biến đổi. Gia tốc", mon: "Vật lý", lop: "10", loai: "Luyện tập", tep: "de/vl10-bai08-gia-toc.txt", thoiGian: 20, ngay: "2026-11-19" },
   // (đề cũ 13 câu, đã thay bằng 3 đề 28 câu) { ten: "Bài 9. Chuyển động thẳng biến đổi đều", mon: "Vật lý", lop: "10", loai: "Luyện tập", tep: "de/vl10-bai09-bien-doi-deu.txt", thoiGian: 20, ngay: "2026-11-19" },
   // (đề cũ 13 câu, đã thay bằng 3 đề 28 câu) { ten: "Bài 10. Sự rơi tự do", mon: "Vật lý", lop: "10", loai: "Luyện tập", tep: "de/vl10-bai10-roi-tu-do.txt", thoiGian: 20, ngay: "2026-11-19" },
-  { ten: "Bài 11. Thực hành: Đo gia tốc rơi tự do", mon: "Vật lý", lop: "10", loai: "Luyện tập", tep: "de/vl10-bai11-thuc-hanh-roi-tu-do.txt", thoiGian: 20, ngay: "2026-11-19" },
+  // (đề cũ 13 câu, đã thay bằng 3 đề 28 câu) { ten: "Bài 11. Thực hành: Đo gia tốc rơi tự do", mon: "Vật lý", lop: "10", loai: "Luyện tập", tep: "de/vl10-bai11-thuc-hanh-roi-tu-do.txt", thoiGian: 20, ngay: "2026-11-19" },
   { ten: "Bài 12. Chuyển động ném", mon: "Vật lý", lop: "10", loai: "Luyện tập", tep: "de/vl10-bai12-chuyen-dong-nem.txt", thoiGian: 20, ngay: "2026-11-19" },
   { ten: "Bài 13. Tổng hợp và phân tích lực. Cân bằng lực", mon: "Vật lý", lop: "10", loai: "Luyện tập", tep: "de/vl10-bai13-tong-hop-luc.txt", thoiGian: 20, ngay: "2026-11-19" },
   { ten: "Bài 14. Định luật 1 Newton", mon: "Vật lý", lop: "10", loai: "Luyện tập", tep: "de/vl10-bai14-dinh-luat-1-newton.txt", thoiGian: 20, ngay: "2026-11-19" },
