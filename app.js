@@ -116,7 +116,7 @@
       const khac = dsThiNghiem.filter(function (x) { return x !== t && x.lop === t.lop && capCua(x) === capCua(t); });
       return '<a class="quay-lai" href="#/thi-nghiem">‹ Thí nghiệm ảo</a>' + dauMuc(t.ten, "Vật lý · " + tenLop(t) + (t.chuDe ? " · " + t.chuDe : "")) +
         (t.moTa ? '<p class="xem__mota">' + esc(t.moTa) + "</p>" : "") +
-        '<div class="khung-tn"><iframe src="' + link + '" title="' + esc(t.ten) + '" allowfullscreen loading="lazy"></iframe></div>' +
+        '<div class="khung-tn"><iframe src="' + link + '" title="' + esc(t.ten) + '" allowfullscreen></iframe></div>' +
         '<p class="phu">Mô phỏng của PhET, Đại học Colorado Boulder (miễn phí, giấy phép CC-BY). Trên điện thoại nên xoay ngang màn hình hoặc mở toàn màn hình.</p>' +
         '<a class="nut" target="_blank" rel="noopener" href="' + link + '">Mở toàn màn hình ↗</a>' +
         (khac.length ? '<div style="height:32px"></div>' + khoi("Thí nghiệm khác của " + tenLop(t), luoiThiNghiem(khac)) : "");
@@ -209,7 +209,10 @@
       return py.runPythonAsync(ma, { globals: py.toPy({}) }).then(function () {
         oKq.textContent = ra || "(Chương trình chạy xong, không in ra gì.)";
       }, function (e) {
-        const thongBao = String(e && e.message || e).trim().split("\n").filter(function (x) { return !/^\s*File "\/lib\/|_pyodide/.test(x); }).join("\n");
+        // Chỉ giữ phần lỗi thuộc chương trình của em (bỏ các dòng nội bộ của Pyodide).
+        const dongLoi = String(e && e.message || e).trim().split("\n");
+        const tu = dongLoi.findIndex(function (x) { return /File "<exec>"/.test(x); });
+        const thongBao = tu >= 0 ? (/SyntaxError|IndentationError/.test(dongLoi[dongLoi.length - 1]) ? "" : "Traceback (most recent call last):\n") + dongLoi.slice(tu).join("\n") : dongLoi.join("\n");
         oKq.className = "py-kq py-kq--loi";
         oKq.textContent = ra + thongBao + (/EOFError/.test(thongBao) ? "\n\n→ Chương trình cần dữ liệu vào: em gõ vào ô \"Dữ liệu vào\" phía trên, mỗi dòng một giá trị." : "");
       });
