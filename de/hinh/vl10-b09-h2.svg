@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="380" viewBox="0 0 520 380" font-family="Segoe UI, Arial, sans-serif">
+  <rect width="520" height="380" fill="#ffffff"/>
+  <path d="M122.5 40V320M175 40V320M227.5 40V320M280 40V320M332.5 40V320M385 40V320M437.5 40V320M490 40V320" stroke="#e2e8f0" stroke-width="1"/>
+  <path d="M70 320H490M70 180H490M70 110H490M70 40H490" stroke="#e2e8f0" stroke-width="1"/>
+  <path d="M70 332V22M60 250H504" stroke="#334155" stroke-width="2"/>
+  <path d="M64 30L70 16L76 30zM496 244L510 250L496 256z" fill="#334155"/>
+  <g font-size="15" fill="#0f172a" text-anchor="middle">
+    <text x="122.5" y="270">1</text><text x="175" y="270">2</text><text x="227.5" y="270">3</text><text x="280" y="270">4</text><text x="332.5" y="270">5</text><text x="385" y="270">6</text><text x="437.5" y="270">7</text><text x="490" y="270">8</text>
+  </g>
+  <g font-size="16" fill="#0f172a" text-anchor="end">
+    <text x="62" y="325">−4</text><text x="62" y="255">0</text><text x="62" y="185">4</text><text x="62" y="115">8</text><text x="62" y="45">12</text>
+  </g>
+  <text x="80" y="20" font-size="18" font-weight="700" fill="#0f172a">v (m/s)</text>
+  <text x="515" y="236" font-size="18" font-weight="700" fill="#0f172a" text-anchor="end">t (s)</text>
+  <polyline points="70,40 490,320" fill="none" stroke="#2563eb" stroke-width="3.5"/>
+  <g fill="#2563eb"><circle cx="70" cy="40" r="5"/><circle cx="385" cy="250" r="5"/><circle cx="490" cy="320" r="5"/></g>
+</svg>
