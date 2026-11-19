@@ -1,0 +1,170 @@
+VẬT LÍ 10 - CHƯƠNG I. MỞ ĐẦU - BÀI 3. THỰC HÀNH TÍNH SAI SỐ TRONG PHÉP ĐO. GHI KẾT QUẢ ĐO - ĐỀ 2
+Đề kiểm tra theo cấu trúc thi tốt nghiệp THPT (biên soạn: thầy Lâm Thế Phong, THPT An Thới)
+Thời gian: 50
+
+PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn
+Câu 1. Phép đo một đại lượng không trực tiếp mà thông qua công thức liên hệ với các đại lượng có thể đo trực tiếp gọi là
+A. phép đo trực tiếp.
+*B. phép đo gián tiếp.
+C. phép đo hệ thống.
+D. phép đo tỉ đối.
+
+Câu 2. Phép đo nào sau đây là phép đo trực tiếp?
+*A. Đo nhiệt độ của nước bằng nhiệt kế.
+B. Xác định khối lượng riêng của vật bằng cách đo khối lượng và thể tích rồi tính $D = \dfrac{m}{V}$.
+C. Xác định diện tích sân trường bằng cách đo chiều dài, chiều rộng rồi nhân lại.
+D. Xác định gia tốc rơi tự do bằng cách đo độ cao và thời gian rơi rồi tính theo công thức.
+
+Câu 3. Muốn xác định tốc độ của một chiếc xe đồ chơi chỉ bằng thước và đồng hồ bấm giây, cần đo trực tiếp các đại lượng
+A. khối lượng và thời gian.
+*B. quãng đường và thời gian.
+C. quãng đường và khối lượng.
+D. lực kéo và thời gian.
+
+Câu 4. Sai số nào sau đây thuộc loại sai số hệ thống?
+*A. Một cân điện tử do lỗi chế tạo luôn chỉ lớn hơn khối lượng thật 0,1 g.
+B. Mỗi lần bấm đồng hồ, phản xạ của tay nhanh chậm khác nhau.
+C. Gió thổi lúc mạnh lúc yếu làm kết quả đo dao động.
+D. Mắt nhìn lúc chính xác, lúc lệch khi đọc kết quả.
+Lời giải: Lần đo nào cũng lệch theo cùng một chiều do cấu tạo của dụng cụ – đó là sai số hệ thống.
+
+Câu 5. Sai lệch giữa các lần đo không có nguyên nhân rõ ràng gọi là
+A. sai số hệ thống.
+*B. sai số ngẫu nhiên.
+C. sai số dụng cụ.
+D. sai số tỉ đối.
+
+Câu 6. Một đồng hồ bấm giây có độ chia nhỏ nhất 0,1 s. Sai số dụng cụ của đồng hồ (lấy bằng một nửa độ chia nhỏ nhất) là
+A. 0,1 s.
+*B. 0,05 s.
+C. 0,2 s.
+D. 0,01 s.
+
+Câu 7. Sai số ngẫu nhiên tuyệt đối trung bình của n lần đo được tính theo công thức
+A. $\overline{\Delta A} = \Delta A_1 + \Delta A_2 + ... + \Delta A_n$.
+*B. $\overline{\Delta A} = \dfrac{\Delta A_1 + \Delta A_2 + ... + \Delta A_n}{n}$.
+C. $\overline{\Delta A} = \dfrac{n}{\Delta A_1 + \Delta A_2 + ... + \Delta A_n}$.
+D. $\overline{\Delta A} = \Delta A_1\cdot\Delta A_2\cdots\Delta A_n$.
+
+Câu 8. Sai số tỉ đối của phép đo là
+A. hiệu giữa giá trị trung bình và sai số tuyệt đối.
+*B. tỉ lệ phần trăm giữa sai số tuyệt đối và giá trị trung bình của đại lượng đo.
+C. tổng các sai số tuyệt đối của mỗi lần đo.
+D. tỉ số giữa giá trị trung bình và độ chia nhỏ nhất.
+
+Câu 9. Đại lượng A được tính bằng hiệu A = B − C. Sai số tuyệt đối của A là
+*A. $\Delta A = \Delta B + \Delta C$.
+B. $\Delta A = \Delta B - \Delta C$.
+C. $\Delta A = \left|\Delta B - \Delta C\right|$.
+D. $\Delta A = \Delta B\cdot\Delta C$.
+Lời giải: Sai số tuyệt đối của một tổng hay hiệu đều bằng tổng các sai số tuyệt đối của các số hạng.
+
+Câu 10. Đại lượng A được tính bằng thương $A = \dfrac{B}{C}$. Sai số tỉ đối của A là
+A. $\delta A = \delta B - \delta C$.
+*B. $\delta A = \delta B + \delta C$.
+C. $\delta A = \dfrac{\delta B}{\delta C}$.
+D. $\delta A = \delta B\cdot\delta C$.
+
+Câu 11. Biết sai số tỉ đối $\delta A$ và giá trị trung bình $\overline{A}$, sai số tuyệt đối được tính bằng
+A. $\Delta A = \dfrac{\overline{A}}{\delta A}$.
+*B. $\Delta A = \delta A\cdot\overline{A}$.
+C. $\Delta A = \overline{A} - \delta A$.
+D. $\Delta A = \overline{A} + \delta A$.
+
+Câu 12. Kết quả đo $A = \overline{A} \pm \Delta A$ có nghĩa là giá trị của đại lượng A
+A. bằng đúng $\overline{A}$.
+B. lớn hơn $\overline{A} + \Delta A$.
+*C. nằm trong khoảng từ $\overline{A} - \Delta A$ đến $\overline{A} + \Delta A$.
+D. nhỏ hơn $\overline{A} - \Delta A$.
+
+Câu 13. Khi ghi kết quả đo, sai số tuyệt đối $\Delta A$ thường được viết
+*A. đến số chữ số có nghĩa tới đơn vị của độ chia nhỏ nhất trên dụng cụ đo.
+B. với càng nhiều chữ số thập phân càng tốt.
+C. luôn là số nguyên.
+D. bằng đúng giá trị trung bình.
+
+Câu 14. Theo quy tắc làm tròn số, làm tròn 0,0342 đến hàng phần trăm được
+*A. 0,03.
+B. 0,04.
+C. 0,034.
+D. 0,035.
+Lời giải: Chữ số bỏ đi đầu tiên là 4 < 5 nên giữ nguyên chữ số 3.
+
+Câu 15. Kí hiệu Δ và δ trong các công thức sai số đều đọc là
+A. "an-pha".
+*B. "đen-ta".
+C. "bê-ta".
+D. "xích-ma".
+
+Câu 16. Hai học sinh đo cùng một quãng đường. Bạn An được $s = 12{,}0 \pm 0{,}2$ m, bạn Bình được $s = 12{,}0 \pm 0{,}1$ m. Kết luận nào đúng?
+A. Phép đo của An chính xác hơn.
+*B. Phép đo của Bình chính xác hơn vì có sai số tỉ đối nhỏ hơn.
+C. Hai phép đo chính xác như nhau vì có cùng giá trị trung bình.
+D. Không so sánh được.
+
+Câu 17. Đại lượng A được tính theo công thức $A = B\sqrt{C}$. Sai số tỉ đối của A là
+A. $\delta A = \delta B + \delta C$.
+*B. $\delta A = \delta B + \dfrac{1}{2}\delta C$.
+C. $\delta A = \delta B + 2\delta C$.
+D. $\delta A = \dfrac{1}{2}(\delta B + \delta C)$.
+
+Câu 18. Khi đo thời gian chuyển động của xe, một bạn luôn bấm dừng đồng hồ trễ hơn so với lúc xe tới vạch đích. Cách khắc phục đúng là
+A. đo nhiều lần rồi lấy trung bình là đủ để loại bỏ sai số này.
+*B. điều chỉnh thao tác đo (hoặc dùng cổng quang điện) vì đây là sai số hệ thống do người đo, cần loại bỏ.
+C. đổi sang đơn vị phút để sai số nhỏ hơn.
+D. không cần khắc phục vì đây là sai số ngẫu nhiên.
+Lời giải: Lần nào cũng trễ theo cùng một chiều nên lấy trung bình không khử được; đây là sai số hệ thống có nguyên nhân chủ quan, cần loại bỏ.
+
+PHẦN II. Câu trắc nghiệm đúng sai
+Câu 1. Dùng thước kẹp đo 5 lần đường kính một viên bi, được (đơn vị mm): 6,2; 6,4; 6,3; 6,1; 6,5. Sai số dụng cụ của thước là 0,05 mm.
+a) Giá trị trung bình của đường kính là 6,3 mm. (Đ)
+b) Sai số ngẫu nhiên tuyệt đối trung bình là 0,12 mm. (Đ)
+c) Sai số tuyệt đối của phép đo là 0,07 mm. (S)
+d) Dùng sai số tuyệt đối chưa làm tròn, sai số tỉ đối của phép đo khoảng 2,7%. (Đ)
+Lời giải: $\overline{d} = \dfrac{31{,}5}{5} = 6{,}3$ mm; các $\Delta d_i$: 0,1; 0,1; 0; 0,2; 0,2, nên $\overline{\Delta d} = \dfrac{0{,}6}{5} = 0{,}12$ mm. $\Delta d = 0{,}12 + 0{,}05 = 0{,}17$ mm. $\delta d = \dfrac{0{,}17}{6{,}3}\cdot 100\% \approx 2{,}7\%$.
+
+Câu 2. Một nhóm xác định khối lượng riêng của một khối gỗ theo công thức $D = \dfrac{m}{V}$, đo được m với sai số tỉ đối 1% và V với sai số tỉ đối 3%.
+a) Phép xác định D là phép đo gián tiếp. (Đ)
+b) Sai số tỉ đối của D là 4%. (Đ)
+c) Sai số tỉ đối của D là 2% vì lấy hiệu hai sai số tỉ đối. (S)
+d) Nếu giá trị trung bình $\overline{D} = 600$ kg/m³ thì sai số tuyệt đối $\Delta D = 24$ kg/m³. (Đ)
+Lời giải: $\delta D = \delta m + \delta V = 4\%$; $\Delta D = 0{,}04 \cdot 600 = 24$ kg/m³.
+
+Câu 3. Về nguyên nhân và cách khắc phục sai số:
+a) Để khắc phục sai số ngẫu nhiên, người ta thường tiến hành thí nghiệm nhiều lần và tính sai số. (Đ)
+b) Sai số dụng cụ có thể được ghi trực tiếp trên dụng cụ đo do nhà sản xuất xác định. (Đ)
+c) Một phép đo được thực hiện cẩn thận có thể có sai số bằng 0. (S)
+d) Điều kiện làm thí nghiệm không ổn định có thể gây ra sai số ngẫu nhiên. (Đ)
+Lời giải: Không một phép đo nào cho giá trị đúng của đại lượng cần đo; mọi phép đo đều có sai số.
+
+Câu 4. Một học sinh đo chiều dài $\ell_1 = 85{,}0 \pm 0{,}2$ cm và $\ell_2 = 35{,}0 \pm 0{,}1$ cm, rồi tính hiệu $\ell = \ell_1 - \ell_2$.
+a) Giá trị trung bình của $\ell$ là 50,0 cm. (Đ)
+b) Sai số tuyệt đối của $\ell$ là 0,1 cm. (S)
+c) Kết quả được ghi là $\ell = 50{,}0 \pm 0{,}3$ cm. (Đ)
+d) Sai số tỉ đối của $\ell$ là 0,6%. (Đ)
+Lời giải: $\Delta\ell = \Delta\ell_1 + \Delta\ell_2 = 0{,}3$ cm; $\delta\ell = \dfrac{0{,}3}{50{,}0}\cdot 100\% = 0{,}6\%$.
+
+PHẦN III. Câu trắc nghiệm trả lời ngắn
+Câu 1. Đo 5 lần khối lượng của một vật bằng cân, được: 50,2 g; 50,4 g; 50,3 g; 50,5 g; 50,1 g. Giá trị trung bình của khối lượng là bao nhiêu gam?
+Đáp án: 50,3|50.3
+Lời giải: $\overline{m} = \dfrac{251{,}5}{5} = 50{,}3$ g.
+
+Câu 2. Đo 5 lần chiều dài một quyển vở, được: 20,4 cm; 20,8 cm; 20,6 cm; 20,9 cm; 20,3 cm. Sai số ngẫu nhiên tuyệt đối trung bình của phép đo là bao nhiêu xentimét?
+Đáp án: 0,2|0.2
+Lời giải: $\overline{\ell} = \dfrac{103{,}0}{5} = 20{,}6$ cm. Các $\Delta\ell_i$: 0,2; 0,2; 0; 0,3; 0,3, nên $\overline{\Delta\ell} = \dfrac{1{,}0}{5} = 0{,}2$ cm.
+
+Câu 3. Quãng đường $s = 2{,}00 \pm 0{,}01$ m, thời gian $t = 4{,}00 \pm 0{,}04$ s. Sai số tỉ đối của tốc độ $v = \dfrac{s}{t}$ là bao nhiêu phần trăm?
+Đáp án: 1,5|1.5
+Lời giải: $\delta s = 0{,}5\%$, $\delta t = 1\%$, nên $\delta v = 1{,}5\%$.
+
+Câu 4. Đại lượng $A = B\sqrt{C}$, biết $\delta B = 2\%$ và $\delta C = 4\%$. Sai số tỉ đối của A là bao nhiêu phần trăm?
+Đáp án: 4
+Lời giải: $\delta A = \delta B + \dfrac{1}{2}\delta C = 2\% + 2\% = 4\%$.
+
+Câu 5. Một học sinh tính được giá trị trung bình chiều dài là 1,346 m và sai số tuyệt đối là 0,01 m. Khi ghi kết quả, giá trị trung bình phải viết đến hàng phần trăm (tương ứng với sai số). Giá trị trung bình được ghi là bao nhiêu mét?
+Đáp án: 1,35|1.35
+Lời giải: Chữ số bỏ đi là 6 ≥ 5 nên tăng chữ số bên trái lên một đơn vị: 1,35 m.
+
+Câu 6. Tốc độ trung bình của xe là $\overline{v} = 2{,}0$ m/s với sai số tỉ đối 5%. Sai số tuyệt đối của tốc độ là bao nhiêu m/s?
+Đáp án: 0,1|0.1
+Lời giải: $\Delta v = \delta v\cdot\overline{v} = 0{,}05 \cdot 2{,}0 = 0{,}1$ m/s.

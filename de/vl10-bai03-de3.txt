@@ -1,0 +1,169 @@
+VẬT LÍ 10 - CHƯƠNG I. MỞ ĐẦU - BÀI 3. THỰC HÀNH TÍNH SAI SỐ TRONG PHÉP ĐO. GHI KẾT QUẢ ĐO - ĐỀ 3
+Đề kiểm tra theo cấu trúc thi tốt nghiệp THPT (biên soạn: thầy Lâm Thế Phong, THPT An Thới)
+Thời gian: 50
+
+PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn
+Câu 1. Phát biểu nào sau đây là đúng?
+A. Phép đo được thực hiện cẩn thận sẽ cho giá trị đúng của đại lượng cần đo.
+*B. Không một phép đo nào cho giá trị đúng của đại lượng cần đo; mọi phép đo đều có sai số.
+C. Chỉ phép đo gián tiếp mới có sai số.
+D. Dụng cụ đo hiện đại không có sai số.
+
+Câu 2. Dùng thước đo chiều dài và chiều rộng của một tấm bìa rồi tính diện tích $S = a\cdot b$. Nhận xét nào đúng?
+A. Cả ba phép đo a, b, S đều là phép đo trực tiếp.
+*B. Đo a, b là phép đo trực tiếp; xác định S là phép đo gián tiếp.
+C. Đo a, b là phép đo gián tiếp; xác định S là phép đo trực tiếp.
+D. Cả ba phép đo đều là phép đo gián tiếp.
+
+Câu 3. Phép đo nào sau đây là phép đo gián tiếp?
+A. Đo cường độ dòng điện bằng ampe kế.
+B. Đo thể tích nước bằng ống đong.
+*C. Xác định gia tốc rơi tự do $g = \dfrac{2h}{t^2}$ từ độ cao h và thời gian rơi t đo được.
+D. Đo nhiệt độ cơ thể bằng nhiệt kế điện tử.
+
+Câu 4. Sai số dụng cụ còn được gọi là
+A. sai số ngẫu nhiên.
+*B. sai số hệ thống.
+C. sai số tỉ đối.
+D. sai số trung bình.
+
+Câu 5. Nguyên nhân nào sau đây gây ra sai số ngẫu nhiên?
+A. Đồng hồ bấm giây chạy chậm do cấu tạo.
+B. Cân bị lệch vạch 0 do nhà sản xuất.
+*C. Mỗi lần bấm đồng hồ, phản xạ của tay người đo nhanh chậm khác nhau.
+D. Thước đo có vạch chia bị in lệch.
+
+Câu 6. Vì sao để đo chính xác một đại lượng, người ta cần lặp lại phép đo nhiều lần và tính sai số?
+A. Vì đo nhiều lần sẽ làm giảm sai số dụng cụ.
+*B. Vì các lần đo cho kết quả khác nhau do sai số ngẫu nhiên; lấy giá trị trung bình và tính sai số giúp đánh giá được kết quả.
+C. Vì đo một lần không ra kết quả.
+D. Vì quy định bắt buộc phải đo đúng 5 lần.
+
+Câu 7. Một cân điện tử có ghi sai số do nhà sản xuất là ± 0,1 g. Khi dùng cân này, sai số dụng cụ được lấy bằng
+A. một nửa độ chia nhỏ nhất của cân, không quan tâm đến số ghi trên cân.
+*B. 0,1 g (giá trị nhà sản xuất ghi trên dụng cụ).
+C. 0 vì cân điện tử không có sai số.
+D. 1 g.
+
+Câu 8. Đo đại lượng A ba lần được $A_1, A_2, A_3$. Giá trị trung bình là
+A. $\overline{A} = A_1 + A_2 + A_3$.
+*B. $\overline{A} = \dfrac{A_1 + A_2 + A_3}{3}$.
+C. $\overline{A} = \dfrac{A_1 + A_3}{2}$.
+D. $\overline{A} = A_2$.
+
+Câu 9. Đo thời gian 3 lần được 2,4 s; 2,6 s; 2,5 s. Sai số ngẫu nhiên tuyệt đối của lần đo thứ nhất là
+A. 0 s.
+*B. 0,1 s.
+C. 0,2 s.
+D. 2,4 s.
+Lời giải: $\overline{t} = 2{,}5$ s; $\Delta t_1 = \left|2{,}5 - 2{,}4\right| = 0{,}1$ s.
+
+Câu 10. Hai phép đo có sai số tỉ đối lần lượt là 0,5% và 2%. Kết luận nào sau đây đúng?
+*A. Phép đo có sai số tỉ đối 0,5% chính xác hơn.
+B. Phép đo có sai số tỉ đối 2% chính xác hơn.
+C. Hai phép đo chính xác như nhau.
+D. Sai số tỉ đối không liên quan đến độ chính xác.
+
+Câu 11. Quãng đường s được đo thành hai đoạn $s_1$, $s_2$ với $s = s_1 + s_2$. Sai số tuyệt đối của s là
+A. $\Delta s = \Delta s_1 - \Delta s_2$.
+*B. $\Delta s = \Delta s_1 + \Delta s_2$.
+C. $\Delta s = \Delta s_1\cdot\Delta s_2$.
+D. $\Delta s = \dfrac{\Delta s_1}{\Delta s_2}$.
+
+Câu 12. Tốc độ được xác định theo công thức $v = \dfrac{s}{t}$. Sai số tỉ đối của tốc độ là
+A. $\delta v = \dfrac{\Delta s}{\overline{s}}\cdot 100\% - \dfrac{\Delta t}{\overline{t}}\cdot 100\%$.
+*B. $\delta v = \dfrac{\Delta s}{\overline{s}}\cdot 100\% + \dfrac{\Delta t}{\overline{t}}\cdot 100\%$.
+C. $\delta v = \dfrac{\Delta s}{\Delta t}\cdot 100\%$.
+D. $\delta v = \dfrac{\overline{s}}{\overline{t}}\cdot 100\%$.
+
+Câu 13. Gia tốc rơi tự do được xác định theo công thức $g = \dfrac{2h}{t^2}$. Sai số tỉ đối của g là
+A. $\delta g = \delta h + \delta t$.
+*B. $\delta g = \delta h + 2\delta t$.
+C. $\delta g = \delta h - 2\delta t$.
+D. $\delta g = 2\delta h + \delta t$.
+Lời giải: $t^2 = t\cdot t$ nên $\delta(t^2) = 2\delta t$; hệ số 2 là hằng số không có sai số. Vậy $\delta g = \delta h + 2\delta t$.
+
+Câu 14. Cách ghi kết quả đo nào sau đây là hợp lí (giá trị trung bình viết đến bậc thập phân tương ứng với sai số tuyệt đối)?
+A. $t = 2{,}5372 \pm 0{,}02$ s.
+*B. $t = 2{,}54 \pm 0{,}02$ s.
+C. $t = 2{,}5 \pm 0{,}02$ s.
+D. $t = 3 \pm 0{,}02$ s.
+
+Câu 15. Theo quy tắc làm tròn số, làm tròn 9,85 đến hàng phần mười được
+A. 9,8.
+*B. 9,9.
+C. 9,0.
+D. 10.
+Lời giải: Chữ số bỏ đi là 5 ≥ 5 nên chữ số bên trái (8) tăng thêm một đơn vị.
+
+Câu 16. Trên đồ thị biểu diễn kết quả thực nghiệm, ô chữ nhật bao quanh mỗi điểm đo (ô bao sai số) có hai cạnh lần lượt bằng
+A. $\Delta x$ và $\Delta y$.
+*B. $2\Delta x$ và $2\Delta y$.
+C. $x$ và $y$.
+D. $\dfrac{\Delta x}{2}$ và $\dfrac{\Delta y}{2}$.
+
+Câu 17. Kết quả đo khối lượng $m = 200 \pm 2$ g. Sai số tỉ đối của phép đo là
+A. 0,1%.
+*B. 1%.
+C. 2%.
+D. 10%.
+Lời giải: $\delta m = \dfrac{2}{200}\cdot 100\% = 1\%$.
+
+Câu 18. Một học sinh đo chiều dài bằng thước nhưng luôn đặt mắt nhìn lệch về một phía khi đọc số, làm mọi kết quả đều lớn hơn giá trị thật. Sai số này
+A. là sai số ngẫu nhiên, khắc phục bằng cách đo nhiều lần.
+*B. là sai số hệ thống có nguyên nhân chủ quan do người đo, cần loại bỏ bằng cách đặt mắt nhìn vuông góc với thước.
+C. là sai số dụng cụ, không thể khắc phục.
+D. không ảnh hưởng đến kết quả đo.
+
+PHẦN II. Câu trắc nghiệm đúng sai
+Câu 1. Một nhóm học sinh xác định tốc độ của một xe đồ chơi chạy pin bằng thước có độ chia nhỏ nhất 1 mm và đồng hồ đo thời gian có độ chia nhỏ nhất 0,01 s. Kết quả: $s = 0{,}800 \pm 0{,}002$ m; $t = 2{,}00 \pm 0{,}02$ s.
+a) Tốc độ trung bình của xe là 0,4 m/s. (Đ)
+b) Sai số tỉ đối của phép đo s là 0,25%. (Đ)
+c) Sai số tỉ đối của phép đo tốc độ là 0,75%. (S)
+d) Sai số tuyệt đối của tốc độ khoảng 0,005 m/s. (Đ)
+Lời giải: $\overline{v} = \dfrac{0{,}800}{2{,}00} = 0{,}4$ m/s; $\delta s = 0{,}25\%$; $\delta t = 1\%$; $\delta v = 1{,}25\%$; $\Delta v = 0{,}0125\cdot 0{,}4 = 0{,}005$ m/s.
+
+Câu 2. Đo 4 lần chu kì dao động của một con lắc, được: 1,98 s; 2,02 s; 2,00 s; 2,00 s. Đồng hồ có sai số dụng cụ 0,01 s.
+a) Giá trị trung bình của chu kì là 2,00 s. (Đ)
+b) Sai số ngẫu nhiên tuyệt đối trung bình là 0,01 s. (Đ)
+c) Sai số tuyệt đối của phép đo là 0,02 s. (Đ)
+d) Sai số tỉ đối của phép đo là 2%. (S)
+Lời giải: $\overline{T} = 2{,}00$ s; các $\Delta T_i$: 0,02; 0,02; 0; 0, nên $\overline{\Delta T} = \dfrac{0{,}04}{4} = 0{,}01$ s; $\Delta T = 0{,}01 + 0{,}01 = 0{,}02$ s; $\delta T = \dfrac{0{,}02}{2{,}00}\cdot 100\% = 1\%$.
+
+Câu 3. Một học sinh xác định gia tốc rơi tự do bằng công thức $g = \dfrac{2h}{t^2}$, đo được h với sai số tỉ đối 0,5% và t với sai số tỉ đối 1%.
+a) Đo h và đo t là các phép đo trực tiếp. (Đ)
+b) Sai số tỉ đối của g là 1,5%. (S)
+c) Sai số tỉ đối của g là 2,5%. (Đ)
+d) Muốn giảm sai số của g hiệu quả nhất nên ưu tiên đo thời gian chính xác hơn. (Đ)
+Lời giải: $\delta g = \delta h + 2\delta t = 0{,}5\% + 2\% = 2{,}5\%$. Sai số của t được nhân đôi nên ảnh hưởng lớn hơn.
+
+Câu 4. Về cách ghi kết quả đo:
+a) Kết quả đo được ghi dưới dạng $A = \overline{A} \pm \Delta A$. (Đ)
+b) Ghi $A = \overline{A} \pm \Delta A$ nghĩa là giá trị của A nằm trong khoảng từ $\overline{A} - \Delta A$ đến $\overline{A} + \Delta A$. (Đ)
+c) Giá trị trung bình nên viết càng nhiều chữ số thập phân càng tốt, không phụ thuộc vào sai số. (S)
+d) Theo quy tắc làm tròn, 0,0175 làm tròn đến hàng phần trăm được 0,02. (Đ)
+Lời giải: Giá trị trung bình được viết đến bậc thập phân tương ứng với $\Delta A$. 0,0175: chữ số bỏ đi là 7 ≥ 5 nên 0,01 thành 0,02.
+
+PHẦN III. Câu trắc nghiệm trả lời ngắn
+Câu 1. Đo 3 lần chiều dài một chiếc bút chì, được: 14,2 cm; 14,5 cm; 14,2 cm. Giá trị trung bình của chiều dài là bao nhiêu xentimét?
+Đáp án: 14,3|14.3
+Lời giải: $\overline{\ell} = \dfrac{14{,}2 + 14{,}5 + 14{,}2}{3} = \dfrac{42{,}9}{3} = 14{,}3$ cm.
+
+Câu 2. Một nhiệt kế có độ chia nhỏ nhất là 1 °C. Sai số dụng cụ (lấy bằng một nửa độ chia nhỏ nhất) là bao nhiêu độ C?
+Đáp án: 0,5|0.5
+
+Câu 3. Kết quả đo thời gian là $t = 2{,}50 \pm 0{,}05$ s. Sai số tỉ đối của phép đo là bao nhiêu phần trăm?
+Đáp án: 2
+Lời giải: $\delta t = \dfrac{0{,}05}{2{,}50}\cdot 100\% = 2\%$.
+
+Câu 4. Chu vi hình chữ nhật $P = 2(a + b)$, với $a = 12{,}0 \pm 0{,}1$ cm và $b = 8{,}0 \pm 0{,}1$ cm. Sai số tuyệt đối của P là bao nhiêu xentimét?
+Đáp án: 0,4|0.4
+Lời giải: $P = a + a + b + b$ nên $\Delta P = 2(\Delta a + \Delta b) = 2(0{,}1 + 0{,}1) = 0{,}4$ cm.
+
+Câu 5. Gia tốc rơi tự do $g = \dfrac{2h}{t^2}$. Biết sai số tỉ đối của h là 1% và của t là 1,5%. Sai số tỉ đối của g là bao nhiêu phần trăm?
+Đáp án: 4
+Lời giải: $\delta g = \delta h + 2\delta t = 1\% + 3\% = 4\%$.
+
+Câu 6. Tính được $\overline{g} = 9{,}80$ m/s² với sai số tỉ đối 2%. Sai số tuyệt đối của g là bao nhiêu m/s²? (Làm tròn đến hàng phần mười.)
+Đáp án: 0,2|0.2
+Lời giải: $\Delta g = 0{,}02\cdot 9{,}80 = 0{,}196 \approx 0{,}2$ m/s².

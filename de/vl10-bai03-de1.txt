@@ -1,0 +1,170 @@
+VẬT LÍ 10 - CHƯƠNG I. MỞ ĐẦU - BÀI 3. THỰC HÀNH TÍNH SAI SỐ TRONG PHÉP ĐO. GHI KẾT QUẢ ĐO - ĐỀ 1
+Đề kiểm tra theo cấu trúc thi tốt nghiệp THPT (biên soạn: thầy Lâm Thế Phong, THPT An Thới)
+Thời gian: 50
+
+PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn
+Câu 1. Phép đo một đại lượng mà kết quả được đọc trực tiếp trên dụng cụ đo gọi là
+*A. phép đo trực tiếp.
+B. phép đo gián tiếp.
+C. phép đo ngẫu nhiên.
+D. phép đo hệ thống.
+
+Câu 2. Phép đo nào sau đây là phép đo gián tiếp?
+A. Đo chiều dài bàn học bằng thước mét.
+B. Đo khối lượng quả táo bằng cân điện tử.
+*C. Xác định tốc độ của xe bằng cách đo quãng đường, đo thời gian rồi tính $v = \dfrac{s}{t}$.
+D. Đo thời gian chạy 100 m bằng đồng hồ bấm giây.
+Lời giải: Tốc độ được tính qua công thức liên hệ với các đại lượng đo trực tiếp là s và t.
+
+Câu 3. Sai số hệ thống là sai số
+*A. do đặc điểm và cấu tạo của dụng cụ đo gây ra.
+B. không có nguyên nhân rõ ràng.
+C. chỉ xuất hiện khi đo nhiều lần.
+D. luôn bằng 0 nếu đo cẩn thận.
+
+Câu 4. Sai số ngẫu nhiên có thể do nguyên nhân nào sau đây?
+A. Kim của đồng hồ đo không chỉ đúng vạch 0 khi chưa đo.
+*B. Thao tác đo không chuẩn, điều kiện làm thí nghiệm không ổn định.
+C. Thước đo bị in sai vạch chia ngay từ khi sản xuất.
+D. Độ chia nhỏ nhất của dụng cụ quá lớn.
+
+Câu 5. Để hạn chế sai số ngẫu nhiên, người ta thường
+A. chỉ đo một lần thật cẩn thận.
+*B. tiến hành đo nhiều lần và tính sai số.
+C. dùng nhiều loại dụng cụ khác nhau trong một lần đo.
+D. bỏ qua các lần đo có kết quả khác nhau.
+
+Câu 6. Sai số dụng cụ của một dụng cụ đo thường được lấy bằng
+A. độ chia nhỏ nhất trên dụng cụ.
+*B. một nửa độ chia nhỏ nhất trên dụng cụ (hoặc giá trị do nhà sản xuất ghi trên dụng cụ).
+C. hai lần độ chia nhỏ nhất trên dụng cụ.
+D. giới hạn đo của dụng cụ.
+
+Câu 7. Đo một đại lượng A nhiều lần, giá trị trung bình là $\overline{A}$. Sai số ngẫu nhiên tuyệt đối của lần đo thứ i là
+A. $\Delta A_i = \overline{A} + A_i$.
+*B. $\Delta A_i = \left|\overline{A} - A_i\right|$.
+C. $\Delta A_i = \dfrac{A_i}{\overline{A}}$.
+D. $\Delta A_i = \overline{A}\cdot A_i$.
+
+Câu 8. Sai số tuyệt đối $\Delta A$ của phép đo bằng
+A. hiệu của sai số ngẫu nhiên và sai số dụng cụ.
+*B. tổng của sai số ngẫu nhiên tuyệt đối trung bình và sai số dụng cụ: $\Delta A = \overline{\Delta A} + \Delta A_{dc}$.
+C. tích của sai số ngẫu nhiên và sai số dụng cụ.
+D. sai số dụng cụ chia cho số lần đo.
+
+Câu 9. Sai số tỉ đối của phép đo cho biết
+A. giá trị trung bình của đại lượng đo.
+*B. mức độ chính xác của phép đo.
+C. số lần đo cần thực hiện.
+D. độ chia nhỏ nhất của dụng cụ.
+
+Câu 10. Công thức tính sai số tỉ đối là
+*A. $\delta A = \dfrac{\Delta A}{\overline{A}}\cdot 100\%$.
+B. $\delta A = \dfrac{\overline{A}}{\Delta A}\cdot 100\%$.
+C. $\delta A = \Delta A\cdot \overline{A}\cdot 100\%$.
+D. $\delta A = (\overline{A} - \Delta A)\cdot 100\%$.
+
+Câu 11. Đại lượng A được tính bằng tổng A = B + C. Sai số tuyệt đối của A là
+A. $\Delta A = \Delta B - \Delta C$.
+*B. $\Delta A = \Delta B + \Delta C$.
+C. $\Delta A = \Delta B\cdot \Delta C$.
+D. $\Delta A = \dfrac{\Delta B + \Delta C}{2}$.
+
+Câu 12. Đại lượng A được tính bằng tích A = B.C. Sai số tỉ đối của A là
+A. $\delta A = \delta B\cdot \delta C$.
+B. $\delta A = \delta B - \delta C$.
+*C. $\delta A = \delta B + \delta C$.
+D. $\delta A = \dfrac{\delta B}{\delta C}$.
+
+Câu 13. Kết quả đo đại lượng A được ghi đúng dạng là
+A. $A = \overline{A} \cdot \Delta A$.
+*B. $A = \overline{A} \pm \Delta A$.
+C. $A = \Delta A \pm \overline{A}$.
+D. $A = \overline{A} : \Delta A$.
+
+Câu 14. Kết quả đo chiều dài được ghi là $\ell = 25{,}4 \pm 0{,}1$ cm. Chiều dài thật của vật nằm trong khoảng
+A. từ 25,0 cm đến 25,4 cm.
+*B. từ 25,3 cm đến 25,5 cm.
+C. từ 25,4 cm đến 25,6 cm.
+D. từ 25,2 cm đến 25,6 cm.
+Lời giải: $(\overline{\ell} - \Delta\ell) \le \ell \le (\overline{\ell} + \Delta\ell)$: 25,3 cm ≤ ℓ ≤ 25,5 cm.
+
+Câu 15. Theo quy tắc làm tròn số, làm tròn 2,746 đến hàng phần trăm được
+A. 2,74.
+*B. 2,75.
+C. 2,70.
+D. 2,80.
+Lời giải: Chữ số bỏ đi là 6 ≥ 5 nên chữ số bên trái (4) tăng thêm một đơn vị: 2,75.
+
+Câu 16. Một bạn đặt vật lên cân nhưng quên chỉnh kim cân về vạch số 0 (kim đang chỉ sẵn 2 g). Sai số do việc này gây ra thuộc loại
+*A. sai số hệ thống, có nguyên nhân chủ quan do người đo, cần loại bỏ.
+B. sai số ngẫu nhiên, không thể loại bỏ.
+C. sai số tỉ đối.
+D. sai số ngẫu nhiên do điều kiện thí nghiệm không ổn định.
+Lời giải: Mọi lần đo đều lệch cùng một lượng 2 g theo một chiều: đó là sai số hệ thống do người đo, khắc phục bằng cách chỉnh kim về vạch 0 trước khi đo.
+
+Câu 17. Đo chiều dài hai đoạn thẳng: $\ell_1 = 100 \pm 1$ cm và $\ell_2 = 10 \pm 1$ cm. Nhận xét nào sau đây đúng?
+A. Hai phép đo chính xác như nhau vì có cùng sai số tuyệt đối.
+*B. Phép đo $\ell_1$ chính xác hơn vì có sai số tỉ đối nhỏ hơn.
+C. Phép đo $\ell_2$ chính xác hơn vì giá trị đo nhỏ hơn.
+D. Không so sánh được vì hai đoạn có độ dài khác nhau.
+Lời giải: $\delta\ell_1 = 1\%$, $\delta\ell_2 = 10\%$. Sai số tỉ đối càng nhỏ thì phép đo càng chính xác.
+
+Câu 18. Khi biểu diễn kết quả thực nghiệm có sai số $\pm\Delta x$ và $\pm\Delta y$ trên đồ thị, mỗi giá trị đo được biểu diễn bằng một điểm nằm trong
+A. một đường tròn bán kính $\Delta x$.
+*B. một ô chữ nhật có cạnh $2\Delta x$ và $2\Delta y$.
+C. một ô vuông cạnh $\Delta x + \Delta y$.
+D. một đoạn thẳng dài $\Delta y$.
+
+PHẦN II. Câu trắc nghiệm đúng sai
+Câu 1. Một học sinh dùng đồng hồ có độ chia nhỏ nhất 0,01 s đo 5 lần thời gian một viên bi lăn trên máng nghiêng, được: 1,52 s; 1,55 s; 1,53 s; 1,54 s; 1,51 s.
+a) Giá trị trung bình của thời gian là 1,53 s. (Đ)
+b) Sai số ngẫu nhiên tuyệt đối của lần đo thứ hai là 0,02 s. (Đ)
+c) Sai số ngẫu nhiên tuyệt đối trung bình là 0,02 s. (S)
+d) Lấy sai số dụng cụ bằng một nửa độ chia nhỏ nhất thì kết quả đo được ghi là $t = 1{,}53 \pm 0{,}02$ s. (Đ)
+Lời giải: $\overline{t} = \dfrac{7{,}65}{5} = 1{,}53$ s. Các $\Delta t_i$: 0,01; 0,02; 0; 0,01; 0,02, nên $\overline{\Delta t} = \dfrac{0{,}06}{5} = 0{,}012$ s. $\Delta t = 0{,}012 + 0{,}005 = 0{,}017 \approx 0{,}02$ s (viết tới hàng phần trăm, đơn vị của ĐCNN).
+
+Câu 2. Để xác định tốc độ của một xe đồ chơi, một nhóm đo quãng đường s bằng thước và đo thời gian t bằng đồng hồ, rồi tính $v = \dfrac{s}{t}$.
+a) Phép đo s và phép đo t là các phép đo trực tiếp. (Đ)
+b) Phép xác định v là phép đo gián tiếp. (Đ)
+c) Sai số tỉ đối của v bằng hiệu các sai số tỉ đối của s và t. (S)
+d) Nếu $\delta s = 1\%$ và $\delta t = 2\%$ thì $\delta v = 3\%$. (Đ)
+Lời giải: Với thương $v = \dfrac{s}{t}$: $\delta v = \delta s + \delta t = 1\% + 2\% = 3\%$.
+
+Câu 3. Về sai số hệ thống và sai số ngẫu nhiên:
+a) Sai số hệ thống có nguyên nhân khách quan (do dụng cụ) và nguyên nhân chủ quan do người đo. (Đ)
+b) Khi lặp lại phép đo, ta nhận được các giá trị khác nhau; sự sai lệch này không có nguyên nhân rõ ràng gọi là sai số ngẫu nhiên. (Đ)
+c) Đo càng nhiều lần thì sai số dụng cụ càng giảm. (S)
+d) Hạn chế về giác quan của người đo có thể gây ra sai số ngẫu nhiên. (Đ)
+Lời giải: Sai số dụng cụ do cấu tạo của dụng cụ, không phụ thuộc số lần đo.
+
+Câu 4. Một học sinh đo chiều dài một quyển sách bằng thước có độ chia nhỏ nhất 1 mm.
+a) Sai số dụng cụ của thước có thể lấy bằng 0,5 mm. (Đ)
+b) Nếu đọc kết quả bằng cách nhìn xiên (không vuông góc với thước) thì có thể gây sai số. (Đ)
+c) Chỉ cần đo một lần là biết được giá trị đúng của chiều dài quyển sách. (S)
+d) Nếu kết quả ghi là $\ell = 240 \pm 1$ mm thì sai số tỉ đối của phép đo khoảng 0,42%. (Đ)
+Lời giải: Không phép đo nào cho giá trị đúng; $\delta\ell = \dfrac{1}{240}\cdot 100\% \approx 0{,}42\%$.
+
+PHẦN III. Câu trắc nghiệm trả lời ngắn
+Câu 1. Đo 5 lần thời gian rơi của một vật, được: 2,01 s; 2,03 s; 2,02 s; 2,04 s; 2,00 s. Giá trị trung bình của thời gian rơi là bao nhiêu giây?
+Đáp án: 2,02|2.02
+Lời giải: $\overline{t} = \dfrac{2{,}01 + 2{,}03 + 2{,}02 + 2{,}04 + 2{,}00}{5} = \dfrac{10{,}10}{5} = 2{,}02$ s.
+
+Câu 2. Đo 5 lần thời gian chuyển động của một xe bằng đồng hồ có độ chia nhỏ nhất 0,01 s, được: 3,12 s; 3,15 s; 3,13 s; 3,10 s; 3,15 s. Lấy sai số dụng cụ bằng một nửa độ chia nhỏ nhất. Sai số tuyệt đối $\Delta t$ của phép đo là bao nhiêu giây? (Làm tròn đến hàng phần trăm.)
+Đáp án: 0,02|0.02
+Lời giải: $\overline{t} = \dfrac{15{,}65}{5} = 3{,}13$ s. Các $\Delta t_i$: 0,01; 0,02; 0; 0,03; 0,02, nên $\overline{\Delta t} = \dfrac{0{,}08}{5} = 0{,}016$ s. $\Delta t = 0{,}016 + 0{,}005 = 0{,}021 \approx 0{,}02$ s.
+
+Câu 3. Quãng đường s gồm hai đoạn đo được $s_1 = 1{,}25 \pm 0{,}01$ m và $s_2 = 0{,}75 \pm 0{,}01$ m, $s = s_1 + s_2$. Sai số tuyệt đối của s là bao nhiêu mét?
+Đáp án: 0,02|0.02
+Lời giải: $\Delta s = \Delta s_1 + \Delta s_2 = 0{,}01 + 0{,}01 = 0{,}02$ m.
+
+Câu 4. Kết quả đo chiều dài một sợi dây là $\ell = 50{,}0 \pm 0{,}5$ cm. Sai số tỉ đối của phép đo là bao nhiêu phần trăm?
+Đáp án: 1
+Lời giải: $\delta\ell = \dfrac{0{,}5}{50{,}0}\cdot 100\% = 1\%$.
+
+Câu 5. Một thước có độ chia nhỏ nhất là 1 mm. Sai số dụng cụ của thước (lấy bằng một nửa độ chia nhỏ nhất) là bao nhiêu milimét?
+Đáp án: 0,5|0.5
+
+Câu 6. Diện tích hình chữ nhật được tính bằng $S = a\cdot b$. Biết sai số tỉ đối của phép đo a là 0,5% và của phép đo b là 1,5%. Sai số tỉ đối của S là bao nhiêu phần trăm?
+Đáp án: 2
+Lời giải: $\delta S = \delta a + \delta b = 0{,}5\% + 1{,}5\% = 2\%$.
