@@ -396,6 +396,7 @@ a.gv-viec:hover { border-color: var(--tin); }
 .gv-bai:hover { border-color: var(--muc); }
 .gv-bai__so { flex: none; width: 42px; height: 42px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-weight: 800; background: var(--hsg-nhat); color: var(--hsg); }
 .gv-bai--xong .gv-bai__so { background: #e6f4ea; color: #2f8f4e; }
+.gv-bai--thuoc { border-color: #2f8f4e; }
 .gv-bai__chu { flex: 1; min-width: 0; display: flex; flex-direction: column; gap: 3px; }
 .gv-bai__chu b { font-weight: 600; }
 .gv-bai__tt { flex: none; font-size: 13px; font-weight: 700; color: var(--mo); }

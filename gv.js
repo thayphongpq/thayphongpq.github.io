@@ -35,11 +35,17 @@
   function idCau(b) { return b.cau.map(function (c, i) { return b.id + "-" + i; }); }
   function baiTheoId(id) { return DL.bai.find(function (b) { return b.id === id; }); }
 
-  // Lặp lại ngắt quãng: đúng thì lên hộp (ôn thưa dần), sai thì về hộp 1 và ôn lại ngay hôm nay.
+  // Lặp lại ngắt quãng: câu đến hạn mà trả lời đúng thì lên hộp (ôn thưa dần: 1, 2, 4, 7, 15, 30 ngày);
+  // trả lời đúng nhiều lần trong cùng một ngày không lên hộp thêm (phải nhớ qua nhiều ngày mới tính là thuộc);
+  // sai thì về hộp 1 và ôn lại ngay hôm nay.
   function chamThe(id, dung) {
-    const t = TD.the[id] || { box: 0, due: homNay(), dung: 0, sai: 0 };
-    if (dung) { t.box = Math.min(6, t.box + 1); t.dung++; t.due = congNgay(KHOANG[t.box]); }
-    else { t.box = 1; t.sai++; t.due = homNay(); }
+    const hn = homNay();
+    const t = TD.the[id] || { box: 0, due: hn, dung: 0, sai: 0 };
+    if (dung) {
+      t.dung++;
+      if (t.saiNgay === hn) { t.box = Math.max(1, t.box); t.due = congNgay(1); }
+      else if (t.box === 0 || t.due <= hn) { t.box = Math.min(6, t.box + 1); t.due = congNgay(KHOANG[t.box]); }
+    } else { t.box = 1; t.sai++; t.due = hn; t.saiNgay = hn; }
     TD.the[id] = t;
     ghi();
   }
@@ -51,7 +57,8 @@
     let hoc = 0, thuoc = 0;
     idCau(b).forEach(function (id) { const t = TD.the[id]; if (t && t.box >= 1) hoc++; if (t && t.box >= 3) thuoc++; });
     const n = b.cau.length;
-    return { hoc: hoc, thuoc: thuoc, n: n, pt: Math.round(100 * (hoc + thuoc) / (2 * n)), xong: thuoc >= Math.ceil(n * 0.8) };
+    // xong: đã luyện đúng mọi câu ít nhất một lần (chuyển sang bài mới); thuocHet: đã thuộc từ 80% số câu (nhớ qua nhiều ngày).
+    return { hoc: hoc, thuoc: thuoc, n: n, pt: Math.round(100 * (hoc + thuoc) / (2 * n)), xong: hoc >= n, thuocHet: thuoc >= Math.ceil(n * 0.8) };
   }
   function loTrinh() {
     const mon = (TD.hoSo && TD.hoSo.mon) || "ca-hai";
@@ -200,9 +207,9 @@
   }
   function theBai(b) {
     const t = tienDo(b), dangHoc = t.hoc > 0 && !t.xong;
-    return '<a class="gv-bai' + (t.xong ? " gv-bai--xong" : "") + '" href="#/giao-vien/bai/' + b.id + '"><span class="gv-bai__so">' + esc(b.id) + "</span>" +
+    return '<a class="gv-bai' + (t.xong ? " gv-bai--xong" : "") + (t.thuocHet ? " gv-bai--thuoc" : "") + '" href="#/giao-vien/bai/' + b.id + '"><span class="gv-bai__so">' + esc(b.id) + "</span>" +
       '<span class="gv-bai__chu"><b>' + esc(b.ten) + '</b><span class="phu" lang="en">' + esc(b.tenEn) + " · " + esc(b.capDo) + "</span>" + thanh(t.pt) + "</span>" +
-      '<span class="gv-bai__tt">' + (t.xong ? "✓ Đã xong" : dangHoc ? t.pt + "%" : "Chưa học") + "</span></a>";
+      '<span class="gv-bai__tt">' + (t.thuocHet ? "★ Đã thuộc" : t.xong ? "✓ Đã học" : dangHoc ? t.pt + "%" : "Chưa học") + "</span></a>";
   }
 
   /* ----- Kiểm tra đầu vào ----- */
@@ -337,6 +344,8 @@
     PHIEN.daCham = true;
     if (dung) PHIEN.dung++;
     chamThe(PHIEN.ds[PHIEN.i], dung);
+    const o = document.querySelector(".gv-tien-do-bai");
+    if (o && BAI) { const t = tienDo(BAI); o.innerHTML = thanh(t.pt) + "<span>" + t.hoc + "/" + t.n + " câu đã luyện · " + t.thuoc + " câu đã thuộc</span>"; }
   }
   function veKetThuc(o) {
     const pt = PHIEN.ds.length ? PHIEN.dung / PHIEN.ds.length : 0;
