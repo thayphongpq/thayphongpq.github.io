@@ -120,13 +120,16 @@ const DE_THI = [
   { ten: "Bài 7 – Đề 1. Đồ thị độ dịch chuyển – thời gian", mon: "Vật lý", lop: "10", loai: "Luyện tập", tep: "de/vl10-bai07-de1.txt", thoiGian: 50, ngay: "2026-11-19" },
   { ten: "Bài 7 – Đề 2. Đồ thị độ dịch chuyển – thời gian", mon: "Vật lý", lop: "10", loai: "Luyện tập", tep: "de/vl10-bai07-de2.txt", thoiGian: 50, ngay: "2026-11-19" },
   { ten: "Bài 7 – Đề 3. Đồ thị độ dịch chuyển – thời gian", mon: "Vật lý", lop: "10", loai: "Luyện tập", tep: "de/vl10-bai07-de3.txt", thoiGian: 50, ngay: "2026-11-19" },
+  { ten: "Bài 8 – Đề 1. Chuyển động biến đổi. Gia tốc", mon: "Vật lý", lop: "10", loai: "Luyện tập", tep: "de/vl10-bai08-de1.txt", thoiGian: 50, ngay: "2026-11-19" },
+  { ten: "Bài 8 – Đề 2. Chuyển động biến đổi. Gia tốc", mon: "Vật lý", lop: "10", loai: "Luyện tập", tep: "de/vl10-bai08-de2.txt", thoiGian: 50, ngay: "2026-11-19" },
+  { ten: "Bài 8 – Đề 3. Chuyển động biến đổi. Gia tốc", mon: "Vật lý", lop: "10", loai: "Luyện tập", tep: "de/vl10-bai08-de3.txt", thoiGian: 50, ngay: "2026-11-19" },
 
   // ----- Vật lý 10 (sách thống nhất) - Chương II. Động học -----
   // (đề cũ 13 câu, đã thay bằng 3 đề 28 câu) { ten: "Bài 4. Độ dịch chuyển và quãng đường đi được", mon: "Vật lý", lop: "10", loai: "Luyện tập", tep: "de/vl10-bai04-do-dich-chuyen.txt", thoiGian: 20, ngay: "2026-11-19" },
   // (đề cũ 13 câu, đã thay bằng 3 đề 28 câu) { ten: "Bài 5. Tốc độ và vận tốc", mon: "Vật lý", lop: "10", loai: "Luyện tập", tep: "de/vl10-bai05-toc-do-van-toc.txt", thoiGian: 20, ngay: "2026-11-19" },
   // (đề cũ 13 câu, đã thay bằng 3 đề 28 câu) { ten: "Bài 6. Thực hành: Đo tốc độ của vật chuyển động", mon: "Vật lý", lop: "10", loai: "Luyện tập", tep: "de/vl10-bai06-thuc-hanh-do-toc-do.txt", thoiGian: 20, ngay: "2026-11-19" },
   // (đề cũ 13 câu, đã thay bằng 3 đề 28 câu) { ten: "Bài 7. Đồ thị độ dịch chuyển – thời gian", mon: "Vật lý", lop: "10", loai: "Luyện tập", tep: "de/vl10-bai07-do-thi-dich-chuyen.txt", thoiGian: 20, ngay: "2026-11-19" },
-  { ten: "Bài 8. Chuyển động biến đổi. Gia tốc", mon: "Vật lý", lop: "10", loai: "Luyện tập", tep: "de/vl10-bai08-gia-toc.txt", thoiGian: 20, ngay: "2026-11-19" },
+  // (đề cũ 13 câu, đã thay bằng 3 đề 28 câu) { ten: "Bài 8. Chuyển động biến đổi. Gia tốc", mon: "Vật lý", lop: "10", loai: "Luyện tập", tep: "de/vl10-bai08-gia-toc.txt", thoiGian: 20, ngay: "2026-11-19" },
   { ten: "Bài 9. Chuyển động thẳng biến đổi đều", mon: "Vật lý", lop: "10", loai: "Luyện tập", tep: "de/vl10-bai09-bien-doi-deu.txt", thoiGian: 20, ngay: "2026-11-19" },
   { ten: "Bài 10. Sự rơi tự do", mon: "Vật lý", lop: "10", loai: "Luyện tập", tep: "de/vl10-bai10-roi-tu-do.txt", thoiGian: 20, ngay: "2026-11-19" },
   { ten: "Bài 11. Thực hành: Đo gia tốc rơi tự do", mon: "Vật lý", lop: "10", loai: "Luyện tập", tep: "de/vl10-bai11-thuc-hanh-roi-tu-do.txt", thoiGian: 20, ngay: "2026-11-19" },
