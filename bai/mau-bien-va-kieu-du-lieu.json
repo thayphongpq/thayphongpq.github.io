@@ -1,0 +1,19 @@
+{
+  "ten": {
+    "vi": "Mẫu: Biến và kiểu dữ liệu trong Python",
+    "en": "Sample: Variables and data types in Python"
+  },
+  "mon": "Tin học",
+  "lop": "10",
+  "noiDung": {
+    "vi": "## 1. Biến là gì?\n\n**Biến** là tên dùng để lưu trữ một giá trị trong bộ nhớ máy tính. Trong Python, ta tạo biến bằng **câu lệnh gán** `=`.\n\n```python\nten = \"An\"\ntuoi = 16\ngia = \"$5\"   # dấu $ trong mã không bị đổi thành công thức\nprint(ten, tuoi, gia)\n```\n\n## 2. Các kiểu dữ liệu cơ bản\n\n- `int`: số nguyên, ví dụ `16`\n- `float`: số thực, ví dụ `3.14`\n- `str`: xâu kí tự, ví dụ `\"An\"`\n- `bool`: giá trị logic `True` hoặc `False`\n\n## 3. Ví dụ tính toán\n\nDiện tích hình tròn bán kính $r$ là $S = \\pi r^2$. Với $r = 2$ thì $S \\approx 12{,}57$.\n\n```python\nimport math\nr = 2\nS = math.pi * r ** 2\nprint(round(S, 2))\n```",
+    "en": "## 1. What is a variable?\n\nA **variable** is a name used to store a value in the computer's memory. In Python, we create a variable with an **assignment statement** `=`.\n\n```python\nten = \"An\"\ntuoi = 16\ngia = \"$5\"   # a $ sign inside code is not turned into a formula\nprint(ten, tuoi, gia)\n```\n\n## 2. Basic data types\n\n- `int`: integer, e.g. `16`\n- `float`: real number, e.g. `3.14`\n- `str`: string, e.g. `\"An\"`\n- `bool`: logical value `True` or `False`\n\n## 3. A calculation example\n\nThe area of a circle with radius $r$ is $S = \\pi r^2$. With $r = 2$, $S \\approx 12.57$.\n\n```python\nimport math\nr = 2\nS = math.pi * r ** 2\nprint(round(S, 2))\n```"
+  },
+  "thuatNgu": [
+    { "en": "variable", "ipa": "/ˈveəriəbl/", "vi": "biến", "ghiChu": "Tên dùng để lưu một giá trị." },
+    { "en": "assignment", "ipa": "/əˈsaɪnmənt/", "vi": "phép gán", "ghiChu": "Câu lệnh `x = 5`." },
+    { "en": "integer", "ipa": "/ˈɪntɪdʒə(r)/", "vi": "số nguyên", "ghiChu": "Kiểu `int`." },
+    { "en": "string", "ipa": "/strɪŋ/", "vi": "xâu kí tự", "ghiChu": "Kiểu `str`." },
+    { "en": "boolean", "ipa": "/ˈbuːliən/", "vi": "kiểu logic", "ghiChu": "Chỉ có `True` hoặc `False`." }
+  ]
+}
