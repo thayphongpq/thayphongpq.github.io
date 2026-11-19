@@ -1,0 +1,159 @@
+VẬT LÍ 10 - CHƯƠNG III. ĐỘNG LỰC HỌC - BÀI 14. ĐỊNH LUẬT 1 NEWTON - ĐỀ 2
+Đề kiểm tra theo cấu trúc thi tốt nghiệp THPT (biên soạn: thầy Lâm Thế Phong, THPT An Thới)
+Thời gian: 50
+
+PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn
+Câu 1. Phát biểu nào sau đây đúng với định luật 1 Newton?
+A. Muốn vật chuyển động phải luôn có lực tác dụng.
+*B. Nếu một vật không chịu tác dụng của lực nào hoặc chịu tác dụng của các lực có hợp lực bằng không thì vật đang đứng yên sẽ tiếp tục đứng yên, đang chuyển động sẽ tiếp tục chuyển động thẳng đều.
+C. Vật luôn chuyển động theo hướng của lực.
+D. Mọi vật đều tự dừng lại khi không có lực.
+
+Câu 2. Tàu thăm dò Voyager vẫn tiếp tục chuyển động rời xa Trái Đất dù hầu như không còn lực nào tác dụng lên nó. Điều này được giải thích bằng
+A. lực đẩy của động cơ.
+*B. quán tính (định luật 1 Newton).
+C. lực hút của Trái Đất.
+D. lực cản của không khí.
+
+Câu 3. Nguyên nhân làm quyển sách đang được đẩy trên bàn dừng lại khi ta ngừng đẩy là
+A. sách không còn quán tính.
+*B. lực ma sát của mặt bàn tác dụng lên sách.
+C. trọng lực của sách.
+D. sách tự dừng lại vì không có lực đẩy.
+
+Câu 4. Theo định luật 1 Newton, lực là nguyên nhân
+A. duy trì chuyển động của vật.
+*B. làm thay đổi trạng thái chuyển động (vận tốc) của vật, không phải nguyên nhân duy trì chuyển động.
+C. làm vật đứng yên.
+D. không liên quan đến chuyển động.
+
+Câu 5. Trong thí nghiệm của Galilei, khi hạ thấp dần độ nghiêng của máng 2 thì hòn bi
+A. lăn lên máng 2 một đoạn ngắn hơn.
+*B. lăn trên máng 2 được một đoạn dài hơn.
+C. không lăn lên máng 2.
+D. dừng ngay ở chân máng 1.
+
+Câu 6. Nhà khoa học đã làm thí nghiệm với các máng nghiêng và tiên đoán rằng nếu không có ma sát thì hòn bi sẽ lăn mãi trên mặt nằm ngang là
+*A. Galilei.
+B. Aristotle.
+C. Newton.
+D. Archimedes.
+
+Câu 7. Một người trượt ván giữ được vận tốc không đổi trên đường thẳng nằm ngang. Theo định luật 1 Newton, các lực tác dụng lên người và ván
+A. có hợp lực hướng về phía trước.
+B. có hợp lực hướng về phía sau.
+*C. có hợp lực bằng 0.
+D. chỉ có trọng lực.
+
+Câu 8. Tính chất bảo toàn trạng thái đứng yên hay chuyển động của vật được gọi là
+A. trọng lực.
+*B. quán tính.
+C. ma sát.
+D. gia tốc.
+
+Câu 9. Khi xe buýt đang chạy thẳng đều mà đột ngột tăng tốc, hành khách đứng trên xe bị
+*A. ngả về phía sau.
+B. chúi về phía trước.
+C. nghiêng sang trái.
+D. không bị ảnh hưởng.
+
+Câu 10. Khi xe rẽ nhanh sang phải, hành khách trên xe có xu hướng
+A. nghiêng sang phải.
+*B. nghiêng sang trái.
+C. ngả về phía sau.
+D. chúi về phía trước.
+
+Câu 11. Một vật đang chuyển động thẳng đều trên mặt phẳng nằm ngang nhẵn. Nếu không có lực nào tác dụng theo phương ngang thì vật
+A. dừng lại sau một thời gian.
+B. chuyển động chậm dần.
+*C. tiếp tục chuyển động thẳng đều.
+D. chuyển động nhanh dần.
+
+Câu 12. Đặt một cốc nước lên một tờ giấy trên mặt bàn rồi kéo tờ giấy từ từ. Hiện tượng xảy ra là
+*A. cốc chuyển động cùng tờ giấy.
+B. cốc đứng yên, tờ giấy trượt ra.
+C. cốc bị đổ ngay.
+D. cốc nảy lên.
+
+Câu 13. Ứng dụng nào sau đây KHÔNG liên quan đến quán tính?
+A. Thắt dây an toàn khi đi ô tô.
+B. Đập cán búa xuống đất để tra đầu búa vào cán.
+C. Giũ quần áo cho sạch bụi.
+*D. Dùng nhiệt kế đo nhiệt độ cơ thể.
+
+Câu 14. Khi giũ mạnh một chiếc áo, bụi bám trên áo rơi ra vì
+A. bụi bị hút xuống đất.
+*B. áo đột ngột dừng lại, bụi do quán tính tiếp tục chuyển động nên tách khỏi áo.
+C. bụi nhẹ hơn áo.
+D. không khí thổi bụi đi.
+
+Câu 15. Một quả cầu đứng yên khi được treo vào một sợi dây. Nếu bỗng nhiên dây đứt thì
+A. quả cầu vẫn đứng yên do quán tính.
+*B. quả cầu rơi xuống vì hợp lực lúc này khác 0 (chỉ còn trọng lực).
+C. quả cầu bay lên.
+D. quả cầu chuyển động thẳng đều theo phương ngang.
+
+Câu 16. Trong thí nghiệm xe lăn chở vật nhỏ trượt xuống dốc rồi bị vật chắn cản lại, để vật nhỏ không bị văng đi có thể
+A. cho xe chạy nhanh hơn.
+*B. buộc (giữ) vật nhỏ chặt vào xe.
+C. dùng vật nhỏ nhẹ hơn.
+D. đặt vật nhỏ lên mép trước của xe.
+
+Câu 17. Nhiều vụ tai nạn giao thông có nguyên nhân từ quán tính vì
+A. xe không có quán tính.
+*B. xe đang chạy nhanh không thể dừng lại ngay khi phanh, mà còn tiếp tục đi thêm một đoạn.
+C. quán tính làm xe tăng tốc.
+D. quán tính chỉ có ở xe tải.
+
+Câu 18. Một vật đứng yên trên mặt bàn nằm ngang chịu tác dụng của trọng lực 6 N. Lực đỡ của mặt bàn
+*A. có độ lớn 6 N, hướng lên.
+B. có độ lớn 6 N, hướng xuống.
+C. có độ lớn 12 N.
+D. bằng 0.
+
+PHẦN II. Câu trắc nghiệm đúng sai
+Câu 1. Về lực và chuyển động:
+a) Theo Aristotle, muốn duy trì chuyển động của vật phải có lực tác dụng. (Đ)
+b) Theo định luật 1 Newton, một vật có thể chuyển động thẳng đều mà không cần lực duy trì. (Đ)
+c) Một vật đang chuyển động, nếu hợp lực tác dụng lên nó bằng 0 thì nó sẽ dừng lại. (S)
+d) Trong thực tế, vật đang trượt trên mặt bàn dừng lại là do có ma sát. (Đ)
+Lời giải: Hợp lực bằng 0 thì vật đang chuyển động tiếp tục chuyển động thẳng đều.
+
+Câu 2. Một xe ô tô đang chạy trên đường thì rẽ nhanh sang trái.
+a) Hành khách trên xe có xu hướng nghiêng sang phải. (Đ)
+b) Do quán tính, hành khách có xu hướng giữ hướng chuyển động cũ. (Đ)
+c) Hành khách nghiêng sang phải vì có một lực đẩy hướng sang phải. (S)
+d) Nếu xe đang chạy thẳng đều thì hành khách không bị nghiêng người. (Đ)
+
+Câu 3. Thí nghiệm: đặt một cốc nước lên một tờ giấy trên mặt bàn.
+a) Khi giật thật nhanh tờ giấy, cốc gần như vẫn đứng yên tại chỗ. (Đ)
+b) Khi kéo từ từ tờ giấy, cốc chuyển động theo tờ giấy. (Đ)
+c) Khi giật nhanh, cốc đứng yên là do cốc không có quán tính. (S)
+d) Hiện tượng khi giật nhanh tờ giấy được giải thích bằng quán tính của cốc. (Đ)
+Lời giải: Cốc có quán tính nên có xu hướng giữ nguyên trạng thái đứng yên khi tờ giấy bị giật nhanh.
+
+Câu 4. Tra đầu búa vào cán:
+a) Cầm cán búa, đập mạnh đầu cán (phía không có đầu búa) xuống đất thì đầu búa ngập sâu vào cán. (Đ)
+b) Khi cán búa dừng lại đột ngột, đầu búa do quán tính tiếp tục chuyển động xuống. (Đ)
+c) Đập mạnh đầu búa xuống đất cũng làm đầu búa ngập sâu vào cán như vậy. (S)
+d) Đây là một ứng dụng của quán tính trong đời sống. (Đ)
+Lời giải: Đập đầu búa xuống đất thì đầu búa dừng lại, cán tiếp tục đi xuống nên đầu búa bị tuột ra khỏi cán.
+
+PHẦN III. Câu trắc nghiệm trả lời ngắn
+Câu 1. Một viên bi đang lăn thẳng đều trên mặt phẳng ngang nhẵn với vận tốc 0,5 m/s (hợp lực bằng 0). Sau 8 s, viên bi đi được quãng đường bao nhiêu mét?
+Đáp án: 4
+
+Câu 2. Một xe chuyển động thẳng đều, lực cản tác dụng lên xe là 1 200 N. Lực kéo của động cơ có độ lớn bao nhiêu niutơn?
+Đáp án: 1200
+
+Câu 3. Một vật chịu tác dụng của ba lực cùng phương: 10 N và 5 N hướng sang phải, 15 N hướng sang trái; vật đang đứng yên. Hợp lực tác dụng lên vật có độ lớn bao nhiêu niutơn?
+Đáp án: 0
+
+Câu 4. Một vật đang chuyển động với vận tốc 6 m/s thì mọi lực tác dụng lên nó cân bằng nhau. Vận tốc của vật sau 20 s là bao nhiêu m/s?
+Đáp án: 6
+
+Câu 5. Một chiếc đèn trọng lượng 30 N được treo đứng yên bằng một sợi dây. Lực căng của dây có độ lớn bao nhiêu niutơn?
+Đáp án: 30
+
+Câu 6. Một quả bóng được đá lăn trên mặt sân rất nhẵn, coi như không có ma sát và lực cản, với vận tốc 3 m/s. Quả bóng đi được quãng đường 45 m sau bao nhiêu giây?
+Đáp án: 15

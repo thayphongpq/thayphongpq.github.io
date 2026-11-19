@@ -1,0 +1,161 @@
+VẬT LÍ 10 - CHƯƠNG III. ĐỘNG LỰC HỌC - BÀI 14. ĐỊNH LUẬT 1 NEWTON - ĐỀ 3
+Đề kiểm tra theo cấu trúc thi tốt nghiệp THPT (biên soạn: thầy Lâm Thế Phong, THPT An Thới)
+Thời gian: 50
+
+PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn
+Câu 1. Một vật chịu tác dụng của các lực có hợp lực bằng 0. Trạng thái nào sau đây của vật KHÔNG thể xảy ra?
+A. Vật đứng yên.
+B. Vật chuyển động thẳng đều.
+*C. Vật chuyển động nhanh dần.
+D. Vật tiếp tục giữ nguyên vận tốc.
+
+Câu 2. Theo định luật 1 Newton, khi hợp lực tác dụng lên vật bằng 0 thì vận tốc của vật
+A. tăng dần.
+B. giảm dần.
+*C. không đổi.
+D. bằng 0.
+
+Câu 3. Theo quan niệm của Aristotle, một quyển sách đang được đẩy trên bàn dừng lại khi ngừng đẩy là vì
+*A. không còn lực duy trì chuyển động.
+B. có lực ma sát.
+C. sách có quán tính.
+D. sách quá nặng.
+
+Câu 4. Galilei giải thích việc hòn bi không lăn lên máng 2 được đến độ cao ban đầu là do
+A. trọng lực.
+B. quán tính.
+*C. ma sát.
+D. lực đẩy.
+
+Câu 5. Định luật 1 Newton được Newton khái quát vào năm
+A. 1602.
+*B. 1687.
+C. 1905.
+D. 1785.
+
+Câu 6. Phát biểu nào sau đây đúng về quán tính?
+A. Chỉ vật đang chuyển động mới có quán tính.
+B. Chỉ vật đứng yên mới có quán tính.
+*C. Mọi vật đều có quán tính, có xu hướng bảo toàn vận tốc cả về hướng và độ lớn.
+D. Vật nhẹ không có quán tính.
+
+Câu 7. Người ngồi trên ô tô đang chạy bị chúi về phía trước. Có thể kết luận ô tô đang
+A. tăng tốc đột ngột.
+*B. phanh gấp (giảm tốc đột ngột).
+C. chuyển động thẳng đều.
+D. rẽ sang trái.
+
+Câu 8. Khi máy bay cất cánh và tăng tốc nhanh trên đường băng, hành khách cảm thấy
+*A. bị ép vào lưng ghế.
+B. bị chúi về phía trước.
+C. bị nghiêng sang phải.
+D. không có cảm giác gì.
+
+Câu 9. Một hòn bi đang lăn trên mặt bàn nằm ngang thì lăn ra khỏi mép bàn. Ngay khi rời mép bàn, hòn bi
+A. dừng lại rồi rơi thẳng đứng.
+*B. vẫn có vận tốc theo phương ngang do quán tính.
+C. quay ngược lại.
+D. bay lên cao.
+
+Câu 10. Một vận động viên chạy 100 m không thể dừng lại ngay khi về đích là do
+A. trọng lực.
+*B. quán tính.
+C. lực cản không khí.
+D. ma sát của giày.
+
+Câu 11. Quả cầu treo đứng yên bằng một sợi dây. Lực nào cân bằng với trọng lực của quả cầu?
+A. Lực hút của Trái Đất.
+*B. Lực căng của sợi dây.
+C. Lực cản không khí.
+D. Không có lực nào.
+
+Câu 12. Một vật đang chuyển động thẳng đều. Nếu đột nhiên có thêm một lực tác dụng theo hướng chuyển động mà không bị cân bằng thì
+A. vật vẫn chuyển động thẳng đều.
+*B. vận tốc của vật thay đổi.
+C. vật dừng lại ngay.
+D. vật đứng yên.
+
+Câu 13. Trong thí nghiệm minh hoạ quán tính, xe lăn chở vật nhỏ trượt xuống tấm ván nghiêng và bị vật chắn ở cuối dốc giữ lại. Vật nhỏ bị văng về phía trước vì
+A. vật chắn đẩy vật nhỏ về phía trước.
+*B. xe dừng lại đột ngột, vật nhỏ do quán tính tiếp tục chuyển động về phía trước.
+C. vật nhỏ không có quán tính.
+D. tấm ván nghiêng đẩy vật nhỏ.
+
+Câu 14. Khi đang chạy, một người vấp vào hòn đá thì có xu hướng ngã về phía trước vì
+*A. chân bị giữ lại đột ngột, phần thân trên do quán tính tiếp tục chuyển động về phía trước.
+B. hòn đá đẩy người về phía trước.
+C. người không có quán tính.
+D. trọng lực đẩy người về phía trước.
+
+Câu 15. Khi đang chạy, một người dẫm phải vỏ chuối trơn thì có xu hướng ngã ngửa về phía sau vì
+A. vỏ chuối đẩy người về phía sau.
+*B. chân bị trượt nhanh về phía trước, phần thân trên do quán tính chưa kịp chuyển động theo.
+C. người không có quán tính.
+D. trọng lực kéo người về phía sau.
+
+Câu 16. Một tàu vũ trụ ở rất xa mọi thiên thể (bỏ qua lực hút của các thiên thể) đang chuyển động nhờ động cơ. Khi tắt động cơ, tàu sẽ
+A. dừng lại.
+B. chuyển động chậm dần rồi dừng.
+*C. tiếp tục chuyển động thẳng đều.
+D. quay về Trái Đất.
+
+Câu 17. Vật nằm yên trên mặt bàn nằm ngang. Có thể khẳng định mặt bàn tác dụng lực lên vật vì
+*A. vật chịu trọng lực mà vẫn đứng yên, nên phải có lực khác cân bằng với trọng lực.
+B. vật có màu sắc.
+C. vật có quán tính.
+D. bàn có khối lượng lớn.
+
+Câu 18. Trường hợp nào sau đây hợp lực tác dụng lên vật bằng 0?
+A. Ô tô đang phanh gấp.
+B. Quả bóng đang rơi.
+*C. Xe máy chuyển động thẳng đều trên đường nằm ngang.
+D. Xe đang rẽ trái với tốc độ không đổi.
+Lời giải: Xe rẽ trái thì hướng vận tốc thay đổi nên hợp lực khác 0.
+
+PHẦN II. Câu trắc nghiệm đúng sai
+Câu 1. Một vật đang chuyển động với vận tốc 3 m/s dưới tác dụng của các lực. Bỗng nhiên tất cả các lực này mất đi.
+a) Vật tiếp tục chuyển động theo hướng cũ. (Đ)
+b) Vận tốc của vật vẫn là 3 m/s. (Đ)
+c) Vật chuyển động chậm dần rồi dừng lại. (S)
+d) Trong 5 s tiếp theo, vật đi được 15 m. (Đ)
+Lời giải: Không còn lực tác dụng, vật chuyển động thẳng đều với vận tốc 3 m/s: s = 3 . 5 = 15 m.
+
+Câu 2. Trong thí nghiệm minh hoạ quán tính: xe lăn chở vật nhỏ trượt xuống tấm ván nghiêng dài khoảng 1 m, bị vật chắn ở cuối dốc cản lại.
+a) Khi xe bị cản lại, vật nhỏ bị văng về phía trước. (Đ)
+b) Nguyên nhân là quán tính của vật nhỏ. (Đ)
+c) Nếu buộc chặt vật nhỏ vào xe thì vật không bị văng đi. (Đ)
+d) Nếu đặt vật nặng hơn thì vật chắc chắn không bị văng đi. (S)
+Lời giải: Mọi vật đều có quán tính; vật nặng hơn vẫn có xu hướng tiếp tục chuyển động khi xe dừng đột ngột.
+
+Câu 3. Về hành khách ngồi trên ô tô:
+a) Khi xe đột ngột tăng tốc, hành khách bị ngả về phía sau. (Đ)
+b) Khi xe phanh gấp, hành khách bị chúi về phía trước. (Đ)
+c) Khi xe rẽ nhanh sang trái, hành khách bị nghiêng sang trái. (S)
+d) Các hiện tượng trên đều được giải thích bằng quán tính. (Đ)
+Lời giải: Khi xe rẽ trái, hành khách có xu hướng giữ hướng cũ nên bị nghiêng sang phải.
+
+Câu 4. Một xe chở hàng chuyển động thẳng đều trên đường nằm ngang với lực kéo của động cơ 3 000 N.
+a) Hợp lực tác dụng lên xe bằng 0. (Đ)
+b) Lực cản tác dụng lên xe có độ lớn 3 000 N. (Đ)
+c) Nếu động cơ ngừng kéo, xe sẽ chuyển động chậm dần rồi dừng vì vẫn còn lực cản. (Đ)
+d) Nếu đồng thời mất cả lực kéo và lực cản thì xe sẽ dừng lại ngay. (S)
+Lời giải: Không còn lực nào theo phương ngang thì xe tiếp tục chuyển động thẳng đều.
+
+PHẦN III. Câu trắc nghiệm trả lời ngắn
+Câu 1. Một vật chuyển động thẳng đều với vận tốc 2,5 m/s (hợp lực bằng 0). Quãng đường vật đi được trong 12 s là bao nhiêu mét?
+Đáp án: 30
+
+Câu 2. Một xe chuyển động thẳng đều trên đường nằm ngang; lực kéo của động cơ là 850 N. Lực cản tác dụng lên xe có độ lớn bao nhiêu niutơn?
+Đáp án: 850
+
+Câu 3. Một vật nằm yên trên mặt bàn nằm ngang; trọng lượng của vật là 12 N. Lực đỡ của mặt bàn có độ lớn bao nhiêu niutơn?
+Đáp án: 12
+
+Câu 4. Một vật chịu tác dụng của hai lực cùng phương, ngược chiều có độ lớn 20 N và F; vật chuyển động thẳng đều. Lực F có độ lớn bao nhiêu niutơn?
+Đáp án: 20
+
+Câu 5. Một vật đang chuyển động với vận tốc 72 km/h thì các lực tác dụng lên nó trở nên cân bằng. Vận tốc của vật sau đó là bao nhiêu m/s?
+Đáp án: 20
+
+Câu 6. Một tàu vũ trụ ở xa mọi thiên thể (coi như không chịu lực) chuyển động thẳng đều, đi được 36 000 km trong 1 giờ. Tốc độ của tàu là bao nhiêu km/s?
+Đáp án: 10
