@@ -141,6 +141,9 @@ const DE_THI = [
   { ten: "Bài 14 – Đề 1. Định luật 1 Newton", mon: "Vật lý", lop: "10", loai: "Luyện tập", tep: "de/vl10-bai14-de1.txt", thoiGian: 50, ngay: "2026-11-20" },
   { ten: "Bài 14 – Đề 2. Định luật 1 Newton", mon: "Vật lý", lop: "10", loai: "Luyện tập", tep: "de/vl10-bai14-de2.txt", thoiGian: 50, ngay: "2026-11-20" },
   { ten: "Bài 14 – Đề 3. Định luật 1 Newton", mon: "Vật lý", lop: "10", loai: "Luyện tập", tep: "de/vl10-bai14-de3.txt", thoiGian: 50, ngay: "2026-11-20" },
+  { ten: "Bài 15 – Đề 1. Định luật 2 Newton", mon: "Vật lý", lop: "10", loai: "Luyện tập", tep: "de/vl10-bai15-de1.txt", thoiGian: 50, ngay: "2026-11-20" },
+  { ten: "Bài 15 – Đề 2. Định luật 2 Newton", mon: "Vật lý", lop: "10", loai: "Luyện tập", tep: "de/vl10-bai15-de2.txt", thoiGian: 50, ngay: "2026-11-20" },
+  { ten: "Bài 15 – Đề 3. Định luật 2 Newton", mon: "Vật lý", lop: "10", loai: "Luyện tập", tep: "de/vl10-bai15-de3.txt", thoiGian: 50, ngay: "2026-11-20" },
 
   // ----- Vật lý 10 (sách thống nhất) - Chương II. Động học -----
   // (đề cũ 13 câu, đã thay bằng 3 đề 28 câu) { ten: "Bài 4. Độ dịch chuyển và quãng đường đi được", mon: "Vật lý", lop: "10", loai: "Luyện tập", tep: "de/vl10-bai04-do-dich-chuyen.txt", thoiGian: 20, ngay: "2026-11-19" },
@@ -154,7 +157,7 @@ const DE_THI = [
   // (đề cũ 13 câu, đã thay bằng 3 đề 28 câu) { ten: "Bài 12. Chuyển động ném", mon: "Vật lý", lop: "10", loai: "Luyện tập", tep: "de/vl10-bai12-chuyen-dong-nem.txt", thoiGian: 20, ngay: "2026-11-19" },
   // (đề cũ 13 câu, đã thay bằng 3 đề 28 câu) { ten: "Bài 13. Tổng hợp và phân tích lực. Cân bằng lực", mon: "Vật lý", lop: "10", loai: "Luyện tập", tep: "de/vl10-bai13-tong-hop-luc.txt", thoiGian: 20, ngay: "2026-11-19" },
   // (đề cũ 13 câu, đã thay bằng 3 đề 28 câu) { ten: "Bài 14. Định luật 1 Newton", mon: "Vật lý", lop: "10", loai: "Luyện tập", tep: "de/vl10-bai14-dinh-luat-1-newton.txt", thoiGian: 20, ngay: "2026-11-19" },
-  { ten: "Bài 15. Định luật 2 Newton", mon: "Vật lý", lop: "10", loai: "Luyện tập", tep: "de/vl10-bai15-dinh-luat-2-newton.txt", thoiGian: 20, ngay: "2026-11-19" },
+  // (đề cũ 13 câu, đã thay bằng 3 đề 28 câu) { ten: "Bài 15. Định luật 2 Newton", mon: "Vật lý", lop: "10", loai: "Luyện tập", tep: "de/vl10-bai15-dinh-luat-2-newton.txt", thoiGian: 20, ngay: "2026-11-19" },
   { ten: "Bài 16. Định luật 3 Newton", mon: "Vật lý", lop: "10", loai: "Luyện tập", tep: "de/vl10-bai16-dinh-luat-3-newton.txt", thoiGian: 20, ngay: "2026-11-19" },
   { ten: "Bài 17. Trọng lực và lực căng", mon: "Vật lý", lop: "10", loai: "Luyện tập", tep: "de/vl10-bai17-trong-luc-luc-cang.txt", thoiGian: 20, ngay: "2026-11-19" },
   { ten: "Bài 18. Lực ma sát", mon: "Vật lý", lop: "10", loai: "Luyện tập", tep: "de/vl10-bai18-luc-ma-sat.txt", thoiGian: 20, ngay: "2026-11-19" },
