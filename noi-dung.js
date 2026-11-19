@@ -98,6 +98,11 @@ const VIDEO = [
 const DE_THI = [
   // ▼▼▼ DÁN ĐỀ MỚI NGAY DƯỚI DÒNG NÀY ▼▼▼
 
+  // ----- Vật lý 10 - Chương I. Mở đầu (mỗi bài 3 đề, 28 câu theo cấu trúc TN THPT) -----
+  { ten: "Bài 1 – Đề 1. Làm quen với Vật lí", mon: "Vật lý", lop: "10", loai: "Luyện tập", tep: "de/vl10-bai01-de1.txt", thoiGian: 50, ngay: "2026-11-19" },
+  { ten: "Bài 1 – Đề 2. Làm quen với Vật lí", mon: "Vật lý", lop: "10", loai: "Luyện tập", tep: "de/vl10-bai01-de2.txt", thoiGian: 50, ngay: "2026-11-19" },
+  { ten: "Bài 1 – Đề 3. Làm quen với Vật lí", mon: "Vật lý", lop: "10", loai: "Luyện tập", tep: "de/vl10-bai01-de3.txt", thoiGian: 50, ngay: "2026-11-19" },
+
   // ----- Vật lý 10 (sách thống nhất) - Chương II. Động học -----
   { ten: "Bài 4. Độ dịch chuyển và quãng đường đi được", mon: "Vật lý", lop: "10", loai: "Luyện tập", tep: "de/vl10-bai04-do-dich-chuyen.txt", thoiGian: 20, ngay: "2026-11-19" },
   { ten: "Bài 5. Tốc độ và vận tốc", mon: "Vật lý", lop: "10", loai: "Luyện tập", tep: "de/vl10-bai05-toc-do-van-toc.txt", thoiGian: 20, ngay: "2026-11-19" },
