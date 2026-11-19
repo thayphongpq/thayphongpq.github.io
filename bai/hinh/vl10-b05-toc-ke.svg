@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 360" font-family="Segoe UI, Arial, sans-serif">
+  <rect width="520" height="360" fill="#ffffff"/>
+  <text x="260" y="32" text-anchor="middle" font-size="22" font-weight="700" fill="#0f172a">Tốc kế chỉ tốc độ tức thời</text>
+  <g transform="translate(260,250)">
+    <path d="M-170,0 A170,170 0 0 1 170,0" fill="#0f172a"/>
+    <path d="M-150,0 A150,150 0 0 1 150,0" fill="none" stroke="#334155" stroke-width="2"/>
+    <g stroke="#fff" stroke-width="3">
+      <line x1="-150" y1="0" x2="-130" y2="0"/>
+      <line x1="-129.9" y1="-75" x2="-112.6" y2="-65"/>
+      <line x1="-75" y1="-129.9" x2="-65" y2="-112.6"/>
+      <line x1="0" y1="-150" x2="0" y2="-130"/>
+      <line x1="75" y1="-129.9" x2="65" y2="-112.6"/>
+      <line x1="129.9" y1="-75" x2="112.6" y2="-65"/>
+      <line x1="150" y1="0" x2="130" y2="0"/>
+    </g>
+    <g fill="#fff" font-size="18" text-anchor="middle">
+      <text x="-112" y="6">0</text>
+      <text x="-96" y="-50">20</text>
+      <text x="-55" y="-92">40</text>
+      <text x="0" y="-106">60</text>
+      <text x="55" y="-92">80</text>
+      <text x="96" y="-50">100</text>
+      <text x="112" y="6">120</text>
+    </g>
+    <!-- kim chỉ 60 km/h: góc 90 độ -->
+    <line x1="0" y1="0" x2="0" y2="-120" stroke="#ef4444" stroke-width="6" stroke-linecap="round"/>
+    <circle r="12" fill="#ef4444"/>
+    <text x="0" y="-40" text-anchor="middle" font-size="18" fill="#cbd5e1">km/h</text>
+  </g>
+  <text x="260" y="292" text-anchor="middle" font-size="18" fill="#0f172a">Kim chỉ 60 km/h: tốc độ của xe <tspan font-weight="700">tại thời điểm đó</tspan></text>
+  <text x="260" y="320" text-anchor="middle" font-size="16" fill="#475569">Tốc độ trung bình cả chuyến đi thì phải tính v = s / t</text>
+</svg>

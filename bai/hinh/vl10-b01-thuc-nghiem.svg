@@ -1,32 +1,31 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 260" font-family="Segoe UI, Arial, sans-serif">
-  <rect width="820" height="260" fill="#ffffff"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 600" font-family="Segoe UI, Arial, sans-serif">
+  <rect width="520" height="600" fill="#ffffff"/>
   <defs>
     <marker id="m" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#334155"/></marker>
+    <marker id="d" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#dc2626"/></marker>
   </defs>
-  <text x="410" y="30" text-anchor="middle" font-size="20" font-weight="700" fill="#0f172a">Các bước của phương pháp thực nghiệm</text>
-  <g font-size="15" text-anchor="middle" fill="#0f172a">
-    <rect x="10" y="60" width="140" height="80" rx="12" fill="#e0f2fe" stroke="#0284c7" stroke-width="2"/>
-    <text x="80" y="88" font-weight="700" fill="#0369a1">Bước 1</text><text x="80" y="110">Quan sát,</text><text x="80" y="128">suy luận</text>
-    <rect x="175" y="60" width="140" height="80" rx="12" fill="#e0f2fe" stroke="#0284c7" stroke-width="2"/>
-    <text x="245" y="88" font-weight="700" fill="#0369a1">Bước 2</text><text x="245" y="110">Đề xuất</text><text x="245" y="128">vấn đề</text>
-    <rect x="340" y="60" width="140" height="80" rx="12" fill="#fef3c7" stroke="#d97706" stroke-width="2"/>
-    <text x="410" y="88" font-weight="700" fill="#b45309">Bước 3</text><text x="410" y="110">Hình thành</text><text x="410" y="128">giả thuyết</text>
-    <rect x="505" y="60" width="140" height="80" rx="12" fill="#e0f2fe" stroke="#0284c7" stroke-width="2"/>
-    <text x="575" y="88" font-weight="700" fill="#0369a1">Bước 4</text><text x="575" y="110">Kiểm tra bằng</text><text x="575" y="128">thí nghiệm</text>
-    <rect x="670" y="60" width="140" height="80" rx="12" fill="#dcfce7" stroke="#16a34a" stroke-width="2"/>
-    <text x="740" y="88" font-weight="700" fill="#15803d">Bước 5</text><text x="740" y="110">Rút ra</text><text x="740" y="128">kết luận</text>
+  <text x="260" y="36" text-anchor="middle" font-size="24" font-weight="700" fill="#0f172a">Phương pháp thực nghiệm</text>
+  <g font-size="21" fill="#0f172a">
+    <rect x="30" y="60" width="340" height="70" rx="12" fill="#e0f2fe" stroke="#0284c7" stroke-width="2.5"/>
+    <text x="50" y="92" font-weight="700" fill="#0369a1">Bước 1</text><text x="50" y="118">Quan sát, suy luận</text>
+    <rect x="30" y="160" width="340" height="70" rx="12" fill="#e0f2fe" stroke="#0284c7" stroke-width="2.5"/>
+    <text x="50" y="192" font-weight="700" fill="#0369a1">Bước 2</text><text x="50" y="218">Đề xuất vấn đề</text>
+    <rect x="30" y="260" width="340" height="70" rx="12" fill="#fef3c7" stroke="#d97706" stroke-width="2.5"/>
+    <text x="50" y="292" font-weight="700" fill="#b45309">Bước 3</text><text x="50" y="318">Hình thành giả thuyết</text>
+    <rect x="30" y="360" width="340" height="70" rx="12" fill="#e0f2fe" stroke="#0284c7" stroke-width="2.5"/>
+    <text x="50" y="392" font-weight="700" fill="#0369a1">Bước 4</text><text x="50" y="418">Kiểm tra bằng thí nghiệm</text>
+    <rect x="30" y="460" width="340" height="70" rx="12" fill="#dcfce7" stroke="#16a34a" stroke-width="2.5"/>
+    <text x="50" y="492" font-weight="700" fill="#15803d">Bước 5</text><text x="50" y="518">Rút ra kết luận</text>
   </g>
-  <g stroke="#334155" stroke-width="2" fill="none" marker-end="url(#m)">
-    <line x1="150" y1="100" x2="173" y2="100"/>
-    <line x1="315" y1="100" x2="338" y2="100"/>
-    <line x1="480" y1="100" x2="503" y2="100"/>
-    <line x1="645" y1="100" x2="668" y2="100"/>
-    <path d="M740,140 L740,200 L410,200 L410,142" stroke="#dc2626" stroke-dasharray="6 4"/>
+  <g stroke="#334155" stroke-width="2.5" marker-end="url(#m)">
+    <line x1="200" y1="130" x2="200" y2="157"/>
+    <line x1="200" y1="230" x2="200" y2="257"/>
+    <line x1="200" y1="330" x2="200" y2="357"/>
+    <line x1="200" y1="430" x2="200" y2="457"/>
   </g>
-  <text x="575" y="222" text-anchor="middle" font-size="14" fill="#dc2626">quay lại Bước 3: đưa ra giả thuyết mới</text>
-  <text x="748" y="166" font-size="13" fill="#15803d">Phù hợp:</text>
-  <text x="748" y="182" font-size="13" fill="#15803d">giả thuyết</text>
-  <text x="748" y="198" font-size="13" fill="#15803d">đúng</text>
-  <text x="732" y="176" text-anchor="end" font-size="13" fill="#dc2626">Không</text>
-  <text x="732" y="192" text-anchor="end" font-size="13" fill="#dc2626">phù hợp</text>
+  <path d="M370,495 L440,495 L440,295 L374,295" fill="none" stroke="#dc2626" stroke-width="2.5" stroke-dasharray="7 5" marker-end="url(#d)"/>
+  <g font-size="17" fill="#dc2626" text-anchor="middle">
+    <text x="476" y="380">Không</text><text x="476" y="402">phù hợp:</text><text x="476" y="424">làm lại</text>
+  </g>
+  <text x="200" y="566" text-anchor="middle" font-size="18" fill="#15803d">Kết quả phù hợp → giả thuyết đúng</text>
 </svg>

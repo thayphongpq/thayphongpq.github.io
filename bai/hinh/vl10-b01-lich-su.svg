@@ -1,35 +1,39 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 300" font-family="Segoe UI, Arial, sans-serif">
-  <rect width="820" height="300" fill="#ffffff"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 640" font-family="Segoe UI, Arial, sans-serif">
+  <rect width="520" height="640" fill="#ffffff"/>
   <defs>
-    <marker id="m" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#334155"/></marker>
+    <marker id="m" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#334155"/></marker>
   </defs>
-  <text x="410" y="30" text-anchor="middle" font-size="20" font-weight="700" fill="#0f172a">Ba giai đoạn phát triển của Vật lí</text>
-  <rect x="20" y="70" width="250" height="34" fill="#e2e8f0"/>
-  <rect x="285" y="70" width="250" height="34" fill="#bfdbfe"/>
-  <rect x="550" y="70" width="250" height="34" fill="#c4b5fd"/>
-  <line x1="20" y1="120" x2="805" y2="120" stroke="#334155" stroke-width="3" marker-end="url(#m)"/>
-  <g font-size="16" font-weight="700" text-anchor="middle" fill="#0f172a">
-    <text x="145" y="93">Tiền Vật lí</text>
-    <text x="410" y="93">Vật lí cổ điển</text>
-    <text x="675" y="93">Vật lí hiện đại</text>
+  <text x="260" y="36" text-anchor="middle" font-size="24" font-weight="700" fill="#0f172a">Ba giai đoạn phát triển của Vật lí</text>
+  <line x1="28" y1="62" x2="28" y2="622" stroke="#334155" stroke-width="3" marker-end="url(#m)"/>
+  <!-- 1 -->
+  <rect x="48" y="60" width="452" height="44" rx="8" fill="#e2e8f0"/>
+  <text x="62" y="89" font-size="21" font-weight="700" fill="#0f172a">1. Tiền Vật lí</text>
+  <text x="488" y="89" text-anchor="end" font-size="16" fill="#475569">trước thế kỉ XVII</text>
+  <g font-size="18" fill="#0f172a">
+    <text x="62" y="130">• Quan sát, suy luận; chưa làm thí nghiệm</text>
+    <text x="62" y="156">• Aristotle: “vật nặng rơi nhanh hơn</text>
+    <text x="78" y="180">vật nhẹ” (quan niệm sai)</text>
   </g>
-  <g font-size="13" text-anchor="middle" fill="#475569">
-    <text x="145" y="142">trước thế kỉ XVII</text>
-    <text x="410" y="142">thế kỉ XVII – cuối thế kỉ XIX</text>
-    <text x="675" y="142">cuối thế kỉ XIX – nay</text>
+  <!-- 2 -->
+  <rect x="48" y="210" width="452" height="44" rx="8" fill="#bfdbfe"/>
+  <text x="62" y="239" font-size="21" font-weight="700" fill="#0f172a">2. Vật lí cổ điển</text>
+  <text x="488" y="239" text-anchor="end" font-size="16" fill="#475569">thế kỉ XVII – cuối XIX</text>
+  <g font-size="18" fill="#0f172a">
+    <text x="62" y="280">• Galilei: phương pháp thực nghiệm</text>
+    <text x="62" y="306">• Newton: các định luật chuyển động,</text>
+    <text x="78" y="330">định luật vạn vật hấp dẫn</text>
+    <text x="62" y="356">• Nhiệt động lực học; thuyết điện từ</text>
+    <text x="78" y="380">của Maxwell</text>
   </g>
-  <g font-size="14" fill="#0f172a">
-    <text x="30" y="180">• Quan sát và suy luận,</text>
-    <text x="42" y="200">chưa có thí nghiệm</text>
-    <text x="30" y="225">• Aristotle: vật nặng</text>
-    <text x="42" y="245">rơi nhanh hơn vật nhẹ (sai)</text>
-    <text x="295" y="180">• Galilei: phương pháp thực nghiệm</text>
-    <text x="295" y="205">• Newton: định luật chuyển động,</text>
-    <text x="307" y="225">định luật vạn vật hấp dẫn</text>
-    <text x="295" y="250">• Nhiệt động lực học; điện từ (Maxwell)</text>
-    <text x="560" y="180">• Planck (1900): thuyết lượng tử</text>
-    <text x="560" y="205">• Einstein (1905): thuyết tương đối</text>
-    <text x="560" y="230">• Vật lí nguyên tử, hạt nhân,</text>
-    <text x="572" y="250">bán dẫn, laser...</text>
+  <!-- 3 -->
+  <rect x="48" y="410" width="452" height="44" rx="8" fill="#c4b5fd"/>
+  <text x="62" y="439" font-size="21" font-weight="700" fill="#0f172a">3. Vật lí hiện đại</text>
+  <text x="488" y="439" text-anchor="end" font-size="16" fill="#475569">cuối thế kỉ XIX – nay</text>
+  <g font-size="18" fill="#0f172a">
+    <text x="62" y="480">• Planck (1900): thuyết lượng tử</text>
+    <text x="62" y="506">• Einstein (1905): thuyết tương đối</text>
+    <text x="62" y="532">• Vật lí nguyên tử, hạt nhân, bán dẫn,</text>
+    <text x="78" y="556">laser, máy tính...</text>
   </g>
+  <text x="44" y="612" font-size="16" fill="#475569">thời gian</text>
 </svg>

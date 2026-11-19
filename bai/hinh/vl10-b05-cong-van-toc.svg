@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 560" font-family="Segoe UI, Arial, sans-serif">
+  <rect width="520" height="560" fill="#ffffff"/>
+  <defs>
+    <marker id="b" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#2563eb"/></marker>
+    <marker id="g" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#0891b2"/></marker>
+    <marker id="r" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#dc2626"/></marker>
+  </defs>
+  <text x="260" y="32" text-anchor="middle" font-size="22" font-weight="700" fill="#0f172a">Tổng hợp vận tốc: v₁₃ = v₁₂ + v₂₃</text>
+  <text x="260" y="58" text-anchor="middle" font-size="16" fill="#475569">(1) thuyền, (2) nước, (3) bờ — ví dụ v₁₂ = 10 km/h, v₂₃ = 2 km/h</text>
+  <!-- a) xuôi dòng -->
+  <text x="20" y="98" font-size="19" font-weight="700" fill="#0f172a">a) Xuôi dòng (cùng chiều)</text>
+  <line x1="40" y1="128" x2="290" y2="128" stroke="#2563eb" stroke-width="5" marker-end="url(#b)"/>
+  <line x1="296" y1="128" x2="346" y2="128" stroke="#0891b2" stroke-width="5" marker-end="url(#g)"/>
+  <line x1="40" y1="158" x2="346" y2="158" stroke="#dc2626" stroke-width="5" marker-end="url(#r)"/>
+  <text x="165" y="118" text-anchor="middle" font-size="16" fill="#2563eb">v₁₂ = 10</text>
+  <text x="321" y="118" text-anchor="middle" font-size="16" fill="#0891b2">v₂₃ = 2</text>
+  <text x="362" y="164" font-size="18" font-weight="700" fill="#dc2626">v₁₃ = 12 km/h</text>
+  <!-- b) ngược dòng -->
+  <text x="20" y="218" font-size="19" font-weight="700" fill="#0f172a">b) Ngược dòng (ngược chiều)</text>
+  <line x1="40" y1="248" x2="290" y2="248" stroke="#2563eb" stroke-width="5" marker-end="url(#b)"/>
+  <line x1="296" y1="270" x2="246" y2="270" stroke="#0891b2" stroke-width="5" marker-end="url(#g)"/>
+  <line x1="40" y1="298" x2="240" y2="298" stroke="#dc2626" stroke-width="5" marker-end="url(#r)"/>
+  <text x="165" y="238" text-anchor="middle" font-size="16" fill="#2563eb">v₁₂ = 10</text>
+  <text x="330" y="276" font-size="16" fill="#0891b2">v₂₃ = 2</text>
+  <text x="256" y="304" font-size="18" font-weight="700" fill="#dc2626">v₁₃ = 8 km/h</text>
+  <!-- c) vuông góc -->
+  <text x="20" y="356" font-size="19" font-weight="700" fill="#0f172a">c) Vuông góc (thuyền hướng sang bờ bên kia)</text>
+  <line x1="60" y1="530" x2="60" y2="389" stroke="#2563eb" stroke-width="5" marker-end="url(#b)"/>
+  <line x1="66" y1="383" x2="250" y2="383" stroke="#0891b2" stroke-width="5" marker-end="url(#g)"/>
+  <line x1="60" y1="530" x2="252" y2="388" stroke="#dc2626" stroke-width="5" marker-end="url(#r)"/>
+  <text x="50" y="470" text-anchor="end" font-size="16" fill="#2563eb">v₁₂</text>
+  <text x="160" y="374" text-anchor="middle" font-size="16" fill="#0891b2">v₂₃</text>
+  <text x="170" y="480" font-size="18" font-weight="700" fill="#dc2626">v₁₃</text>
+  <text x="290" y="440" font-size="18" fill="#0f172a">v₁₃ = √(v₁₂² + v₂₃²)</text>
+  <text x="290" y="470" font-size="16" fill="#475569">(thuyền bị trôi xiên</text>
+  <text x="290" y="492" font-size="16" fill="#475569">theo dòng nước)</text>
+</svg>

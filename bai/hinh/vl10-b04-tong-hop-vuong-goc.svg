@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 420" font-family="Segoe UI, Arial, sans-serif">
+  <rect width="520" height="420" fill="#ffffff"/>
+  <defs>
+    <marker id="b" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#2563eb"/></marker>
+    <marker id="g" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#16a34a"/></marker>
+    <marker id="r" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#dc2626"/></marker>
+  </defs>
+  <text x="260" y="34" text-anchor="middle" font-size="22" font-weight="700" fill="#0f172a">Tổng hợp hai độ dịch chuyển vuông góc</text>
+  <!-- la bàn -->
+  <g transform="translate(460,90)" font-size="15" text-anchor="middle" fill="#475569">
+    <line x1="0" y1="-30" x2="0" y2="30" stroke="#94a3b8" stroke-width="2"/><line x1="-30" y1="0" x2="30" y2="0" stroke="#94a3b8" stroke-width="2"/>
+    <text x="0" y="-36">B</text><text x="0" y="48">N</text><text x="42" y="5">Đ</text><text x="-42" y="5">T</text>
+  </g>
+  <!-- 1 km = 30 px; gốc O (90,360) -->
+  <line x1="90" y1="360" x2="90" y2="186" stroke="#2563eb" stroke-width="5" marker-end="url(#b)"/>
+  <line x1="90" y1="180" x2="324" y2="180" stroke="#16a34a" stroke-width="5" marker-end="url(#g)"/>
+  <line x1="90" y1="360" x2="326" y2="183" stroke="#dc2626" stroke-width="5" marker-end="url(#r)"/>
+  <path d="M90,200 L110,200 L110,180" fill="none" stroke="#334155" stroke-width="2"/>
+  <circle cx="90" cy="360" r="6" fill="#0f172a"/>
+  <text x="78" y="388" font-size="18" font-weight="700" fill="#0f172a">O</text>
+  <text x="80" y="275" text-anchor="end" font-size="19" font-weight="700" fill="#2563eb">d₁ = 6 km</text>
+  <text x="80" y="298" text-anchor="end" font-size="16" fill="#2563eb">(bắc)</text>
+  <text x="207" y="166" text-anchor="middle" font-size="19" font-weight="700" fill="#16a34a">d₂ = 8 km (đông)</text>
+  <text x="250" y="300" font-size="19" font-weight="700" fill="#dc2626">d = 10 km</text>
+  <text x="140" y="345" font-size="17" fill="#dc2626">α</text>
+  <path d="M90,320 A40,40 0 0 1 122,336" fill="none" stroke="#dc2626" stroke-width="2"/>
+  <text x="260" y="408" text-anchor="middle" font-size="18" fill="#0f172a">d = √(6² + 8²) = 10 km;  tan α = 8/6</text>
+</svg>
