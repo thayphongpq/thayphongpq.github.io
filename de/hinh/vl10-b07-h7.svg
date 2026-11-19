@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 380" font-family="Segoe UI, Arial, sans-serif">
+  <rect width="520" height="380" fill="#ffffff"/>
+  <path d="M154 40V320M238 40V320M322 40V320M406 40V320M490 40V320" stroke="#e2e8f0" stroke-width="1"/>
+  <path d="M70 264H490M70 208H490M70 152H490M70 96H490M70 40H490" stroke="#e2e8f0" stroke-width="1"/>
+  <path d="M70 332V22M60 320H504" stroke="#334155" stroke-width="2"/>
+  <path d="M64 30L70 16L76 30zM496 314L510 320L496 326z" fill="#334155"/>
+  <g font-size="16" fill="#0f172a" text-anchor="middle">
+    <text x="70" y="342">0</text><text x="154" y="342">2</text><text x="238" y="342">4</text><text x="322" y="342">6</text><text x="406" y="342">8</text><text x="490" y="342">10</text>
+  </g>
+  <g font-size="16" fill="#0f172a" text-anchor="end">
+    <text x="62" y="269">20</text><text x="62" y="213">40</text><text x="62" y="157">60</text><text x="62" y="101">80</text><text x="62" y="45">100</text>
+  </g>
+  <text x="80" y="20" font-size="18" font-weight="700" fill="#0f172a">d (m)</text>
+  <text x="515" y="370" font-size="18" font-weight="700" fill="#0f172a" text-anchor="end">t (s)</text>
+  <line x1="70" y1="320" x2="490" y2="40" stroke="#2563eb" stroke-width="3.5"/>
+  <line x1="70" y1="152" x2="490" y2="320" stroke="#dc2626" stroke-width="3.5"/>
+  <g font-size="20" font-weight="700"><text x="440" y="56" fill="#1d4ed8">(1)</text><text x="440" y="292" fill="#b91c1c">(2)</text></g>
+</svg>
