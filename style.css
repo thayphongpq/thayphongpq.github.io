@@ -245,6 +245,38 @@ pre.ma code { background: none; padding: 0; }
 .hoi-dap__hoi { margin: 6px 0 8px; }
 .hoi-dap__tra { background: var(--tin-nhat); border-radius: 8px; padding: 10px 12px; }
 
+/* Bài học song ngữ */
+.bh-che-do { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 18px; }
+.bai-hoc { background: var(--trang); border: 1px solid var(--vien); border-radius: 12px; padding: 22px 24px; }
+.bh-ten { font-size: clamp(24px, 3.6vw, 32px); font-weight: 800; margin-bottom: 14px; }
+.bh-than p { margin: 0 0 12px; }
+.bh-tieu-de { font-weight: 800; margin: 18px 0 8px; }
+h2.bh-tieu-de { font-size: 22px; }
+h3.bh-tieu-de { font-size: 19px; }
+h4.bh-tieu-de { font-size: 17px; }
+.bh-ds { margin: 0 0 12px; padding-left: 22px; }
+.bh-hinh { max-width: 100%; height: auto; display: block; margin: 8px 0 14px; border-radius: 8px; }
+.bh-than code { font-family: Consolas, monospace; background: var(--giay); padding: 1px 5px; border-radius: 4px; }
+.bh-than pre.ma code, .cau pre.ma code { background: none; padding: 0; }
+pre.ma[data-lang] { position: relative; padding-top: 26px; }
+pre.ma[data-lang]::before { content: attr(data-lang); position: absolute; top: 6px; right: 10px; font-size: 11px; text-transform: uppercase; letter-spacing: 0.06em; opacity: 0.6; }
+.bh-hang { display: grid; grid-template-columns: 1fr 1fr; gap: 24px; padding: 6px 0; border-bottom: 1px dashed var(--vien); }
+.bh-hang:last-child { border-bottom: 0; }
+.bh-hang--dau { font-size: 13px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.05em; color: var(--mo); }
+.bh-cot { min-width: 0; }
+.bh-cot[lang="en"] { color: #2b3f55; }
+.bh-thuat-ngu { margin-top: 26px; }
+.bh-thuat-ngu h2 { font-size: 20px; font-weight: 800; margin-bottom: 12px; }
+.bh-the-ds { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 210px), 1fr)); gap: 12px; }
+.bh-the { border: 1px solid var(--vien); border-top: 4px solid var(--tin); border-radius: 10px; padding: 12px 14px; background: var(--giay); }
+.bh-the__dau { display: flex; justify-content: space-between; align-items: center; gap: 8px; }
+.bh-the__dau b { font-size: 18px; }
+.bh-nghe { flex: none; display: inline-flex; align-items: center; justify-content: center; width: 34px; height: 34px; border-radius: 50%; border: 1px solid var(--vien); background: var(--trang); color: var(--tin); cursor: pointer; }
+.bh-nghe:hover { background: var(--tin-nhat); }
+.bh-ipa { font-family: "Segoe UI", "Arial Unicode MS", sans-serif; color: var(--mo); margin-top: 2px; }
+.bh-nghia { font-weight: 600; margin-top: 6px; }
+.bh-ghi-chu { font-size: 14px; color: var(--mo); margin-top: 4px; }
+
 /* Trò chơi Leo tháp kiến thức */
 .tro-choi { display: grid; grid-template-columns: 1fr 230px; gap: 20px; align-items: start; }
 .tro-choi__dau { display: flex; justify-content: space-between; align-items: center; margin-bottom: 10px; font-size: 18px; }
@@ -276,6 +308,10 @@ pre.ma code { background: none; padding: 0; }
   .mo-dau { grid-template-columns: 1fr; gap: 16px; }
   .ba-cua, .thu-muc, .thu-muc--ba, .hai-o, .tro-choi, .tc-lc { grid-template-columns: 1fr; }
   .tro-choi__thap { order: -1; }
+  .bai-hoc { padding: 16px; }
+  .bh-hang { grid-template-columns: 1fr; gap: 6px; }
+  .bh-hang--dau { display: none; }
+  .bh-cot[lang="en"] { border-left: 3px solid var(--tin-nhat); padding-left: 10px; }
   .thap { display: flex; flex-wrap: wrap; gap: 4px; }
   .thap li { padding: 3px 7px; font-size: 12px; }
   .thap li em { display: none; }

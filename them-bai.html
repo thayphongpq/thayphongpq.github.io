@@ -6,8 +6,30 @@
   <title>Công cụ thêm bài</title>
   <link rel="icon" href="icon.svg" type="image/svg+xml">
   <link href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;600;800&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="style.css?v=3">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.9/katex.min.css">
+  <script defer src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.9/katex.min.js"></script>
+  <script defer src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.9/contrib/auto-render.min.js"></script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/themes/prism-tomorrow.min.css">
+  <script>window.Prism = window.Prism || {}; window.Prism.manual = true;</script>
+  <script defer src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/prism.min.js"></script>
+  <script defer src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/components/prism-python.min.js"></script>
+  <script defer src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/components/prism-c.min.js"></script>
+  <script defer src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/components/prism-cpp.min.js"></script>
+  <script defer src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/components/prism-sql.min.js"></script>
+  <link rel="stylesheet" href="style.css?v=8">
   <style>
+    .form.rong { max-width: none; }
+    .song-song { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
+    .song-song textarea { font-family: Consolas, monospace; font-size: 14px; min-height: 320px; }
+    .bang-tn { width: 100%; border-collapse: collapse; font-size: 14px; }
+    .bang-tn th, .bang-tn td { border: 1px solid var(--vien); padding: 4px; }
+    .bang-tn th { background: var(--giay); text-align: left; font-weight: 600; padding: 6px 8px; }
+    .bang-tn input { border: 0 !important; padding: 6px !important; background: transparent !important; }
+    .bang-tn td:last-child { width: 40px; text-align: center; }
+    .xoa-tn { border: 0; background: none; color: var(--ly); font-size: 18px; cursor: pointer; }
+    .xem-truoc { border: 2px dashed var(--vien); border-radius: 12px; padding: 14px; background: var(--giay); }
+    .xem-truoc > h3 { font-size: 15px; color: var(--mo); margin-bottom: 10px; }
+    @media (max-width: 760px) { .song-song { grid-template-columns: 1fr; } }
     .form { max-width: 720px; display: grid; gap: 14px; }
     .form label { display: grid; gap: 4px; font-weight: 500; font-size: 15px; }
     .form input, .form select, .form textarea { font: inherit; padding: 9px 11px; border: 1px solid var(--vien); border-radius: 8px; background: #fff; color: inherit; width: 100%; }
@@ -42,6 +64,7 @@
       <label>Loại nội dung
         <select id="kieu">
           <option value="d">Đề trắc nghiệm online (luyện tập, thi thử)</option>
+          <option value="b">Bài học song ngữ Việt – Anh (đọc trên trang)</option>
           <option value="t">Tài liệu bài giảng</option>
           <option value="v">Video bài giảng</option>
         </select>
@@ -95,6 +118,36 @@ Câu 1. Một vật chuyển động thẳng đều đi được 100 m trong 20 
       <div class="chi-d hang"><button type="button" class="nut-bam phu" id="kiemTra">Kiểm tra đề</button></div>
       <div class="chi-d kiem-tra an" id="ketQuaKT" role="status"></div>
 
+      <!-- Bài học song ngữ -->
+      <label class="chi-b">Tên bài tiếng Anh <input id="tenEn" placeholder="Ví dụ: Variables and data types in Python"></label>
+      <details class="huong-dan chi-b" style="max-width:none">
+        <summary>Cách viết nội dung bài học (bấm để xem)</summary>
+        <ul>
+          <li>Các đoạn cách nhau <b>một dòng trống</b>. Ở chế độ song ngữ, đoạn thứ 1 tiếng Việt đứng cạnh đoạn thứ 1 tiếng Anh…, nên hai bên nên có <b>cùng số đoạn</b>.</li>
+          <li><b>## Tiêu đề</b> cho đề mục; dòng bắt đầu bằng <b>- </b> là gạch đầu dòng; <b>**chữ đậm**</b>; <b>`mã`</b>.</li>
+          <li>Công thức: <b>$v = \dfrac{s}{t}$</b>; công thức riêng một dòng: <b>$$F = ma$$</b> (viết trên <b>một dòng</b>).</li>
+          <li>Khối mã: dòng <b>```python</b>, các dòng mã, rồi dòng <b>```</b>. Hỗ trợ python, cpp, c, html, css, sql. Dấu $ trong mã không bị đổi thành công thức.</li>
+          <li>Ảnh: dòng <b>Hình: link-ảnh</b>.</li>
+        </ul>
+      </details>
+      <div class="song-song chi-b">
+        <label>Nội dung tiếng Việt <textarea id="ndVi" spellcheck="false" placeholder="## 1. Biến là gì?&#10;&#10;**Biến** là tên dùng để lưu trữ một giá trị..."></textarea></label>
+        <label>Nội dung tiếng Anh (English) <textarea id="ndEn" spellcheck="false" placeholder="## 1. What is a variable?&#10;&#10;A **variable** is a name used to store a value..."></textarea></label>
+      </div>
+      <div class="chi-b">
+        <b>Thuật ngữ (kèm phiên âm IPA)</b>
+        <table class="bang-tn" style="margin-top:6px"><thead><tr><th>Thuật ngữ tiếng Anh</th><th>Phiên âm IPA</th><th>Nghĩa tiếng Việt</th><th>Ghi chú</th><th></th></tr></thead><tbody id="dsTn"></tbody></table>
+        <div class="hang" style="margin-top:8px">
+          <button type="button" class="nut-bam phu" id="themTn">+ Thêm thuật ngữ</button>
+          <label class="nut-bam phu" style="display:inline-flex;align-items:center;cursor:pointer">Mở tệp .json để sửa<input type="file" id="moJson" accept=".json,application/json" hidden></label>
+        </div>
+      </div>
+      <div class="chi-b xem-truoc">
+        <h3>Xem trước (tự cập nhật khi gõ)</h3>
+        <div id="xemTruoc"></div>
+      </div>
+      <div class="chi-b kiem-tra an" id="ktBai" role="status"></div>
+
       <!-- Tài liệu -->
       <label class="chi-t">Loại tài liệu
         <select id="loai"><option>Lý thuyết</option><option>Bài giảng</option><option>Thực hành</option><option>Bài tập</option><option>Đề kiểm tra</option><option>Chuyên đề</option><option>Đề thi</option></select>
@@ -118,7 +171,8 @@ Câu 1. Một vật chuyển động thẳng đều đi được 100 m trong 20 
     </div>
   </main>
 
-  <script src="trac-nghiem.js?v=2"></script>
+  <script src="trac-nghiem.js?v=3"></script>
+  <script src="bai-hoc.js?v=1"></script>
   <script>
     (function () {
       var $ = function (id) { return document.getElementById(id); };
@@ -127,11 +181,99 @@ Câu 1. Một vật chuyển động thẳng đều đi được 100 m trong 20 
 
       function capNhat() {
         var k = $("kieu").value;
-        ["d", "t", "v"].forEach(function (x) {
+        ["d", "t", "v", "b"].forEach(function (x) {
           document.querySelectorAll(".chi-" + x).forEach(function (e) { e.classList.toggle("an", x !== k); });
         });
+        $("f").classList.toggle("rong", k === "b");
+        if (k === "b") veXemTruoc();
       }
       $("kieu").addEventListener("change", capNhat);
+
+      /* ----- Bài học song ngữ ----- */
+      var cheDoXem = window.BaiHoc.docCheDo();
+      function themDongTn(t) {
+        t = t || {};
+        var tr = document.createElement("tr");
+        ["en", "ipa", "vi", "ghiChu"].forEach(function (k) {
+          var td = document.createElement("td"), o = document.createElement("input");
+          o.dataset.k = k; o.value = t[k] || "";
+          o.setAttribute("aria-label", { en: "Thuật ngữ tiếng Anh", ipa: "Phiên âm IPA", vi: "Nghĩa tiếng Việt", ghiChu: "Ghi chú" }[k]);
+          if (k === "ipa") o.placeholder = "/ˈveəriəbl/";
+          td.appendChild(o); tr.appendChild(td);
+        });
+        var td = document.createElement("td");
+        td.innerHTML = '<button type="button" class="xoa-tn" title="Xóa dòng" aria-label="Xóa thuật ngữ">×</button>';
+        tr.appendChild(td);
+        $("dsTn").appendChild(tr);
+      }
+      function layBai() {
+        var lop = $("lop").value;
+        var tn = [];
+        $("dsTn").querySelectorAll("tr").forEach(function (tr) {
+          var t = {};
+          tr.querySelectorAll("input").forEach(function (o) { var v = o.value.trim(); if (v) t[o.dataset.k] = v; });
+          if (t.en || t.vi) tn.push(t);
+        });
+        return {
+          ten: { vi: $("ten").value.trim(), en: $("tenEn").value.trim() },
+          mon: $("mon").value,
+          lop: lop.indexOf("HSG-") === 0 ? "HSG" : lop,
+          noiDung: { vi: $("ndVi").value, en: $("ndEn").value },
+          thuatNgu: tn
+        };
+      }
+      var henGio = 0;
+      function veXemTruoc() {
+        clearTimeout(henGio);
+        henGio = setTimeout(function () {
+          var o = $("xemTruoc");
+          o.innerHTML = window.BaiHoc.nutCheDo(cheDoXem) + '<article class="bai-hoc">' + window.BaiHoc.ve(layBai(), cheDoXem) + "</article>";
+          if (window.renderMathInElement) window.renderMathInElement(o, { delimiters: [{ left: "$$", right: "$$", display: true }, { left: "$", right: "$", display: false }], ignoredTags: ["script", "noscript", "style", "textarea", "pre", "code", "option"], throwOnError: false });
+          if (window.Prism && window.Prism.highlightAllUnder) window.Prism.highlightAllUnder(o);
+          if (!window.BaiHoc.coPhatAm()) o.querySelectorAll(".bh-nghe").forEach(function (n) { n.hidden = true; });
+        }, 250);
+      }
+      ["ten", "tenEn", "ndVi", "ndEn", "mon", "lop"].forEach(function (id) { $(id).addEventListener("input", function () { if ($("kieu").value === "b") veXemTruoc(); }); });
+      $("dsTn").addEventListener("input", veXemTruoc);
+      $("dsTn").addEventListener("click", function (e) { if (e.target.closest(".xoa-tn")) { e.target.closest("tr").remove(); veXemTruoc(); } });
+      $("themTn").addEventListener("click", function () { themDongTn(); var ds = $("dsTn").querySelectorAll("tr"); ds[ds.length - 1].querySelector("input").focus(); });
+      $("xemTruoc").addEventListener("click", function (e) {
+        var n = e.target.closest("[data-ngon-ngu]");
+        if (n) { cheDoXem = n.dataset.ngonNgu; window.BaiHoc.ghiCheDo(cheDoXem); veXemTruoc(); return; }
+        var d = e.target.closest("[data-doc]");
+        if (d) window.BaiHoc.phatAm(d.dataset.doc);
+      });
+      $("moJson").addEventListener("change", function () {
+        var tep = this.files && this.files[0];
+        if (!tep) return;
+        var r = new FileReader();
+        r.onload = function () {
+          try {
+            var bai = JSON.parse(r.result);
+            $("ten").value = (bai.ten && bai.ten.vi) || "";
+            $("tenEn").value = (bai.ten && bai.ten.en) || "";
+            if (bai.mon) $("mon").value = bai.mon;
+            if (bai.lop) $("lop").value = bai.lop === "HSG" ? "HSG-THPT" : bai.lop;
+            $("ndVi").value = (bai.noiDung && bai.noiDung.vi) || "";
+            $("ndEn").value = (bai.noiDung && bai.noiDung.en) || "";
+            $("dsTn").innerHTML = "";
+            (bai.thuatNgu || []).forEach(themDongTn);
+            if (!(bai.thuatNgu || []).length) themDongTn();
+            veXemTruoc();
+          } catch (err) { $("cb").textContent = "Tệp không đúng định dạng JSON của bài học."; }
+        };
+        r.readAsText(tep, "utf-8");
+        this.value = "";
+      });
+      themDongTn();
+      function taiJson(bai, tenTepJson) {
+        var blob = new Blob([JSON.stringify(bai, null, 2) + "\n"], { type: "application/json" });
+        var a = document.createElement("a");
+        a.href = URL.createObjectURL(blob);
+        a.download = tenTepJson;
+        document.body.appendChild(a); a.click(); a.remove();
+        setTimeout(function () { URL.revokeObjectURL(a.href); }, 2000);
+      }
       capNhat();
 
       $("chenMau").addEventListener("click", function () { $("noiDungDe").value = $("mauDe").textContent; kiemTra(); });
@@ -187,6 +329,32 @@ Câu 1. Một vật chuyển động thẳng đều đi được 100 m trong 20 
         $("cb").textContent = "";
         var lop = $("lop").value;
         var phanLop = lop.indexOf("HSG-") === 0 ? 'lop: "HSG", cap: ' + JSON.stringify(lop.slice(4)) : "lop: " + JSON.stringify(lop);
+        if (k === "b") {
+          var bai = layBai();
+          var loi = window.BaiHoc.kiemTra(bai);
+          var o = $("ktBai");
+          o.classList.remove("an");
+          var nghiemTrong = loi.filter(function (l) { return l.indexOf("cảnh báo") < 0; });
+          o.className = "chi-b kiem-tra " + (nghiemTrong.length ? "xau" : "tot");
+          o.innerHTML = nghiemTrong.length ? "<b>Bài học còn thiếu:</b><ul>" + loi.map(function (l) { return "<li>" + window.TracNghiem.esc(l) + "</li>"; }).join("") + "</ul>"
+            : "<b>Bài học hợp lệ.</b>" + (loi.length ? "<ul>" + loi.map(function (l) { return "<li>" + window.TracNghiem.esc(l) + "</li>"; }).join("") + "</ul>" : "");
+          if (nghiemTrong.length) { $("cb").textContent = "Bài học còn thiếu thông tin, xem ghi chú ở trên."; return; }
+          var tenJson = tenTep(bai.ten.vi || bai.ten.en).replace(/^de\//, "").replace(/\.txt$/, ".json");
+          var dongBai = "  { ten: " + JSON.stringify(bai.ten.vi || bai.ten.en) + ", tenEn: " + JSON.stringify(bai.ten.en) + ", mon: " + j("mon") + ", " + phanLop +
+            ", tep: " + JSON.stringify("bai/" + tenJson) + ', ngay: "' + homNay() + '" },';
+          $("dong").textContent = dongBai;
+          $("kq").classList.remove("an");
+          saoChep(dongBai, function (ok) { $("trangThai").textContent = ok ? "Đã sao chép dòng trên. Làm tiếp các bước sau:" : "Hãy bôi đen dòng trên để sao chép, rồi làm tiếp:"; });
+          var taiLen = kho ? '<a href="' + kho + '/upload/main/bai" target="_blank" rel="noopener">Mở trang tải tệp vào thư mục bai/ trên GitHub</a>' : "Trên GitHub, mở thư mục bai/ và bấm Add file → Upload files";
+          buoc([
+            'Bấm <button type="button" class="nut-bam phu" id="taiJson">Tải tệp ' + tenJson + "</button> để lưu tệp bài học về máy.",
+            taiLen + ", kéo tệp <b>" + tenJson + "</b> vào, bấm <b>Commit changes</b>.",
+            suaNoiDung + ", bấm cây bút, dán dòng ở trên vào ngay dưới dòng <b>DÁN BÀI HỌC MỚI</b>, bấm <b>Commit changes</b>.",
+            "Khoảng 1–2 phút sau, bài học xuất hiện ở mục Tài liệu bài giảng của lớp tương ứng."
+          ]);
+          $("taiJson").addEventListener("click", function () { taiJson(bai, tenJson); });
+          return;
+        }
         var dau = "  { ten: " + j("ten") + ", mon: " + j("mon") + ", " + phanLop + ", ";
         var dong, tep = tenTep($("ten").value);
         if (k === "v") dong = dau + "chuDe: " + j("chuDe") + ", youtube: " + j("youtube") + ", taiLieu: " + j("taiLieu") + ", moTa: " + j("moTa") + ', ngay: "' + homNay() + '" },';

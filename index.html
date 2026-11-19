@@ -25,7 +25,15 @@
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.9/katex.min.css">
   <script defer src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.9/katex.min.js"></script>
   <script defer src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.9/contrib/auto-render.min.js"></script>
-  <link rel="stylesheet" href="style.css?v=7">
+  <!-- Prism.js: tô màu đoạn mã (chạy thủ công sau khi trang vẽ xong) -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/themes/prism-tomorrow.min.css">
+  <script>window.Prism = window.Prism || {}; window.Prism.manual = true;</script>
+  <script defer src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/prism.min.js"></script>
+  <script defer src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/components/prism-python.min.js"></script>
+  <script defer src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/components/prism-c.min.js"></script>
+  <script defer src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/components/prism-cpp.min.js"></script>
+  <script defer src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/components/prism-sql.min.js"></script>
+  <link rel="stylesheet" href="style.css?v=8">
 </head>
 <body>
   <div id="thong-bao"></div>
@@ -54,13 +62,13 @@
   <footer class="chan-trang">
     <div class="khung chan-trang__hang">
       <span id="chan-ten"></span>
-      <a href="them-bai.html">Công cụ thêm bài</a>
     </div>
   </footer>
 
   <!-- Luôn tải bản mới nhất của noi-dung.js để bài mới hiện ngay -->
   <script>document.write('<script src="noi-dung.js?t=' + Date.now() + '"><\/script>');</script>
-  <script src="trac-nghiem.js?v=2"></script>
-  <script src="app.js?v=8"></script>
+  <script src="trac-nghiem.js?v=3"></script>
+  <script src="bai-hoc.js?v=1"></script>
+  <script src="app.js?v=9"></script>
 </body>
 </html>

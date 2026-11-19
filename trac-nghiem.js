@@ -14,17 +14,33 @@
     });
   }
 
-  // Đổi chữ trong đề thành HTML: giữ xuống dòng, `mã` và khối ``` mã ```.
+  // Tên ngôn ngữ sau ``` (ví dụ ```python) -> lớp CSS của Prism.js để tô màu mã.
+  const NGON_NGU = { python: "python", py: "python", c: "c", cpp: "cpp", "c++": "cpp", html: "markup", xml: "markup", css: "css", sql: "sql", js: "javascript", javascript: "javascript" };
+  function khoiMa(lang, ma) {
+    const l = NGON_NGU[String(lang || "").trim().toLowerCase()];
+    return '<pre class="ma"' + (l ? ' data-lang="' + esc(lang.trim()) + '"' : "") + '><code' + (l ? ' class="language-' + l + '"' : "") + ">" +
+      esc(String(ma).replace(/\n$/, "")) + "</code></pre>";
+  }
+  function dongChu(doan) {
+    doan = doan.replace(/^\n+|\n+$/g, "");
+    if (!doan) return "";
+    return esc(doan)
+      .replace(/`([^`\n]+)`/g, "<code>$1</code>")
+      .replace(/\*\*([^*\n]+)\*\*/g, "<b>$1</b>")
+      .replace(/\n/g, "<br>");
+  }
+  // Đổi chữ trong đề thành HTML: giữ xuống dòng, `mã`, **đậm** và khối ```ngôn-ngữ ... ```.
+  // Dấu $ nằm trong mã được giữ nguyên (KaTeX bỏ qua thẻ <pre>, <code>).
   function dinhDang(s) {
-    return String(s || "").split(/```[^\n]*\n?/).map(function (doan, i) {
-      if (i % 2) return '<pre class="ma"><code>' + esc(doan.replace(/\n$/, "")) + "</code></pre>";
-      doan = doan.replace(/^\n+|\n+$/g, "");
-      if (!doan) return "";
-      return esc(doan)
-        .replace(/`([^`\n]+)`/g, "<code>$1</code>")
-        .replace(/\*\*([^*\n]+)\*\*/g, "<b>$1</b>")
-        .replace(/\n/g, "<br>");
-    }).join("");
+    s = String(s || "");
+    const R = /```([^\n`]*)\n([\s\S]*?)(?:```|$)/g;
+    let kq = "", cuoi = 0, m;
+    while ((m = R.exec(s))) {
+      kq += dongChu(s.slice(cuoi, m.index)) + khoiMa(m[1], m[2]);
+      cuoi = R.lastIndex;
+      if (m[0].length === 0) R.lastIndex++;
+    }
+    return kq + dongChu(s.slice(cuoi));
   }
 
   const R_PHAN = /^ph[aầ]n\s+([ivx\d]+)\b/i;
@@ -209,5 +225,5 @@
     return { cau: cau, lc: lc };
   }
 
-  window.TracNghiem = { phanTich: phanTich, cham: cham, dinhDang: dinhDang, daLam: daLam, esc: esc, taoThuTu: taoThuTu };
+  window.TracNghiem = { phanTich: phanTich, cham: cham, dinhDang: dinhDang, dongChu: dongChu, khoiMa: khoiMa, daLam: daLam, esc: esc, taoThuTu: taoThuTu };
 })();

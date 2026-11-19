@@ -87,6 +87,15 @@ const DE_THI = [
   { ten: "Mẫu: Luyện tập Python cơ bản", mon: "Tin học", lop: "10", loai: "Luyện tập", tep: "de/mau-tin-hoc-10-python.txt", thoiGian: 10, ngay: "2026-11-10" }
 ];
 
+/* ---------- BÀI HỌC SONG NGỮ VIỆT - ANH (đọc trực tiếp trên trang) ----------
+   Mỗi bài là một tệp .json trong thư mục bai/ (soạn bằng Công cụ thêm bài, mục "Bài học song ngữ").
+   Học sinh chọn xem Tiếng Việt, English hoặc Song ngữ; có thẻ thuật ngữ kèm phát âm. */
+const BAI_HOC = [
+  // ▼▼▼ DÁN BÀI HỌC MỚI NGAY DƯỚI DÒNG NÀY ▼▼▼
+
+  { ten: "Mẫu: Biến và kiểu dữ liệu trong Python", tenEn: "Variables and data types in Python", mon: "Tin học", lop: "10", tep: "bai/mau-bien-va-kieu-du-lieu.json", ngay: "2026-11-19" }
+];
+
 /* ---------- TÀI LIỆU BÀI GIẢNG (đọc trực tuyến) ----------
    Link Google Drive sẽ mở ngay trên trang để học sinh đọc.
    Nhớ chia sẻ tệp ở chế độ "Bất kỳ ai có đường liên kết".

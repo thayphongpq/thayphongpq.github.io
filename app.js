@@ -14,6 +14,7 @@
   const LO = typeof LO_TRINH === "undefined" ? [] : LO_TRINH;
   const DE = typeof DE_THI === "undefined" ? [] : DE_THI;
   const LK = typeof LIEN_KET === "undefined" ? [] : LIEN_KET;
+  const BH = typeof BAI_HOC === "undefined" ? [] : BAI_HOC;
   const TN = window.TracNghiem;
 
   /* ----- Tiện ích ----- */
@@ -81,6 +82,49 @@
   const dsDe = DE.map(function (d, i) {
     return Object.assign({}, d, { thuTu: i, slug: taoSlug(d.ten, slugDe) });
   }).sort(theoNgay);
+  const slugBai = {};
+  const dsBai = BH.map(function (b, i) {
+    return Object.assign({}, b, { thuTu: i, slug: taoSlug(b.ten, slugBai) });
+  }).sort(theoNgay);
+
+  /* ----- Bài học song ngữ ----- */
+  function dongBai(b) {
+    return '<li class="' + mauMon(b.mon, b.lop) + '"><span class="ds__loai">Bài học</span>' +
+      '<span class="ds__ten"><b>' + esc(b.ten) + '</b><span class="phu">' + esc(b.mon) + " · " + esc(tenLop(b)) + (b.tenEn ? " · " + esc(b.tenEn) : "") + "</span></span>" +
+      (b.tep ? '<a class="ds__mo" href="#/bai/' + esc(b.slug) + '">Đọc bài ›</a>' : '<span class="sap-co">Sắp có</span>') + "</li>";
+  }
+  function veLaiBai(b) { return b.lop === "HSG" ? "#/hsg/" + capCua(b).toLowerCase() : "#/" + duongMon(b.mon) + "/" + b.lop; }
+  let baiDangDoc = null;
+  function trangBai(slug) {
+    const b = dsBai.find(function (x) { return x.slug === slug && x.tep; });
+    if (!b) return khongThay();
+    document.title = b.ten + " - " + THONG_TIN.tenTrang;
+    return '<a class="quay-lai" href="' + veLaiBai(b) + '">‹ Quay lại</a><div id="bai-hoc" data-slug="' + esc(slug) + '"><p class="phu">Đang tải bài học…</p></div>';
+  }
+  function moBai(slug) {
+    const b = dsBai.find(function (x) { return x.slug === slug && x.tep; });
+    if (!b || !window.BaiHoc) return;
+    fetch(b.tep + (b.tep.indexOf("?") < 0 ? "?" : "&") + "t=" + Date.now())
+      .then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); })
+      .then(function (bai) {
+        const h = document.getElementById("bai-hoc");
+        if (!h || h.dataset.slug !== slug) return;
+        baiDangDoc = bai;
+        veBaiDangDoc();
+      })
+      .catch(function () {
+        const h = document.getElementById("bai-hoc");
+        if (h) h.innerHTML = '<div class="loi"><h2>Chưa tải được bài học</h2><p>Kiểm tra kết nối mạng, hoặc kiểm tra tệp ' + esc(b.tep) + " có đúng định dạng JSON không.</p></div>";
+      });
+  }
+  function veBaiDangDoc() {
+    const h = document.getElementById("bai-hoc");
+    if (!h || !baiDangDoc) return;
+    const cheDo = window.BaiHoc.docCheDo();
+    h.innerHTML = window.BaiHoc.nutCheDo(cheDo) + '<article class="bai-hoc">' + window.BaiHoc.ve(baiDangDoc, cheDo) + "</article>";
+    if (!window.BaiHoc.coPhatAm()) h.querySelectorAll(".bh-nghe").forEach(function (n) { n.hidden = true; });
+    toan(h);
+  }
 
   /* ----- Mẩu giao diện ----- */
   function theVideo(v) {
@@ -196,7 +240,10 @@
     const muc = [];
     if (lop === "12") muc.push(["thi-thu", "Thi thử tốt nghiệp THPT", dsDeHTML(de.filter(laThiThu), "Đề thi thử đang được biên soạn, sắp có.")]);
     muc.push(["trac-nghiem", "Trắc nghiệm luyện tập", dsDeHTML(de.filter(function (d) { return !laThiThu(d); }), "Đề luyện tập đang được biên soạn, sắp có.")]);
-    muc.push(["tai-lieu", "Tài liệu bài giảng", dsTL(dsTaiLieu.filter(hop), "Tài liệu bài giảng đang được cập nhật.")]);
+    const baiLop = dsBai.filter(hop), tlLop = dsTaiLieu.filter(hop);
+    muc.push(["tai-lieu", "Tài liệu bài giảng", baiLop.length || tlLop.length
+      ? (baiLop.length ? '<ul class="ds">' + baiLop.map(dongBai).join("") + "</ul>" : "") + (tlLop.length ? (baiLop.length ? '<div style="height:12px"></div>' : "") + dsTL(tlLop) : "")
+      : '<div class="trong">Tài liệu bài giảng đang được cập nhật.</div>']);
     muc.push(["video", "Video bài giảng", luoiVideo(dsVideo.filter(hop), "Video bài giảng sắp có.")]);
     return '<a class="quay-lai" href="#/' + duongMon(mon) + '">‹ ' + esc(mon) + "</a>" +
       dauMuc(mon + " " + lop, lop === "12" ? "Luyện trắc nghiệm, đọc bài giảng, xem video và thi thử tốt nghiệp THPT ngay trên trang." : "Luyện trắc nghiệm, đọc bài giảng và xem video ngay trên trang.") +
@@ -228,12 +275,18 @@
   function hop() { return document.getElementById("bai-thi"); }
   function soPhut(d, de) { return Number(d.thoiGian) || de.thoiGian || 0; }
   function veLaiDe(d) { return d.lop === "HSG" ? "#/hsg/" + capCua(d).toLowerCase() : "#/" + duongMon(d.mon) + "/" + d.lop; }
+  // Vẽ công thức (KaTeX) và tô màu mã (Prism). KaTeX bỏ qua <pre>, <code> nên dấu $ trong mã giữ nguyên.
   function toan(el) {
     if (window.renderMathInElement) {
-      window.renderMathInElement(el, { delimiters: [{ left: "$$", right: "$$", display: true }, { left: "$", right: "$", display: false }], throwOnError: false });
+      window.renderMathInElement(el, {
+        delimiters: [{ left: "$$", right: "$$", display: true }, { left: "$", right: "$", display: false }],
+        ignoredTags: ["script", "noscript", "style", "textarea", "pre", "code", "option"],
+        throwOnError: false
+      });
     } else {
       window.addEventListener("load", function () { if (window.renderMathInElement) toan(el); }, { once: true });
     }
+    if (window.Prism && window.Prism.highlightAllUnder) window.Prism.highlightAllUnder(el);
   }
   function soDiem(x) { return String(Math.round(x * 100) / 100).replace(".", ","); }
   function dongHoChu(ms) {
@@ -791,8 +844,10 @@
       return tu.length > 0 && tu.every(function (t) { return chu.indexOf(t) >= 0; });
     };
     const v = dsVideo.filter(khop), t = dsTaiLieu.filter(khop), d = dsDe.filter(khop);
-    const tong = v.length + t.length + d.length;
+    const bh = dsBai.filter(function (x) { return khop(Object.assign({}, x, { chuDe: x.tenEn })); });
+    const tong = v.length + t.length + d.length + bh.length;
     return dauMuc('Kết quả cho "' + q + '"', tong + " kết quả") +
+      (bh.length ? khoi("Bài học", '<ul class="ds">' + bh.map(dongBai).join("") + "</ul>") : "") +
       (d.length ? khoi("Trắc nghiệm online", dsDeHTML(d)) : "") +
       (v.length ? khoi("Video", luoiVideo(v)) : "") + (t.length ? khoi("Tài liệu", dsTL(t)) : "") +
       (tong ? "" : '<div class="trong">Không tìm thấy bài phù hợp. Thử từ khóa ngắn hơn.</div>');
@@ -834,6 +889,7 @@
     if (ten === "lien-he") return lienHe();
     if (ten === "lam-bai") return trangLamBai(phu);
     if (ten === "hoi-dap") return trangHoiDap();
+    if (ten === "bai") return trangBai(phu);
     if (ten === "tro-choi") return trangTroChoi(phu);
     if (ten === "doc") return docTaiLieu(phu);
     return khongThay();
@@ -841,13 +897,14 @@
   function hienThi() {
     dungDongHo();
     baiThi = null;
+    baiDangDoc = null;
     dungDongHoTroChoi();
     troChoi = null;
     app.innerHTML = veTrang();
     const d = phanDuong();
     let ten = d[0];
-    if (ten === "lam-bai" || ten === "doc") {
-      const x = (ten === "lam-bai" ? dsDe : dsTaiLieu).find(function (y) { return y.slug === d[1]; });
+    if (ten === "lam-bai" || ten === "doc" || ten === "bai") {
+      const x = (ten === "lam-bai" ? dsDe : ten === "bai" ? dsBai : dsTaiLieu).find(function (y) { return y.slug === d[1]; });
       ten = !x ? "" : x.lop === "HSG" ? "hsg" : duongMon(x.mon);
     }
     document.querySelectorAll(".menu a").forEach(function (a) {
@@ -855,6 +912,7 @@
       else a.removeAttribute("aria-current");
     });
     if (d[0] === "lam-bai" && hop()) moDe(d[1]);
+    if (d[0] === "bai" && document.getElementById("bai-hoc")) moBai(d[1]);
     if (d[0] === "tro-choi" && d[1] && document.getElementById("tro-choi")) moTroChoi(d[1]);
     if (d[0] === "hoi-dap") {
       const f = document.getElementById("form-hoi");
@@ -895,6 +953,16 @@
   app.addEventListener("input", function (e) { if (e.target.type === "text") ghiTraLoi(e); });
 
   app.addEventListener("click", function (e) {
+    const ngonNgu = e.target.closest("[data-ngon-ngu]");
+    if (ngonNgu && baiDangDoc) {
+      window.BaiHoc.ghiCheDo(ngonNgu.dataset.ngonNgu);
+      veBaiDangDoc();
+      const lai = app.querySelector('[data-ngon-ngu="' + ngonNgu.dataset.ngonNgu + '"]');
+      if (lai) lai.focus();
+      return;
+    }
+    const nghe = e.target.closest("[data-doc]");
+    if (nghe) { window.BaiHoc.phatAm(nghe.dataset.doc); return; }
     const tc = e.target.closest("[data-tc]");
     if (tc && troChoi) {
       const v = tc.dataset.tc;
@@ -929,6 +997,14 @@
     hienThi();
     const lai = app.querySelector('.chip[data-loc="' + khoa + '"][data-giatri="' + gt + '"]');
     if (lai) lai.focus();
+  });
+
+  // Phím tắt dành cho thầy/cô: Ctrl + Shift + E mở Công cụ thêm bài.
+  document.addEventListener("keydown", function (e) {
+    if (e.ctrlKey && e.shiftKey && !e.altKey && (e.key === "E" || e.key === "e" || e.code === "KeyE")) {
+      e.preventDefault();
+      location.href = "them-bai.html";
+    }
   });
 
   document.getElementById("form-tim").addEventListener("submit", function (e) {
