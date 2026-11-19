@@ -1,0 +1,169 @@
+VẬT LÍ 10 - CHƯƠNG II. ĐỘNG HỌC - BÀI 5. TỐC ĐỘ VÀ VẬN TỐC - ĐỀ 3
+Đề kiểm tra theo cấu trúc thi tốt nghiệp THPT (biên soạn: thầy Lâm Thế Phong, THPT An Thới)
+Thời gian: 50
+
+PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn
+Câu 1. Đại lượng dùng để xác định độ nhanh, chậm của chuyển động theo một hướng xác định là
+A. tốc độ trung bình.
+*B. vận tốc.
+C. quãng đường.
+D. thời gian.
+
+Câu 2. Trong hệ SI, đơn vị của tốc độ là
+A. km/h.
+*B. m/s.
+C. m/phút.
+D. km/s.
+
+Câu 3. Tốc kế của một ô tô đang chỉ 60 km/h. Điều đó cho biết
+A. tốc độ trung bình của ô tô từ lúc xuất phát là 60 km/h.
+*B. tốc độ tức thời của ô tô tại thời điểm đó là 60 km/h.
+C. ô tô sẽ đi được 60 km trong 1 giờ tới.
+D. vận tốc trung bình của ô tô là 60 km/h.
+
+Câu 4. Biết tốc độ và thời gian chuyển động của một vật nhưng chưa biết hướng chuyển động thì
+A. xác định được vị trí của vật.
+*B. chưa xác định được vị trí của vật.
+C. xác định được hướng của vật.
+D. xác định được vận tốc của vật.
+
+Câu 5. Vectơ vận tốc có độ dài
+*A. tỉ lệ với độ lớn của vận tốc.
+B. tỉ lệ với quãng đường đi được.
+C. tỉ lệ với thời gian chuyển động.
+D. luôn bằng 1 cm.
+
+Câu 6. Trong công thức cộng vận tốc $\vec{v}_{1,3} = \vec{v}_{1,2} + \vec{v}_{2,3}$, đại lượng $\vec{v}_{1,2}$ là
+*A. vận tốc của vật (1) đối với vật (2).
+B. vận tốc của vật (2) so với vật (3) đứng yên.
+C. vận tốc của vật (1) đối với vật (3).
+D. vận tốc tổng hợp của vật.
+
+Câu 7. Đổi 10 m/s sang đơn vị km/h được
+A. 2,78 km/h.
+*B. 36 km/h.
+C. 100 km/h.
+D. 3,6 km/h.
+
+Câu 8. Một đoàn tàu chạy được 150 km, xuất phát lúc 7 h và đến nơi lúc 9 h 30 min. Tốc độ trung bình của đoàn tàu là
+A. 50 km/h.
+*B. 60 km/h.
+C. 75 km/h.
+D. 16 km/h.
+
+Câu 9. Một xe chuyển động thẳng, không đổi chiều. Ở thời điểm 2 s xe đã đi được 10 m, ở thời điểm 6 s xe đã đi được 50 m (tính từ lúc xuất phát). Tốc độ trung bình của xe trong khoảng thời gian từ 2 s đến 6 s là
+A. 8,3 m/s.
+*B. 10 m/s.
+C. 5 m/s.
+D. 12,5 m/s.
+
+Câu 10. Hai ô tô chạy cùng chiều trên một đường thẳng với vận tốc so với mặt đường lần lượt là 60 km/h và 40 km/h. Độ lớn vận tốc của ô tô thứ nhất so với ô tô thứ hai là
+A. 100 km/h.
+*B. 20 km/h.
+C. 50 km/h.
+D. 0.
+Lời giải: $\vec{v}_{1,3} = \vec{v}_{1,2} + \vec{v}_{2,3}$ nên $v_{1,2} = 60 - 40 = 20$ km/h.
+
+Câu 11. Hai ô tô chạy ngược chiều trên một đường thẳng với vận tốc so với mặt đường lần lượt là 50 km/h và 40 km/h. Độ lớn vận tốc của ô tô này so với ô tô kia là
+A. 10 km/h.
+*B. 90 km/h.
+C. 45 km/h.
+D. 2000 km/h.
+
+Câu 12. Trời không có gió, mưa rơi thẳng đứng. Người ngồi trên ô tô đang chạy thấy các vệt mưa trên cửa kính bên hông xe rơi xiên. Giải thích nào sau đây đúng?
+A. Vì mưa đổi hướng khi gặp xe.
+*B. Vì vận tốc của giọt mưa so với xe bằng tổng hợp vận tốc của mưa so với đất và vận tốc của đất so với xe.
+C. Vì kính xe làm khúc xạ ánh sáng.
+D. Vì giọt mưa rơi chậm lại.
+
+Câu 13. Một người đứng yên trên thang cuốn chuyển động với vận tốc 1 m/s, rồi bắt đầu bước đi cùng chiều chuyển động của thang với vận tốc 0,5 m/s so với thang. Vận tốc của người so với mặt đất là
+A. 0,5 m/s.
+B. 1 m/s.
+*C. 1,5 m/s.
+D. 2 m/s.
+
+Câu 14. Một ca nô chạy xuôi dòng với vận tốc 15 km/h so với bờ và chạy ngược dòng với vận tốc 9 km/h so với bờ (vận tốc của ca nô so với nước không đổi). Vận tốc của dòng nước là
+*A. 3 km/h.
+B. 6 km/h.
+C. 12 km/h.
+D. 24 km/h.
+Lời giải: $v + u = 15$; $v - u = 9 \Rightarrow u = 3$ km/h, v = 12 km/h.
+
+Câu 15. Một người bơi theo hướng vuông góc với bờ sông với vận tốc 1,2 m/s so với nước; nước chảy với vận tốc 0,5 m/s. Độ lớn vận tốc của người so với bờ là
+A. 1,7 m/s.
+B. 0,7 m/s.
+*C. 1,3 m/s.
+D. 0,6 m/s.
+Lời giải: $v = \sqrt{1{,}2^2 + 0{,}5^2} = \sqrt{1{,}69} = 1{,}3$ m/s.
+
+Câu 16. Một người chạy đúng nửa vòng của một đường tròn bán kính 50 m hết 20 s. Độ lớn vận tốc trung bình của người đó là
+*A. 5 m/s.
+B. 7,85 m/s.
+C. 2,5 m/s.
+D. 15,7 m/s.
+Lời giải: Độ dịch chuyển bằng đường kính 100 m; $v = \dfrac{100}{20} = 5$ m/s (tốc độ trung bình ≈ 7,85 m/s).
+
+Câu 17. Một ô tô chạy trên đoạn đường cong với tốc độ không đổi. Nhận xét nào đúng?
+A. Vận tốc của ô tô không đổi.
+*B. Vận tốc của ô tô thay đổi vì hướng chuyển động thay đổi.
+C. Tốc độ của ô tô thay đổi.
+D. Ô tô đứng yên.
+
+Câu 18. Một xe đạp đi từ A đến B với tốc độ trung bình 20 km/h rồi quay ngay về A theo đường cũ với tốc độ trung bình 30 km/h. Nhận xét nào đúng về cả chuyến đi và về?
+A. Tốc độ trung bình bằng 25 km/h.
+*B. Vận tốc trung bình bằng 0, tốc độ trung bình bằng 24 km/h.
+C. Độ lớn vận tốc trung bình bằng 24 km/h.
+D. Tốc độ trung bình bằng 0.
+Lời giải: Về đúng vị trí xuất phát nên độ dịch chuyển bằng 0. Tốc độ trung bình: $\dfrac{2s}{s/20 + s/30} = 24$ km/h.
+
+PHẦN II. Câu trắc nghiệm đúng sai
+Câu 1. Một xe chuyển động thẳng, không đổi chiều. Quãng đường xe đi được tính từ lúc xuất phát: tại thời điểm 0 s là 0 m; tại 10 s là 120 m; tại 20 s là 300 m.
+a) Tốc độ trung bình trong 10 s đầu là 12 m/s. (Đ)
+b) Tốc độ trung bình trong khoảng thời gian từ 10 s đến 20 s là 18 m/s. (Đ)
+c) Tốc độ trung bình trong cả 20 s là 15 m/s. (Đ)
+d) Tốc độ tức thời của xe tại thời điểm 10 s chắc chắn bằng 12 m/s. (S)
+Lời giải: 120 : 10 = 12 m/s; (300 − 120) : 10 = 18 m/s; 300 : 20 = 15 m/s. Từ số liệu trung bình không suy ra được tốc độ tức thời tại một thời điểm.
+
+Câu 2. Một thang cuốn dài 24 m chuyển động đều với vận tốc 0,8 m/s.
+a) Nếu người đứng yên trên thang thì thời gian đi hết thang là 30 s. (Đ)
+b) Nếu người bước đi cùng chiều chuyển động của thang với vận tốc 0,4 m/s so với thang thì vận tốc của người so với mặt đất là 1,2 m/s. (Đ)
+c) Trong trường hợp ở ý b), thời gian người đi hết thang là 20 s. (Đ)
+d) Nếu người bước đi ngược chiều chuyển động của thang với vận tốc 0,8 m/s so với thang thì người đứng yên so với mặt đất. (Đ)
+Lời giải: 24 : 0,8 = 30 s; 0,8 + 0,4 = 1,2 m/s; 24 : 1,2 = 20 s; 0,8 − 0,8 = 0.
+
+Câu 3. Một ca nô có vận tốc 6 m/s so với nước, chạy trên một khúc sông thẳng giữa hai bến A và B cách nhau 4,8 km. Nước chảy từ A đến B với vận tốc 2 m/s.
+a) Khi chạy xuôi dòng từ A đến B, vận tốc của ca nô so với bờ là 8 m/s. (Đ)
+b) Khi chạy ngược dòng từ B về A, vận tốc của ca nô so với bờ là 4 m/s. (Đ)
+c) Thời gian chạy xuôi dòng từ A đến B là 10 phút. (Đ)
+d) Tổng thời gian cả đi và về là 20 phút. (S)
+Lời giải: 4800 : 8 = 600 s = 10 phút; 4800 : 4 = 1200 s = 20 phút; tổng 30 phút.
+
+Câu 4. Về tốc độ và vận tốc:
+a) Tốc độ trung bình không nhỏ hơn độ lớn của vận tốc trung bình trong cùng một khoảng thời gian. (Đ)
+b) Vận tốc trung bình có thể bằng 0 khi tốc độ trung bình khác 0. (Đ)
+c) Vận tốc là một đại lượng vô hướng. (S)
+d) Khi vật chuyển động thẳng theo một hướng thì tốc độ và độ lớn vận tốc bằng nhau. (Đ)
+Lời giải: Vận tốc là đại lượng vectơ vì độ dịch chuyển là đại lượng vectơ.
+
+PHẦN III. Câu trắc nghiệm trả lời ngắn
+Câu 1. Đổi tốc độ 90 km/h ra đơn vị m/s.
+Đáp án: 25
+
+Câu 2. Một xe chuyển động thẳng, không đổi chiều. Ở thời điểm 2 s xe đã đi được 8 m, ở thời điểm 7 s xe đã đi được 38 m (tính từ lúc xuất phát). Tốc độ trung bình của xe trong khoảng thời gian từ 2 s đến 7 s là bao nhiêu m/s?
+Đáp án: 6
+Lời giải: $v = \dfrac{38 - 8}{7 - 2} = 6$ m/s.
+
+Câu 3. Hai ô tô chạy cùng chiều trên đường thẳng với tốc độ 72 km/h và 54 km/h so với mặt đường. Độ lớn vận tốc của xe nhanh so với xe chậm là bao nhiêu km/h?
+Đáp án: 18
+
+Câu 4. Trời không có gió, các giọt mưa rơi thẳng đứng với vận tốc 6 m/s so với mặt đất. Một ô tô chạy thẳng trên đường nằm ngang với vận tốc 8 m/s. Độ lớn vận tốc của giọt mưa so với ô tô là bao nhiêu m/s?
+Đáp án: 10
+Lời giải: Vận tốc của mưa so với xe là tổng hợp của vận tốc mưa so với đất (6 m/s, thẳng đứng) và vận tốc của đất so với xe (8 m/s, nằm ngang): $\sqrt{6^2 + 8^2} = 10$ m/s.
+
+Câu 5. Một ca nô có tốc độ 20 km/h so với nước. Ca nô chạy xuôi dòng từ bến A đến bến B mất 1 h, rồi chạy ngược dòng từ B về A mất 1,5 h. Tốc độ của dòng nước là bao nhiêu km/h?
+Đáp án: 4
+Lời giải: $(20 + u)\cdot 1 = (20 - u)\cdot 1{,}5 \Rightarrow 2{,}5u = 10 \Rightarrow u = 4$ km/h.
+
+Câu 6. Một người đi xe máy trong 2 h với tốc độ 40 km/h, nghỉ 30 phút, rồi đi tiếp 1,5 h với tốc độ 60 km/h. Tốc độ trung bình trong cả thời gian từ lúc xuất phát đến lúc dừng hẳn (tính cả thời gian nghỉ) là bao nhiêu km/h?
+Đáp án: 42,5|42.5
+Lời giải: $s = 80 + 90 = 170$ km; $t = 2 + 0{,}5 + 1{,}5 = 4$ h; $v = 42{,}5$ km/h.

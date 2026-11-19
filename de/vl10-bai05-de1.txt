@@ -1,0 +1,173 @@
+VẬT LÍ 10 - CHƯƠNG II. ĐỘNG HỌC - BÀI 5. TỐC ĐỘ VÀ VẬN TỐC - ĐỀ 1
+Đề kiểm tra theo cấu trúc thi tốt nghiệp THPT (biên soạn: thầy Lâm Thế Phong, THPT An Thới)
+Thời gian: 50
+
+PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn
+Câu 1. Tốc độ trung bình của một chuyển động được tính bằng
+*A. quãng đường đi được chia cho thời gian đi hết quãng đường đó.
+B. độ dịch chuyển chia cho thời gian.
+C. quãng đường đi được nhân với thời gian.
+D. thời gian chia cho quãng đường đi được.
+
+Câu 2. Một ô tô chạy với tốc độ 72 km/h. Tốc độ này bằng
+A. 7,2 m/s.
+*B. 20 m/s.
+C. 259,2 m/s.
+D. 2 m/s.
+Lời giải: 72 km/h = 72 : 3,6 = 20 m/s.
+
+Câu 3. Số chỉ của tốc kế (đồng hồ tốc độ) trên xe máy cho biết
+A. tốc độ trung bình của xe trên cả quãng đường.
+*B. tốc độ tức thời của xe tại thời điểm người lái đọc số chỉ.
+C. quãng đường xe đã đi.
+D. vận tốc trung bình của xe.
+
+Câu 4. Vận tốc trung bình được xác định bằng
+A. thương số giữa quãng đường đi được và thời gian.
+*B. thương số giữa độ dịch chuyển và thời gian dịch chuyển: $\vec{v} = \dfrac{\vec{d}}{t}$.
+C. tích của độ dịch chuyển và thời gian.
+D. hiệu giữa độ dịch chuyển và quãng đường.
+
+Câu 5. Vectơ vận tốc có
+A. gốc nằm ở gốc toạ độ, hướng tuỳ ý.
+*B. gốc nằm trên vật chuyển động, hướng là hướng của độ dịch chuyển, độ dài tỉ lệ với độ lớn của vận tốc.
+C. gốc nằm trên vật chuyển động, hướng ngược hướng của độ dịch chuyển.
+D. độ dài tỉ lệ với quãng đường đi được.
+
+Câu 6. Tốc độ và vận tốc của một vật có độ lớn bằng nhau khi vật
+A. chuyển động tròn.
+B. chuyển động thẳng có đổi chiều.
+*C. chuyển động thẳng theo một hướng.
+D. chuyển động trên đường cong.
+
+Câu 7. Một vận động viên chạy 100 m hết 9,98 s. Tốc độ trung bình của vận động viên xấp xỉ
+A. 9,98 m/s.
+*B. 10,02 m/s.
+C. 36 m/s.
+D. 0,1 m/s.
+Lời giải: $v = \dfrac{100}{9{,}98} \approx 10{,}02$ m/s.
+
+Câu 8. Một xe đi được 120 km trong 2 giờ 30 phút. Tốc độ trung bình của xe là
+A. 60 km/h.
+*B. 48 km/h.
+C. 40 km/h.
+D. 50 km/h.
+Lời giải: $v = \dfrac{120}{2{,}5} = 48$ km/h.
+
+Câu 9. Một xe chuyển động thẳng, không đổi chiều. Lúc 8 h xe đã đi được 20 km tính từ lúc xuất phát; lúc 9 h 30 min xe đã đi được 80 km. Tốc độ trung bình của xe trong khoảng thời gian từ 8 h đến 9 h 30 min là
+A. 53,3 km/h.
+*B. 40 km/h.
+C. 60 km/h.
+D. 80 km/h.
+Lời giải: $v = \dfrac{\Delta s}{\Delta t} = \dfrac{80 - 20}{1{,}5} = 40$ km/h.
+
+Câu 10. Một người đi xe máy qua ngã tư với tốc độ trung bình 30 km/h theo hướng bắc. Sau 3 phút, người đó ở vị trí
+A. cách ngã tư 90 km về phía bắc.
+*B. cách ngã tư 1,5 km về phía bắc.
+C. cách ngã tư 1,5 km, không xác định được hướng.
+D. cách ngã tư 10 km về phía bắc.
+Lời giải: 3 phút = 0,05 h; d = 30 . 0,05 = 1,5 km, hướng bắc.
+
+Câu 11. Biểu thức nào sau đây xác định giá trị vận tốc trung bình?
+A. $\dfrac{s}{t}$.
+B. $v\cdot t$.
+*C. $\dfrac{d}{t}$.
+D. $d\cdot t$.
+
+Câu 12. Trên đoàn tàu đang chạy thẳng với vận tốc 36 km/h so với mặt đường, một hành khách đi về phía đầu tàu với vận tốc 1 m/s so với sàn tàu. Vận tốc của hành khách so với mặt đường là
+A. 9 m/s.
+*B. 11 m/s.
+C. 37 m/s.
+D. 1 m/s.
+Lời giải: 36 km/h = 10 m/s; cùng hướng: $v_{1,3} = 1 + 10 = 11$ m/s.
+
+Câu 13. Trong công thức cộng vận tốc $\vec{v}_{1,3} = \vec{v}_{1,2} + \vec{v}_{2,3}$, đại lượng $\vec{v}_{2,3}$ là
+A. vận tốc của vật (1) đối với vật (2).
+*B. vận tốc của vật (2) so với vật (3) đứng yên.
+C. vận tốc của vật (1) đối với vật (3).
+D. vận tốc của vật (3) đối với vật (1).
+
+Câu 14. Một người bơi ngược dòng sông với vận tốc 1,5 m/s so với nước; nước chảy với vận tốc 0,5 m/s so với bờ. Vận tốc của người đó so với bờ có độ lớn
+A. 2 m/s.
+*B. 1 m/s.
+C. 0,5 m/s.
+D. 1,5 m/s.
+
+Câu 15. Một ca nô chạy ngang sông với vận tốc 4 m/s so với nước, theo hướng vuông góc với bờ; nước chảy với vận tốc 3 m/s. Vận tốc của ca nô so với bờ có độ lớn
+A. 7 m/s.
+B. 1 m/s.
+*C. 5 m/s.
+D. 12 m/s.
+Lời giải: $v = \sqrt{4^2 + 3^2} = 5$ m/s.
+
+Câu 16. Một vận động viên chạy đúng một vòng sân và về lại vạch xuất phát. Nhận xét nào đúng?
+A. Tốc độ trung bình và vận tốc trung bình đều bằng 0.
+*B. Vận tốc trung bình bằng 0 nhưng tốc độ trung bình khác 0.
+C. Tốc độ trung bình bằng 0 nhưng vận tốc trung bình khác 0.
+D. Tốc độ trung bình bằng độ lớn vận tốc trung bình.
+
+Câu 17. Có thể coi tốc độ tức thời là
+A. tốc độ trung bình trên cả quãng đường.
+*B. tốc độ trung bình trong một khoảng thời gian rất ngắn.
+C. tốc độ lớn nhất của vật.
+D. tốc độ nhỏ nhất của vật.
+
+Câu 18. Một ô tô đi nửa đầu quãng đường với tốc độ trung bình 40 km/h và nửa sau quãng đường với tốc độ trung bình 60 km/h. Tốc độ trung bình trên cả quãng đường là
+A. 50 km/h.
+*B. 48 km/h.
+C. 100 km/h.
+D. 45 km/h.
+Lời giải: Gọi mỗi nửa quãng đường là s: $t = \dfrac{s}{40} + \dfrac{s}{60} = \dfrac{s}{24}$; $v = \dfrac{2s}{s/24} = 48$ km/h.
+
+PHẦN II. Câu trắc nghiệm đúng sai
+Câu 1. Bố chở bạn Minh đi học bằng xe máy, xuất phát lúc 6 h 45 min và dừng trước cổng trường lúc 7 h 05 min. Quãng đường từ nhà đến trường dài 12 km. Lúc 6 h 55 min, tốc kế của xe chỉ 40 km/h.
+a) Tốc độ trung bình của xe từ nhà đến trường là 36 km/h. (Đ)
+b) Số chỉ 40 km/h lúc 6 h 55 min là tốc độ tức thời của xe. (Đ)
+c) Lúc xe dừng trước cổng trường, tốc độ tức thời của xe bằng 0. (Đ)
+d) Tốc độ trung bình của xe bằng trung bình cộng các số chỉ của tốc kế trên đường đi. (S)
+Lời giải: Thời gian 20 phút = 1/3 h; $v = 12 : \dfrac{1}{3} = 36$ km/h. Tốc độ trung bình tính bằng quãng đường chia thời gian, không phải trung bình cộng các tốc độ.
+
+Câu 2. Một bạn đi từ nhà A đến B theo hướng đông hết 5 phút, quãng đường AB = 600 m; rồi đi từ B đến trường C theo hướng bắc hết 5 phút, quãng đường BC = 800 m.
+a) Quãng đường bạn đó đi được là 1400 m. (Đ)
+b) Tốc độ trung bình trên cả lộ trình xấp xỉ 2,33 m/s. (Đ)
+c) Độ lớn độ dịch chuyển từ A đến C là 1000 m. (Đ)
+d) Độ lớn vận tốc trung bình trên cả lộ trình xấp xỉ 2,33 m/s. (S)
+Lời giải: t = 600 s; $v_{tb} = \dfrac{1400}{600} \approx 2{,}33$ m/s; $d = \sqrt{600^2 + 800^2} = 1000$ m; độ lớn vận tốc trung bình $= \dfrac{1000}{600} \approx 1{,}67$ m/s.
+
+Câu 3. Một đoàn tàu chạy thẳng với vận tốc 54 km/h so với mặt đường. Một hành khách đi về phía cuối tàu với vận tốc 1,5 m/s so với sàn tàu.
+a) Vận tốc của hành khách so với tàu có độ lớn 1,5 m/s. (Đ)
+b) Vận tốc của hành khách so với mặt đường có độ lớn 16,5 m/s. (S)
+c) Vận tốc của hành khách so với mặt đường cùng hướng với hướng chạy của tàu. (Đ)
+d) Nếu hành khách đi về phía đầu tàu với vận tốc 1,5 m/s so với sàn tàu thì vận tốc so với mặt đường là 16,5 m/s. (Đ)
+Lời giải: 54 km/h = 15 m/s. Đi về cuối tàu (ngược hướng tàu): $v_{1,3} = 15 - 1{,}5 = 13{,}5$ m/s, vẫn cùng hướng tàu. Đi về đầu tàu: 15 + 1,5 = 16,5 m/s.
+
+Câu 4. Một ca nô chạy ngang một con sông rộng 200 m với vận tốc 4 m/s so với nước, mũi ca nô luôn hướng theo hướng đông, vuông góc với bờ. Nước chảy theo hướng bắc – nam với vận tốc 3 m/s.
+a) Vận tốc của ca nô so với bờ có độ lớn 5 m/s. (Đ)
+b) Hướng của vận tốc ca nô so với bờ lệch về phía nam so với hướng đông. (Đ)
+c) Thời gian ca nô sang tới bờ bên kia là 40 s. (S)
+d) Khi sang tới bờ bên kia, ca nô bị trôi xuôi theo dòng nước 150 m. (Đ)
+Lời giải: $v = \sqrt{4^2 + 3^2} = 5$ m/s. Thời gian sang sông chỉ phụ thuộc thành phần vuông góc với bờ: t = 200 : 4 = 50 s; đoạn trôi: 3 . 50 = 150 m.
+
+PHẦN III. Câu trắc nghiệm trả lời ngắn
+Câu 1. Đổi tốc độ 72 km/h ra đơn vị m/s.
+Đáp án: 20
+
+Câu 2. Một vận động viên chạy cự li 200 m hết 19,94 s. Tốc độ trung bình của vận động viên là bao nhiêu m/s? (Làm tròn đến hàng phần mười.)
+Đáp án: 10|10,0|10.0
+Lời giải: $v = \dfrac{200}{19{,}94} \approx 10{,}03 \approx 10{,}0$ m/s.
+
+Câu 3. Một xe chuyển động thẳng: nửa đầu thời gian chạy với tốc độ 30 km/h, nửa sau thời gian chạy với tốc độ 50 km/h. Tốc độ trung bình của xe trong cả thời gian chuyển động là bao nhiêu km/h?
+Đáp án: 40
+Lời giải: Gọi mỗi nửa thời gian là t: $v = \dfrac{30t + 50t}{2t} = 40$ km/h.
+
+Câu 4. Một người bơi xuôi dòng sông với vận tốc 1,2 m/s so với nước; nước chảy với vận tốc 0,8 m/s so với bờ. Độ lớn vận tốc của người đó so với bờ là bao nhiêu m/s?
+Đáp án: 2
+Lời giải: Cùng hướng: 1,2 + 0,8 = 2 m/s.
+
+Câu 5. Một máy bay bay theo hướng bắc với vận tốc 120 m/s so với không khí thì bị gió từ hướng tây thổi tới với vận tốc 50 m/s. Độ lớn vận tốc tổng hợp của máy bay so với mặt đất là bao nhiêu m/s?
+Đáp án: 130
+Lời giải: Hai vận tốc vuông góc: $v = \sqrt{120^2 + 50^2} = 130$ m/s.
+
+Câu 6. Một ca nô có tốc độ 18 km/h so với nước. Ca nô chạy xuôi dòng trong 1 giờ rồi quay lại chạy ngược dòng thì phải mất 2 giờ mới về tới vị trí ban đầu. Tốc độ chảy của dòng nước là bao nhiêu km/h?
+Đáp án: 6
+Lời giải: $(18 + u)\cdot 1 = (18 - u)\cdot 2 \Rightarrow 3u = 18 \Rightarrow u = 6$ km/h.
