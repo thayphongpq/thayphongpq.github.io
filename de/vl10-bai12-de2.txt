@@ -1,0 +1,165 @@
+VẬT LÍ 10 - CHƯƠNG II. ĐỘNG HỌC - BÀI 12. CHUYỂN ĐỘNG NÉM - ĐỀ 2
+Đề kiểm tra theo cấu trúc thi tốt nghiệp THPT (biên soạn: thầy Lâm Thế Phong, THPT An Thới)
+Thời gian: 50
+
+PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn
+Câu 1. Đối với chuyển động ném ngang, người ta thường quan tâm tới
+*A. thời gian từ khi vật được ném tới khi chạm đất và tầm bay xa theo phương nằm ngang.
+B. khối lượng và màu sắc của vật.
+C. nhiệt độ của vật.
+D. lực cản của không khí.
+
+Câu 2. Để nghiên cứu chuyển động ném, người ta phân tích chuyển động đó thành
+A. một chuyển động thẳng đều.
+*B. hai chuyển động thành phần theo phương thẳng đứng và phương nằm ngang.
+C. ba chuyển động thành phần.
+D. một chuyển động tròn đều.
+
+Câu 3. Thành phần chuyển động theo phương thẳng đứng của bi bị ném ngang giống chuyển động của bi rơi tự do cùng độ cao. Điều đó chứng tỏ
+A. bi ném ngang không chịu trọng lực.
+B. thành phần nằm ngang làm bi rơi nhanh hơn.
+C. thành phần nằm ngang làm bi rơi chậm hơn.
+*D. hai chuyển động thành phần độc lập với nhau.
+
+Câu 4. Từ cùng một độ cao, đồng thời ném ngang các vật khác nhau với các vận tốc khác nhau (bỏ qua sức cản). Kết luận nào sau đây đúng?
+A. Vật có vận tốc lớn chạm đất trước.
+*B. Các vật đều chạm đất cùng một lúc.
+C. Vật nặng chạm đất trước.
+D. Vật có vận tốc nhỏ chạm đất trước.
+
+Câu 5. Từ cùng một độ cao, đồng thời ném ngang các vật với vận tốc khác nhau. Vật có tầm xa lớn hơn là vật
+*A. có vận tốc ném lớn hơn.
+B. có khối lượng lớn hơn.
+C. có vận tốc ném nhỏ hơn.
+D. có kích thước nhỏ hơn.
+
+Câu 6. Ném ngang các vật với cùng vận tốc từ những độ cao khác nhau. Vật có tầm xa lớn hơn là vật
+A. được ném ở độ cao nhỏ hơn.
+B. có khối lượng nhỏ hơn.
+*C. được ném ở độ cao lớn hơn.
+D. có màu sẫm hơn.
+
+Câu 7. Tầm xa L của chuyển động ném ngang được định nghĩa là
+A. độ cao lớn nhất của vật.
+*B. giá trị cực đại của độ dịch chuyển thành phần theo phương nằm ngang.
+C. quãng đường vật rơi theo phương thẳng đứng.
+D. độ dài quỹ đạo của vật.
+
+Câu 8. Một vật được ném ngang từ độ cao 45 m, lấy g = 10 m/s². Thời gian rơi của vật là
+A. 4,5 s.
+B. 9 s.
+*C. 3 s.
+D. 2 s.
+
+Câu 9. Từ một đài quan sát cao 20 m, một người ném ngang một hòn đá với vận tốc 8 m/s. Bỏ qua sức cản, lấy g = 10 m/s². Tầm xa của hòn đá là
+A. 8 m.
+B. 20 m.
+C. 40 m.
+*D. 16 m.
+
+Câu 10. Một vật được ném ngang với vận tốc 5 m/s và chạm đất sau 2 s. Tầm xa của vật là
+*A. 10 m.
+B. 2,5 m.
+C. 20 m.
+D. 5 m.
+
+Câu 11. Một vật được ném ngang từ độ cao 125 m với vận tốc 4 m/s, lấy g = 10 m/s². Tầm xa của vật là
+A. 500 m.
+B. 4 m.
+*C. 20 m.
+D. 50 m.
+Lời giải: t = 5 s; L = 4 . 5 = 20 m.
+
+Câu 12. Vật được ném xiên lên từ mặt đất. Trong giai đoạn đi lên, thành phần chuyển động theo phương thẳng đứng là
+A. nhanh dần đều.
+*B. chậm dần đều với gia tốc có độ lớn g.
+C. thẳng đều.
+D. đứng yên.
+
+Câu 13. Một vật được ném xiên với vận tốc 10 m/s hợp với phương ngang góc 60°. Thành phần vận tốc ban đầu theo phương nằm ngang là
+A. 8,66 m/s.
+*B. 5 m/s.
+C. 10 m/s.
+D. 0.
+
+Câu 14. Vật được ném xiên từ mặt đất và rơi xuống mặt đất (cùng độ cao). Thời gian bay so với thời gian từ lúc ném đến khi đạt tầm cao thì
+A. bằng nhau.
+B. gấp 4 lần.
+*C. gấp 2 lần.
+D. bằng một nửa.
+
+Câu 15. Ném xiên một vật từ mặt đất với cùng độ lớn vận tốc ban đầu nhưng tăng góc ném α (từ 30° lên 60°). Tầm cao của vật
+*A. tăng.
+B. giảm.
+C. không đổi.
+D. bằng 0.
+Lời giải: $H = \dfrac{v_0^2.\sin^2\alpha}{2g}$ tăng khi sin α tăng.
+
+Câu 16. Ném xiên từ mặt đất với cùng độ lớn vận tốc ban đầu theo hai góc 30° và 60° (bỏ qua sức cản). Tầm xa của hai vật
+A. vật ném góc 60° xa hơn.
+B. vật ném góc 30° xa hơn.
+C. vật ném góc 60° xa gấp đôi.
+*D. bằng nhau.
+Lời giải: sin 60° = sin 120° nên $L = \dfrac{v_0^2.\sin 2\alpha}{g}$ như nhau.
+
+Câu 17. Ví dụ nào sau đây là chuyển động ném xiên?
+A. Viên bi lăn ra khỏi mép bàn nằm ngang.
+B. Hòn đá được thả rơi từ trên cao.
+*C. Quả bóng đá được cầu thủ sút bay lên theo phương xiên.
+D. Thang máy đi lên.
+
+Câu 18. Vật bị ném xiên đạt tầm cao. Gia tốc của vật tại vị trí đó (bỏ qua sức cản) là
+A. 0.
+B. hướng lên, độ lớn g.
+*C. hướng thẳng đứng xuống dưới, độ lớn g.
+D. hướng theo phương nằm ngang.
+
+PHẦN II. Câu trắc nghiệm đúng sai
+Câu 1. Một hòn đá được ném ngang từ độ cao 20 m với vận tốc 10 m/s. Bỏ qua sức cản, lấy g = 10 m/s².
+a) Thời gian rơi của hòn đá là 2 s. (Đ)
+b) Tầm xa của hòn đá là 20 m. (Đ)
+c) Độ lớn vận tốc của hòn đá khi chạm đất khoảng 22,4 m/s. (Đ)
+d) Nếu ném với vận tốc 20 m/s từ cùng độ cao thì thời gian rơi là 1 s. (S)
+Lời giải: $v_y = 20$ m/s; $v = \sqrt{10^2 + 20^2} \approx 22{,}4$ m/s. Thời gian rơi không phụ thuộc vận tốc ném.
+
+Câu 2. Đồng thời ném hai quả bóng giống nhau với cùng vận tốc theo phương nằm ngang từ hai độ cao $h_1 < h_2$. Bỏ qua sức cản.
+a) Quả bóng ném ở độ cao $h_1$ chạm đất trước. (Đ)
+b) Quả bóng ném ở độ cao $h_2$ có tầm xa lớn hơn. (Đ)
+c) Nếu $h_2 = 4h_1$ thì tầm xa của quả thứ hai gấp 4 lần quả thứ nhất. (S)
+d) Thời gian rơi của mỗi quả bóng không phụ thuộc vận tốc ném. (Đ)
+Lời giải: $L = v_0\sqrt{\dfrac{2H}{g}}$ tỉ lệ với $\sqrt{H}$: gấp 2 lần.
+
+Câu 3. Một người nhảy xa với vận tốc ban đầu 8 m/s theo phương xiên 30° với phương nằm ngang; vị trí dậm nhảy ngang với hố nhảy. Bỏ qua sức cản, lấy g = 10 m/s².
+a) Thành phần vận tốc ban đầu theo phương thẳng đứng là 4 m/s. (Đ)
+b) Thành phần vận tốc ban đầu theo phương nằm ngang khoảng 6,93 m/s. (Đ)
+c) Tầm cao của người đó là 0,8 m. (Đ)
+d) Tầm xa của người đó khoảng 3,2 m. (S)
+Lời giải: $H = \dfrac{4^2}{2\cdot 10} = 0{,}8$ m; $L = \dfrac{8^2\cdot\sin 60°}{10} \approx 5{,}54$ m.
+
+Câu 4. Về chuyển động ném:
+a) Chuyển động ném có thể phân tích thành hai chuyển động thành phần vuông góc với nhau. (Đ)
+b) Theo phương nằm ngang, vật chuyển động thẳng đều. (Đ)
+c) Theo phương thẳng đứng, vật chuyển động thẳng đều. (S)
+d) Các công thức tầm xa, tầm cao chỉ đúng khi lực cản của không khí không đáng kể. (Đ)
+Lời giải: Theo phương thẳng đứng, vật chuyển động với gia tốc g.
+
+PHẦN III. Câu trắc nghiệm trả lời ngắn
+Câu 1. Một vật được ném ngang từ độ cao 31,25 m, lấy g = 10 m/s². Thời gian rơi của vật là bao nhiêu giây?
+Đáp án: 2,5|2.5
+
+Câu 2. Một vật được ném ngang từ độ cao 5 m với vận tốc 7 m/s, lấy g = 10 m/s². Tầm xa của vật là bao nhiêu mét?
+Đáp án: 7
+
+Câu 3. Một vật được ném ngang, chạm đất sau 4 s và có tầm xa 60 m. Vận tốc ném ban đầu là bao nhiêu m/s?
+Đáp án: 15
+
+Câu 4. Một vật được ném xiên từ mặt đất với vận tốc 20 m/s hợp với phương ngang góc 45°, lấy g = 10 m/s². Tầm xa của vật là bao nhiêu mét?
+Đáp án: 40
+
+Câu 5. Một vật được ném xiên từ mặt đất với vận tốc 10 m/s hợp với phương ngang góc 30°, lấy g = 10 m/s². Thời gian từ lúc ném đến khi vật rơi trở lại mặt đất là bao nhiêu giây?
+Đáp án: 1
+Lời giải: $v_{0y} = 5$ m/s; thời gian lên 0,5 s; thời gian bay 1 s.
+
+Câu 6. Một vật được ném ngang từ độ cao 12,8 m với vận tốc 12 m/s, lấy g = 10 m/s². Độ lớn vận tốc của vật khi chạm đất là bao nhiêu m/s?
+Đáp án: 20
+Lời giải: $v_y = \sqrt{2\cdot 10\cdot 12{,}8} = 16$ m/s; $v = \sqrt{12^2 + 16^2} = 20$ m/s.

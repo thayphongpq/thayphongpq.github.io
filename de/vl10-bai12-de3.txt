@@ -1,0 +1,166 @@
+VẬT LÍ 10 - CHƯƠNG II. ĐỘNG HỌC - BÀI 12. CHUYỂN ĐỘNG NÉM - ĐỀ 3
+Đề kiểm tra theo cấu trúc thi tốt nghiệp THPT (biên soạn: thầy Lâm Thế Phong, THPT An Thới)
+Thời gian: 50
+
+PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn
+Câu 1. Chuyển động nào sau đây có thể coi là chuyển động ném ngang (bỏ qua sức cản)?
+*A. Viên bi lăn trên mặt bàn nằm ngang rồi rời khỏi mép bàn.
+B. Quả bóng được đá bay lên xiên góc.
+C. Hòn đá được thả rơi từ trên cao.
+D. Quả bóng được ném thẳng đứng lên trên.
+
+Câu 2. Chuyển động nào sau đây là chuyển động ném xiên?
+A. Gói hàng thả từ máy bay đang bay ngang.
+*B. Vận động viên nhảy xa sau khi dậm nhảy.
+C. Viên phấn rơi từ mép bàn.
+D. Xe ô tô chạy trên đường thẳng.
+
+Câu 3. Trong thí nghiệm bi A ném ngang và bi B rơi tự do cùng lúc từ cùng độ cao, hai bi chạm đất cùng lúc vì
+A. hai bi có cùng khối lượng.
+*B. thành phần chuyển động theo phương thẳng đứng của hai bi như nhau (đều là rơi tự do không vận tốc đầu).
+C. bi A không chịu trọng lực.
+D. bi B được ném mạnh hơn.
+
+Câu 4. Trên ảnh hoạt nghiệm, theo phương nằm ngang các vị trí của bi bị ném ngang sau những khoảng thời gian bằng nhau cách đều nhau. Điều đó chứng tỏ thành phần chuyển động theo phương nằm ngang là
+A. nhanh dần đều.
+*B. thẳng đều.
+C. chậm dần đều.
+D. rơi tự do.
+
+Câu 5. Thời gian rơi của vật bị ném ngang tính theo $t = \sqrt{\dfrac{2H}{g}}$ cho thấy thời gian rơi
+A. tăng khi vận tốc ném tăng.
+B. giảm khi vận tốc ném tăng.
+*C. không phụ thuộc vận tốc ném.
+D. tỉ lệ với vận tốc ném.
+
+Câu 6. Nếu tăng độ cao ném ngang lên 4 lần thì thời gian rơi của vật
+A. tăng 4 lần.
+*B. tăng 2 lần.
+C. tăng 16 lần.
+D. không đổi.
+
+Câu 7. Trong công thức ném ngang, nếu vận tốc ban đầu theo phương nằm ngang bằng 0 (thả vật không vận tốc đầu) thì chuyển động của vật là
+A. chuyển động ném xiên.
+B. chuyển động thẳng đều.
+*C. rơi tự do.
+D. đứng yên.
+
+Câu 8. Một máy bay bay ngang ở độ cao 320 m với vận tốc 80 m/s thì thả một gói hàng. Bỏ qua sức cản, lấy g = 10 m/s². Gói hàng chạm đất sau
+A. 4 s.
+B. 32 s.
+C. 16 s.
+*D. 8 s.
+
+Câu 9. Một máy bay bay ngang ở độ cao 320 m với vận tốc 80 m/s thì thả một gói hàng. Bỏ qua sức cản, lấy g = 10 m/s². Tầm xa của gói hàng là
+*A. 640 m.
+B. 320 m.
+C. 80 m.
+D. 2560 m.
+
+Câu 10. Một máy bay bay ngang ở độ cao 320 m với vận tốc 80 m/s thì thả một gói hàng. Bỏ qua sức cản, lấy g = 10 m/s². Độ lớn vận tốc của gói hàng khi chạm đất xấp xỉ
+A. 80 m/s.
+B. 160 m/s.
+*C. 113 m/s.
+D. 0.
+Lời giải: $v_y = 10\cdot 8 = 80$ m/s; $v = \sqrt{80^2 + 80^2} \approx 113$ m/s.
+
+Câu 11. Bỏ qua sức cản, quỹ đạo của vật bị ném xiên là
+A. đường thẳng.
+B. đường tròn.
+C. đường xoắn ốc.
+*D. đường parabol.
+
+Câu 12. Bỏ qua sức cản, vật bị ném xiên với vận tốc $v_0$ hợp với phương ngang góc α có vận tốc nhỏ nhất tại tầm cao, bằng
+*A. $v_0\cos\alpha$.
+B. $v_0\sin\alpha$.
+C. 0.
+D. $v_0$.
+
+Câu 13. Một viên bi được bắn với vận tốc 8 m/s theo phương xiên 60° so với phương nằm ngang. Thành phần vận tốc ban đầu theo phương nằm ngang là
+A. 6,93 m/s.
+*B. 4 m/s.
+C. 8 m/s.
+D. 0.
+Lời giải: $v_{0x} = 8\cos 60° = 4$ m/s.
+
+Câu 14. Một vật được ném xiên từ mặt đất với vận tốc 4 m/s hợp với phương ngang góc 45°. Lấy g = 10 m/s². Tầm cao của vật là
+A. 0,8 m.
+B. 1,6 m.
+*C. 0,4 m.
+D. 0,2 m.
+Lời giải: $H = \dfrac{16\cdot 0{,}5}{20} = 0{,}4$ m.
+
+Câu 15. Một vật được ném xiên từ mặt đất với vận tốc 4 m/s hợp với phương ngang góc 45°. Lấy g = 10 m/s². Tầm xa của vật là
+A. 0,8 m.
+*B. 1,6 m.
+C. 0,4 m.
+D. 3,2 m.
+
+Câu 16. Các pháo thủ điều chỉnh góc bắn để đạn bay xa nhất. Theo công thức tầm xa (bỏ qua sức cản, bắn và rơi cùng độ cao), góc bắn phù hợp là
+A. 30°.
+*B. 45°.
+C. 60°.
+D. 90°.
+
+Câu 17. Vật được ném xiên với vận tốc $v_0$ hợp với phương ngang góc α. Thời gian từ lúc ném đến khi đạt tầm cao là
+*A. $t = \dfrac{v_0\sin\alpha}{g}$.
+B. $t = \dfrac{v_0\cos\alpha}{g}$.
+C. $t = \dfrac{2v_0\sin\alpha}{g}$.
+D. $t = \dfrac{v_0}{g}$.
+
+Câu 18. Dùng thước kẻ giữ ba viên bi (sắt, thuỷ tinh, gỗ) cùng kích thước trên tấm thuỷ tinh đặt nghiêng trên mặt bàn rồi nâng thước lên. Nếu ba viên bi rời mép bàn với cùng vận tốc theo phương nằm ngang và bỏ qua sức cản thì tầm xa của chúng
+A. bi sắt xa nhất.
+B. bi gỗ xa nhất.
+C. bi thuỷ tinh xa nhất.
+*D. bằng nhau.
+Lời giải: $L = v_0\sqrt{\dfrac{2H}{g}}$ không phụ thuộc khối lượng.
+
+PHẦN II. Câu trắc nghiệm đúng sai
+Câu 1. Một trực thăng bay ngang ở độ cao 180 m với vận tốc 50 m/s thì thả một thùng hàng cứu trợ. Bỏ qua sức cản không khí, lấy g = 10 m/s².
+a) Thời gian rơi của thùng hàng là 6 s. (Đ)
+b) Tầm xa của thùng hàng là 300 m. (Đ)
+c) Khi thùng hàng chạm đất, trực thăng (vẫn bay đều theo hướng cũ) đang ở ngay phía trên thùng hàng. (Đ)
+d) Độ lớn vận tốc của thùng hàng khi chạm đất là 50 m/s. (S)
+Lời giải: $t = \sqrt{\dfrac{360}{10}} = 6$ s; L = 50 . 6 = 300 m. Thùng hàng có cùng thành phần vận tốc ngang 50 m/s với trực thăng nên luôn ở ngay dưới trực thăng. Khi chạm đất $v_y = 60$ m/s, $v = \sqrt{50^2 + 60^2} \approx 78{,}1$ m/s.
+
+Câu 2. Một viên bi được bắn từ mặt sàn với vận tốc 6 m/s theo phương xiên 45° so với phương nằm ngang. Bỏ qua sức cản, lấy g = 10 m/s².
+a) Hai thành phần vận tốc ban đầu theo phương nằm ngang và thẳng đứng bằng nhau. (Đ)
+b) Tầm cao của viên bi là 0,9 m. (Đ)
+c) Tầm xa của viên bi là 3,6 m. (Đ)
+d) Tại tầm cao, vận tốc của viên bi bằng 0. (S)
+Lời giải: $H = \dfrac{36\cdot 0{,}5}{20} = 0{,}9$ m; $L = \dfrac{36\cdot 1}{10} = 3{,}6$ m. Tại tầm cao, vận tốc bằng thành phần ngang ≈ 4,24 m/s.
+
+Câu 3. Một viên bi lăn trên mặt bàn nằm ngang rồi rời mép bàn với vận tốc 1,5 m/s. Mặt bàn cao 0,8 m so với sàn. Bỏ qua sức cản, lấy g = 10 m/s².
+a) Thời gian rơi của viên bi là 0,4 s. (Đ)
+b) Viên bi chạm sàn cách chân bàn (theo phương ngang) 0,6 m. (Đ)
+c) Một viên bi nặng hơn rời mép bàn với cùng vận tốc sẽ có tầm xa lớn hơn. (S)
+d) Khi chạm sàn, thành phần vận tốc theo phương thẳng đứng của viên bi là 4 m/s. (Đ)
+Lời giải: $t = \sqrt{\dfrac{1{,}6}{10}} = 0{,}4$ s; L = 1,5 . 0,4 = 0,6 m; $v_y = 10\cdot 0{,}4 = 4$ m/s. Tầm xa không phụ thuộc khối lượng.
+
+Câu 4. Ném xiên một vật từ mặt đất với vận tốc 10 m/s; bỏ qua sức cản, lấy g = 10 m/s².
+a) Với góc ném 30° và 60°, tầm xa của vật như nhau. (Đ)
+b) Với góc ném 45°, tầm xa lớn nhất và bằng 10 m. (Đ)
+c) Với góc ném 60°, tầm cao lớn hơn so với góc ném 30°. (Đ)
+d) Với góc ném 30°, tầm xa là 5 m. (S)
+Lời giải: Với 30°: $L = \dfrac{100\cdot\sin 60°}{10} \approx 8{,}66$ m.
+
+PHẦN III. Câu trắc nghiệm trả lời ngắn
+Câu 1. Một vật được ném ngang từ độ cao 45 m với vận tốc 6 m/s, lấy g = 10 m/s². Tầm xa của vật là bao nhiêu mét?
+Đáp án: 18
+
+Câu 2. Một vật được ném ngang với vận tốc 12 m/s và có tầm xa 24 m. Lấy g = 10 m/s². Độ cao nơi ném vật là bao nhiêu mét?
+Đáp án: 20
+Lời giải: t = 24 : 12 = 2 s; $H = \dfrac{1}{2}\cdot 10\cdot 4 = 20$ m.
+
+Câu 3. Một vật được ném xiên từ mặt đất với vận tốc 10 m/s hợp với phương ngang góc 30°, lấy g = 10 m/s². Tầm cao của vật là bao nhiêu mét?
+Đáp án: 1,25|1.25
+
+Câu 4. Một vật được ném xiên từ mặt đất với vận tốc 10 m/s hợp với phương ngang góc 60°, lấy g = 10 m/s². Tầm xa của vật là bao nhiêu mét? (Làm tròn đến hàng phần trăm.)
+Đáp án: 8,66|8.66
+
+Câu 5. Một vật được ném xiên với vận tốc 20 m/s hợp với phương ngang góc 30°, lấy g = 10 m/s². Thời gian từ lúc ném đến khi vật đạt tầm cao là bao nhiêu giây?
+Đáp án: 1
+
+Câu 6. Một vật được ném ngang từ độ cao 1,8 m với vận tốc 5 m/s, lấy g = 10 m/s². Tầm xa của vật là bao nhiêu mét?
+Đáp án: 3
+Lời giải: t = 0,6 s; L = 5 . 0,6 = 3 m.
