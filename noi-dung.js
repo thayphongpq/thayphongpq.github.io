@@ -117,6 +117,54 @@ const BAI_HOC = [
   { ten: "Biến và kiểu dữ liệu trong Python", tenEn: "Variables and data types in Python", mon: "Tin học", lop: "10", tep: "bai/mau-bien-va-kieu-du-lieu.json", ngay: "2026-11-19" }
 ];
 
+/* ---------- THÍ NGHIỆM ẢO (mô phỏng PhET tiếng Việt, chạy ngay trên trang) ----------
+   phet: tên mô phỏng trong đường link PhET, ví dụ link
+   https://phet.colorado.edu/vi/simulations/pendulum-lab  ->  phet: "pendulum-lab"
+   lop: "10", "11", "12" hoặc "HSG" (kèm cap: "THCS" / "THPT"). */
+const THI_NGHIEM_AO = [
+  // ▼▼▼ DÁN THÍ NGHIỆM MỚI NGAY DƯỚI DÒNG NÀY ▼▼▼
+
+  // ----- Vật lý 10 -----
+  { ten: "Chuyển động ném", phet: "projectile-motion", lop: "10", chuDe: "Động học", moTa: "Thay đổi góc ném, vận tốc đầu, độ cao; quan sát quỹ đạo, tầm xa và tầm cao." },
+  { ten: "Lực và chuyển động", phet: "forces-and-motion-basics", lop: "10", chuDe: "Động lực học", moTa: "Hợp lực, lực ma sát và định luật II Newton." },
+  { ten: "Mômen lực và cân bằng", phet: "balancing-act", lop: "10", chuDe: "Mômen lực", moTa: "Đặt vật lên đòn cân để tìm điều kiện cân bằng của vật rắn." },
+  { ten: "Bảo toàn cơ năng (trượt ván)", phet: "energy-skate-park-basics", lop: "10", chuDe: "Năng lượng, công, công suất", moTa: "Quan sát động năng, thế năng và cơ năng khi người trượt ván chuyển động." },
+  { ten: "Va chạm và động lượng", phet: "collision-lab", lop: "10", chuDe: "Động lượng", moTa: "Va chạm đàn hồi, va chạm mềm; kiểm chứng bảo toàn động lượng." },
+  { ten: "Lực đàn hồi của lò xo", phet: "masses-and-springs", lop: "10", chuDe: "Biến dạng của vật rắn", moTa: "Treo vật vào lò xo, đo độ giãn để kiểm chứng định luật Hooke." },
+  { ten: "Áp suất chất lỏng", phet: "under-pressure", lop: "10", chuDe: "Áp suất", moTa: "Áp suất phụ thuộc độ sâu và khối lượng riêng chất lỏng." },
+  { ten: "Lực hấp dẫn và quỹ đạo", phet: "gravity-and-orbits", lop: "10", chuDe: "Chuyển động tròn", moTa: "Chuyển động của Trái Đất, Mặt Trăng; lực hướng tâm." },
+
+  // ----- Vật lý 11 -----
+  { ten: "Con lắc đơn", phet: "pendulum-lab", lop: "11", chuDe: "Dao động", moTa: "Chu kì con lắc phụ thuộc chiều dài, gia tốc trọng trường." },
+  { ten: "Con lắc lò xo", phet: "masses-and-springs", lop: "11", chuDe: "Dao động", moTa: "Dao động của vật nặng gắn lò xo; động năng, thế năng." },
+  { ten: "Sóng cơ", phet: "waves-intro", lop: "11", chuDe: "Sóng", moTa: "Sóng nước, sóng âm, sóng ánh sáng: biên độ, tần số, bước sóng." },
+  { ten: "Sóng trên sợi dây, sóng dừng", phet: "wave-on-a-string", lop: "11", chuDe: "Sóng", moTa: "Tạo sóng trên dây, đầu cố định để quan sát sóng dừng." },
+  { ten: "Giao thoa sóng", phet: "wave-interference", lop: "11", chuDe: "Sóng", moTa: "Giao thoa sóng nước và giao thoa ánh sáng qua hai khe." },
+  { ten: "Điện tích và điện trường", phet: "charges-and-fields", lop: "11", chuDe: "Điện trường", moTa: "Đặt điện tích, quan sát đường sức và cường độ điện trường." },
+  { ten: "Tụ điện", phet: "capacitor-lab-basics", lop: "11", chuDe: "Điện trường", moTa: "Điện dung phụ thuộc diện tích bản, khoảng cách giữa hai bản." },
+  { ten: "Lắp mạch điện một chiều", phet: "circuit-construction-kit-dc", lop: "11", chuDe: "Dòng điện, mạch điện", moTa: "Lắp mạch nối tiếp, song song; đo cường độ dòng điện, hiệu điện thế." },
+  { ten: "Định luật Ôm", phet: "ohms-law", lop: "11", chuDe: "Dòng điện, mạch điện", moTa: "Quan hệ giữa U, I và R." },
+  { ten: "Điện trở của dây dẫn", phet: "resistance-in-a-wire", lop: "11", chuDe: "Dòng điện, mạch điện", moTa: "Điện trở phụ thuộc chiều dài, tiết diện và điện trở suất." },
+
+  // ----- Vật lý 12 -----
+  { ten: "Các thể của chất", phet: "states-of-matter-basics", lop: "12", chuDe: "Vật lí nhiệt", moTa: "Chuyển động phân tử ở thể rắn, lỏng, khí; sự chuyển thể." },
+  { ten: "Năng lượng và sự truyền nhiệt", phet: "energy-forms-and-changes", lop: "12", chuDe: "Vật lí nhiệt", moTa: "Nhiệt lượng, cân bằng nhiệt và các dạng năng lượng." },
+  { ten: "Khí lí tưởng", phet: "gas-properties", lop: "12", chuDe: "Khí lí tưởng", moTa: "Quan hệ giữa áp suất, thể tích và nhiệt độ của khối khí." },
+  { ten: "Định luật chất khí", phet: "gases-intro", lop: "12", chuDe: "Khí lí tưởng", moTa: "Kiểm chứng các định luật Boyle, Charles." },
+  { ten: "Nam châm và nam châm điện", phet: "magnets-and-electromagnets", lop: "12", chuDe: "Từ trường", moTa: "Từ trường của nam châm, của dòng điện trong ống dây." },
+  { ten: "Cảm ứng điện từ", phet: "faradays-law", lop: "12", chuDe: "Từ trường", moTa: "Di chuyển nam châm qua cuộn dây để tạo dòng điện cảm ứng." },
+  { ten: "Mạch điện xoay chiều", phet: "circuit-construction-kit-ac", lop: "12", chuDe: "Từ trường", moTa: "Lắp mạch có nguồn xoay chiều, cuộn cảm, tụ điện." },
+  { ten: "Cấu tạo nguyên tử", phet: "build-an-atom", lop: "12", chuDe: "Vật lí hạt nhân", moTa: "Ghép proton, neutron, electron; số khối và điện tích." },
+  { ten: "Đồng vị và khối lượng nguyên tử", phet: "isotopes-and-atomic-mass", lop: "12", chuDe: "Vật lí hạt nhân", moTa: "Hạt nhân đồng vị, độ bền của hạt nhân." },
+
+  // ----- HSG THCS -----
+  { ten: "Khối lượng riêng", phet: "density", lop: "HSG", cap: "THCS", chuDe: "Chuyên đề 2", moTa: "Đo khối lượng, thể tích để tìm khối lượng riêng của vật." },
+  { ten: "Lực đẩy Ác-si-mét", phet: "buoyancy", lop: "HSG", cap: "THCS", chuDe: "Chuyên đề 2", moTa: "Vật nổi, vật chìm; độ lớn lực đẩy Ác-si-mét." },
+  { ten: "Áp suất chất lỏng, bình thông nhau", phet: "under-pressure", lop: "HSG", cap: "THCS", chuDe: "Chuyên đề 2", moTa: "Áp suất phụ thuộc độ sâu; bình có hình dạng khác nhau." },
+  { ten: "Cơ năng và bảo toàn cơ năng", phet: "energy-skate-park-basics", lop: "HSG", cap: "THCS", chuDe: "Chuyên đề 3", moTa: "Động năng, thế năng, cơ năng; ảnh hưởng của ma sát." },
+  { ten: "Mạch điện nối tiếp, song song", phet: "circuit-construction-kit-dc", lop: "HSG", cap: "THCS", chuDe: "Chuyên đề 4", moTa: "Lắp mạch, mắc vôn kế, ampe kế; chập mạch." }
+];
+
 /* ---------- TỪ ĐIỂN THUẬT NGỮ VIỆT - ANH (trang "Học song ngữ") ----------
    Mỗi dòng một thuật ngữ: en (tiếng Anh), ipa (phiên âm), vi (nghĩa tiếng Việt),
    mon ("Vật lý" hoặc "Tin học"), lop ("10", "11", "12"), ghiChu (có thể để "", được viết công thức $...$).

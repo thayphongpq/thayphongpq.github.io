@@ -2,12 +2,17 @@
 <html lang="vi">
 <head>
   <meta charset="utf-8">
+  <!-- Chính sách bảo mật (CSP): trang chỉ được chạy mã của chính trang và của các thư viện tin cậy bên dưới.
+       Đoạn mã lạ chèn vào sẽ bị trình duyệt chặn. -->
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' https://cdnjs.cloudflare.com https://cdn.jsdelivr.net 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline' https://cdnjs.cloudflare.com https://fonts.googleapis.com; font-src 'self' data: https://cdnjs.cloudflare.com https://fonts.gstatic.com; img-src 'self' data: blob: https:; media-src 'self' https:; frame-src https://www.youtube-nocookie.com https://www.youtube.com https://drive.google.com https://docs.google.com https://phet.colorado.edu; connect-src 'self' https://script.google.com https://script.googleusercontent.com https://cdn.jsdelivr.net; worker-src 'self' blob:; object-src 'none'; base-uri 'self'; form-action 'self'; upgrade-insecure-requests">
+  <meta name="referrer" content="strict-origin-when-cross-origin">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Góc Lý - Tin</title>
-  <meta name="description" content="Vật lý, Tin học THPT: trắc nghiệm online có chấm điểm, thi thử tốt nghiệp THPT, video ôn thi học sinh giỏi.">
+  <meta name="description" content="Vật lý, Tin học THPT: trắc nghiệm online có chấm điểm, thi thử tốt nghiệp THPT, video ôn thi học sinh giỏi, học song ngữ Việt - Anh, thí nghiệm ảo.">
   <meta name="theme-color" content="#12314d">
   <link rel="icon" href="icon.svg" type="image/svg+xml">
   <link rel="apple-touch-icon" href="apple-touch-icon.png">
+  <link rel="manifest" href="manifest.webmanifest">
   <!-- Ảnh và chữ hiện ra khi chia sẻ link qua Zalo, Facebook -->
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="Góc Lý - Tin">
@@ -22,18 +27,18 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;600;800&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.9/katex.min.css">
-  <script defer src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.9/katex.min.js"></script>
-  <script defer src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.9/contrib/auto-render.min.js"></script>
+  <!-- Thư viện ngoài có mã kiểm tra (integrity): nếu tệp trên máy chủ bị tráo, trình duyệt sẽ từ chối chạy. -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.9/katex.min.css" integrity="sha384-n8MVd4RsNIU0tAv4ct0nTaAbDJwPJzDEaqSD1odI+WdtXRGWt2kTvGFasHpSy3SV" crossorigin="anonymous">
+  <script defer src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.9/katex.min.js" integrity="sha384-XjKyOOlGwcjNTAIQHIpgOno0Hl1YQqzUOEleOLALmuqehneUG+vnGctmUb0ZY0l8" crossorigin="anonymous"></script>
+  <script defer src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.9/contrib/auto-render.min.js" integrity="sha384-+VBxd3r6XgURycqtZ117nYw44OOcIax56Z4dCRWbxyPt0Koah1uHoK0o4+/RRE05" crossorigin="anonymous"></script>
   <!-- Prism.js: tô màu đoạn mã (chạy thủ công sau khi trang vẽ xong) -->
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/themes/prism-tomorrow.min.css">
-  <script>window.Prism = window.Prism || {}; window.Prism.manual = true;</script>
-  <script defer src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/prism.min.js"></script>
-  <script defer src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/components/prism-python.min.js"></script>
-  <script defer src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/components/prism-c.min.js"></script>
-  <script defer src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/components/prism-cpp.min.js"></script>
-  <script defer src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/components/prism-sql.min.js"></script>
-  <link rel="stylesheet" href="style.css?v=9">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/themes/prism-tomorrow.min.css" integrity="sha384-wFjoQjtV1y5jVHbt0p35Ui8aV8GVpEZkyF99OXWqP/eNJDU93D3Ugxkoyh6Y2I4A" crossorigin="anonymous">
+  <script defer src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/prism.min.js" integrity="sha384-06z5D//U/xpvxZHuUz92xBvq3DqBBFi7Up53HRrbV7Jlv7Yvh/MZ7oenfUe9iCEt" crossorigin="anonymous"></script>
+  <script defer src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/components/prism-python.min.js" integrity="sha384-WJdEkJKrbsqw0evQ4GB6mlsKe5cGTxBOw4KAEIa52ZLB7DDpliGkwdme/HMa5n1m" crossorigin="anonymous"></script>
+  <script defer src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/components/prism-c.min.js" integrity="sha384-gaD4ncierlmWk42Z3BmTp37/z+Dqt8V4Wf74UjTvFeo+M+SgnEI6Ysd98pWhksQv" crossorigin="anonymous"></script>
+  <script defer src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/components/prism-cpp.min.js" integrity="sha384-NiOrAquf32LSG3Vuig99LKS03EZPUuM8a51NOp+XXsqx08hUVo3wbNWALY7K/2J8" crossorigin="anonymous"></script>
+  <script defer src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/components/prism-sql.min.js" integrity="sha384-/MKWdycCDliku23mP5sYXbZNuXrzgmQO/jsVxwPFn99dVOaXRyKsqDjarqpueGAp" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="style.css?v=10">
 </head>
 <body>
   <div id="thong-bao"></div>
@@ -66,10 +71,9 @@
     </div>
   </footer>
 
-  <!-- Luôn tải bản mới nhất của noi-dung.js để bài mới hiện ngay -->
-  <script>document.write('<script src="noi-dung.js?t=' + Date.now() + '"><\/script>');</script>
+  <script src="nap.js?v=1"></script>
   <script src="trac-nghiem.js?v=3"></script>
   <script src="bai-hoc.js?v=2"></script>
-  <script src="app.js?v=11"></script>
+  <script src="app.js?v=12"></script>
 </body>
 </html>

@@ -87,6 +87,166 @@
   const dsBai = BH.map(function (b, i) {
     return Object.assign({}, b, { thuTu: i, slug: taoSlug(b.ten, slugBai) });
   }).sort(theoNgay);
+  const slugTN = {};
+  const dsThiNghiem = (typeof THI_NGHIEM_AO === "undefined" ? [] : THI_NGHIEM_AO).filter(function (t) {
+    return t && /^[a-z0-9-]+$/.test(String(t.phet || ""));
+  }).map(function (t, i) {
+    return Object.assign({}, t, { mon: "Vật lý", thuTu: i, slug: taoSlug(t.ten, slugTN) });
+  });
+
+  /* ----- Thí nghiệm ảo (mô phỏng PhET tiếng Việt) ----- */
+  const PHET = "https://phet.colorado.edu/sims/html/";
+  function theThiNghiem(t) {
+    return '<a class="the-tn ' + mauMon("Vật lý", t.lop) + '" href="#/thi-nghiem/' + esc(t.slug) + '"><span class="the-tn__anh">' +
+      '<img loading="lazy" alt="" src="' + PHET + t.phet + "/latest/" + t.phet + '-600.png"></span>' +
+      '<span class="the-tn__chu"><b>' + esc(t.ten) + '</b><span class="phu">' + esc(tenLop(t)) + (t.chuDe ? " · " + esc(t.chuDe) : "") + "</span></span></a>";
+  }
+  function luoiThiNghiem(ds, rong) {
+    return ds.length ? '<div class="luoi-tn">' + ds.map(theThiNghiem).join("") + "</div>" : '<div class="trong">' + esc(rong || "Chưa có thí nghiệm ảo ở mục này.") + "</div>";
+  }
+  function hopLopTN(lop) {
+    return function (t) { return lop.indexOf("HSG-") === 0 ? laHSG(lop.slice(4))(t) : t.lop === lop; };
+  }
+  function trangThiNghiem(phu) {
+    if (phu) {
+      const t = dsThiNghiem.find(function (x) { return x.slug === phu; });
+      if (!t) return khongThay();
+      document.title = t.ten + " - Thí nghiệm ảo - " + THONG_TIN.tenTrang;
+      const link = PHET + t.phet + "/latest/" + t.phet + "_vi.html";
+      const khac = dsThiNghiem.filter(function (x) { return x !== t && x.lop === t.lop && capCua(x) === capCua(t); });
+      return '<a class="quay-lai" href="#/thi-nghiem">‹ Thí nghiệm ảo</a>' + dauMuc(t.ten, "Vật lý · " + tenLop(t) + (t.chuDe ? " · " + t.chuDe : "")) +
+        (t.moTa ? '<p class="xem__mota">' + esc(t.moTa) + "</p>" : "") +
+        '<div class="khung-tn"><iframe src="' + link + '" title="' + esc(t.ten) + '" allowfullscreen loading="lazy"></iframe></div>' +
+        '<p class="phu">Mô phỏng của PhET, Đại học Colorado Boulder (miễn phí, giấy phép CC-BY). Trên điện thoại nên xoay ngang màn hình hoặc mở toàn màn hình.</p>' +
+        '<a class="nut" target="_blank" rel="noopener" href="' + link + '">Mở toàn màn hình ↗</a>' +
+        (khac.length ? '<div style="height:32px"></div>' + khoi("Thí nghiệm khác của " + tenLop(t), luoiThiNghiem(khac)) : "");
+    }
+    document.title = "Thí nghiệm ảo - " + THONG_TIN.tenTrang;
+    const nhom = [["10", "Vật lý 10"], ["11", "Vật lý 11"], ["12", "Vật lý 12"], ["HSG-THCS", "Ôn thi HSG THCS"], ["HSG-THPT", "Ôn thi HSG THPT"]];
+    return dauMuc("Thí nghiệm ảo Vật lý", "Mô phỏng PhET bằng tiếng Việt: em tự thay đổi thông số, quan sát hiện tượng và rút ra quy luật. Chạy ngay trên máy tính và điện thoại, không cần cài đặt.") +
+      '<div class="loc"><div class="loc__hang"><span class="loc__ten">Khối</span>' +
+      [["", "Tất cả"]].concat(nhom.filter(function (n) { return dsThiNghiem.some(hopLopTN(n[0])); })).map(function (n) {
+        return '<button type="button" class="chip" data-loc="lop" data-giatri="' + n[0] + '" aria-pressed="' + (boLoc.lop === n[0]) + '">' + esc(n[1].replace("Vật lý ", "Lớp ").replace("Ôn thi ", "")) + "</button>";
+      }).join("") + "</div></div>" +
+      nhom.filter(function (n) { return (!boLoc.lop || boLoc.lop === n[0]) && dsThiNghiem.some(hopLopTN(n[0])); }).map(function (n) {
+        return khoi(n[1], luoiThiNghiem(dsThiNghiem.filter(hopLopTN(n[0]))));
+      }).join("");
+  }
+
+  /* ----- Kết quả của em (lưu trên trình duyệt của máy đang dùng) ----- */
+  const KHOA_LS = "lich-su-lam-bai";
+  function docLichSu() { const d = docLuu(KHOA_LS); return Array.isArray(d) ? d : []; }
+  function ghiLichSu(muc) { const ds = docLichSu(); ds.unshift(muc); ghiLuu(KHOA_LS, ds.slice(0, 300)); }
+  function diemCaoNhat(slug) {
+    let m = null;
+    docLichSu().forEach(function (x) { if (x.slug === slug && (m === null || x.diem > m)) m = x.diem; });
+    return m;
+  }
+  function trangKetQua() {
+    document.title = "Kết quả của em - " + THONG_TIN.tenTrang;
+    const ds = docLichSu();
+    const dau = dauMuc("Kết quả của em", "Các bài em đã làm trên máy này, mới nhất ở trên. Kết quả chỉ lưu trong trình duyệt của máy đang dùng, người khác không xem được.");
+    if (!ds.length) return dau + '<div class="trong">Em chưa làm bài trắc nghiệm nào trên máy này. Làm thử một đề rồi quay lại đây xem tiến bộ của mình nhé!</div>' +
+      '<a class="nut" href="#/vat-ly/12">Thi thử tốt nghiệp THPT ›</a>';
+    const deDaLam = duyNhat(ds, "slug");
+    const tb = ds.reduce(function (s, x) { return s + (Number(x.diem) || 0); }, 0) / ds.length;
+    const cao = ds.reduce(function (m, x) { return Math.max(m, Number(x.diem) || 0); }, 0);
+    return dau +
+      '<div class="so-lieu">' + [[ds.length, "lần làm bài"], [deDaLam.length, "đề đã làm"], [soDiem(tb), "điểm trung bình"], [soDiem(cao), "điểm cao nhất"]].map(function (x) {
+        return "<div><b>" + esc(x[0]) + "</b><span>" + esc(x[1]) + "</span></div>";
+      }).join("") + "</div>" +
+      khoi("Lịch sử làm bài", '<div class="bang-cuon"><table class="bang-kq"><thead><tr><th>Ngày</th><th>Đề</th><th>Điểm</th><th>Thời gian làm</th></tr></thead><tbody>' +
+        ds.map(function (x) {
+          const d = dsDe.find(function (y) { return y.slug === x.slug; });
+          const ngay = new Date(x.luc);
+          return "<tr><td>" + esc(ngay.toLocaleDateString("vi-VN")) + '<span class="phu"> ' + esc(ngay.toLocaleTimeString("vi-VN", { hour: "2-digit", minute: "2-digit" })) + "</span></td>" +
+            "<td>" + (d ? '<a href="#/lam-bai/' + esc(d.slug) + '">' + esc(x.ten) + "</a>" : esc(x.ten)) + '<span class="phu"> · ' + esc(x.mon + " · " + x.lop) + "</span></td>" +
+            '<td class="bang-kq__diem">' + soDiem(Number(x.diem) || 0) + "</td><td>" + esc(Math.floor((x.giay || 0) / 60) + " phút " + ((x.giay || 0) % 60) + " giây") + "</td></tr>";
+        }).join("") + "</tbody></table></div>") +
+      '<button type="button" class="nut nut--phu" data-xoa-ls="1">Xóa lịch sử trên máy này</button>';
+  }
+
+  /* ----- Chạy Python ngay trên trang (Pyodide) ----- */
+  const PYODIDE = "https://cdn.jsdelivr.net/pyodide/v0.26.4/full/";
+  let pyHua = null;
+  function napPython() {
+    if (!pyHua) {
+      pyHua = new Promise(function (ok, loi) {
+        const s = document.createElement("script");
+        s.src = PYODIDE + "pyodide.js";
+        s.integrity = "sha384-i3R37b3tF+HWudsUf1VSEOY2YxwSNMqY8DQa9Z0O3xh+NkJ9o+yjcGyIi5huj+nB";
+        s.crossOrigin = "anonymous";
+        s.onload = function () { window.loadPyodide({ indexURL: PYODIDE }).then(ok, loi); };
+        s.onerror = function () { loi(new Error("Không tải được Python")); };
+        document.head.appendChild(s);
+      });
+      pyHua.catch(function () { pyHua = null; });
+    }
+    return pyHua;
+  }
+  function khungPython(ma) {
+    return '<div class="py-khung"><textarea class="py-ma" spellcheck="false" autocapitalize="off" autocomplete="off" aria-label="Mã Python" rows="' +
+      Math.min(18, Math.max(6, String(ma).split("\n").length + 1)) + '">' + esc(ma) + "</textarea>" +
+      '<details class="py-vao-k"><summary>Dữ liệu vào cho lệnh input() (mỗi dòng một giá trị)</summary><textarea class="py-vao" rows="3" spellcheck="false" aria-label="Dữ liệu vào"></textarea></details>' +
+      '<div class="hang-nut"><button type="button" class="nut nut--nho" data-py="chay">▶ Chạy</button><button type="button" class="nut nut--nho nut--phu" data-py="xoa">Xóa kết quả</button></div>' +
+      '<pre class="py-kq" aria-live="polite" hidden></pre></div>';
+  }
+  function chayPython(khung) {
+    const oKq = khung.querySelector(".py-kq"), nut = khung.querySelector('[data-py="chay"]');
+    const ma = khung.querySelector(".py-ma").value;
+    const vao = khung.querySelector(".py-vao").value.replace(/\r/g, "").replace(/\n+$/, "");
+    const dong = vao ? vao.split("\n") : [];
+    let iDong = 0;
+    oKq.hidden = false;
+    oKq.className = "py-kq";
+    oKq.textContent = pyHua ? "Đang chạy…" : "Đang tải Python về máy (chỉ lần đầu, khoảng 10–30 giây)…";
+    nut.disabled = true;
+    napPython().then(function (py) {
+      let ra = "";
+      py.setStdout({ batched: function (s) { ra += s + "\n"; } });
+      py.setStderr({ batched: function (s) { ra += s + "\n"; } });
+      py.setStdin({ stdin: function () { return iDong < dong.length ? dong[iDong++] : undefined; } });
+      return py.runPythonAsync(ma, { globals: py.toPy({}) }).then(function () {
+        oKq.textContent = ra || "(Chương trình chạy xong, không in ra gì.)";
+      }, function (e) {
+        const thongBao = String(e && e.message || e).trim().split("\n").filter(function (x) { return !/^\s*File "\/lib\/|_pyodide/.test(x); }).join("\n");
+        oKq.className = "py-kq py-kq--loi";
+        oKq.textContent = ra + thongBao + (/EOFError/.test(thongBao) ? "\n\n→ Chương trình cần dữ liệu vào: em gõ vào ô \"Dữ liệu vào\" phía trên, mỗi dòng một giá trị." : "");
+      });
+    }).catch(function () {
+      oKq.className = "py-kq py-kq--loi";
+      oKq.textContent = "Chưa tải được Python. Em kiểm tra kết nối mạng rồi bấm Chạy lại.";
+    }).then(function () { nut.disabled = false; });
+  }
+  // Chương trình mẫu: [tên, mã, dữ liệu vào].
+  const MAU_PY = [
+    ["Chào bạn", 'ten = input("Tên em là: ")\nprint("Xin chào", ten)\nprint("Chúc em học tốt Python!")', "An"],
+    ["Tổng 1 đến n", "n = int(input())\ns = 0\nfor i in range(1, n + 1):\n    s = s + i\nprint(\"Tổng =\", s)", "100"],
+    ["Số nguyên tố", "n = int(input())\nla_nt = n >= 2\nfor i in range(2, int(n ** 0.5) + 1):\n    if n % i == 0:\n        la_nt = False\n        break\nprint(n, \"là số nguyên tố\" if la_nt else \"không là số nguyên tố\")", "97"],
+    ["Phương trình bậc hai", "import math\na, b, c = map(float, input().split())\ndelta = b * b - 4 * a * c\nif delta < 0:\n    print(\"Vô nghiệm\")\nelse:\n    x1 = (-b + math.sqrt(delta)) / (2 * a)\n    x2 = (-b - math.sqrt(delta)) / (2 * a)\n    print(\"x1 =\", x1, \"; x2 =\", x2)", "1 -3 2"],
+    ["Vật lý: rơi tự do", "g = 9.8\nfor t in range(0, 6):\n    s = g * t * t / 2\n    v = g * t\n    print(f\"t = {t} s: quãng đường {s:.1f} m, vận tốc {v:.1f} m/s\")", ""]
+  ];
+  function trangPython() {
+    document.title = "Chạy Python trực tuyến - " + THONG_TIN.tenTrang;
+    return dauMuc("Chạy Python trực tuyến", "Viết và chạy chương trình Python ngay trên trang, không cần cài đặt. Chương trình có lệnh input() thì gõ dữ liệu vào ô \"Dữ liệu vào\", mỗi dòng một giá trị.") +
+      '<div class="loc"><div class="loc__hang"><span class="loc__ten">Mẫu</span>' + MAU_PY.map(function (m, i) {
+        return '<button type="button" class="chip" data-py-mau="' + i + '">' + esc(m[0]) + "</button>";
+      }).join("") + "</div></div>" + khungPython(MAU_PY[4][1]) +
+      '<p class="phu">Python chạy trong trình duyệt của em (Pyodide). Lần đầu cần tải khoảng 10 MB. Nếu chương trình lặp vô hạn, trang sẽ bị treo: em tải lại trang là được.</p>';
+  }
+  // Thêm nút "Chạy thử" dưới các đoạn mã Python trong bài học song ngữ.
+  function ganNutChayPython(el) {
+    el.querySelectorAll("pre.ma code.language-python").forEach(function (c) {
+      const pre = c.closest("pre");
+      if (!pre || (pre.nextElementSibling && pre.nextElementSibling.classList.contains("py-mo"))) return;
+      const b = document.createElement("button");
+      b.type = "button";
+      b.className = "nut nut--nho nut--phu py-mo";
+      b.dataset.py = "mo";
+      b.textContent = "▶ Chạy thử đoạn mã này";
+      pre.after(b);
+    });
+  }
 
   /* ----- Bài học song ngữ ----- */
   function dongBai(b) {
@@ -148,6 +308,7 @@
     h.innerHTML = window.BaiHoc.nutCheDo(cheDo) + '<article class="bai-hoc">' + window.BaiHoc.ve(baiDangDoc, cheDo) + "</article>";
     if (!window.BaiHoc.coPhatAm()) h.querySelectorAll(".bh-nghe").forEach(function (n) { n.hidden = true; });
     toan(h);
+    ganNutChayPython(h);
   }
 
   /* ----- Mẩu giao diện ----- */
@@ -176,10 +337,11 @@
     return ds.length ? '<ul class="ds">' + ds.map(dongTaiLieu).join("") + "</ul>" : '<div class="trong">' + esc(rong || "Chưa có tài liệu ở mục này.") + "</div>";
   }
   function dongDe(d) {
-    const thiThu = laThiThu(d);
+    const thiThu = laThiThu(d), cao = diemCaoNhat(d.slug);
     return '<li class="' + (thiThu ? "mau-hsg" : mauMon(d.mon, d.lop)) + '"><span class="ds__loai">' + esc(thiThu ? "Thi thử" : (d.loai || "Luyện tập")) + "</span>" +
       '<span class="ds__ten"><b>' + esc(d.ten) + '</b><span class="phu">' + esc(d.mon) + " · " + esc(tenLop(d)) +
-      (d.thoiGian ? " · " + esc(d.thoiGian) + " phút" : "") + "</span></span>" +
+      (d.thoiGian ? " · " + esc(d.thoiGian) + " phút" : "") + "</span>" +
+      (cao !== null ? '<span class="diem-cao">Điểm cao nhất của em: ' + soDiem(Number(cao) || 0) + "</span>" : "") + "</span>" +
       (d.tep ? '<a class="ds__mo" href="#/lam-bai/' + esc(d.slug) + '">Làm bài ›</a>' : '<span class="sap-co">Sắp có</span>') + "</li>";
   }
   function dsDeHTML(ds, rong) {
@@ -221,6 +383,14 @@
       khoi("Học song ngữ Việt – Anh", '<div class="song-ngu-gt"><p>Đọc bài Vật lý, Tin học bằng tiếng Việt, tiếng Anh hoặc song ngữ. Tra ' + TV.length +
         " thuật ngữ Lý – Tin, bấm loa nghe phát âm và tự kiểm tra từ vựng.</p>" +
         '<a class="nut" href="#/song-ngu">Vào học song ngữ ›</a></div>') +
+      khoi("Công cụ học tập", '<div class="lien-ket">' + [
+        ["#/thi-nghiem", "Thí nghiệm ảo Vật lý", dsThiNghiem.length + " mô phỏng PhET tiếng Việt, tự làm thí nghiệm ngay trên trang"],
+        ["#/python", "Chạy Python trực tuyến", "Viết và chạy chương trình Python không cần cài đặt"],
+        ["#/ket-qua", "Kết quả của em", "Xem lại điểm các bài đã làm và theo dõi tiến bộ"],
+        ["#/tro-choi", "Leo tháp kiến thức", "Trò chơi trả lời nhanh 15 câu hỏi"]
+      ].map(function (x) {
+        return '<a class="lien-ket__muc" href="' + x[0] + '"><b>' + esc(x[1]) + ' ›</b><span class="phu">' + esc(x[2]) + "</span></a>";
+      }).join("") + "</div>") +
       khoi("Thi thử tốt nghiệp THPT", '<div class="thi-thu-mon"><a class="nut nut--phu" href="#/vat-ly/12">Vật lý 12 ›</a><a class="nut nut--phu" href="#/tin-hoc/12">Tin học 12 ›</a></div>' +
         dsDeHTML(dsDe.filter(laThiThu).slice(0, 5), "Đề thi thử đang được biên soạn, sắp có."), "", "", "thi-thu") +
       khoi("Video mới đăng", luoiVideo(dsVideo.slice(0, 4)), "#/video", "Xem tất cả") +
@@ -272,6 +442,9 @@
       ? (baiLop.length ? '<ul class="ds">' + baiLop.map(dongBai).join("") + "</ul>" : "") + (tlLop.length ? (baiLop.length ? '<div style="height:12px"></div>' : "") + dsTL(tlLop) : "")
       : '<div class="trong">Tài liệu bài giảng đang được cập nhật.</div>']);
     muc.push(["video", "Video bài giảng", luoiVideo(dsVideo.filter(hop), "Video bài giảng sắp có.")]);
+    const tnLop = mon === "Vật lý" ? dsThiNghiem.filter(function (t) { return t.lop === lop; }) : [];
+    if (tnLop.length) muc.push(["thi-nghiem", "Thí nghiệm ảo", luoiThiNghiem(tnLop)]);
+    if (mon === "Tin học") muc.push(["python", "Chạy Python trực tuyến", '<div class="song-ngu-gt"><p>Viết và chạy thử chương trình Python ngay trên trang, không cần cài đặt; có sẵn chương trình mẫu.</p><a class="nut" href="#/python">Mở trình chạy Python ›</a></div>']);
     return '<a class="quay-lai" href="#/' + duongMon(mon) + '">‹ ' + esc(mon) + "</a>" +
       dauMuc(mon + " " + lop, lop === "12" ? "Luyện trắc nghiệm, đọc bài giảng, xem video và thi thử tốt nghiệp THPT ngay trên trang." : "Luyện trắc nghiệm, đọc bài giảng và xem video ngay trên trang.") +
       '<nav class="muc-luc" aria-label="Các phần của lớp">' + muc.map(function (m) {
@@ -359,6 +532,7 @@
         '<div class="hai-o"><label>Họ và tên<input id="hoi-ten" maxlength="80" required></label><label>Lớp<input id="hoi-lop" maxlength="20" required></label></div>' +
         '<label class="hoi-mon">Môn<select id="hoi-mon"><option>Vật lý</option><option>Tin học</option><option>Ôn thi HSG</option><option>Khác</option></select></label>' +
         '<label class="hoi-cau">Câu hỏi của em<textarea id="hoi-noi-dung" rows="4" maxlength="1500" required placeholder="Ghi rõ bài nào, câu nào và em vướng ở đâu…"></textarea></label>' +
+        '<label class="bay" aria-hidden="true">Để trống ô này<input id="hoi-web" tabindex="-1" autocomplete="off"></label>' +
         '<p class="phu">Trên trang chỉ hiện lớp của người hỏi, không hiện họ tên.</p>' +
         '<p id="hoi-bao" class="gui-diem" role="status"></p><button type="submit" class="nut">Gửi câu hỏi</button></form>' : "") +
       khoi("Câu hỏi đã được trả lời", '<div id="ds-hoi-dap"><p class="phu">' + (coLink ? "Đang tải…" : "Chưa có câu hỏi nào.") + "</p></div>");
@@ -383,7 +557,7 @@
     e.preventDefault();
     const url = linkNhanDiem(), bao = document.getElementById("hoi-bao");
     const gt = function (id) { return document.getElementById(id).value.trim(); };
-    const goi = { loai: "hoi", ten: gt("hoi-ten"), lop: gt("hoi-lop"), mon: gt("hoi-mon"), cauHoi: gt("hoi-noi-dung") };
+    const goi = { loai: "hoi", ten: gt("hoi-ten"), lop: gt("hoi-lop"), mon: gt("hoi-mon"), cauHoi: gt("hoi-noi-dung"), web: gt("hoi-web") };
     if (!goi.ten || !goi.lop || goi.cauHoi.length < 10) { bao.className = "gui-diem gui-diem--loi"; bao.textContent = "Em hãy ghi họ tên, lớp và câu hỏi (ít nhất 10 kí tự)."; return; }
     const nut = e.target.querySelector("button[type=submit]");
     nut.disabled = true;
@@ -717,8 +891,9 @@
     const kq = TN.cham(b.de, b.traLoi);
     const luc = new Date();
     ghiLuu(khoaLuu(b.d.slug), null);
-    manHinhKetQua(kq, luc);
     const giay = Math.max(0, Math.round((luc.getTime() - b.batDauLuc) / 1000));
+    ghiLichSu({ slug: b.d.slug, ten: b.d.ten, mon: b.d.mon, lop: tenLop(b.d), diem: kq.diem10, luc: luc.getTime(), giay: giay });
+    manHinhKetQua(kq, luc);
     b.goiDiem = {
       ten: b.ten, lop: b.lop, mon: b.d.mon, khoi: tenLop(b.d), de: b.d.ten, loai: b.d.loai || "Luyện tập",
       diem: kq.diem10,
@@ -788,7 +963,8 @@
       '<ul class="tom-tat">' + kq.phan.map(function (p) {
         return "<li><b>" + esc(p.ten || "Kết quả") + "</b>: đúng " + p.soDung + "/" + p.soCau + " câu · " + soDiem(p.diem) + "/" + soDiem(p.toiDa) + " điểm</li>";
       }).join("") + "</ul>" +
-      '<div class="hang-nut"><button type="button" class="nut" data-bai="lamlai">Làm lại đề này</button><a class="nut nut--phu" href="' + veLaiDe(d) + '">Chọn đề khác</a></div></div></section>' +
+      '<div class="hang-nut"><button type="button" class="nut" data-bai="lamlai">Làm lại đề này</button><a class="nut nut--phu" href="' + veLaiDe(d) + '">Chọn đề khác</a>' +
+      '<a class="nut nut--phu" href="#/ket-qua">Kết quả của em ›</a></div></div></section>' +
       '<h2 class="xem-lai">Xem lại bài làm</h2>' +
       b.de.phan.map(function (p, pi) {
         return '<section class="phan-thi">' + (p.ten ? "<h2>" + esc(p.ten) + "</h2>" : "") +
@@ -832,6 +1008,7 @@
       (coHaiMon ? '<div class="loc">' + hangLoc("Môn", "mon", ["Vật lý", "Tin học"]) + "</div>" : "") +
       khoi("Video bài giảng", luoiVideo(video), playlist, "Xem trên YouTube ↗") +
       khoi("Chuyên đề và đề thi", (tatCa.length ? '<div class="loc">' + hangLoc("Loại", "loai", duyNhat(tatCa, "loai")) + "</div>" : "") + dsTL(tl)) +
+      (dsThiNghiem.some(laHSG(cap)) ? khoi("Thí nghiệm ảo", luoiThiNghiem(dsThiNghiem.filter(laHSG(cap)))) : "") +
       '<a class="nut" href="#/hsg/' + khac.toLowerCase() + '">Sang thư mục ' + esc(THU_MUC[khac].ten) + " ›</a>";
   }
   function trangVideo() {
@@ -885,8 +1062,10 @@
     const tv = TV.filter(function (x) {
       return tu.length > 0 && boDau(x.en + " " + x.vi).indexOf(cumTu(q)) >= 0;
     });
-    const tong = v.length + t.length + d.length + bh.length + tv.length;
+    const tn = dsThiNghiem.filter(function (x) { return khop(Object.assign({}, x, { loai: x.moTa })); });
+    const tong = v.length + t.length + d.length + bh.length + tv.length + tn.length;
     return dauMuc('Kết quả cho "' + q + '"', tong + " kết quả") +
+      (tn.length ? khoi("Thí nghiệm ảo", luoiThiNghiem(tn)) : "") +
       (tv.length ? khoi("Thuật ngữ Việt – Anh", '<div class="bh-the-ds">' + tv.slice(0, 12).map(theTu).join("") + "</div>", "#/song-ngu", "Từ điển thuật ngữ ›") : "") +
       (bh.length ? khoi("Bài học", '<ul class="ds">' + bh.map(dongBai).join("") + "</ul>") : "") +
       (d.length ? khoi("Trắc nghiệm online", dsDeHTML(d)) : "") +
@@ -939,6 +1118,9 @@
     if (ten === "tro-choi") return trangTroChoi(phu);
     if (ten === "doc") return docTaiLieu(phu);
     if (ten === "song-ngu") return trangSongNgu();
+    if (ten === "thi-nghiem") return trangThiNghiem(phu);
+    if (ten === "ket-qua") return trangKetQua();
+    if (ten === "python") return trangPython();
     return khongThay();
   }
   function hienThi() {
@@ -1001,6 +1183,15 @@
     demDaLam();
   }
   app.addEventListener("change", ghiTraLoi);
+  // Phím Tab trong ô viết mã Python: chèn 4 dấu cách thay vì chuyển sang ô khác.
+  app.addEventListener("keydown", function (e) {
+    const o = e.target;
+    if (e.key !== "Tab" || e.shiftKey || !o.classList || !o.classList.contains("py-ma")) return;
+    e.preventDefault();
+    const dau = o.selectionStart, cuoi = o.selectionEnd;
+    o.value = o.value.slice(0, dau) + "    " + o.value.slice(cuoi);
+    o.selectionStart = o.selectionEnd = dau + 4;
+  });
   app.addEventListener("input", function (e) {
     if (e.target.id === "tim-tu") { locTuVung(e.target.value); return; }
     if (e.target.type === "text") ghiTraLoi(e);
@@ -1042,6 +1233,40 @@
     }
     const theTuVung = e.target.closest(".tv-ds--an .bh-the");
     if (theTuVung) { theTuVung.classList.toggle("bh-the--lo"); return; }
+    // Chạy Python
+    const py = e.target.closest("[data-py]");
+    if (py) {
+      const v = py.dataset.py;
+      if (v === "mo") {
+        const pre = py.previousElementSibling, ma = pre ? pre.textContent : "";
+        const o = document.createElement("div");
+        o.innerHTML = khungPython(ma.replace(/\n$/, ""));
+        py.replaceWith(o.firstChild);
+      } else {
+        const khung = py.closest(".py-khung");
+        if (khung && v === "chay") chayPython(khung);
+        if (khung && v === "xoa") { const k = khung.querySelector(".py-kq"); k.textContent = ""; k.hidden = true; }
+      }
+      return;
+    }
+    const mauPy = e.target.closest("[data-py-mau]");
+    if (mauPy) {
+      const m = MAU_PY[Number(mauPy.dataset.pyMau)], khung = app.querySelector(".py-khung");
+      if (m && khung) {
+        khung.querySelector(".py-ma").value = m[1];
+        khung.querySelector(".py-vao").value = m[2];
+        khung.querySelector(".py-vao-k").open = !!m[2];
+        const k = khung.querySelector(".py-kq"); k.textContent = ""; k.hidden = true;
+      }
+      return;
+    }
+    // Xóa lịch sử làm bài: bấm hai lần để chắc chắn.
+    const xoaLS = e.target.closest("[data-xoa-ls]");
+    if (xoaLS) {
+      if (xoaLS.dataset.xoaLs === "2") { ghiLuu(KHOA_LS, null); hienThi(); }
+      else { xoaLS.dataset.xoaLs = "2"; xoaLS.textContent = "Bấm lần nữa để xóa hẳn lịch sử"; }
+      return;
+    }
     const tc = e.target.closest("[data-tc]");
     if (tc && troChoi) {
       const v = tc.dataset.tc;
