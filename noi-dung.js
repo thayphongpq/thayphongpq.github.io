@@ -108,9 +108,12 @@ const DE_THI = [
   { ten: "Bài 3 – Đề 1. Thực hành tính sai số trong phép đo. Ghi kết quả đo", mon: "Vật lý", lop: "10", loai: "Luyện tập", tep: "de/vl10-bai03-de1.txt", thoiGian: 50, ngay: "2026-11-19" },
   { ten: "Bài 3 – Đề 2. Thực hành tính sai số trong phép đo. Ghi kết quả đo", mon: "Vật lý", lop: "10", loai: "Luyện tập", tep: "de/vl10-bai03-de2.txt", thoiGian: 50, ngay: "2026-11-19" },
   { ten: "Bài 3 – Đề 3. Thực hành tính sai số trong phép đo. Ghi kết quả đo", mon: "Vật lý", lop: "10", loai: "Luyện tập", tep: "de/vl10-bai03-de3.txt", thoiGian: 50, ngay: "2026-11-19" },
+  { ten: "Bài 4 – Đề 1. Độ dịch chuyển và quãng đường đi được", mon: "Vật lý", lop: "10", loai: "Luyện tập", tep: "de/vl10-bai04-de1.txt", thoiGian: 50, ngay: "2026-11-19" },
+  { ten: "Bài 4 – Đề 2. Độ dịch chuyển và quãng đường đi được", mon: "Vật lý", lop: "10", loai: "Luyện tập", tep: "de/vl10-bai04-de2.txt", thoiGian: 50, ngay: "2026-11-19" },
+  { ten: "Bài 4 – Đề 3. Độ dịch chuyển và quãng đường đi được", mon: "Vật lý", lop: "10", loai: "Luyện tập", tep: "de/vl10-bai04-de3.txt", thoiGian: 50, ngay: "2026-11-19" },
 
   // ----- Vật lý 10 (sách thống nhất) - Chương II. Động học -----
-  { ten: "Bài 4. Độ dịch chuyển và quãng đường đi được", mon: "Vật lý", lop: "10", loai: "Luyện tập", tep: "de/vl10-bai04-do-dich-chuyen.txt", thoiGian: 20, ngay: "2026-11-19" },
+  // (đề cũ 13 câu, đã thay bằng 3 đề 28 câu) { ten: "Bài 4. Độ dịch chuyển và quãng đường đi được", mon: "Vật lý", lop: "10", loai: "Luyện tập", tep: "de/vl10-bai04-do-dich-chuyen.txt", thoiGian: 20, ngay: "2026-11-19" },
   { ten: "Bài 5. Tốc độ và vận tốc", mon: "Vật lý", lop: "10", loai: "Luyện tập", tep: "de/vl10-bai05-toc-do-van-toc.txt", thoiGian: 20, ngay: "2026-11-19" },
   { ten: "Bài 6. Thực hành: Đo tốc độ của vật chuyển động", mon: "Vật lý", lop: "10", loai: "Luyện tập", tep: "de/vl10-bai06-thuc-hanh-do-toc-do.txt", thoiGian: 20, ngay: "2026-11-19" },
   { ten: "Bài 7. Đồ thị độ dịch chuyển – thời gian", mon: "Vật lý", lop: "10", loai: "Luyện tập", tep: "de/vl10-bai07-do-thi-dich-chuyen.txt", thoiGian: 20, ngay: "2026-11-19" },
