@@ -1,0 +1,162 @@
+VẬT LÍ 10 - CHƯƠNG III. ĐỘNG LỰC HỌC - BÀI 17. TRỌNG LỰC VÀ LỰC CĂNG - ĐỀ 3
+Đề kiểm tra theo cấu trúc thi tốt nghiệp THPT (biên soạn: thầy Lâm Thế Phong, THPT An Thới)
+Thời gian: 50
+
+PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn
+Câu 1. Trọng lực được kí hiệu là
+*A. $\vec{P}$.
+B. $\vec{T}$.
+C. $\vec{g}$.
+D. $\vec{a}$.
+
+Câu 2. Trọng lực gây ra cho vật
+A. vận tốc không đổi.
+*B. gia tốc rơi tự do.
+C. lực căng.
+D. khối lượng.
+
+Câu 3. Vectơ trọng lực $\vec{P}$ và vectơ gia tốc rơi tự do $\vec{g}$
+A. ngược hướng nhau.
+B. vuông góc nhau.
+*C. cùng hướng nhau.
+D. hợp với nhau góc 45°.
+
+Câu 4. Hai vật A và B ở cùng một nơi, khối lượng vật A gấp đôi khối lượng vật B. Trọng lượng của vật A
+A. bằng trọng lượng vật B.
+*B. gấp đôi trọng lượng vật B.
+C. bằng một nửa trọng lượng vật B.
+D. gấp bốn lần trọng lượng vật B.
+
+Câu 5. Một vật khối lượng 0,5 kg ở nơi có g = 10 m/s². Trọng lượng của vật là
+A. 0,05 N.
+B. 50 N.
+C. 20 N.
+*D. 5 N.
+
+Câu 6. Đại lượng nào sau đây KHÔNG thay đổi khi đem một vật từ Trái Đất lên Mặt Trăng?
+A. Trọng lượng của vật.
+*B. Khối lượng của vật.
+C. Độ lớn trọng lực tác dụng lên vật.
+D. Số chỉ của lực kế khi treo vật đứng yên.
+
+Câu 7. Treo một vật vào lực kế ở nơi có g = 9,80 m/s², lực kế chỉ 9,80 N. Đem vật và lực kế đến nơi có g = 9,78 m/s² rồi treo vật đứng yên thì lực kế chỉ
+A. 9,80 N.
+*B. 9,78 N.
+C. 1,00 N.
+D. 0.
+
+Câu 8. Trên Mặt Trăng, gia tốc rơi tự do khoảng 1,6 m/s². Trọng lượng của vật khối lượng 10 kg trên Mặt Trăng là
+A. 10 N.
+B. 98 N.
+*C. 16 N.
+D. 6,25 N.
+
+Câu 9. Trọng tâm của một chiếc thước kẻ dẹt, đồng chất, hình chữ nhật nằm ở
+A. một đầu thước.
+*B. trung điểm (tâm đối xứng) của thước.
+C. vạch số 0 của thước.
+D. mép trên của thước.
+
+Câu 10. Khi treo một tấm bìa phẳng đứng yên bằng một sợi dây, trọng tâm của tấm bìa
+*A. nằm trên đường thẳng đứng đi qua dây treo.
+B. luôn nằm ở điểm buộc dây.
+C. nằm trên đường nằm ngang qua điểm buộc dây.
+D. luôn nằm ở mép dưới tấm bìa.
+
+Câu 11. Lực căng xuất hiện ở sợi dây khi
+A. dây bị chùng.
+*B. dây bị kéo căng.
+C. dây nằm yên trên mặt bàn.
+D. dây được cuộn tròn.
+
+Câu 12. Một khối hộp được kéo bằng sợi dây xiên lên trên. Lực căng dây tác dụng lên khối hộp
+A. có phương thẳng đứng.
+B. có phương nằm ngang.
+*C. có phương dọc theo sợi dây, hướng từ khối hộp về phía người kéo.
+D. có phương dọc theo sợi dây, hướng từ người kéo về phía khối hộp.
+
+Câu 13. Một bạn kéo thùng hàng bằng một sợi dây. Điểm đặt của lực căng dây tác dụng lên thùng hàng là
+A. tại tay bạn.
+*B. tại điểm buộc dây trên thùng hàng.
+C. tại trọng tâm của bạn.
+D. tại chính giữa sợi dây.
+
+Câu 14. Lực căng mà sợi dây tác dụng lên vật và lực mà vật kéo dãn dây
+*A. ngược chiều nhau.
+B. cùng chiều nhau.
+C. vuông góc nhau.
+D. đặt vào cùng một vật.
+
+Câu 15. Một chùm chìa khoá có khối lượng 150 g treo đứng yên trên một sợi dây; lấy g = 10 m/s². Lực căng dây là
+A. 15 N.
+*B. 1,5 N.
+C. 150 N.
+D. 0,15 N.
+
+Câu 16. Một sợi dây chịu lực căng tối đa 20 N. Lấy g = 10 m/s². Vật nào sau đây khi treo đứng yên vào dây thì làm dây bị đứt?
+A. Vật 1,5 kg.
+B. Vật 1,8 kg.
+C. Vật 1,9 kg.
+*D. Vật 2,5 kg.
+
+Câu 17. Một khối gỗ trên mặt bàn nằm ngang được nối với một quả nặng bằng sợi dây vắt qua ròng rọc ở mép bàn. Bỏ qua khối lượng dây và ròng rọc. Lực căng dây tại đầu buộc khối gỗ là 3 N thì lực căng dây tại đầu buộc quả nặng là
+A. 0.
+B. 1,5 N.
+*C. 3 N.
+D. 6 N.
+
+Câu 18. Một bạn bị kéo trong trò chơi kéo co. Lực căng của dây tác dụng lên bạn đó
+A. hướng thẳng đứng lên.
+B. hướng ra xa đội bên kia.
+*C. hướng dọc theo dây về phía đội bên kia.
+D. bằng 0.
+
+PHẦN II. Câu trắc nghiệm đúng sai
+Câu 1. Một quả táo khối lượng 200 g rơi từ trên cây xuống; lấy g = 10 m/s², bỏ qua sức cản không khí.
+a) Trong khi rơi, quả táo chỉ chịu tác dụng của trọng lực. (Đ)
+b) Trọng lực tác dụng lên quả táo có độ lớn 2 N. (Đ)
+c) Trọng lực tác dụng lên quả táo có phương nằm ngang. (S)
+d) Gia tốc của quả táo khi rơi là 10 m/s². (Đ)
+
+Câu 2. Một bạn cân một túi gạo khối lượng 5 kg ở Hà Nội và ở TP. Hồ Chí Minh; lấy gia tốc rơi tự do ở Hà Nội là 9,787 m/s², ở TP. Hồ Chí Minh là 9,780 m/s².
+a) Khối lượng túi gạo ở hai nơi là như nhau. (Đ)
+b) Trọng lượng túi gạo ở Hà Nội lớn hơn ở TP. Hồ Chí Minh. (Đ)
+c) Trọng lượng túi gạo ở TP. Hồ Chí Minh là 5 N. (S)
+d) Trọng lượng túi gạo ở hai nơi chênh lệch nhau 0,035 N. (Đ)
+Lời giải: Chênh lệch: 5 . (9,787 − 9,780) = 0,035 N.
+
+Câu 3. Một chiếc đèn khối lượng 2 kg treo đứng yên bằng một sợi dây thẳng đứng gắn vào trần nhà; lấy g = 10 m/s².
+a) Trọng lực tác dụng lên đèn có độ lớn 20 N. (Đ)
+b) Lực căng dây tác dụng lên đèn có độ lớn 20 N, hướng lên. (Đ)
+c) Dây tác dụng lên trần nhà một lực hướng lên trên. (S)
+d) Nếu dây chịu được lực căng tối đa 15 N thì dây bị đứt. (Đ)
+Lời giải: Dây kéo trần nhà xuống dưới (lực căng ở đầu dây hướng dọc theo dây về phía đèn).
+
+Câu 4. Một vật khối lượng 1 kg treo vào sợi dây thẳng đứng; lấy g = 10 m/s².
+a) Khi vật đứng yên, lực căng dây là 10 N. (Đ)
+b) Khi kéo vật lên thẳng đều, lực căng dây là 10 N. (Đ)
+c) Khi kéo vật lên nhanh dần đều với gia tốc 2 m/s², lực căng dây là 8 N. (S)
+d) Khi kéo vật lên nhanh dần đều, lực căng dây lớn hơn trọng lượng của vật. (Đ)
+Lời giải: $T = m(g + a) = 1.(10 + 2) = 12$ N.
+
+PHẦN III. Câu trắc nghiệm trả lời ngắn
+Câu 1. Một vật có khối lượng 7 kg ở nơi có g = 9,8 m/s². Trọng lượng của vật là bao nhiêu niutơn? (Làm tròn đến hàng phần mười.)
+Đáp án: 68,6|68.6
+
+Câu 2. Một vật trên Mặt Trăng (g = 1,6 m/s²) có trọng lượng 40 N. Khối lượng của vật là bao nhiêu kilôgam?
+Đáp án: 25
+
+Câu 3. Một quả cầu treo đứng yên bằng sợi dây thẳng đứng, lực căng dây là 6 N. Lấy g = 10 m/s². Khối lượng quả cầu là bao nhiêu kilôgam?
+Đáp án: 0,6|0.6
+
+Câu 4. Một sợi dây chịu được lực căng tối đa 50 N, dùng để treo thẳng đứng một giỏ khối lượng 1 kg đứng yên. Lấy g = 10 m/s². Có thể bỏ thêm vào giỏ tối đa bao nhiêu kilôgam hàng?
+Đáp án: 4
+Lời giải: Tổng khối lượng tối đa 5 kg; bỏ thêm 4 kg.
+
+Câu 5. Một vật trên Trái Đất (g = 9,8 m/s²) có trọng lượng 147 N. Trọng lượng của vật này trên Mặt Trăng (g = 1,6 m/s²) là bao nhiêu niutơn?
+Đáp án: 24
+Lời giải: m = 147 : 9,8 = 15 kg; P = 15 . 1,6 = 24 N.
+
+Câu 6. Một thùng hàng khối lượng 50 kg được cần cẩu kéo lên nhanh dần đều bằng dây cáp thẳng đứng với gia tốc 0,5 m/s². Lấy g = 10 m/s². Lực căng dây cáp là bao nhiêu niutơn?
+Đáp án: 525
+Lời giải: $T = m(g + a) = 50.(10 + 0{,}5) = 525$ N.

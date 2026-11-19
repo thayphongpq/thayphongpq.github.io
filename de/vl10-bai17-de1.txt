@@ -1,0 +1,161 @@
+VẬT LÍ 10 - CHƯƠNG III. ĐỘNG LỰC HỌC - BÀI 17. TRỌNG LỰC VÀ LỰC CĂNG - ĐỀ 1
+Đề kiểm tra theo cấu trúc thi tốt nghiệp THPT (biên soạn: thầy Lâm Thế Phong, THPT An Thới)
+Thời gian: 50
+
+PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn
+Câu 1. Trọng lực là
+A. lực đẩy của không khí lên vật.
+*B. lực hấp dẫn do Trái Đất tác dụng lên vật, gây ra cho vật gia tốc rơi tự do.
+C. lực do sợi dây tác dụng lên vật.
+D. lực do mặt bàn đỡ vật.
+
+Câu 2. Ở gần mặt đất, trọng lực tác dụng lên vật có phương
+A. nằm ngang.
+B. xiên góc 45°.
+*C. thẳng đứng.
+D. tuỳ ý.
+
+Câu 3. Ở gần mặt đất, trọng lực tác dụng lên vật có chiều
+A. từ dưới lên.
+*B. từ trên xuống.
+C. theo chiều chuyển động của vật.
+D. ngược chiều chuyển động của vật.
+
+Câu 4. Điểm đặt của trọng lực tác dụng lên vật gọi là
+A. tâm Trái Đất.
+B. điểm treo của vật.
+*C. trọng tâm của vật.
+D. mép dưới của vật.
+
+Câu 5. Công thức của trọng lực là
+*A. $\vec{P} = m\vec{g}$.
+B. $\vec{P} = \dfrac{\vec{g}}{m}$.
+C. $\vec{P} = -m\vec{g}$.
+D. $\vec{P} = \dfrac{m}{\vec{g}}$.
+
+Câu 6. Trọng lượng của một vật là
+A. khối lượng của vật.
+*B. độ lớn của trọng lực tác dụng lên vật.
+C. lượng chất chứa trong vật.
+D. lực căng của dây treo vật.
+
+Câu 7. Dụng cụ có thể dùng để đo trọng lượng của một vật là
+A. thước dây.
+B. đồng hồ bấm giây.
+*C. lực kế.
+D. nhiệt kế.
+
+Câu 8. Một vật khối lượng 2 kg ở nơi có g = 9,8 m/s². Trọng lượng của vật là
+A. 4,9 N.
+B. 2 N.
+C. 11,8 N.
+*D. 19,6 N.
+
+Câu 9. Khi đem một vật từ nơi này đến nơi khác có gia tốc rơi tự do khác nhau thì
+A. khối lượng và trọng lượng của vật đều không đổi.
+*B. khối lượng của vật không đổi, trọng lượng của vật thay đổi.
+C. khối lượng thay đổi, trọng lượng không đổi.
+D. khối lượng và trọng lượng đều thay đổi.
+
+Câu 10. Khối lượng của một vật là
+A. độ lớn của trọng lực.
+*B. số đo lượng chất của vật.
+C. lực mà vật ép lên giá đỡ.
+D. đại lượng vectơ.
+
+Câu 11. Trọng tâm của một tấm bìa phẳng, mỏng, đồng chất hình tròn nằm ở
+A. một điểm bất kì trên mép tấm bìa.
+*B. tâm của hình tròn.
+C. điểm treo tấm bìa.
+D. ngoài tấm bìa.
+
+Câu 12. Khi một sợi dây bị kéo thì lực căng xuất hiện
+A. chỉ ở đầu dây buộc vào vật.
+B. chỉ ở chính giữa dây.
+*C. tại mọi điểm trên dây, kể cả hai đầu dây.
+D. chỉ ở đầu dây cầm trên tay.
+
+Câu 13. Lực căng do sợi dây tác dụng vào vật có phương
+A. vuông góc với sợi dây.
+*B. trùng với phương của sợi dây.
+C. luôn thẳng đứng.
+D. luôn nằm ngang.
+
+Câu 14. Lực căng do sợi dây tác dụng vào vật có chiều
+A. cùng chiều với lực do vật kéo dãn dây.
+*B. ngược chiều với lực do vật kéo dãn dây.
+C. luôn hướng xuống.
+D. luôn hướng ra xa điểm treo.
+
+Câu 15. Kí hiệu thường dùng của lực căng là
+A. $\vec{P}$.
+B. $\vec{N}$.
+*C. $\vec{T}$.
+D. $\vec{F}_{ms}$.
+
+Câu 16. Một quả nặng treo vào lực kế đứng yên, lực kế chỉ 2,5 N. Lấy g = 10 m/s². Khối lượng của quả nặng là
+*A. 0,25 kg.
+B. 2,5 kg.
+C. 25 kg.
+D. 0,025 kg.
+
+Câu 17. Mỗi sợi dây chỉ chịu được một lực căng giới hạn. Nếu lực tác dụng lên dây vượt quá giá trị giới hạn thì
+A. dây dài vô hạn.
+B. lực căng bằng 0.
+*C. dây sẽ đứt.
+D. trọng lượng của vật giảm.
+
+Câu 18. Các vệ tinh nhân tạo của Trái Đất cuối cùng đều rơi xuống Trái Đất vì
+A. vệ tinh không có khối lượng.
+*B. vệ tinh luôn chịu lực hấp dẫn của Trái Đất hướng về phía tâm Trái Đất.
+C. vệ tinh bị Mặt Trăng đẩy về Trái Đất.
+D. vệ tinh chịu lực căng của dây.
+Lời giải: Vệ tinh luôn bị Trái Đất hút. Ở độ cao của vệ tinh vẫn còn không khí loãng cản trở làm vệ tinh chậm dần; khi đó lực hấp dẫn của Trái Đất kéo vệ tinh dần về phía Trái Đất.
+
+PHẦN II. Câu trắc nghiệm đúng sai
+Câu 1. Một bóng đèn khối lượng 500 g được treo thẳng đứng vào trần nhà bằng một sợi dây và đang ở trạng thái cân bằng. Lấy g = 10 m/s².
+a) Bóng đèn chịu tác dụng của trọng lực và lực căng của dây. (Đ)
+b) Lực căng của dây tác dụng lên bóng đèn hướng thẳng đứng lên trên. (Đ)
+c) Lực căng của dây có độ lớn 50 N. (S)
+d) Nếu dây chịu được lực căng giới hạn 5,5 N thì dây không bị đứt. (Đ)
+Lời giải: Đèn cân bằng: T = P = 0,5 . 10 = 5 N < 5,5 N.
+
+Câu 2. Một vật có khối lượng 1 kg. Ở địa điểm thứ nhất g = 9,80 m/s², ở địa điểm thứ hai g = 9,78 m/s².
+a) Trọng lượng của vật ở địa điểm thứ nhất là 9,80 N. (Đ)
+b) Ở địa điểm thứ hai, khối lượng của vật nhỏ hơn 1 kg. (S)
+c) Trọng lượng của vật ở địa điểm thứ hai là 9,78 N. (Đ)
+d) Trọng lượng của vật thay đổi theo nơi đặt vật vì gia tốc rơi tự do thay đổi. (Đ)
+
+Câu 3. Xác định trọng tâm của tấm bìa phẳng, mỏng bằng dây treo.
+a) Khi tấm bìa treo cân bằng, đường thẳng đứng kẻ theo dây treo đi qua trọng tâm của tấm bìa. (Đ)
+b) Treo tấm bìa lần lượt ở hai điểm khác nhau; giao điểm của hai đường kẻ theo dây treo là trọng tâm. (Đ)
+c) Trọng tâm của tấm bìa hình vuông đồng chất nằm ở một đỉnh của hình vuông. (S)
+d) Trọng tâm của tấm bìa hình tam giác đều đồng chất nằm ở tâm của tam giác đều. (Đ)
+
+Câu 4. Một bạn dùng sợi dây kéo một thùng hàng theo phương ngang trên sàn.
+a) Thùng hàng chịu lực căng của dây. (Đ)
+b) Tay bạn cũng chịu lực căng của dây. (Đ)
+c) Lực căng dây tác dụng lên thùng hàng hướng về phía bạn đang kéo. (Đ)
+d) Lực căng dây tác dụng lên tay bạn hướng về phía bạn. (S)
+Lời giải: Lực căng tác dụng lên tay hướng dọc theo dây về phía thùng hàng.
+
+PHẦN III. Câu trắc nghiệm trả lời ngắn
+Câu 1. Một vật khối lượng 5 kg ở nơi có g = 9,8 m/s². Trọng lượng của vật là bao nhiêu niutơn?
+Đáp án: 49
+
+Câu 2. Một lực kế treo quả nặng đứng yên chỉ 1 N. Lấy g = 9,8 m/s². Khối lượng của quả nặng là bao nhiêu gam? (Làm tròn đến hàng đơn vị.)
+Đáp án: 102
+Lời giải: $m = \dfrac{1}{9{,}8} \approx 0{,}102$ kg = 102 g.
+
+Câu 3. Một chiếc đèn khối lượng 1,2 kg treo đứng yên bằng một sợi dây thẳng đứng; lấy g = 10 m/s². Lực căng của dây có độ lớn bao nhiêu niutơn?
+Đáp án: 12
+
+Câu 4. Một sợi dây chịu được lực căng tối đa 30 N. Lấy g = 10 m/s². Treo thẳng đứng đứng yên được vật có khối lượng tối đa bao nhiêu kilôgam?
+Đáp án: 3
+
+Câu 5. Một nhà du hành mang theo một vật khối lượng 6 kg từ Trái Đất lên Mặt Trăng, nơi có gia tốc rơi tự do 1,6 m/s². Trọng lượng của vật trên Mặt Trăng là bao nhiêu niutơn?
+Đáp án: 9,6|9.6
+
+Câu 6. Một vật khối lượng 4 kg treo vào sợi dây thẳng đứng, được kéo lên nhanh dần đều với gia tốc 2 m/s². Lấy g = 10 m/s². Lực căng của dây có độ lớn bao nhiêu niutơn?
+Đáp án: 48
+Lời giải: $T - P = ma \Rightarrow T = 4.(10 + 2) = 48$ N.
