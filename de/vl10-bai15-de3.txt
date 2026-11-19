@@ -1,0 +1,161 @@
+VẬT LÍ 10 - CHƯƠNG III. ĐỘNG LỰC HỌC - BÀI 15. ĐỊNH LUẬT 2 NEWTON - ĐỀ 3
+Đề kiểm tra theo cấu trúc thi tốt nghiệp THPT (biên soạn: thầy Lâm Thế Phong, THPT An Thới)
+Thời gian: 50
+
+PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn
+Câu 1. Theo định luật 2 Newton, 1 N là độ lớn của lực gây ra
+*A. gia tốc 1 m/s² cho vật có khối lượng 1 kg, theo hướng của lực.
+B. vận tốc 1 m/s cho vật 1 kg.
+C. gia tốc 1 m/s² cho vật 1 g.
+D. gia tốc 10 m/s² cho vật 1 kg.
+
+Câu 2. Từ định luật 2 Newton, độ lớn hợp lực tác dụng lên vật được tính bằng
+A. $F = \dfrac{a}{m}$.
+B. $F = \dfrac{m}{a}$.
+*C. $F = m.a$.
+D. $F = m + a$.
+
+Câu 3. Lúc đầu, khối lượng chỉ được hiểu là đại lượng chỉ lượng chất chứa trong vật. Theo định luật 2 Newton, khối lượng còn là đại lượng
+A. chỉ vận tốc của vật.
+*B. đặc trưng cho mức quán tính của vật.
+C. chỉ hướng chuyển động.
+D. chỉ lực tác dụng.
+
+Câu 4. Khi đẩy một xe hàng với lực không đổi, xe càng chở nặng thì
+A. gia tốc càng lớn.
+*B. gia tốc càng nhỏ.
+C. vận tốc không đổi.
+D. xe không chuyển động.
+
+Câu 5. Một vật khối lượng 0,2 kg chịu tác dụng của hợp lực 1 N. Gia tốc của vật là
+A. 0,2 m/s².
+B. 1,2 m/s².
+C. 2 m/s².
+*D. 5 m/s².
+
+Câu 6. Một vật khối lượng 50 kg chuyển động với gia tốc 0,2 m/s². Hợp lực tác dụng lên vật là
+*A. 10 N.
+B. 250 N.
+C. 50,2 N.
+D. 0,004 N.
+
+Câu 7. Một xe đồ chơi chịu hợp lực 20 N thì có gia tốc 0,4 m/s². Dưới tác dụng của hợp lực 30 N, gia tốc của xe là
+A. 0,27 m/s².
+*B. 0,6 m/s².
+C. 1,2 m/s².
+D. 0,8 m/s².
+
+Câu 8. Khối lượng của vật tăng gấp đôi, lực tác dụng giữ nguyên. Gia tốc của vật
+A. tăng gấp đôi.
+*B. giảm một nửa.
+C. không đổi.
+D. tăng gấp 4.
+
+Câu 9. Khối lượng là đại lượng
+A. vectơ, có hướng của gia tốc.
+*B. vô hướng, dương, không đổi đối với mỗi vật và có tính chất cộng được.
+C. có thể âm.
+D. thay đổi theo vận tốc của vật trong cơ học thông thường.
+
+Câu 10. Trong thí nghiệm minh hoạ định luật 2 Newton, khối lượng của hệ khi treo n quả nặng (mỗi quả khối lượng m) vào xe trượt khối lượng M là
+A. M.
+B. n.m.
+*C. M + n.m.
+D. M − n.m.
+
+Câu 11. Trong thí nghiệm trên, hai cổng quang điện cách nhau 0,5 m; xe xuất phát không vận tốc đầu tại cổng 1 và đi đến cổng 2 hết 0,5 s. Gia tốc của xe là
+A. 2 m/s².
+*B. 4 m/s².
+C. 1 m/s².
+D. 0,25 m/s².
+
+Câu 12. Có thể xác định gia tốc trong thí nghiệm theo công thức $a = \dfrac{v_2^2 - v_1^2}{2d}$, trong đó $v_1$, $v_2$ là
+A. vận tốc trung bình của xe.
+*B. vận tốc tức thời của xe khi đi qua hai cổng quang điện.
+C. vận tốc của các quả nặng lúc thả.
+D. vận tốc của bơm khí.
+
+Câu 13. Đồ thị gia tốc a theo $\dfrac{1}{m}$ (với lực F không đổi) là
+*A. đường thẳng đi qua gốc toạ độ.
+B. đường nằm ngang.
+C. đường parabol.
+D. đường thẳng đi xuống.
+
+Câu 14. Một vật khối lượng 2 kg chịu tác dụng của hai lực cùng phương, cùng chiều 3 N và 5 N. Gia tốc của vật là
+A. 1 m/s².
+*B. 4 m/s².
+C. 16 m/s².
+D. 8 m/s².
+
+Câu 15. Một vật khối lượng 4 kg chịu tác dụng của hai lực vuông góc 12 N và 16 N. Gia tốc của vật là
+A. 7 m/s².
+B. 1 m/s².
+*C. 5 m/s².
+D. 20 m/s².
+
+Câu 16. Một quả bóng khối lượng 0,5 kg đang nằm yên bị đá với lực 100 N, thời gian tác dụng 0,05 s. Tốc độ quả bóng bay đi là
+A. 2,5 m/s.
+B. 5 m/s.
+*C. 10 m/s.
+D. 200 m/s.
+
+Câu 17. Một vật có khối lượng 3 kg đang đứng yên thì chịu hợp lực 6 N trong 4 s. Vận tốc của vật cuối khoảng thời gian đó là
+A. 2 m/s.
+*B. 8 m/s.
+C. 24 m/s.
+D. 4,5 m/s.
+
+Câu 18. Hai vật A, B chịu cùng một hợp lực; gia tốc của A gấp 3 lần gia tốc của B. Khối lượng của A so với B
+A. lớn gấp 3 lần.
+*B. bằng một phần ba.
+C. bằng nhau.
+D. lớn gấp 9 lần.
+
+PHẦN II. Câu trắc nghiệm đúng sai
+Câu 1. Một máy bay khối lượng 60 tấn được động cơ tạo hợp lực đẩy 120 000 N trên đường băng, xuất phát từ trạng thái đứng yên.
+a) Gia tốc của máy bay là 2 m/s². (Đ)
+b) Để đạt tốc độ cất cánh 60 m/s, máy bay cần 30 s. (Đ)
+c) Quãng đường máy bay chạy trên đường băng đến khi đạt 60 m/s là 1 800 m. (S)
+d) Máy bay có khối lượng lớn hơn (cùng lực đẩy) cần đường băng dài hơn. (Đ)
+Lời giải: a = 2 m/s²; t = 30 s; $s = \dfrac{60^2}{2\cdot 2} = 900$ m.
+
+Câu 2. Một vật khối lượng 2 kg chịu tác dụng của hai lực đồng quy vuông góc có độ lớn 3 N và 4 N.
+a) Hợp lực tác dụng lên vật có độ lớn 5 N. (Đ)
+b) Gia tốc của vật có độ lớn 2,5 m/s². (Đ)
+c) Gia tốc của vật cùng hướng với lực 4 N. (S)
+d) Gia tốc của vật cùng hướng với hợp lực của hai lực. (Đ)
+
+Câu 3. Kết quả thí nghiệm với lực kéo không đổi F = 1 N: khối lượng hệ 0,25 kg; 0,5 kg; 1 kg cho gia tốc lần lượt 4 m/s²; 2 m/s²; 1 m/s².
+a) Gia tốc tỉ lệ nghịch với khối lượng của hệ. (Đ)
+b) Đồ thị a theo $\dfrac{1}{m}$ là đường thẳng qua gốc toạ độ. (Đ)
+c) Tích m.a luôn bằng 1 N. (Đ)
+d) Khối lượng hệ càng lớn thì gia tốc càng lớn. (S)
+
+Câu 4. Một xe tải khối lượng 5 tấn đang chạy với tốc độ 20 m/s thì hãm phanh, chuyển động chậm dần đều với lực hãm (hợp lực) 10 000 N.
+a) Độ lớn gia tốc của xe là 2 m/s². (Đ)
+b) Thời gian từ lúc hãm phanh đến khi dừng là 10 s. (Đ)
+c) Quãng đường hãm phanh là 200 m. (S)
+d) Nếu xe chở thêm hàng mà lực hãm không đổi thì quãng đường hãm phanh dài hơn. (Đ)
+Lời giải: a = −2 m/s²; t = 10 s; $s = \dfrac{20^2}{2\cdot 2} = 100$ m.
+
+PHẦN III. Câu trắc nghiệm trả lời ngắn
+Câu 1. Một vật khối lượng 0,8 kg chịu tác dụng của hợp lực 4 N. Gia tốc của vật là bao nhiêu m/s²?
+Đáp án: 5
+
+Câu 2. Một xe khối lượng 1,2 tấn tăng tốc với gia tốc 0,5 m/s². Hợp lực tác dụng lên xe là bao nhiêu niutơn?
+Đáp án: 600
+
+Câu 3. Lực 18 N gây cho vật gia tốc 6 m/s². Khối lượng của vật là bao nhiêu kilôgam?
+Đáp án: 3
+
+Câu 4. Một vật khối lượng 4 kg đang chuyển động với vận tốc 2 m/s thì chịu hợp lực 8 N cùng hướng chuyển động. Vận tốc của vật sau 5 s là bao nhiêu m/s?
+Đáp án: 12
+Lời giải: a = 2 m/s²; v = 2 + 2 . 5 = 12 m/s.
+
+Câu 5. Một ô tô khối lượng 2 tấn đang chạy 15 m/s thì hãm phanh, dừng lại sau 5 s. Độ lớn lực hãm (coi là hợp lực, không đổi) là bao nhiêu niutơn?
+Đáp án: 6000
+Lời giải: |a| = 3 m/s²; F = 2000 . 3 = 6000 N.
+
+Câu 6. Kéo một vật khối lượng 10 kg trên mặt sàn ngang bằng lực 30 N theo phương ngang; lực ma sát 10 N. Gia tốc của vật là bao nhiêu m/s²?
+Đáp án: 2
+Lời giải: Hợp lực 30 − 10 = 20 N; a = 2 m/s².

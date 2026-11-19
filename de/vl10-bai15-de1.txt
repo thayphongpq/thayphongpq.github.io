@@ -1,0 +1,162 @@
+VẬT LÍ 10 - CHƯƠNG III. ĐỘNG LỰC HỌC - BÀI 15. ĐỊNH LUẬT 2 NEWTON - ĐỀ 1
+Đề kiểm tra theo cấu trúc thi tốt nghiệp THPT (biên soạn: thầy Lâm Thế Phong, THPT An Thới)
+Thời gian: 50
+
+PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn
+Câu 1. Theo định luật 2 Newton, gia tốc của một vật
+A. ngược hướng với lực tác dụng lên vật.
+*B. cùng hướng với lực tác dụng lên vật; có độ lớn tỉ lệ thuận với độ lớn của lực và tỉ lệ nghịch với khối lượng của vật.
+C. tỉ lệ thuận với khối lượng của vật.
+D. không phụ thuộc vào khối lượng của vật.
+
+Câu 2. Biểu thức của định luật 2 Newton là
+A. $\vec{a} = m.\vec{F}$.
+*B. $\vec{a} = \dfrac{\vec{F}}{m}$.
+C. $\vec{a} = \dfrac{m}{\vec{F}}$.
+D. $\vec{F} = \dfrac{\vec{a}}{m}$.
+
+Câu 3. Đơn vị niutơn (N) được định nghĩa từ định luật 2 Newton là
+*A. 1 N = 1 kg.1 m/s².
+B. 1 N = 1 kg.1 m/s.
+C. 1 N = 1 g.1 m/s².
+D. 1 N = 1 kg/1 m/s².
+
+Câu 4. Đẩy một xe chở hàng với lực không đổi. Nếu khối lượng hàng trên xe tăng lên thì gia tốc của xe
+A. tăng.
+*B. giảm.
+C. không đổi.
+D. bằng 0.
+
+Câu 5. Giữ nguyên khối lượng xe chở hàng, nếu tăng lực đẩy thì gia tốc của xe
+*A. tăng.
+B. giảm.
+C. không đổi.
+D. bằng 0.
+
+Câu 6. Một vật khối lượng 2 kg chịu tác dụng của hợp lực 10 N. Gia tốc của vật là
+A. 20 m/s².
+B. 0,2 m/s².
+C. 12 m/s².
+*D. 5 m/s².
+
+Câu 7. Một vật khối lượng 0,5 kg chuyển động với gia tốc 4 m/s². Hợp lực tác dụng lên vật là
+A. 8 N.
+*B. 2 N.
+C. 4,5 N.
+D. 0,125 N.
+
+Câu 8. Một hợp lực 6 N gây cho vật gia tốc 3 m/s². Khối lượng của vật là
+A. 18 kg.
+B. 0,5 kg.
+*C. 2 kg.
+D. 9 kg.
+
+Câu 9. Khối lượng của vật là đại lượng đặc trưng cho
+A. lực tác dụng lên vật.
+*B. mức quán tính của vật.
+C. vận tốc của vật.
+D. thể tích của vật.
+
+Câu 10. Phát biểu nào sau đây về khối lượng là SAI?
+A. Khối lượng là đại lượng vô hướng.
+B. Khối lượng là đại lượng dương, không đổi đối với mỗi vật.
+C. Khối lượng có tính chất cộng được.
+*D. Khối lượng là đại lượng vectơ cùng hướng với gia tốc.
+
+Câu 11. Các vật khác nhau lần lượt chịu tác dụng của cùng một lực không đổi. Vật nào có khối lượng lớn hơn thì
+A. có gia tốc lớn hơn.
+*B. có gia tốc nhỏ hơn, khó thay đổi vận tốc hơn.
+C. có vận tốc luôn lớn hơn.
+D. không chuyển động.
+
+Câu 12. Một xe chở cát và một xe chở gạo được coi là có khối lượng bằng nhau nếu
+*A. dưới tác dụng của hợp lực như nhau, chúng có gia tốc như nhau.
+B. chúng có cùng thể tích.
+C. chúng chạy cùng tốc độ.
+D. chúng có cùng màu sơn.
+
+Câu 13. Hệ thức nào sau đây viết đúng định luật 2 Newton?
+A. $\vec{F} = m.a$.
+B. $\vec{F} = -m.\vec{a}$.
+*C. $\vec{F} = m.\vec{a}$.
+D. $-\vec{F} = m.\vec{a}$.
+
+Câu 14. Khi vật chịu tác dụng của nhiều lực $\vec{F}_1, \vec{F}_2, \vec{F}_3, ...$ thì trong định luật 2 Newton, $\vec{F}$ là
+A. lực lớn nhất trong các lực.
+*B. hợp lực của các lực đó.
+C. tổng độ lớn của các lực.
+D. lực nhỏ nhất trong các lực.
+
+Câu 15. Đồ thị biểu diễn lực tác dụng F theo gia tốc a của một vật là đường thẳng đi qua gốc toạ độ và điểm (a = 2 m/s²; F = 1,0 N). Khối lượng của vật là
+A. 2 kg.
+*B. 0,5 kg.
+C. 1 kg.
+D. 1,5 kg.
+
+Câu 16. Trong thí nghiệm minh hoạ định luật 2 Newton, dùng máng trượt đệm khí có các lỗ nhỏ thổi không khí nhằm
+A. làm xe chạy nhanh hơn.
+*B. giảm tối đa ma sát khi xe di chuyển trên máng.
+C. làm xe nặng hơn.
+D. đo thời gian chuyển động.
+
+Câu 17. Máy bay có khối lượng càng lớn thì đường băng cất cánh phải càng dài vì
+A. máy bay lớn bay chậm hơn.
+*B. với lực đẩy tương đương, khối lượng lớn thì gia tốc nhỏ, cần quãng đường dài hơn để đạt tốc độ cất cánh.
+C. máy bay lớn không có quán tính.
+D. đường băng dài giúp máy bay nhẹ hơn.
+
+Câu 18. Một vật khối lượng 1 kg chịu tác dụng của hợp lực 1 N. Theo định nghĩa đơn vị niutơn, gia tốc của vật là
+*A. 1 m/s², theo hướng của lực.
+B. 1 m/s², ngược hướng của lực.
+C. 10 m/s².
+D. 0,1 m/s².
+
+PHẦN II. Câu trắc nghiệm đúng sai
+Câu 1. Một quả bóng khối lượng 0,50 kg đang nằm yên trên mặt đất. Một cầu thủ đá bóng với lực 250 N, thời gian chân tác dụng vào bóng là 0,02 s.
+a) Gia tốc của quả bóng trong thời gian chân tác dụng là 500 m/s². (Đ)
+b) Quả bóng bay đi với tốc độ 10 m/s. (Đ)
+c) Gia tốc của quả bóng ngược hướng với lực đá. (S)
+d) Nếu đá quả bóng khối lượng 1,0 kg với cùng lực và cùng thời gian tác dụng thì quả bóng bay đi với tốc độ 5 m/s. (Đ)
+Lời giải: $a = \dfrac{250}{0{,}5} = 500$ m/s²; $v = a.t = 10$ m/s. Với m = 1 kg: a = 250 m/s², v = 5 m/s.
+
+Câu 2. Trong thí nghiệm minh hoạ định luật 2 Newton: xe trượt khối lượng M = 200 g chuyển động trên máng đệm khí, được kéo bởi các quả nặng mỗi quả m = 50 g qua ròng rọc; hai cổng quang điện cách nhau d = 0,5 m; xe xuất phát không vận tốc đầu tại cổng 1. Lấy g = 10 m/s².
+a) Hệ vật gồm xe trượt và các quả nặng. (Đ)
+b) Khi treo 1 quả nặng, khối lượng của hệ là 0,25 kg. (Đ)
+c) Khi treo 1 quả nặng, lực kéo hệ bằng trọng lượng quả nặng, có độ lớn 0,5 N. (Đ)
+d) Khi treo 1 quả nặng, bỏ qua ma sát, thời gian xe đi từ cổng 1 đến cổng 2 là 0,5 s. (S)
+Lời giải: $a = \dfrac{F}{M + m} = \dfrac{0{,}5}{0{,}25} = 2$ m/s²; $t = \sqrt{\dfrac{2d}{a}} = \sqrt{0{,}5} \approx 0{,}71$ s.
+
+Câu 3. Dưới tác dụng của hợp lực 20 N, một chiếc xe đồ chơi chuyển động với gia tốc 0,4 m/s².
+a) Khối lượng của xe là 50 kg. (Đ)
+b) Dưới tác dụng của hợp lực 50 N, xe chuyển động với gia tốc 1 m/s². (Đ)
+c) Nếu hợp lực tăng gấp đôi thì gia tốc giảm một nửa. (S)
+d) Gia tốc của xe luôn cùng hướng với hợp lực tác dụng lên xe. (Đ)
+Lời giải: $m = \dfrac{20}{0{,}4} = 50$ kg; với 50 N: $a = 1$ m/s². Gia tốc tỉ lệ thuận với lực.
+
+Câu 4. Một ô tô chở hàng nặng và một ô tô cùng loại không chở hàng cùng hãm phanh với lực hãm như nhau từ cùng một tốc độ.
+a) Ô tô chở hàng nặng có gia tốc (độ lớn) nhỏ hơn. (Đ)
+b) Ô tô chở hàng nặng đi được quãng đường dài hơn mới dừng lại. (Đ)
+c) Khối lượng càng lớn thì mức quán tính càng nhỏ. (S)
+d) Khối lượng của xe và hàng cộng lại được (khối lượng có tính chất cộng được). (Đ)
+Lời giải: Khối lượng càng lớn thì mức quán tính càng lớn, càng khó thay đổi vận tốc.
+
+PHẦN III. Câu trắc nghiệm trả lời ngắn
+Câu 1. Một vật khối lượng 3 kg chịu tác dụng của hợp lực 15 N. Gia tốc của vật là bao nhiêu m/s²?
+Đáp án: 5
+
+Câu 2. Một ô tô khối lượng 1 200 kg tăng tốc với gia tốc 1,5 m/s². Hợp lực tác dụng lên ô tô là bao nhiêu niutơn?
+Đáp án: 1800
+
+Câu 3. Một hợp lực 24 N gây cho vật gia tốc 8 m/s². Khối lượng của vật là bao nhiêu kilôgam?
+Đáp án: 3
+
+Câu 4. Một vật khối lượng 2 kg chịu tác dụng của hai lực vuông góc có độ lớn 6 N và 8 N. Gia tốc của vật là bao nhiêu m/s²?
+Đáp án: 5
+Lời giải: Hợp lực $\sqrt{6^2 + 8^2} = 10$ N; $a = \dfrac{10}{2} = 5$ m/s².
+
+Câu 5. Một vật khối lượng 2 kg đang đứng yên thì chịu tác dụng của hợp lực không đổi 4 N. Vận tốc của vật sau 3 s là bao nhiêu m/s?
+Đáp án: 6
+Lời giải: a = 2 m/s²; v = 2 . 3 = 6 m/s.
+
+Câu 6. Đồ thị lực F theo gia tốc a của một vật là đường thẳng qua gốc toạ độ và điểm (a = 4 m/s²; F = 6 N). Khối lượng của vật là bao nhiêu kilôgam?
+Đáp án: 1,5|1.5

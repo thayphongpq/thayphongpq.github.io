@@ -1,0 +1,162 @@
+VẬT LÍ 10 - CHƯƠNG III. ĐỘNG LỰC HỌC - BÀI 15. ĐỊNH LUẬT 2 NEWTON - ĐỀ 2
+Đề kiểm tra theo cấu trúc thi tốt nghiệp THPT (biên soạn: thầy Lâm Thế Phong, THPT An Thới)
+Thời gian: 50
+
+PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn
+Câu 1. Gia tốc của một vật không chỉ phụ thuộc vào lực tác dụng mà còn phụ thuộc vào
+A. vận tốc của vật.
+B. màu sắc của vật.
+*C. khối lượng của vật.
+D. nhiệt độ của vật.
+
+Câu 2. Hướng của gia tốc theo định luật 2 Newton là
+*A. hướng của hợp lực tác dụng lên vật.
+B. ngược hướng của hợp lực.
+C. hướng của vận tốc ban đầu.
+D. luôn thẳng đứng xuống dưới.
+
+Câu 3. Theo định luật 2 Newton, với cùng một vật, độ lớn gia tốc
+A. tỉ lệ nghịch với độ lớn của lực.
+*B. tỉ lệ thuận với độ lớn của lực.
+C. không phụ thuộc lực.
+D. tỉ lệ với bình phương lực.
+
+Câu 4. Với cùng một lực tác dụng, độ lớn gia tốc của vật
+A. tỉ lệ thuận với khối lượng.
+*B. tỉ lệ nghịch với khối lượng.
+C. không phụ thuộc khối lượng.
+D. tỉ lệ với bình phương khối lượng.
+
+Câu 5. Trong hệ SI, đơn vị của khối lượng, lực và gia tốc lần lượt là
+A. g, N, m/s.
+*B. kg, N, m/s².
+C. kg, kg.m/s, m/s².
+D. kg, J, m/s².
+
+Câu 6. Một vật khối lượng 4 kg chịu tác dụng của hợp lực 12 N. Gia tốc của vật là
+*A. 3 m/s².
+B. 48 m/s².
+C. 0,33 m/s².
+D. 16 m/s².
+
+Câu 7. Một ô tô khối lượng 1 000 kg chuyển động với gia tốc 2 m/s². Hợp lực tác dụng lên ô tô là
+A. 500 N.
+B. 1 002 N.
+*C. 2 000 N.
+D. 200 N.
+
+Câu 8. Một hợp lực 15 N gây cho vật gia tốc 5 m/s². Khối lượng của vật là
+A. 75 kg.
+B. 0,33 kg.
+C. 10 kg.
+*D. 3 kg.
+
+Câu 9. Cùng một lực tác dụng lần lượt vào vật A (khối lượng 2 kg) và vật B (khối lượng 4 kg). Tỉ số gia tốc $\dfrac{a_A}{a_B}$ là
+A. 0,5.
+*B. 2.
+C. 4.
+D. 1.
+
+Câu 10. Lực tác dụng vào một vật tăng gấp 3 lần, khối lượng vật không đổi. Gia tốc của vật
+*A. tăng 3 lần.
+B. giảm 3 lần.
+C. tăng 9 lần.
+D. không đổi.
+
+Câu 11. Vật nào có mức quán tính lớn hơn?
+A. Vật có thể tích lớn hơn.
+*B. Vật có khối lượng lớn hơn.
+C. Vật có vận tốc lớn hơn.
+D. Vật có màu sẫm hơn.
+
+Câu 12. Ô tô chở hàng nặng khó hãm phanh hơn khi không chở hàng vì
+A. ô tô chở hàng chạy nhanh hơn.
+*B. khối lượng lớn hơn nên với cùng lực hãm, gia tốc (độ lớn) nhỏ hơn, khó thay đổi vận tốc hơn.
+C. phanh của ô tô chở hàng yếu hơn.
+D. ô tô chở hàng không có quán tính.
+
+Câu 13. Trong thí nghiệm minh hoạ định luật 2 Newton (xe trượt trên máng đệm khí, kéo bởi quả nặng qua ròng rọc), lực kéo hệ vật là
+A. lực đẩy của tay.
+*B. trọng lượng của các quả nặng.
+C. lực ma sát.
+D. lực của bơm khí.
+
+Câu 14. Trong thí nghiệm trên, gia tốc được tính theo công thức $a = \dfrac{2d}{t^2}$ vì
+*A. xe xuất phát không vận tốc đầu và chuyển động thẳng nhanh dần đều.
+B. xe chuyển động thẳng đều.
+C. xe chuyển động chậm dần.
+D. xe đứng yên.
+
+Câu 15. Đặt tấm chắn sáng sát cổng quang điện 1 khi bắt đầu thí nghiệm nhằm
+A. làm xe chạy nhanh hơn.
+*B. để đồng hồ bắt đầu đếm thời gian khi xe có vận tốc ban đầu bằng 0.
+C. đo khối lượng xe.
+D. giảm ma sát.
+
+Câu 16. Từ số liệu thí nghiệm với khối lượng hệ không đổi, đồ thị gia tốc a theo lực F là
+A. đường cong đi lên.
+*B. đường thẳng đi qua gốc toạ độ.
+C. đường nằm ngang.
+D. đường thẳng đi xuống.
+
+Câu 17. Một vật chịu tác dụng của hai lực cùng phương, ngược chiều có độ lớn 10 N và 4 N; khối lượng vật 3 kg. Gia tốc của vật là
+A. 4,67 m/s².
+*B. 2 m/s².
+C. 3 m/s².
+D. 1,33 m/s².
+
+Câu 18. Một vật đang đứng yên chịu hợp lực không đổi. Vật sẽ
+A. đứng yên.
+B. chuyển động thẳng đều.
+*C. chuyển động thẳng nhanh dần đều theo hướng của hợp lực.
+D. chuyển động chậm dần.
+
+PHẦN II. Câu trắc nghiệm đúng sai
+Câu 1. Cùng một lực F tác dụng lần lượt vào xe 1 khối lượng $m_1$ thì xe có gia tốc 3 m/s², tác dụng vào xe 2 khối lượng $m_2$ thì xe có gia tốc 6 m/s².
+a) Xe 1 có khối lượng lớn hơn xe 2. (Đ)
+b) $m_1 = 2m_2$. (Đ)
+c) Nếu ghép hai xe lại với nhau rồi tác dụng lực F thì gia tốc là 9 m/s². (S)
+d) Nếu ghép hai xe lại với nhau rồi tác dụng lực F thì gia tốc là 2 m/s². (Đ)
+Lời giải: $m_1 = \dfrac{F}{3}$, $m_2 = \dfrac{F}{6}$; $m_1 + m_2 = \dfrac{F}{2}$ nên a = 2 m/s² (khối lượng cộng được).
+
+Câu 2. Kết quả thí nghiệm với khối lượng hệ (M + m) = 0,5 kg: lực kéo 1 N, 2 N, 3 N gây gia tốc lần lượt khoảng 2 m/s², 4 m/s², 6 m/s².
+a) Gia tốc tỉ lệ thuận với lực kéo. (Đ)
+b) Đồ thị a theo F là đường thẳng đi qua gốc toạ độ. (Đ)
+c) Tỉ số $\dfrac{F}{a}$ bằng khối lượng của hệ (0,5 kg). (Đ)
+d) Khi lực kéo tăng thì khối lượng của hệ tăng. (S)
+Lời giải: Khối lượng không đổi với mỗi vật; chỉ gia tốc thay đổi theo lực.
+
+Câu 3. Một ô tô khối lượng 1,5 tấn đang đứng yên, bắt đầu chuyển động thẳng nhanh dần đều dưới tác dụng của hợp lực 3 000 N.
+a) Gia tốc của ô tô là 2 m/s². (Đ)
+b) Sau 5 s, vận tốc của ô tô là 10 m/s. (Đ)
+c) Quãng đường ô tô đi được trong 5 s đầu là 50 m. (S)
+d) Nếu ô tô chở thêm hàng mà hợp lực không đổi thì gia tốc giảm. (Đ)
+Lời giải: a = 3000 : 1500 = 2 m/s²; v = 10 m/s; $s = \dfrac{1}{2}\cdot 2\cdot 25 = 25$ m.
+
+Câu 4. Về khối lượng:
+a) Khối lượng là đại lượng đặc trưng cho mức quán tính của vật. (Đ)
+b) Khối lượng là đại lượng vectơ. (S)
+c) Khối lượng có tính chất cộng được. (Đ)
+d) Vật có khối lượng càng lớn thì càng khó thay đổi vận tốc. (Đ)
+
+PHẦN III. Câu trắc nghiệm trả lời ngắn
+Câu 1. Một vật khối lượng 5 kg chịu tác dụng của hợp lực 20 N. Gia tốc của vật là bao nhiêu m/s²?
+Đáp án: 4
+
+Câu 2. Một xe khối lượng 800 kg tăng tốc với gia tốc 2,5 m/s². Hợp lực tác dụng lên xe là bao nhiêu niutơn?
+Đáp án: 2000
+
+Câu 3. Một hợp lực 30 N gây cho vật gia tốc 1,5 m/s². Khối lượng của vật là bao nhiêu kilôgam?
+Đáp án: 20
+
+Câu 4. Một vật khối lượng 0,5 kg đang đứng yên thì chịu tác dụng của hợp lực 2 N. Quãng đường vật đi được trong 3 s đầu là bao nhiêu mét?
+Đáp án: 18
+Lời giải: a = 4 m/s²; $s = \dfrac{1}{2}\cdot 4\cdot 9 = 18$ m.
+
+Câu 5. Một quả bóng khối lượng 0,4 kg đang nằm yên, bị đá với lực 200 N trong thời gian 0,01 s. Quả bóng bay đi với tốc độ bao nhiêu m/s?
+Đáp án: 5
+Lời giải: a = 500 m/s²; v = 500 . 0,01 = 5 m/s.
+
+Câu 6. Lực F gây cho vật khối lượng $m_1$ gia tốc 4 m/s², gây cho vật khối lượng $m_2$ gia tốc 12 m/s². Lực F gây cho vật khối lượng $m_1 + m_2$ gia tốc bao nhiêu m/s²?
+Đáp án: 3
+Lời giải: $m_1 = \dfrac{F}{4}$, $m_2 = \dfrac{F}{12}$; $m_1 + m_2 = \dfrac{F}{3}$; a = 3 m/s².
