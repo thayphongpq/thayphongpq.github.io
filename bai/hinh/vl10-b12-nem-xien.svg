@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 500" font-family="Segoe UI, Arial, sans-serif">
+  <rect width="520" height="500" fill="#ffffff"/>
+  <defs>
+    <marker id="k" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#334155"/></marker>
+    <marker id="r" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#dc2626"/></marker>
+    <marker id="g" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#16a34a"/></marker>
+    <marker id="p" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#9333ea"/></marker>
+  </defs>
+  <text x="260" y="30" text-anchor="middle" font-size="22" font-weight="700" fill="#0f172a">Chuyển động ném xiên</text>
+  <text x="260" y="56" text-anchor="middle" font-size="16" fill="#475569">v₀ = 20 m/s, α = 60°, g = 10 m/s²</text>
+  <!-- tỉ lệ 1 m = 12 px; gốc O (55, 420); y = √3·x − 0,05·x² (m); H = 15 m, L = 20√3 ≈ 34,64 m -->
+  <!-- ghi chú -->
+  <text x="75" y="104" font-size="16" fill="#16a34a">Ngang: thẳng đều, v₀<tspan font-size="12" dy="4">x</tspan><tspan dy="-4"> = v₀cos α</tspan></text>
+  <text x="75" y="130" font-size="16" fill="#9333ea">Đứng: như ném lên, gia tốc −g</text>
+  <!-- trục -->
+  <line x1="40" y1="420" x2="502" y2="420" stroke="#334155" stroke-width="2" marker-end="url(#k)"/>
+  <line x1="55" y1="432" x2="55" y2="78" stroke="#334155" stroke-width="2" marker-end="url(#k)"/>
+  <text x="500" y="410" text-anchor="end" font-size="16" fill="#334155">x</text>
+  <text x="64" y="88" font-size="16" fill="#334155">y</text>
+  <text x="46" y="440" text-anchor="end" font-size="17" font-weight="700" fill="#0f172a">O</text>
+  <!-- quỹ đạo parabol -->
+  <path d="M55,420 Q262.8,60 470.7,420" fill="none" stroke="#2563eb" stroke-width="3"/>
+  <!-- phân tích v0 -->
+  <g stroke="#94a3b8" stroke-width="1.2" stroke-dasharray="4 4">
+    <line x1="115" y1="316.1" x2="115" y2="420"/>
+    <line x1="55" y1="316.1" x2="115" y2="316.1"/>
+  </g>
+  <line x1="55" y1="420" x2="115" y2="420" stroke="#16a34a" stroke-width="4" marker-end="url(#g)"/>
+  <line x1="55" y1="420" x2="55" y2="316.1" stroke="#9333ea" stroke-width="4" marker-end="url(#p)"/>
+  <line x1="55" y1="420" x2="115" y2="316.1" stroke="#dc2626" stroke-width="4" marker-end="url(#r)"/>
+  <path d="M85,420 A30,30 0 0 0 70,394.02" fill="none" stroke="#0f172a" stroke-width="1.5"/>
+  <text x="90" y="410" font-size="18" fill="#0f172a">α</text>
+  <text x="64" y="352" font-size="18" font-weight="700" fill="#dc2626">v₀</text>
+  <text x="46" y="372" text-anchor="end" font-size="18" font-weight="700" fill="#9333ea">v₀<tspan font-size="13" dy="4">y</tspan></text>
+  <text x="85" y="443" text-anchor="middle" font-size="18" font-weight="700" fill="#16a34a">v₀<tspan font-size="13" dy="4">x</tspan></text>
+  <!-- đỉnh quỹ đạo -->
+  <line x1="262.8" y1="240" x2="322.8" y2="240" stroke="#16a34a" stroke-width="3" marker-end="url(#g)"/>
+  <circle cx="262.8" cy="240" r="6" fill="#0f172a"/>
+  <text x="290" y="214" font-size="16" fill="#0f172a">Tại đỉnh: v = v₀<tspan font-size="12" dy="4">x</tspan><tspan dy="-4"> ≠ 0</tspan></text>
+  <!-- tầm cao H -->
+  <line x1="262.8" y1="250" x2="262.8" y2="417" stroke="#0f172a" stroke-width="2" marker-start="url(#k)" marker-end="url(#k)"/>
+  <text x="272" y="345" font-size="18" font-weight="700" fill="#0f172a">H = 15 m</text>
+  <!-- điểm rơi và tầm xa L -->
+  <circle cx="470.7" cy="420" r="6" fill="#0f172a"/>
+  <g stroke="#94a3b8" stroke-width="1.2" stroke-dasharray="4 4">
+    <line x1="55" y1="434" x2="55" y2="470"/>
+    <line x1="470.7" y1="426" x2="470.7" y2="470"/>
+  </g>
+  <line x1="57" y1="462" x2="468.7" y2="462" stroke="#0f172a" stroke-width="2" marker-start="url(#k)" marker-end="url(#k)"/>
+  <text x="263" y="488" text-anchor="middle" font-size="18" font-weight="700" fill="#0f172a">L ≈ 34,6 m</text>
+</svg>

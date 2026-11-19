@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 480" font-family="Segoe UI, Arial, sans-serif">
+  <rect width="520" height="480" fill="#ffffff"/>
+  <defs>
+    <marker id="k" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#334155"/></marker>
+    <marker id="r" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#dc2626"/></marker>
+    <marker id="g" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#16a34a"/></marker>
+    <marker id="p" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#9333ea"/></marker>
+  </defs>
+  <text x="260" y="30" text-anchor="middle" font-size="22" font-weight="700" fill="#0f172a">Chuyển động ném ngang</text>
+  <text x="260" y="54" text-anchor="middle" font-size="16" fill="#475569">v₀ = 10 m/s, h = 20 m, g = 10 m/s²</text>
+  <!-- tỉ lệ: 1 m = 15 px; gốc O (90, 90); y_px = 90 + (x_px - 90)²/300 -->
+  <!-- đường gióng hình chiếu -->
+  <g stroke="#94a3b8" stroke-width="1.2" stroke-dasharray="4 4">
+    <line x1="165" y1="90" x2="165" y2="108.75"/><line x1="90" y1="108.75" x2="165" y2="108.75"/>
+    <line x1="240" y1="90" x2="240" y2="165"/><line x1="90" y1="165" x2="240" y2="165"/>
+    <line x1="315" y1="90" x2="315" y2="258.75"/><line x1="90" y1="258.75" x2="315" y2="258.75"/>
+    <line x1="390" y1="90" x2="390" y2="390"/>
+  </g>
+  <!-- mặt đất -->
+  <line x1="90" y1="390" x2="480" y2="390" stroke="#78350f" stroke-width="3"/>
+  <g stroke="#78350f" stroke-width="1.5">
+    <line x1="100" y1="390" x2="90" y2="400"/><line x1="120" y1="390" x2="110" y2="400"/>
+    <line x1="140" y1="390" x2="130" y2="400"/><line x1="160" y1="390" x2="150" y2="400"/><line x1="180" y1="390" x2="170" y2="400"/>
+    <line x1="200" y1="390" x2="190" y2="400"/><line x1="220" y1="390" x2="210" y2="400"/><line x1="240" y1="390" x2="230" y2="400"/>
+    <line x1="260" y1="390" x2="250" y2="400"/><line x1="280" y1="390" x2="270" y2="400"/><line x1="300" y1="390" x2="290" y2="400"/>
+    <line x1="320" y1="390" x2="310" y2="400"/><line x1="340" y1="390" x2="330" y2="400"/><line x1="360" y1="390" x2="350" y2="400"/>
+    <line x1="380" y1="390" x2="370" y2="400"/><line x1="400" y1="390" x2="390" y2="400"/><line x1="420" y1="390" x2="410" y2="400"/>
+    <line x1="440" y1="390" x2="430" y2="400"/><line x1="460" y1="390" x2="450" y2="400"/><line x1="480" y1="390" x2="470" y2="400"/>
+  </g>
+  <!-- trục tọa độ -->
+  <line x1="90" y1="90" x2="490" y2="90" stroke="#334155" stroke-width="2" marker-end="url(#k)"/>
+  <line x1="90" y1="90" x2="90" y2="428" stroke="#334155" stroke-width="2" marker-end="url(#k)"/>
+  <text x="80" y="84" text-anchor="end" font-size="17" font-weight="700" fill="#0f172a">O</text>
+  <text x="492" y="80" text-anchor="end" font-size="16" fill="#334155">x (m)</text>
+  <text x="98" y="434" font-size="16" fill="#334155">y (m)</text>
+  <g font-size="16" fill="#16a34a" text-anchor="middle">
+    <text x="165" y="80">5</text><text x="240" y="80">10</text><text x="315" y="80">15</text><text x="390" y="80">20</text>
+  </g>
+  <g font-size="16" fill="#9333ea" text-anchor="end">
+    <text x="82" y="114">1,25</text><text x="82" y="170">5</text><text x="82" y="264">11,25</text><text x="82" y="395">20</text>
+  </g>
+  <!-- quỹ đạo: nửa parabol -->
+  <path d="M90,90 Q240,90 390,390" fill="none" stroke="#2563eb" stroke-width="3"/>
+  <!-- hình chiếu trên hai trục -->
+  <g fill="#16a34a"><circle cx="165" cy="90" r="4.5"/><circle cx="240" cy="90" r="4.5"/><circle cx="315" cy="90" r="4.5"/><circle cx="390" cy="90" r="4.5"/></g>
+  <g fill="#9333ea"><circle cx="90" cy="108.75" r="4.5"/><circle cx="90" cy="165" r="4.5"/><circle cx="90" cy="258.75" r="4.5"/><circle cx="90" cy="390" r="4.5"/></g>
+  <!-- vị trí vật sau mỗi 0,5 s -->
+  <g fill="#0f172a"><circle cx="90" cy="90" r="7"/><circle cx="165" cy="108.75" r="7"/><circle cx="240" cy="165" r="7"/><circle cx="315" cy="258.75" r="7"/><circle cx="390" cy="390" r="7"/></g>
+  <!-- vận tốc đầu -->
+  <line x1="90" y1="90" x2="140" y2="90" stroke="#dc2626" stroke-width="4" marker-end="url(#r)"/>
+  <text x="115" y="80" text-anchor="middle" font-size="18" font-weight="700" fill="#dc2626">v₀</text>
+  <!-- vận tốc tại t = 1 s -->
+  <line x1="240" y1="165" x2="288" y2="165" stroke="#16a34a" stroke-width="3" marker-end="url(#g)"/>
+  <line x1="240" y1="165" x2="240" y2="213" stroke="#9333ea" stroke-width="3" marker-end="url(#p)"/>
+  <line x1="240" y1="165" x2="288" y2="213" stroke="#dc2626" stroke-width="3" marker-end="url(#r)"/>
+  <text x="264" y="155" text-anchor="middle" font-size="18" font-weight="700" fill="#16a34a">v<tspan font-size="13" dy="4">x</tspan></text>
+  <text x="232" y="205" text-anchor="end" font-size="18" font-weight="700" fill="#9333ea">v<tspan font-size="13" dy="4">y</tspan></text>
+  <text x="296" y="214" font-size="18" font-weight="700" fill="#dc2626">v</text>
+  <!-- ghi chú hai chuyển động thành phần -->
+  <text x="105" y="292" font-size="16" font-weight="700" fill="#16a34a">Ngang: thẳng đều</text>
+  <text x="105" y="314" font-size="16" fill="#16a34a">(Δx bằng nhau)</text>
+  <text x="105" y="346" font-size="16" font-weight="700" fill="#9333ea">Đứng: rơi tự do</text>
+  <text x="105" y="368" font-size="16" fill="#9333ea">(Δy tăng dần)</text>
+  <!-- tầm xa -->
+  <line x1="92" y1="414" x2="388" y2="414" stroke="#0f172a" stroke-width="2" marker-start="url(#k)" marker-end="url(#k)"/>
+  <text x="240" y="438" text-anchor="middle" font-size="18" font-weight="700" fill="#0f172a">L = 20 m</text>
+  <text x="260" y="468" text-anchor="middle" font-size="16" fill="#475569">Mỗi chấm đen: vị trí của vật sau mỗi 0,5 s</text>
+</svg>

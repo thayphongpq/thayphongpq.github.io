@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 420" font-family="Segoe UI, Arial, sans-serif">
+  <rect width="520" height="420" fill="#ffffff"/>
+  <defs>
+    <marker id="k" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#334155"/></marker>
+  </defs>
+  <text x="260" y="32" text-anchor="middle" font-size="22" font-weight="700" fill="#0f172a">Đồ thị s theo t² (số liệu mẫu)</text>
+  <!-- lưới: trục hoành 0..0,18 s² ứng với x = 80..470 (2166,7 px/s²); trục tung 0..0,9 m ứng với y = 350..80 (300 px/m) -->
+  <g stroke="#e2e8f0" stroke-width="1">
+    <line x1="166.7" y1="80" x2="166.7" y2="350"/>
+    <line x1="253.3" y1="80" x2="253.3" y2="350"/>
+    <line x1="340" y1="80" x2="340" y2="350"/>
+    <line x1="426.7" y1="80" x2="426.7" y2="350"/>
+    <line x1="80" y1="290" x2="470" y2="290"/>
+    <line x1="80" y1="230" x2="470" y2="230"/>
+    <line x1="80" y1="170" x2="470" y2="170"/>
+    <line x1="80" y1="110" x2="470" y2="110"/>
+  </g>
+  <!-- trục -->
+  <line x1="80" y1="350" x2="495" y2="350" stroke="#334155" stroke-width="2" marker-end="url(#k)"/>
+  <line x1="80" y1="350" x2="80" y2="58" stroke="#334155" stroke-width="2" marker-end="url(#k)"/>
+  <text x="500" y="338" text-anchor="end" font-size="16" fill="#334155">t² (s²)</text>
+  <text x="90" y="66" font-size="16" fill="#334155">s (m)</text>
+  <text x="70" y="370" text-anchor="end" font-size="16" fill="#334155">O</text>
+  <g font-size="16" fill="#334155" text-anchor="middle">
+    <text x="166.7" y="372">0,04</text>
+    <text x="253.3" y="372">0,08</text>
+    <text x="340" y="372">0,12</text>
+    <text x="426.7" y="372">0,16</text>
+  </g>
+  <g font-size="16" fill="#334155" text-anchor="end">
+    <text x="72" y="295">0,2</text>
+    <text x="72" y="235">0,4</text>
+    <text x="72" y="175">0,6</text>
+    <text x="72" y="115">0,8</text>
+  </g>
+  <!-- đường thẳng s = 4,90 t² qua gốc -->
+  <line x1="80" y1="350" x2="459.2" y2="92.8" stroke="#dc2626" stroke-width="3"/>
+  <!-- điểm đo (t², s): (0,0408; 0,2) (0,0818; 0,4) (0,1225; 0,6) (0,1632; 0,8) -->
+  <g fill="#2563eb" stroke="#ffffff" stroke-width="1.5">
+    <circle cx="168.4" cy="290" r="6"/>
+    <circle cx="257.2" cy="230" r="6"/>
+    <circle cx="345.4" cy="170" r="6"/>
+    <circle cx="433.6" cy="110" r="6"/>
+  </g>
+  <!-- chú thích -->
+  <rect x="94" y="80" width="260" height="82" rx="6" fill="#ffffff" fill-opacity="0.92"/>
+  <text x="102" y="102" font-size="17" font-weight="700" fill="#dc2626">s = (g/2)·t²</text>
+  <text x="102" y="128" font-size="17" fill="#0f172a">k = 0,800 : 0,1632 ≈ 4,90 m/s²</text>
+  <text x="102" y="154" font-size="17" font-weight="700" fill="#0f172a">g = 2k ≈ 9,80 m/s²</text>
+  <text x="260" y="402" text-anchor="middle" font-size="16" fill="#475569">Các điểm đo (màu xanh) nằm gần đường thẳng qua gốc O</text>
+</svg>

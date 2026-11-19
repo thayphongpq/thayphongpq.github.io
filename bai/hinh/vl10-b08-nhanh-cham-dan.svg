@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 390" font-family="Segoe UI, Arial, sans-serif">
+  <rect width="520" height="390" fill="#ffffff"/>
+  <defs>
+    <marker id="b" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#2563eb"/></marker>
+    <marker id="r" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#dc2626"/></marker>
+  </defs>
+  <text x="260" y="34" text-anchor="middle" font-size="22" font-weight="700" fill="#0f172a">Chuyển động nhanh dần và chậm dần</text>
+  <!-- a) nhanh dần -->
+  <text x="20" y="76" font-size="19" font-weight="700" fill="#0f172a">a) Nhanh dần: a cùng chiều v</text>
+  <rect x="62" y="90" width="72" height="24" rx="6" fill="#fbbf24"/>
+  <rect x="72" y="95" width="52" height="14" rx="3" fill="#e0f2fe"/>
+  <rect x="40" y="110" width="120" height="36" rx="8" fill="#f59e0b"/>
+  <circle cx="72" cy="148" r="13" fill="#334155"/>
+  <circle cx="128" cy="148" r="13" fill="#334155"/>
+  <line x1="20" y1="162" x2="500" y2="162" stroke="#94a3b8" stroke-width="3"/>
+  <line x1="172" y1="112" x2="340" y2="112" stroke="#2563eb" stroke-width="5" marker-end="url(#b)"/>
+  <text x="350" y="119" font-size="20" font-weight="700" fill="#2563eb">v</text>
+  <line x1="172" y1="140" x2="272" y2="140" stroke="#dc2626" stroke-width="5" marker-end="url(#r)"/>
+  <text x="282" y="147" font-size="20" font-weight="700" fill="#dc2626">a</text>
+  <text x="385" y="134" font-size="17" fill="#475569">tốc độ tăng</text>
+  <!-- b) chậm dần -->
+  <text x="20" y="236" font-size="19" font-weight="700" fill="#0f172a">b) Chậm dần: a ngược chiều v</text>
+  <rect x="62" y="250" width="72" height="24" rx="6" fill="#fbbf24"/>
+  <rect x="72" y="255" width="52" height="14" rx="3" fill="#e0f2fe"/>
+  <rect x="40" y="270" width="120" height="36" rx="8" fill="#f59e0b"/>
+  <circle cx="72" cy="308" r="13" fill="#334155"/>
+  <circle cx="128" cy="308" r="13" fill="#334155"/>
+  <line x1="20" y1="322" x2="500" y2="322" stroke="#94a3b8" stroke-width="3"/>
+  <line x1="172" y1="272" x2="340" y2="272" stroke="#2563eb" stroke-width="5" marker-end="url(#b)"/>
+  <text x="350" y="279" font-size="20" font-weight="700" fill="#2563eb">v</text>
+  <line x1="272" y1="300" x2="172" y2="300" stroke="#dc2626" stroke-width="5" marker-end="url(#r)"/>
+  <text x="282" y="307" font-size="20" font-weight="700" fill="#dc2626">a</text>
+  <text x="385" y="294" font-size="17" fill="#475569">tốc độ giảm</text>
+  <!-- kết luận -->
+  <line x1="260" y1="348" x2="260" y2="378" stroke="#cbd5e1" stroke-width="2"/>
+  <text x="130" y="369" text-anchor="middle" font-size="18" fill="#0f172a">Nhanh dần: a·v &gt; 0</text>
+  <text x="390" y="369" text-anchor="middle" font-size="18" fill="#0f172a">Chậm dần: a·v &lt; 0</text>
+</svg>

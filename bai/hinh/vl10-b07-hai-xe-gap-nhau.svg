@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 390" font-family="Segoe UI, Arial, sans-serif">
+  <rect width="520" height="390" fill="#ffffff"/>
+  <defs>
+    <marker id="k" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#334155"/></marker>
+  </defs>
+  <!-- gốc O(70,330); 1 h = 120 px; 30 km = 62,5 px -->
+  <text x="260" y="32" text-anchor="middle" font-size="22" font-weight="700" fill="#0f172a">Hai xe chạy ngược chiều gặp nhau</text>
+  <!-- lưới -->
+  <g stroke="#e2e8f0" stroke-width="1">
+    <line x1="130" y1="80" x2="130" y2="330"/><line x1="190" y1="80" x2="190" y2="330"/>
+    <line x1="250" y1="80" x2="250" y2="330"/><line x1="310" y1="80" x2="310" y2="330"/>
+    <line x1="370" y1="80" x2="370" y2="330"/><line x1="430" y1="80" x2="430" y2="330"/>
+    <line x1="70" y1="267.5" x2="430" y2="267.5"/><line x1="70" y1="205" x2="430" y2="205"/>
+    <line x1="70" y1="142.5" x2="430" y2="142.5"/><line x1="70" y1="80" x2="430" y2="80"/>
+  </g>
+  <!-- trục -->
+  <line x1="70" y1="330" x2="485" y2="330" stroke="#334155" stroke-width="2.5" marker-end="url(#k)"/>
+  <line x1="70" y1="330" x2="70" y2="50" stroke="#334155" stroke-width="2.5" marker-end="url(#k)"/>
+  <text x="505" y="354" text-anchor="end" font-size="17" fill="#334155">t (h)</text>
+  <text x="80" y="60" font-size="17" fill="#334155">x (km)</text>
+  <g font-size="16" fill="#334155" text-anchor="middle">
+    <text x="70" y="352">0</text><text x="190" y="352">1</text><text x="310" y="352">2</text><text x="430" y="352">3</text>
+  </g>
+  <g font-size="16" fill="#334155" text-anchor="end">
+    <text x="60" y="273">30</text><text x="60" y="211">60</text><text x="60" y="148">90</text><text x="60" y="86">120</text>
+  </g>
+  <!-- hai đồ thị -->
+  <line x1="70" y1="330" x2="310" y2="80" stroke="#2563eb" stroke-width="4"/>
+  <line x1="70" y1="80" x2="430" y2="330" stroke="#ea580c" stroke-width="4"/>
+  <!-- giao điểm M(1,2 h; 72 km) -->
+  <line x1="214" y1="180" x2="214" y2="330" stroke="#dc2626" stroke-width="2" stroke-dasharray="5 4"/>
+  <line x1="70" y1="180" x2="214" y2="180" stroke="#dc2626" stroke-width="2" stroke-dasharray="5 4"/>
+  <circle cx="214" cy="180" r="6" fill="#dc2626"/>
+  <text x="62" y="186" text-anchor="end" font-size="16" font-weight="700" fill="#dc2626">72</text>
+  <text x="214" y="374" text-anchor="middle" font-size="16" font-weight="700" fill="#dc2626">1,2</text>
+  <rect x="232" y="171" width="124" height="20" fill="#ffffff"/>
+  <text x="236" y="186" font-size="16" font-weight="700" fill="#dc2626">Gặp nhau tại M</text>
+  <!-- chú giải -->
+  <rect x="316" y="94" width="198" height="60" rx="6" fill="#ffffff" stroke="#cbd5e1"/>
+  <line x1="322" y1="110" x2="348" y2="110" stroke="#2563eb" stroke-width="4"/>
+  <text x="354" y="116" font-size="16" fill="#0f172a">Xe A: x = 60t</text>
+  <line x1="322" y1="138" x2="348" y2="138" stroke="#ea580c" stroke-width="4"/>
+  <text x="354" y="144" font-size="16" fill="#0f172a">Xe B: x = 120 − 40t</text>
+</svg>

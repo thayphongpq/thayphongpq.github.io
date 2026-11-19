@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 440" font-family="Segoe UI, Arial, sans-serif">
+  <rect width="520" height="440" fill="#ffffff"/>
+  <text x="260" y="34" text-anchor="middle" font-size="22" font-weight="700" fill="#0f172a">Thí nghiệm ống Newton</text>
+  <!-- ống a: có không khí -->
+  <rect x="90" y="60" width="80" height="310" rx="24" fill="#e0f2fe" stroke="#0369a1" stroke-width="3"/>
+  <g fill="#60a5fa">
+    <circle cx="105" cy="90" r="2.5"/><circle cx="150" cy="105" r="2.5"/><circle cx="125" cy="82" r="2.5"/>
+    <circle cx="102" cy="230" r="2.5"/><circle cx="155" cy="215" r="2.5"/><circle cx="128" cy="250" r="2.5"/>
+    <circle cx="110" cy="285" r="2.5"/><circle cx="152" cy="300" r="2.5"/><circle cx="104" cy="140" r="2.5"/>
+    <circle cx="156" cy="160" r="2.5"/><circle cx="135" cy="215" r="2.5"/><circle cx="118" cy="310" r="2.5"/>
+  </g>
+  <path d="M120,190 Q112,150 142,125 Q150,160 120,190 Z" fill="#fde68a" stroke="#b45309" stroke-width="1.5"/>
+  <line x1="116" y1="196" x2="144" y2="122" stroke="#b45309" stroke-width="2"/>
+  <circle cx="130" cy="340" r="14" fill="#475569"/>
+  <text x="82" y="165" text-anchor="end" font-size="16" fill="#0f172a">lông chim</text>
+  <text x="82" y="346" text-anchor="end" font-size="16" fill="#0f172a">viên bi</text>
+  <!-- giữa -->
+  <text x="260" y="200" text-anchor="middle" font-size="16" fill="#475569">Lật ngược ống,</text>
+  <text x="260" y="222" text-anchor="middle" font-size="16" fill="#475569">quan sát hai vật</text>
+  <!-- ống b: chân không -->
+  <rect x="380" y="44" width="20" height="18" fill="#64748b"/>
+  <rect x="350" y="60" width="80" height="310" rx="24" fill="#ffffff" stroke="#0369a1" stroke-width="3"/>
+  <text x="390" y="190" text-anchor="middle" font-size="16" fill="#94a3b8">chân</text>
+  <text x="390" y="212" text-anchor="middle" font-size="16" fill="#94a3b8">không</text>
+  <circle cx="372" cy="340" r="14" fill="#475569"/>
+  <path d="M396,352 Q390,318 416,300 Q422,330 396,352 Z" fill="#fde68a" stroke="#b45309" stroke-width="1.5"/>
+  <line x1="393" y1="356" x2="418" y2="296" stroke="#b45309" stroke-width="2"/>
+  <text x="440" y="310" font-size="16" fill="#0f172a">lông chim</text>
+  <text x="440" y="356" font-size="16" fill="#0f172a">viên bi</text>
+  <!-- chú thích -->
+  <text x="130" y="400" text-anchor="middle" font-size="18" font-weight="700" fill="#0f172a">a) Có không khí</text>
+  <text x="390" y="400" text-anchor="middle" font-size="18" font-weight="700" fill="#0f172a">b) Hút hết không khí</text>
+  <text x="130" y="426" text-anchor="middle" font-size="16" fill="#475569">bi rơi trước, lông chim sau</text>
+  <text x="390" y="426" text-anchor="middle" font-size="16" fill="#475569">rơi nhanh như nhau</text>
+</svg>

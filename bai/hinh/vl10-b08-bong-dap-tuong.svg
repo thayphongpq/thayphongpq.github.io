@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 425" font-family="Segoe UI, Arial, sans-serif">
+  <rect width="520" height="425" fill="#ffffff"/>
+  <defs>
+    <marker id="b" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#2563eb"/></marker>
+    <marker id="r" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#dc2626"/></marker>
+    <marker id="k" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#334155"/></marker>
+  </defs>
+  <text x="260" y="34" text-anchor="middle" font-size="22" font-weight="700" fill="#0f172a">Bóng đập vào tường rồi bật lại</text>
+  <!-- tường -->
+  <rect x="440" y="70" width="26" height="230" fill="#cbd5e1" stroke="#64748b" stroke-width="2"/>
+  <g stroke="#64748b" stroke-width="2">
+    <line x1="466" y1="90" x2="480" y2="76"/><line x1="466" y1="120" x2="480" y2="106"/><line x1="466" y1="150" x2="480" y2="136"/>
+    <line x1="466" y1="180" x2="480" y2="166"/><line x1="466" y1="210" x2="480" y2="196"/><line x1="466" y1="240" x2="480" y2="226"/>
+    <line x1="466" y1="270" x2="480" y2="256"/><line x1="466" y1="300" x2="480" y2="286"/>
+  </g>
+  <text x="453" y="322" text-anchor="middle" font-size="16" fill="#475569">tường</text>
+  <!-- trước va chạm -->
+  <text x="30" y="86" font-size="18" font-weight="700" fill="#0f172a">Trước va chạm</text>
+  <line x1="150" y1="125" x2="375" y2="125" stroke="#2563eb" stroke-width="5" marker-end="url(#b)"/>
+  <text x="262" y="112" text-anchor="middle" font-size="17" fill="#2563eb">v₀ = 8 m/s</text>
+  <circle cx="405" cy="125" r="20" fill="#f97316"/>
+  <!-- sau va chạm -->
+  <text x="30" y="186" font-size="18" font-weight="700" fill="#0f172a">Sau va chạm</text>
+  <circle cx="405" cy="225" r="20" fill="#f97316"/>
+  <line x1="380" y1="225" x2="212" y2="225" stroke="#2563eb" stroke-width="5" marker-end="url(#b)"/>
+  <text x="296" y="212" text-anchor="middle" font-size="17" fill="#2563eb">v = 6 m/s</text>
+  <!-- chiều dương và gia tốc -->
+  <line x1="40" y1="270" x2="160" y2="270" stroke="#334155" stroke-width="3" marker-end="url(#k)"/>
+  <text x="172" y="276" font-size="16" fill="#334155">chiều dương (+)</text>
+  <line x1="425" y1="270" x2="345" y2="270" stroke="#dc2626" stroke-width="5" marker-end="url(#r)"/>
+  <text x="335" y="277" text-anchor="end" font-size="20" font-weight="700" fill="#dc2626">a</text>
+  <!-- tính toán -->
+  <g font-size="18" fill="#0f172a">
+    <text x="30" y="350">Δv = v − v₀ = (−6) − 8 = −14 m/s</text>
+    <text x="30" y="380">a = Δv : Δt = −14 : 0,04 = −350 m/s²</text>
+  </g>
+  <text x="30" y="410" font-size="17" fill="#dc2626">a ngược chiều dương: hướng ra xa tường</text>
+</svg>

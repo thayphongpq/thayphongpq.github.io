@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 372" font-family="Segoe UI, Arial, sans-serif">
+  <rect width="520" height="372" fill="#ffffff"/>
+  <defs>
+    <marker id="k" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#334155"/></marker>
+  </defs>
+  <!-- gốc O(70,330); 1 s = 38 px; 1 m = 25 px -->
+  <text x="260" y="32" text-anchor="middle" font-size="22" font-weight="700" fill="#0f172a">Đồ thị độ dịch chuyển – thời gian</text>
+  <!-- lưới -->
+  <g stroke="#e2e8f0" stroke-width="1">
+    <line x1="108" y1="80" x2="108" y2="330"/><line x1="146" y1="80" x2="146" y2="330"/>
+    <line x1="184" y1="80" x2="184" y2="330"/><line x1="222" y1="80" x2="222" y2="330"/>
+    <line x1="260" y1="80" x2="260" y2="330"/><line x1="298" y1="80" x2="298" y2="330"/>
+    <line x1="336" y1="80" x2="336" y2="330"/><line x1="374" y1="80" x2="374" y2="330"/>
+    <line x1="412" y1="80" x2="412" y2="330"/><line x1="450" y1="80" x2="450" y2="330"/>
+    <line x1="70" y1="280" x2="450" y2="280"/><line x1="70" y1="230" x2="450" y2="230"/>
+    <line x1="70" y1="180" x2="450" y2="180"/><line x1="70" y1="130" x2="450" y2="130"/>
+    <line x1="70" y1="80" x2="450" y2="80"/>
+  </g>
+  <!-- trục -->
+  <line x1="70" y1="330" x2="490" y2="330" stroke="#334155" stroke-width="2.5" marker-end="url(#k)"/>
+  <line x1="70" y1="330" x2="70" y2="50" stroke="#334155" stroke-width="2.5" marker-end="url(#k)"/>
+  <text x="505" y="354" text-anchor="end" font-size="17" fill="#334155">t (s)</text>
+  <text x="80" y="62" font-size="17" fill="#334155">d (m)</text>
+  <g font-size="16" fill="#334155" text-anchor="middle">
+    <text x="146" y="352">2</text><text x="222" y="352">4</text><text x="298" y="352">6</text>
+    <text x="374" y="352">8</text><text x="450" y="352">10</text>
+  </g>
+  <g font-size="16" fill="#334155" text-anchor="end">
+    <text x="60" y="286">2</text><text x="60" y="236">4</text><text x="60" y="186">6</text>
+    <text x="60" y="136">8</text><text x="60" y="86">10</text>
+  </g>
+  <text x="60" y="350" text-anchor="end" font-size="16" font-weight="700" fill="#0f172a">O</text>
+  <!-- đồ thị O-A-B-C -->
+  <polyline points="70,330 222,130 298,130 450,330" fill="none" stroke="#2563eb" stroke-width="4" stroke-linejoin="round"/>
+  <g fill="#1d4ed8"><circle cx="70" cy="330" r="5"/><circle cx="222" cy="130" r="5"/><circle cx="298" cy="130" r="5"/><circle cx="450" cy="330" r="5"/></g>
+  <text x="214" y="124" text-anchor="end" font-size="17" font-weight="700" fill="#0f172a">A</text>
+  <text x="306" y="124" font-size="17" font-weight="700" fill="#0f172a">B</text>
+  <text x="458" y="322" font-size="17" font-weight="700" fill="#0f172a">C</text>
+  <!-- tam giác độ dốc trên OA: từ (1 s; 2 m) đến (3 s; 6 m) -->
+  <line x1="108" y1="280" x2="184" y2="280" stroke="#dc2626" stroke-width="2.5" stroke-dasharray="6 4"/>
+  <line x1="184" y1="280" x2="184" y2="180" stroke="#dc2626" stroke-width="2.5" stroke-dasharray="6 4"/>
+  <rect x="108" y="287" width="76" height="20" fill="#ffffff"/>
+  <text x="146" y="302" text-anchor="middle" font-size="16" font-weight="700" fill="#dc2626">Δt = 2 s</text>
+  <rect x="189" y="221" width="82" height="21" fill="#ffffff"/>
+  <text x="192" y="237" font-size="16" font-weight="700" fill="#dc2626">Δd = 4 m</text>
+  <!-- nhãn từng đoạn -->
+  <rect x="76" y="134" width="116" height="21" fill="#ffffff"/>
+  <text x="78" y="150" font-size="16" fill="#1d4ed8">OA: v = 2 m/s</text>
+  <rect x="210" y="87" width="100" height="21" fill="#ffffff"/>
+  <text x="260" y="102" text-anchor="middle" font-size="16" fill="#1d4ed8">AB: đứng yên</text>
+  <rect x="369" y="190" width="126" height="21" fill="#ffffff"/>
+  <text x="372" y="206" font-size="16" fill="#1d4ed8">BC: v = −2 m/s</text>
+</svg>
