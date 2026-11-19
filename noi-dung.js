@@ -17,7 +17,7 @@ const THONG_TIN = {
   truong: "THPT An Thới",
 
   // Dòng thông báo trên đầu trang. Để "" nếu không có thông báo.
-  thongBao: "Mới: mục Học song ngữ Việt – Anh với từ điển thuật ngữ Lý – Tin có phát âm; đủ 5 chuyên đề video ôn HSG Vật lí THCS.",
+  thongBao: "Mới: 6 bài học song ngữ Việt – Anh, đố vui từ vựng, phụ đề tiếng Anh cho video, thí nghiệm ảo và chạy Python ngay trên trang.",
 
   gioiThieu: "Nơi tập hợp bài giảng, tài liệu và đề ôn luyện môn Vật lý, Tin học dành cho học sinh THPT.",
 
@@ -59,36 +59,36 @@ const VIDEO = [
   // ▼▼▼ DÁN VIDEO MỚI NGAY DƯỚI DÒNG NÀY ▼▼▼
 
   // ----- HSG THCS -----
-  { ten: "CĐ5 (Phần 4): Công suất cực đại, truyền tải điện, động cơ điện (nâng cao)", mon: "Vật lý", lop: "HSG", cap: "THCS", chuDe: "Chuyên đề 5 - Công suất điện, định luật Jun - Len-xơ", youtube: "https://www.youtube.com/watch?v=hRhFuDc4w3g", taiLieu: "", moTa: "", ngay: "2026-11-18" },
-  { ten: "CĐ5 (Phần 3): Tiền điện, định luật Jun - Len-xơ, bếp điện (Dạng 3 - 4)", mon: "Vật lý", lop: "HSG", cap: "THCS", chuDe: "Chuyên đề 5 - Công suất điện, định luật Jun - Len-xơ", youtube: "https://www.youtube.com/watch?v=2cIrxNdE-5s", taiLieu: "", moTa: "", ngay: "2026-11-18" },
-  { ten: "CĐ5 (Phần 2): Công suất điện, đèn sáng bình thường - Giải đề An Giang", mon: "Vật lý", lop: "HSG", cap: "THCS", chuDe: "Chuyên đề 5 - Công suất điện, định luật Jun - Len-xơ", youtube: "https://www.youtube.com/watch?v=MSnQNtsgxZI", taiLieu: "", moTa: "", ngay: "2026-11-18" },
-  { ten: "CĐ5 (Phần 1): Công suất điện, điện năng, định luật Jun - Len-xơ - Lí thuyết", mon: "Vật lý", lop: "HSG", cap: "THCS", chuDe: "Chuyên đề 5 - Công suất điện, định luật Jun - Len-xơ", youtube: "https://www.youtube.com/watch?v=tMIqKYusVPA", taiLieu: "", moTa: "", ngay: "2026-11-18" },
+  { ten: "CĐ5 (Phần 4): Công suất cực đại, truyền tải điện, động cơ điện (nâng cao)", mon: "Vật lý", lop: "HSG", cap: "THCS", chuDe: "Chuyên đề 5 - Công suất điện, định luật Jun - Len-xơ", tenEn: "Topic 5 (Part 4): Maximum power, power transmission, electric motors (advanced)", youtube: "https://www.youtube.com/watch?v=hRhFuDc4w3g", taiLieu: "", moTa: "", ngay: "2026-11-18" },
+  { ten: "CĐ5 (Phần 3): Tiền điện, định luật Jun - Len-xơ, bếp điện (Dạng 3 - 4)", mon: "Vật lý", lop: "HSG", cap: "THCS", chuDe: "Chuyên đề 5 - Công suất điện, định luật Jun - Len-xơ", tenEn: "Topic 5 (Part 3): Electricity bills, Joule's law, electric stoves", youtube: "https://www.youtube.com/watch?v=2cIrxNdE-5s", taiLieu: "", moTa: "", ngay: "2026-11-18" },
+  { ten: "CĐ5 (Phần 2): Công suất điện, đèn sáng bình thường - Giải đề An Giang", mon: "Vật lý", lop: "HSG", cap: "THCS", chuDe: "Chuyên đề 5 - Công suất điện, định luật Jun - Len-xơ", tenEn: "Topic 5 (Part 2): Electric power, lamps at rated operation - An Giang exam solutions", youtube: "https://www.youtube.com/watch?v=MSnQNtsgxZI", taiLieu: "", moTa: "", ngay: "2026-11-18" },
+  { ten: "CĐ5 (Phần 1): Công suất điện, điện năng, định luật Jun - Len-xơ - Lí thuyết", mon: "Vật lý", lop: "HSG", cap: "THCS", chuDe: "Chuyên đề 5 - Công suất điện, định luật Jun - Len-xơ", tenEn: "Topic 5 (Part 1): Electric power, electrical energy, Joule's law - Theory", youtube: "https://www.youtube.com/watch?v=tMIqKYusVPA", taiLieu: "", moTa: "", ngay: "2026-11-18" },
 
-  { ten: "CĐ4 (Phần 4): Mạch cầu, sụt áp, sự cố mạch điện (nâng cao)", mon: "Vật lý", lop: "HSG", cap: "THCS", chuDe: "Chuyên đề 4 - Định luật Ôm, mạch điện", youtube: "https://www.youtube.com/watch?v=Z0uv6oOFJqk", taiLieu: "", moTa: "", ngay: "2026-11-16" },
-  { ten: "CĐ4 (Phần 3): Vôn kế, ampe kế, chập mạch, biến trở - Giải đề An Giang", mon: "Vật lý", lop: "HSG", cap: "THCS", chuDe: "Chuyên đề 4 - Định luật Ôm, mạch điện", youtube: "https://www.youtube.com/watch?v=6_yeX8g3UiE", taiLieu: "", moTa: "", ngay: "2026-11-16" },
-  { ten: "CĐ4 (Phần 2): Định luật Ôm, điện trở dây dẫn, mạch hỗn hợp (Dạng 1 - 2)", mon: "Vật lý", lop: "HSG", cap: "THCS", chuDe: "Chuyên đề 4 - Định luật Ôm, mạch điện", youtube: "https://www.youtube.com/watch?v=cRHeD9t-ICY", taiLieu: "", moTa: "", ngay: "2026-11-16" },
-  { ten: "CĐ4 (Phần 1): Định luật Ôm - Mạch nối tiếp, song song, mạch cầu - Lí thuyết", mon: "Vật lý", lop: "HSG", cap: "THCS", chuDe: "Chuyên đề 4 - Định luật Ôm, mạch điện", youtube: "https://www.youtube.com/watch?v=sMm1JUIzmf0", taiLieu: "", moTa: "", ngay: "2026-11-16" },
+  { ten: "CĐ4 (Phần 4): Mạch cầu, sụt áp, sự cố mạch điện (nâng cao)", mon: "Vật lý", lop: "HSG", cap: "THCS", chuDe: "Chuyên đề 4 - Định luật Ôm, mạch điện", tenEn: "Topic 4 (Part 4): Bridge circuits, voltage drop, circuit faults (advanced)", youtube: "https://www.youtube.com/watch?v=Z0uv6oOFJqk", taiLieu: "", moTa: "", ngay: "2026-11-16" },
+  { ten: "CĐ4 (Phần 3): Vôn kế, ampe kế, chập mạch, biến trở - Giải đề An Giang", mon: "Vật lý", lop: "HSG", cap: "THCS", chuDe: "Chuyên đề 4 - Định luật Ôm, mạch điện", tenEn: "Topic 4 (Part 3): Voltmeters, ammeters, short circuits, rheostats - An Giang exam solutions", youtube: "https://www.youtube.com/watch?v=6_yeX8g3UiE", taiLieu: "", moTa: "", ngay: "2026-11-16" },
+  { ten: "CĐ4 (Phần 2): Định luật Ôm, điện trở dây dẫn, mạch hỗn hợp (Dạng 1 - 2)", mon: "Vật lý", lop: "HSG", cap: "THCS", chuDe: "Chuyên đề 4 - Định luật Ôm, mạch điện", tenEn: "Topic 4 (Part 2): Ohm's law, wire resistance, mixed circuits", youtube: "https://www.youtube.com/watch?v=cRHeD9t-ICY", taiLieu: "", moTa: "", ngay: "2026-11-16" },
+  { ten: "CĐ4 (Phần 1): Định luật Ôm - Mạch nối tiếp, song song, mạch cầu - Lí thuyết", mon: "Vật lý", lop: "HSG", cap: "THCS", chuDe: "Chuyên đề 4 - Định luật Ôm, mạch điện", tenEn: "Topic 4 (Part 1): Ohm's law - Series, parallel and bridge circuits - Theory", youtube: "https://www.youtube.com/watch?v=sMm1JUIzmf0", taiLieu: "", moTa: "", ngay: "2026-11-16" },
 
-  { ten: "CĐ3 (Phần 4): Con lắc, máng trượt, bóng nảy, lực cản (nâng cao)", mon: "Vật lý", lop: "HSG", cap: "THCS", chuDe: "Chuyên đề 3 - Công, công suất, cơ năng", youtube: "https://www.youtube.com/watch?v=sUoLbOfyeTA", taiLieu: "", moTa: "", ngay: "2026-11-14" },
-  { ten: "CĐ3 (Phần 3): Động năng, thế năng, bảo toàn cơ năng", mon: "Vật lý", lop: "HSG", cap: "THCS", chuDe: "Chuyên đề 3 - Công, công suất, cơ năng", youtube: "https://www.youtube.com/watch?v=5WApaHRgEvs", taiLieu: "", moTa: "", ngay: "2026-11-14" },
-  { ten: "CĐ3 (Phần 2): Công, công suất, hiệu suất, mặt phẳng nghiêng (Dạng 1 - 2)", mon: "Vật lý", lop: "HSG", cap: "THCS", chuDe: "Chuyên đề 3 - Công, công suất, cơ năng", youtube: "https://www.youtube.com/watch?v=a2GDSiELY20", taiLieu: "", moTa: "", ngay: "2026-11-14" },
-  { ten: "CĐ3 (Phần 1): Công, công suất, bảo toàn cơ năng - Lí thuyết trọng tâm", mon: "Vật lý", lop: "HSG", cap: "THCS", chuDe: "Chuyên đề 3 - Công, công suất, cơ năng", youtube: "https://www.youtube.com/watch?v=8vMjPBjRNGU", taiLieu: "", moTa: "", ngay: "2026-11-14" },
+  { ten: "CĐ3 (Phần 4): Con lắc, máng trượt, bóng nảy, lực cản (nâng cao)", mon: "Vật lý", lop: "HSG", cap: "THCS", chuDe: "Chuyên đề 3 - Công, công suất, cơ năng", tenEn: "Topic 3 (Part 4): Pendulums, ramps, bouncing balls, drag forces (advanced)", youtube: "https://www.youtube.com/watch?v=sUoLbOfyeTA", taiLieu: "", moTa: "", ngay: "2026-11-14" },
+  { ten: "CĐ3 (Phần 3): Động năng, thế năng, bảo toàn cơ năng", mon: "Vật lý", lop: "HSG", cap: "THCS", chuDe: "Chuyên đề 3 - Công, công suất, cơ năng", tenEn: "Topic 3 (Part 3): Kinetic energy, potential energy, conservation of mechanical energy", youtube: "https://www.youtube.com/watch?v=5WApaHRgEvs", taiLieu: "", moTa: "", ngay: "2026-11-14" },
+  { ten: "CĐ3 (Phần 2): Công, công suất, hiệu suất, mặt phẳng nghiêng (Dạng 1 - 2)", mon: "Vật lý", lop: "HSG", cap: "THCS", chuDe: "Chuyên đề 3 - Công, công suất, cơ năng", tenEn: "Topic 3 (Part 2): Work, power, efficiency, inclined planes", youtube: "https://www.youtube.com/watch?v=a2GDSiELY20", taiLieu: "", moTa: "", ngay: "2026-11-14" },
+  { ten: "CĐ3 (Phần 1): Công, công suất, bảo toàn cơ năng - Lí thuyết trọng tâm", mon: "Vật lý", lop: "HSG", cap: "THCS", chuDe: "Chuyên đề 3 - Công, công suất, cơ năng", tenEn: "Topic 3 (Part 1): Work, power, conservation of mechanical energy - Key theory", youtube: "https://www.youtube.com/watch?v=8vMjPBjRNGU", taiLieu: "", moTa: "", ngay: "2026-11-14" },
 
-  { ten: "CĐ2 (Phần 4): Vật nối dây, mực nước thay đổi, đòn bẩy và lực đẩy Ác-si-mét", mon: "Vật lý", lop: "HSG", cap: "THCS", chuDe: "Chuyên đề 2 - Khối lượng riêng, áp suất, lực đẩy Ác-si-mét", youtube: "https://www.youtube.com/watch?v=5L5aRG96HDo", taiLieu: "", moTa: "", ngay: "2026-11-12" },
-  { ten: "CĐ2 (Phần 3): Lực đẩy Ác-si-mét - Phương pháp lực kế - Vật nổi", mon: "Vật lý", lop: "HSG", cap: "THCS", chuDe: "Chuyên đề 2 - Khối lượng riêng, áp suất, lực đẩy Ác-si-mét", youtube: "https://www.youtube.com/watch?v=OfSR5i9KGSw", taiLieu: "", moTa: "", ngay: "2026-11-12" },
-  { ten: "CĐ2 (Phần 2): Bài tập khối lượng riêng, áp suất, bình thông nhau (Dạng 1 - 2)", mon: "Vật lý", lop: "HSG", cap: "THCS", chuDe: "Chuyên đề 2 - Khối lượng riêng, áp suất, lực đẩy Ác-si-mét", youtube: "https://www.youtube.com/watch?v=cvsqS9Swdbk", taiLieu: "", moTa: "", ngay: "2026-11-12" },
-  { ten: "CĐ2 (Phần 1): Khối lượng riêng - Áp suất - Lực đẩy Ác-si-mét - Lí thuyết", mon: "Vật lý", lop: "HSG", cap: "THCS", chuDe: "Chuyên đề 2 - Khối lượng riêng, áp suất, lực đẩy Ác-si-mét", youtube: "https://www.youtube.com/watch?v=AWaGjgqDtNM", taiLieu: "", moTa: "", ngay: "2026-11-12" },
+  { ten: "CĐ2 (Phần 4): Vật nối dây, mực nước thay đổi, đòn bẩy và lực đẩy Ác-si-mét", mon: "Vật lý", lop: "HSG", cap: "THCS", chuDe: "Chuyên đề 2 - Khối lượng riêng, áp suất, lực đẩy Ác-si-mét", tenEn: "Topic 2 (Part 4): Objects on strings, changing water levels, levers and buoyancy", youtube: "https://www.youtube.com/watch?v=5L5aRG96HDo", taiLieu: "", moTa: "", ngay: "2026-11-12" },
+  { ten: "CĐ2 (Phần 3): Lực đẩy Ác-si-mét - Phương pháp lực kế - Vật nổi", mon: "Vật lý", lop: "HSG", cap: "THCS", chuDe: "Chuyên đề 2 - Khối lượng riêng, áp suất, lực đẩy Ác-si-mét", tenEn: "Topic 2 (Part 3): Buoyant force - The spring scale method - Floating objects", youtube: "https://www.youtube.com/watch?v=OfSR5i9KGSw", taiLieu: "", moTa: "", ngay: "2026-11-12" },
+  { ten: "CĐ2 (Phần 2): Bài tập khối lượng riêng, áp suất, bình thông nhau (Dạng 1 - 2)", mon: "Vật lý", lop: "HSG", cap: "THCS", chuDe: "Chuyên đề 2 - Khối lượng riêng, áp suất, lực đẩy Ác-si-mét", tenEn: "Topic 2 (Part 2): Density, pressure and communicating vessels - Exercises", youtube: "https://www.youtube.com/watch?v=cvsqS9Swdbk", taiLieu: "", moTa: "", ngay: "2026-11-12" },
+  { ten: "CĐ2 (Phần 1): Khối lượng riêng - Áp suất - Lực đẩy Ác-si-mét - Lí thuyết", mon: "Vật lý", lop: "HSG", cap: "THCS", chuDe: "Chuyên đề 2 - Khối lượng riêng, áp suất, lực đẩy Ác-si-mét", tenEn: "Topic 2 (Part 1): Density - Pressure - Archimedes' principle - Theory", youtube: "https://www.youtube.com/watch?v=AWaGjgqDtNM", taiLieu: "", moTa: "", ngay: "2026-11-12" },
 
-  { ten: "CĐ1 (Phần 4): Xuôi ngược dòng, thang cuốn, con chó chạy đi chạy lại", mon: "Vật lý", lop: "HSG", cap: "THCS", chuDe: "Chuyên đề 1 - Chuyển động cơ học", youtube: "https://www.youtube.com/watch?v=Zd-T8PD31-Y", taiLieu: "", moTa: "", ngay: "2026-11-10" },
-  { ten: "CĐ1 (Phần 3): Đồ thị s-t (Đề HSG An Giang 2025-2026) và bài toán gặp nhau", mon: "Vật lý", lop: "HSG", cap: "THCS", chuDe: "Chuyên đề 1 - Chuyển động cơ học", youtube: "https://www.youtube.com/watch?v=LU8O1lNyUQY", taiLieu: "", moTa: "", ngay: "2026-11-10" },
-  { ten: "CĐ1 (Phần 2): Tốc độ và tốc độ trung bình - 2 dạng chắc chắn có trong đề", mon: "Vật lý", lop: "HSG", cap: "THCS", chuDe: "Chuyên đề 1 - Chuyển động cơ học", youtube: "https://www.youtube.com/watch?v=V2MR2Nauw50", taiLieu: "", moTa: "", ngay: "2026-11-10" },
-  { ten: "CĐ1 (Phần 1): Chuyển động cơ học - Lí thuyết trọng tâm", mon: "Vật lý", lop: "HSG", cap: "THCS", chuDe: "Chuyên đề 1 - Chuyển động cơ học", youtube: "https://www.youtube.com/watch?v=A8FsdamtcUs", taiLieu: "", moTa: "", ngay: "2026-11-10" },
+  { ten: "CĐ1 (Phần 4): Xuôi ngược dòng, thang cuốn, con chó chạy đi chạy lại", mon: "Vật lý", lop: "HSG", cap: "THCS", chuDe: "Chuyên đề 1 - Chuyển động cơ học", tenEn: "Topic 1 (Part 4): Upstream and downstream, escalators, the running dog problem", youtube: "https://www.youtube.com/watch?v=Zd-T8PD31-Y", taiLieu: "", moTa: "", ngay: "2026-11-10" },
+  { ten: "CĐ1 (Phần 3): Đồ thị s-t (Đề HSG An Giang 2025-2026) và bài toán gặp nhau", mon: "Vật lý", lop: "HSG", cap: "THCS", chuDe: "Chuyên đề 1 - Chuyển động cơ học", tenEn: "Topic 1 (Part 3): Position-time graphs (An Giang 2025-2026 exam) and meeting problems", youtube: "https://www.youtube.com/watch?v=LU8O1lNyUQY", taiLieu: "", moTa: "", ngay: "2026-11-10" },
+  { ten: "CĐ1 (Phần 2): Tốc độ và tốc độ trung bình - 2 dạng chắc chắn có trong đề", mon: "Vật lý", lop: "HSG", cap: "THCS", chuDe: "Chuyên đề 1 - Chuyển động cơ học", tenEn: "Topic 1 (Part 2): Speed and average speed - Two must-know problem types", youtube: "https://www.youtube.com/watch?v=V2MR2Nauw50", taiLieu: "", moTa: "", ngay: "2026-11-10" },
+  { ten: "CĐ1 (Phần 1): Chuyển động cơ học - Lí thuyết trọng tâm", mon: "Vật lý", lop: "HSG", cap: "THCS", chuDe: "Chuyên đề 1 - Chuyển động cơ học", tenEn: "Topic 1 (Part 1): Mechanical motion - Key theory", youtube: "https://www.youtube.com/watch?v=A8FsdamtcUs", taiLieu: "", moTa: "", ngay: "2026-11-10" },
 
   // ----- HSG THPT -----
-  { ten: "Chuyên đề 3. Chuyển động tròn đều - Gia tốc hướng tâm - Bài toán kim đồng hồ", mon: "Vật lý", lop: "HSG", cap: "THPT", chuDe: "Chuyên đề 3", youtube: "https://www.youtube.com/watch?v=zITfR2-qnNU", taiLieu: "", moTa: "", ngay: "2026-11-12" },
-  { ten: "Chuyên đề 2. Chuyển động thẳng biến đổi đều - Rơi tự do", mon: "Vật lý", lop: "HSG", cap: "THPT", chuDe: "Chuyên đề 2", youtube: "https://www.youtube.com/watch?v=t2CkWlaNOlc", taiLieu: "", moTa: "", ngay: "2026-11-07" },
-  { ten: "Lời giải 12 bài HSG Chuyển động thẳng đều", mon: "Vật lý", lop: "HSG", cap: "THPT", chuDe: "Chuyên đề 1", youtube: "https://www.youtube.com/watch?v=sP5Ile7C6Rg", taiLieu: "", moTa: "", ngay: "2026-11-06" },
-  { ten: "Chuyên đề 1. Chuyển động thẳng đều", mon: "Vật lý", lop: "HSG", cap: "THPT", chuDe: "Chuyên đề 1", youtube: "https://www.youtube.com/watch?v=q9AwrSVA2_8", taiLieu: "", moTa: "", ngay: "2026-11-05" }
+  { ten: "Chuyên đề 3. Chuyển động tròn đều - Gia tốc hướng tâm - Bài toán kim đồng hồ", mon: "Vật lý", lop: "HSG", cap: "THPT", chuDe: "Chuyên đề 3", tenEn: "Topic 3. Uniform circular motion - Centripetal acceleration - Clock hand problems", youtube: "https://www.youtube.com/watch?v=zITfR2-qnNU", taiLieu: "", moTa: "", ngay: "2026-11-12" },
+  { ten: "Chuyên đề 2. Chuyển động thẳng biến đổi đều - Rơi tự do", mon: "Vật lý", lop: "HSG", cap: "THPT", chuDe: "Chuyên đề 2", tenEn: "Topic 2. Uniformly accelerated motion - Free fall", youtube: "https://www.youtube.com/watch?v=t2CkWlaNOlc", taiLieu: "", moTa: "", ngay: "2026-11-07" },
+  { ten: "Lời giải 12 bài HSG Chuyển động thẳng đều", mon: "Vật lý", lop: "HSG", cap: "THPT", chuDe: "Chuyên đề 1", tenEn: "Solutions to 12 olympiad problems on uniform linear motion", youtube: "https://www.youtube.com/watch?v=sP5Ile7C6Rg", taiLieu: "", moTa: "", ngay: "2026-11-06" },
+  { ten: "Chuyên đề 1. Chuyển động thẳng đều", mon: "Vật lý", lop: "HSG", cap: "THPT", chuDe: "Chuyên đề 1", tenEn: "Topic 1. Uniform linear motion", youtube: "https://www.youtube.com/watch?v=q9AwrSVA2_8", taiLieu: "", moTa: "", ngay: "2026-11-05" }
 ];
 
 /* ---------- ĐỀ TRẮC NGHIỆM ONLINE (học sinh làm bài, chấm điểm ngay) ----------
@@ -114,6 +114,11 @@ const DE_THI = [
 const BAI_HOC = [
   // ▼▼▼ DÁN BÀI HỌC MỚI NGAY DƯỚI DÒNG NÀY ▼▼▼
 
+  { ten: "Chuyển động thẳng biến đổi đều", tenEn: "Uniformly accelerated linear motion", mon: "Vật lý", lop: "10", tep: "bai/vl10-chuyen-dong-bien-doi-deu.json", ngay: "2026-11-19" },
+  { ten: "Dao động điều hòa", tenEn: "Simple harmonic motion", mon: "Vật lý", lop: "11", tep: "bai/vl11-dao-dong-dieu-hoa.json", ngay: "2026-11-19" },
+  { ten: "Khí lí tưởng và phương trình trạng thái", tenEn: "Ideal gases and the equation of state", mon: "Vật lý", lop: "12", tep: "bai/vl12-khi-li-tuong.json", ngay: "2026-11-19" },
+  { ten: "Câu lệnh rẽ nhánh if trong Python", tenEn: "The if statement in Python", mon: "Tin học", lop: "10", tep: "bai/tin10-cau-lenh-if.json", ngay: "2026-11-19" },
+  { ten: "Thuật toán tìm kiếm nhị phân", tenEn: "The binary search algorithm", mon: "Tin học", lop: "11", tep: "bai/tin11-tim-kiem-nhi-phan.json", ngay: "2026-11-19" },
   { ten: "Biến và kiểu dữ liệu trong Python", tenEn: "Variables and data types in Python", mon: "Tin học", lop: "10", tep: "bai/mau-bien-va-kieu-du-lieu.json", ngay: "2026-11-19" }
 ];
 
@@ -163,6 +168,18 @@ const THI_NGHIEM_AO = [
   { ten: "Áp suất chất lỏng, bình thông nhau", phet: "under-pressure", lop: "HSG", cap: "THCS", chuDe: "Chuyên đề 2", moTa: "Áp suất phụ thuộc độ sâu; bình có hình dạng khác nhau." },
   { ten: "Cơ năng và bảo toàn cơ năng", phet: "energy-skate-park-basics", lop: "HSG", cap: "THCS", chuDe: "Chuyên đề 3", moTa: "Động năng, thế năng, cơ năng; ảnh hưởng của ma sát." },
   { ten: "Mạch điện nối tiếp, song song", phet: "circuit-construction-kit-dc", lop: "HSG", cap: "THCS", chuDe: "Chuyên đề 4", moTa: "Lắp mạch, mắc vôn kế, ampe kế; chập mạch." }
+];
+
+/* ---------- HỌC THÊM BẰNG TIẾNG ANH (hiện ở cuối trang "Học song ngữ") ---------- */
+const HOC_TIENG_ANH = [
+  { ten: "Khan Academy - Physics", mon: "Vật lý", moTa: "Video và bài luyện tập Vật lý bằng tiếng Anh, có phụ đề.", link: "https://www.khanacademy.org/science/physics" },
+  { ten: "The Physics Classroom", mon: "Vật lý", moTa: "Bài giảng dễ hiểu, hình động và bài tập tương tác.", link: "https://www.physicsclassroom.com/" },
+  { ten: "OpenStax - College Physics", mon: "Vật lý", moTa: "Sách giáo khoa Vật lý tiếng Anh miễn phí, đọc trực tuyến.", link: "https://openstax.org/details/books/college-physics-2e" },
+  { ten: "PhET Simulations (English)", mon: "Vật lý", moTa: "Thí nghiệm ảo bản tiếng Anh, để luyện thuật ngữ.", link: "https://phet.colorado.edu/en/simulations/browse" },
+  { ten: "Harvard CS50", mon: "Tin học", moTa: "Khóa nhập môn Khoa học máy tính nổi tiếng của Đại học Harvard.", link: "https://cs50.harvard.edu/x/" },
+  { ten: "W3Schools - Python", mon: "Tin học", moTa: "Học Python từng bước, có ví dụ chạy thử ngay.", link: "https://www.w3schools.com/python/" },
+  { ten: "Khan Academy - Computing", mon: "Tin học", moTa: "Lập trình, thuật toán, Internet và khoa học dữ liệu.", link: "https://www.khanacademy.org/computing" },
+  { ten: "The Python Tutorial", mon: "Tin học", moTa: "Tài liệu hướng dẫn chính thức của Python.", link: "https://docs.python.org/3/tutorial/" }
 ];
 
 /* ---------- TỪ ĐIỂN THUẬT NGỮ VIỆT - ANH (trang "Học song ngữ") ----------

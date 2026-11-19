@@ -356,6 +356,24 @@ pre.ma[data-lang]::before { content: attr(data-lang); position: absolute; top: 6
 .py-kq--loi { background: #fdf0ec; border-color: var(--ly-nhat); color: #8c2f12; }
 .py-mo { margin: -6px 0 14px; }
 
+/* Phụ đề video, tên tiếng Anh */
+.phu-de { display: flex; flex-wrap: wrap; align-items: center; gap: 6px; margin-top: 12px; }
+.phu-de .loc__ten { min-width: 0; margin-right: 4px; }
+.phu-de__ghi { margin: 8px 0 0; font-size: 14px; }
+.xem__en { margin: 2px 0 6px; color: #2b3f55; font-style: italic; }
+
+/* Đố vui từ vựng */
+.do-vui { background: var(--trang); border: 1px solid var(--vien); border-left: 6px solid var(--tin); border-radius: 12px; padding: 18px 20px; }
+.do-vui > p { margin: 0 0 4px; color: var(--mo); }
+.do-vui .hang-nut .nut { margin-top: 10px; }
+.do-vui__hoi { display: flex; align-items: center; flex-wrap: wrap; gap: 10px; font-size: 26px; margin: 10px 0 0; }
+.do-vui__hoi .bh-ipa { font-size: 17px; }
+.do-vui .tc-lc { margin-top: 10px; }
+.do-vui__sau .nut { margin-top: 6px; }
+.do-vui__sau .bh-nghe { vertical-align: middle; }
+.do-vui__kq { display: flex; align-items: baseline; gap: 8px; }
+.do-vui__kq b { font-size: 44px; font-weight: 800; color: var(--tin); }
+
 /* Ô bẫy chống thư rác (người thật không thấy) */
 .bay { position: absolute !important; left: -10000px; width: 1px; height: 1px; overflow: hidden; }
 

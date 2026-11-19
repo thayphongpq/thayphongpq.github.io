@@ -141,5 +141,5 @@
     return loi;
   }
 
-  window.BaiHoc = { ve: ve, theThuatNgu: theThuatNgu, nutCheDo: nutCheDo, docCheDo: docCheDo, ghiCheDo: ghiCheDo, phatAm: phatAm, coPhatAm: coPhatAm, kiemTra: kiemTra, tachKhoi: tachKhoi };
+  window.BaiHoc = { ve: ve, theThuatNgu: theThuatNgu, nutNghe: nutNghe, nutCheDo: nutCheDo, docCheDo: docCheDo, ghiCheDo: ghiCheDo, phatAm: phatAm, coPhatAm: coPhatAm, kiemTra: kiemTra, tachKhoi: tachKhoi };
 })();
