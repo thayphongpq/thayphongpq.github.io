@@ -1,0 +1,177 @@
+VẬT LÍ 10 - CHƯƠNG II. ĐỘNG HỌC - BÀI 7. ĐỒ THỊ ĐỘ DỊCH CHUYỂN – THỜI GIAN - ĐỀ 1
+Đề kiểm tra theo cấu trúc thi tốt nghiệp THPT (biên soạn: thầy Lâm Thế Phong, THPT An Thới)
+Thời gian: 50
+
+PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn
+Câu 1. Chuyển động thẳng là chuyển động có
+A. tốc độ không đổi.
+*B. quỹ đạo là đường thẳng.
+C. quỹ đạo là đường tròn.
+D. vận tốc luôn bằng 0.
+
+Câu 2. Khi vật chuyển động thẳng theo một chiều không đổi thì
+*A. độ dịch chuyển và quãng đường đi được có độ lớn như nhau; vận tốc và tốc độ có độ lớn như nhau.
+B. độ dịch chuyển luôn lớn hơn quãng đường đi được.
+C. vận tốc luôn âm.
+D. quãng đường đi được bằng 0.
+
+Câu 3. Một vật đang chuyển động thẳng theo chiều dương thì đổi chiều chuyển động. Trong khoảng thời gian vật chuyển động ngược chiều dương
+A. quãng đường đi được có giá trị âm.
+*B. quãng đường đi được vẫn có giá trị dương, còn độ dịch chuyển có giá trị âm.
+C. tốc độ có giá trị âm.
+D. vận tốc có giá trị dương.
+
+Câu 4. Trong chuyển động thẳng đều, d = v.t với v là hằng số. Đồ thị độ dịch chuyển – thời gian có dạng
+*A. một đoạn thẳng.
+B. một đường cong parabol.
+C. một đường tròn.
+D. một đường hypebol.
+
+Câu 5. Độ dốc (hệ số góc) của đường biểu diễn trong đồ thị độ dịch chuyển – thời gian của chuyển động thẳng cho biết
+A. quãng đường đi được.
+B. thời gian chuyển động.
+*C. vận tốc của chuyển động.
+D. vị trí ban đầu của vật.
+
+Câu 6. Trên đồ thị độ dịch chuyển – thời gian, đoạn đồ thị nằm ngang (song song với trục thời gian) cho biết trong khoảng thời gian đó vật
+A. chuyển động nhanh dần.
+*B. đứng yên.
+C. chuyển động ngược chiều dương.
+D. chuyển động với vận tốc lớn nhất.
+
+Câu 7. Trên đồ thị độ dịch chuyển – thời gian, đoạn đồ thị đi xuống (độ dịch chuyển giảm theo thời gian) cho biết trong khoảng thời gian đó vật
+A. đứng yên.
+B. chuyển động theo chiều dương.
+*C. chuyển động ngược chiều dương.
+D. có vận tốc dương.
+
+Câu 8. Một bạn đi xe đạp thẳng, đều. Số liệu đo được: tại t = 0, d = 0; tại t = 50 s, d = 200 m; tại t = 100 s, d = 400 m. Vận tốc của bạn đó là
+A. 2 m/s.
+*B. 4 m/s.
+C. 0,25 m/s.
+D. 200 m/s.
+
+Câu 9. Hình bên là đồ thị độ dịch chuyển – thời gian của một xe đồ chơi chuyển động thẳng. Vận tốc của xe trên đoạn OA là
+Hình: de/hinh/vl10-b07-h1.svg
+A. 12 m/s.
+*B. 3 m/s.
+C. 4 m/s.
+D. 0,33 m/s.
+Lời giải: $v = \dfrac{\Delta d}{\Delta t} = \dfrac{12 - 0}{4 - 0} = 3$ m/s.
+
+Câu 10. Hình bên là đồ thị độ dịch chuyển – thời gian của một xe đồ chơi chuyển động thẳng. Trong khoảng thời gian từ 4 s đến 8 s, xe
+Hình: de/hinh/vl10-b07-h1.svg
+A. chuyển động theo chiều dương với vận tốc 3 m/s.
+*B. đứng yên.
+C. chuyển động ngược chiều dương.
+D. chuyển động với vận tốc 12 m/s.
+
+Câu 11. Hình bên là đồ thị độ dịch chuyển – thời gian của một xe đồ chơi chuyển động thẳng. Vận tốc của xe trên đoạn BC là
+Hình: de/hinh/vl10-b07-h1.svg
+A. 3 m/s.
+*B. −3 m/s.
+C. 0.
+D. −12 m/s.
+Lời giải: $v = \dfrac{0 - 12}{12 - 8} = -3$ m/s: xe chuyển động ngược chiều dương.
+
+Câu 12. Hình bên là đồ thị độ dịch chuyển – thời gian của một xe đồ chơi chuyển động thẳng. Quãng đường xe đi được trong 12 s là
+Hình: de/hinh/vl10-b07-h1.svg
+A. 0.
+B. 12 m.
+*C. 24 m.
+D. 36 m.
+Lời giải: Đi 12 m theo chiều dương, dừng, rồi quay lại 12 m: s = 24 m.
+
+Câu 13. Hình bên là đồ thị độ dịch chuyển – thời gian của một xe đồ chơi chuyển động thẳng. Độ dịch chuyển của xe sau 12 s là
+Hình: de/hinh/vl10-b07-h1.svg
+*A. 0.
+B. 12 m.
+C. 24 m.
+D. −12 m.
+
+Câu 14. Hình bên là đồ thị độ dịch chuyển – thời gian của hai xe (1) và (2) chuyển động thẳng cùng chiều. Vận tốc của xe (1) là
+Hình: de/hinh/vl10-b07-h2.svg
+A. 5 m/s.
+*B. 10 m/s.
+C. 50 m/s.
+D. 4 m/s.
+Lời giải: Xe (1): sau 5 s độ dịch chuyển 50 m, $v_1 = \dfrac{50}{5} = 10$ m/s.
+
+Câu 15. Hình bên là đồ thị độ dịch chuyển – thời gian của hai xe (1) và (2) chuyển động thẳng cùng chiều. Nhận xét nào đúng?
+Hình: de/hinh/vl10-b07-h2.svg
+*A. Xe (1) chuyển động nhanh hơn xe (2) vì đồ thị của xe (1) dốc hơn.
+B. Xe (2) chuyển động nhanh hơn xe (1).
+C. Hai xe chuyển động nhanh như nhau.
+D. Xe (2) đứng yên.
+
+Câu 16. Hai vật chuyển động thẳng đều. Đồ thị độ dịch chuyển – thời gian của vật nào dốc hơn thì vật đó có
+*A. vận tốc lớn hơn.
+B. vận tốc nhỏ hơn.
+C. thời gian chuyển động dài hơn.
+D. quãng đường nhỏ hơn.
+
+Câu 17. Một vật chuyển động thẳng đều có độ dịch chuyển d = 5t (d tính bằng m, t tính bằng s). Độ dịch chuyển của vật sau 4 s là
+A. 9 m.
+*B. 20 m.
+C. 1,25 m.
+D. 5 m.
+
+Câu 18. Khi vật chuyển động thẳng với vận tốc không đổi v > 0 (xuất phát từ gốc toạ độ) thì đồ thị d – t có dạng giống đồ thị của hàm số
+*A. y = a.x với a > 0 (đường xiên đi lên qua gốc toạ độ).
+B. y = a.x + b với a < 0 (đường xiên đi xuống).
+C. y = a (đường nằm ngang).
+D. y = a.x² (đường parabol).
+
+PHẦN II. Câu trắc nghiệm đúng sai
+Câu 1. Hình bên là đồ thị độ dịch chuyển – thời gian của một xe đồ chơi điều khiển từ xa chuyển động thẳng. Các điểm gấp khúc của đồ thị ứng với: (2 s; 6 m), (5 s; 6 m), (9 s; −2 m), (11 s; −2 m).
+Hình: de/hinh/vl10-b07-h3.svg
+a) Trong 2 s đầu, vận tốc của xe là 3 m/s. (Đ)
+b) Từ giây thứ 2 đến giây thứ 5, xe đứng yên. (Đ)
+c) Từ giây thứ 5 đến giây thứ 9, vận tốc của xe là −2 m/s. (Đ)
+d) Quãng đường xe đi được trong 11 s là 2 m. (S)
+Lời giải: Từ 5 s đến 9 s: $v = \dfrac{-2 - 6}{9 - 5} = -2$ m/s. Quãng đường: 6 + 8 = 14 m; độ dịch chuyển: −2 m.
+
+Câu 2. Một xe đồ chơi chuyển động thẳng; độ dịch chuyển d theo thời gian t được ghi trong bảng: t (s): 0; 1; 2; 3; 4; 5 – d (m): 0; 4; 8; 12; 12; 8.
+a) Trong 3 s đầu, vận tốc của xe là 4 m/s. (Đ)
+b) Từ giây thứ 3 đến giây thứ 4, xe đứng yên. (Đ)
+c) Từ giây thứ 4 đến giây thứ 5, xe chuyển động ngược chiều dương. (Đ)
+d) Độ dịch chuyển của xe trong 5 s là 16 m. (S)
+Lời giải: Quãng đường trong 5 s: 12 + 4 = 16 m; độ dịch chuyển: 8 − 0 = 8 m.
+
+Câu 3. Hình bên là đồ thị độ dịch chuyển – thời gian của hai xe (1) và (2) cùng xuất phát và chuyển động thẳng cùng chiều.
+Hình: de/hinh/vl10-b07-h2.svg
+a) Cả hai xe đều xuất phát từ gốc toạ độ tại thời điểm t = 0. (Đ)
+b) Vận tốc của xe (1) là 10 m/s. (Đ)
+c) Xe (2) chuyển động nhanh hơn xe (1). (S)
+d) Sau 5 s, hai xe cách nhau 30 m. (Đ)
+Lời giải: $v_1 = 10$ m/s, $v_2 = \dfrac{20}{5} = 4$ m/s. Sau 5 s: 50 − 20 = 30 m.
+
+Câu 4. Về đồ thị độ dịch chuyển – thời gian của chuyển động thẳng:
+a) Đồ thị có độ dốc càng lớn thì vật chuyển động càng nhanh. (Đ)
+b) Từ đồ thị có thể biết khi nào vật đổi chiều chuyển động. (Đ)
+c) Đồ thị độ dịch chuyển – thời gian của chuyển động thẳng đều là một đường cong. (S)
+d) Đồ thị độ dịch chuyển – thời gian chính là quỹ đạo chuyển động của vật. (S)
+Lời giải: Đồ thị chuyển động thẳng đều là đoạn thẳng. Đồ thị d – t biểu diễn sự phụ thuộc của d vào t, không phải quỹ đạo.
+
+PHẦN III. Câu trắc nghiệm trả lời ngắn
+Câu 1. Đồ thị độ dịch chuyển – thời gian của một vật chuyển động thẳng là đoạn thẳng đi từ điểm (0 s; 0 m) đến điểm (5 s; 18 m). Vận tốc của vật là bao nhiêu m/s?
+Đáp án: 3,6|3.6
+
+Câu 2. Một xe đồ chơi chuyển động thẳng: trong 3 s đầu đi được 9 m theo chiều dương, sau đó đứng yên 2 s, rồi chuyển động ngược lại trong 3 s về đúng vị trí xuất phát. Quãng đường xe đi được trong 8 s là bao nhiêu mét?
+Đáp án: 18
+Lời giải: s = 9 + 9 = 18 m (độ dịch chuyển bằng 0).
+
+Câu 3. Một vật chuyển động thẳng; độ dịch chuyển d theo thời gian t: t (s): 0; 1; 2; 3 – d (m): 2; 6; 10; 14. Vận tốc của vật trong 3 s đầu là bao nhiêu m/s?
+Đáp án: 4
+Lời giải: $v = \dfrac{14 - 2}{3 - 0} = 4$ m/s.
+
+Câu 4. Đồ thị độ dịch chuyển – thời gian của một vật là đoạn thẳng đi từ điểm (0 s; 0 m) đến điểm (20 s; 50 m). Vận tốc của vật là bao nhiêu m/s?
+Đáp án: 2,5|2.5
+
+Câu 5. Trên đồ thị độ dịch chuyển – thời gian của một vật chuyển động thẳng đều có hai điểm (10 s; 15 m) và (30 s; 75 m). Vận tốc của vật là bao nhiêu m/s?
+Đáp án: 3
+Lời giải: $v = \dfrac{75 - 15}{30 - 10} = 3$ m/s.
+
+Câu 6. Đồ thị độ dịch chuyển – thời gian của một vật chuyển động thẳng là đoạn thẳng đi từ điểm (6 s; 20 m) đến điểm (10 s; 4 m). Vận tốc của vật trong khoảng thời gian đó là bao nhiêu m/s?
+Đáp án: -4|−4
+Lời giải: $v = \dfrac{4 - 20}{10 - 6} = -4$ m/s.

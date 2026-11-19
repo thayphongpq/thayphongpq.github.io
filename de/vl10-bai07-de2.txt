@@ -1,0 +1,178 @@
+VẬT LÍ 10 - CHƯƠNG II. ĐỘNG HỌC - BÀI 7. ĐỒ THỊ ĐỘ DỊCH CHUYỂN – THỜI GIAN - ĐỀ 2
+Đề kiểm tra theo cấu trúc thi tốt nghiệp THPT (biên soạn: thầy Lâm Thế Phong, THPT An Thới)
+Thời gian: 50
+
+PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn
+Câu 1. Dùng đồ thị độ dịch chuyển – thời gian của chuyển động thẳng có thể biết được
+A. khối lượng của vật.
+*B. khi nào vật chuyển động, khi nào vật dừng, khi nào vật chuyển động nhanh, chậm, khi nào vật đổi chiều chuyển động.
+C. lực tác dụng lên vật.
+D. nhiệt độ của vật.
+
+Câu 2. Trong đồ thị độ dịch chuyển – thời gian của chuyển động thẳng, vận tốc có giá trị bằng
+A. diện tích dưới đường biểu diễn.
+*B. hệ số góc (độ dốc) của đường biểu diễn.
+C. tung độ của điểm cuối.
+D. hoành độ của điểm cuối.
+
+Câu 3. Đồ thị độ dịch chuyển – thời gian của một vật chuyển động thẳng đều là một đường xiên đi xuống. Vận tốc của vật
+A. dương.
+*B. âm.
+C. bằng 0.
+D. tăng dần.
+
+Câu 4. Khi vật chuyển động thẳng ngược chiều dương với tốc độ υ thì vận tốc của vật là
+A. v = υ.
+*B. v = −υ.
+C. v = 0.
+D. v = 2υ.
+
+Câu 5. Một học sinh đi xe đạp thẳng đều, cứ 100 m thì đi hết 20 s. Vận tốc của học sinh đó là
+A. 2 m/s.
+*B. 5 m/s.
+C. 20 m/s.
+D. 0,2 m/s.
+
+Câu 6. Hình bên là đồ thị độ dịch chuyển – thời gian của một người bơi trong bể bơi dài 40 m. Vận tốc của người đó trong 20 s đầu là
+Hình: de/hinh/vl10-b07-h4.svg
+*A. 2 m/s.
+B. 0,5 m/s.
+C. 40 m/s.
+D. 4 m/s.
+
+Câu 7. Hình bên là đồ thị độ dịch chuyển – thời gian của một người bơi trong bể bơi dài 40 m. Người đó không bơi (đứng yên) trong khoảng thời gian
+Hình: de/hinh/vl10-b07-h4.svg
+A. từ 0 đến 20 s.
+*B. từ 20 s đến 30 s.
+C. từ 30 s đến 50 s.
+D. từ 0 đến 50 s.
+
+Câu 8. Hình bên là đồ thị độ dịch chuyển – thời gian của một người bơi trong bể bơi dài 40 m. Từ giây thứ 30 đến giây thứ 50, người đó
+Hình: de/hinh/vl10-b07-h4.svg
+A. bơi theo chiều dương.
+*B. bơi ngược chiều dương (quay về chỗ xuất phát).
+C. đứng yên.
+D. bơi nhanh dần.
+
+Câu 9. Hình bên là đồ thị độ dịch chuyển – thời gian của một người bơi trong bể bơi dài 40 m. Vận tốc của người đó từ B đến C là
+Hình: de/hinh/vl10-b07-h4.svg
+A. 2 m/s.
+*B. −2 m/s.
+C. 0.
+D. −40 m/s.
+Lời giải: $v = \dfrac{0 - 40}{50 - 30} = -2$ m/s.
+
+Câu 10. Hình bên là đồ thị độ dịch chuyển – thời gian của một người bơi trong bể bơi dài 40 m. Trong cả quá trình bơi (50 s), độ dịch chuyển và quãng đường của người đó lần lượt là
+Hình: de/hinh/vl10-b07-h4.svg
+A. 80 m và 0.
+*B. 0 và 80 m.
+C. 40 m và 80 m.
+D. 0 và 40 m.
+
+Câu 11. Hình bên là đồ thị độ dịch chuyển – thời gian của một người bơi trong bể bơi dài 40 m. Tốc độ trung bình của người đó trong cả 50 s là
+Hình: de/hinh/vl10-b07-h4.svg
+A. 0.
+B. 0,8 m/s.
+*C. 1,6 m/s.
+D. 2 m/s.
+Lời giải: $v_{tb} = \dfrac{80}{50} = 1{,}6$ m/s.
+
+Câu 12. Hình bên là đồ thị độ dịch chuyển – thời gian của một vật chuyển động thẳng. Tại thời điểm t = 0, vật ở vị trí
+Hình: de/hinh/vl10-b07-h5.svg
+A. gốc toạ độ.
+*B. cách gốc toạ độ 10 m theo chiều dương.
+C. cách gốc toạ độ 50 m.
+D. cách gốc toạ độ 8 m.
+
+Câu 13. Hình bên là đồ thị độ dịch chuyển – thời gian của một vật chuyển động thẳng. Vận tốc của vật là
+Hình: de/hinh/vl10-b07-h5.svg
+A. 6,25 m/s.
+*B. 5 m/s.
+C. 50 m/s.
+D. 4 m/s.
+Lời giải: $v = \dfrac{50 - 10}{8 - 0} = 5$ m/s.
+
+Câu 14. Hình bên là đồ thị độ dịch chuyển – thời gian của một vật chuyển động thẳng. Tại thời điểm t = 4 s, vật cách gốc toạ độ
+Hình: de/hinh/vl10-b07-h5.svg
+A. 20 m.
+*B. 30 m.
+C. 40 m.
+D. 25 m.
+Lời giải: 10 + 5 . 4 = 30 m.
+
+Câu 15. Trên đồ thị độ dịch chuyển – thời gian của một vật chuyển động thẳng đều có hai điểm (2 s; 10 m) và (6 s; 30 m). Vận tốc của vật là
+A. 4 m/s.
+*B. 5 m/s.
+C. 7,5 m/s.
+D. 20 m/s.
+
+Câu 16. Đồ thị độ dịch chuyển – thời gian của một vật là đường thẳng song song với trục thời gian, cắt trục độ dịch chuyển tại 5 m. Vật
+A. chuyển động thẳng đều với vận tốc 5 m/s.
+*B. đứng yên tại vị trí cách gốc toạ độ 5 m.
+C. chuyển động ngược chiều dương.
+D. chuyển động nhanh dần.
+
+Câu 17. Một vật chuyển động thẳng đều từ vị trí cách gốc toạ độ 10 m với vận tốc −2 m/s. Đồ thị độ dịch chuyển – thời gian của vật
+A. là đường xiên đi lên qua gốc toạ độ.
+*B. là đường xiên đi xuống, cắt trục thời gian tại t = 5 s.
+C. là đường nằm ngang.
+D. là đường xiên đi lên, cắt trục thời gian tại t = 5 s.
+
+Câu 18. Một vật chuyển động thẳng theo chiều dương: từ 0 đến 2 s đi được 4 m; từ 2 s đến 4 s đi được thêm 10 m. Trên đồ thị độ dịch chuyển – thời gian
+A. đoạn từ 0 đến 2 s dốc hơn.
+*B. đoạn từ 2 s đến 4 s dốc hơn, vì vật chuyển động nhanh hơn.
+C. hai đoạn dốc như nhau.
+D. đoạn từ 2 s đến 4 s nằm ngang.
+
+PHẦN II. Câu trắc nghiệm đúng sai
+Câu 1. Hình bên là đồ thị độ dịch chuyển – thời gian của một người bơi trong bể bơi dài 40 m.
+Hình: de/hinh/vl10-b07-h4.svg
+a) Trong 20 s đầu, mỗi giây người đó bơi được 2 m. (Đ)
+b) Từ giây thứ 20 đến giây thứ 30, người đó không bơi. (Đ)
+c) Từ giây thứ 30 đến giây thứ 50, vận tốc của người đó là 2 m/s. (S)
+d) Trong cả quá trình, độ dịch chuyển của người đó bằng 0. (Đ)
+Lời giải: Từ 30 s đến 50 s, người đó bơi ngược chiều dương: v = −2 m/s (tốc độ 2 m/s).
+
+Câu 2. Bạn Lan đi xe đạp thẳng đều từ nhà đến trường cách nhà 1200 m, rồi quay lại đến siêu thị nằm giữa nhà và trường, cách nhà 900 m; cứ 100 m bạn đi hết 20 s. Chọn gốc toạ độ ở nhà, chiều dương từ nhà đến trường.
+a) Thời gian bạn Lan đi từ nhà đến trường là 240 s. (Đ)
+b) Vận tốc của bạn Lan khi đi từ nhà đến trường là 5 m/s. (Đ)
+c) Độ dịch chuyển khi đi từ trường đến siêu thị là −300 m. (Đ)
+d) Quãng đường bạn Lan đi được trong cả chuyến là 900 m. (S)
+Lời giải: s = 1200 + 300 = 1500 m; độ dịch chuyển cả chuyến là 900 m.
+
+Câu 3. Hình bên là đồ thị độ dịch chuyển – thời gian của một vật chuyển động thẳng.
+Hình: de/hinh/vl10-b07-h5.svg
+a) Tại t = 0, vật ở vị trí cách gốc toạ độ 10 m. (Đ)
+b) Vận tốc của vật là 5 m/s. (Đ)
+c) Đồ thị là một đoạn thẳng nên vật chuyển động thẳng đều. (Đ)
+d) Độ dịch chuyển của vật trong 8 s là 50 m. (S)
+Lời giải: Độ dịch chuyển trong 8 s: 50 − 10 = 40 m.
+
+Câu 4. Về vận tốc và đồ thị độ dịch chuyển – thời gian:
+a) Đoạn đồ thị nằm ngang ứng với vận tốc bằng 0. (Đ)
+b) Đoạn đồ thị đi xuống ứng với vận tốc âm. (Đ)
+c) Tốc độ của vật có thể có giá trị âm. (S)
+d) Độ dốc của đồ thị càng lớn (về độ lớn) thì vật chuyển động càng nhanh. (Đ)
+Lời giải: Tốc độ luôn dương; chỉ vận tốc mới có thể âm khi vật chuyển động ngược chiều dương.
+
+PHẦN III. Câu trắc nghiệm trả lời ngắn
+Câu 1. Đồ thị độ dịch chuyển – thời gian của một người bơi là đoạn thẳng đi từ điểm (0 s; 0 m) đến điểm (15 s; 45 m). Vận tốc của người đó là bao nhiêu m/s?
+Đáp án: 3
+
+Câu 2. Một bạn đi bộ thẳng đều, cứ 100 m đi hết 25 s. Bạn đó đi hết quãng đường 1000 m trong bao nhiêu giây?
+Đáp án: 250
+
+Câu 3. Một vật chuyển động thẳng đều, độ dịch chuyển của vật giảm từ 40 m xuống 10 m trong 6 s. Vận tốc của vật là bao nhiêu m/s?
+Đáp án: -5|−5
+Lời giải: $v = \dfrac{10 - 40}{6} = -5$ m/s.
+
+Câu 4. Một người bơi trong bể dài 25 m, bơi đi rồi bơi về 2 lượt (mỗi lượt gồm đi hết chiều dài bể và quay về chỗ xuất phát). Quãng đường người đó bơi được là bao nhiêu mét?
+Đáp án: 100
+
+Câu 5. Một người bơi xuất phát từ vị trí d = 0 tại t = 0; đến t = 40 s người đó ở vị trí d = 20 m (sau khi đã bơi đi và quay lại). Độ lớn vận tốc trung bình của người đó trong 40 s là bao nhiêu m/s?
+Đáp án: 0,5|0.5
+Lời giải: $v_{tb} = \dfrac{20 - 0}{40} = 0{,}5$ m/s.
+
+Câu 6. Một vật chuyển động thẳng đều, tại t = 0 vật ở vị trí d = 30 m, vận tốc của vật là −4 m/s. Vật đi qua gốc toạ độ (d = 0) tại thời điểm bao nhiêu giây?
+Đáp án: 7,5|7.5
+Lời giải: 30 − 4t = 0 ⇒ t = 7,5 s.

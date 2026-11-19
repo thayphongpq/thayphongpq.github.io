@@ -1,0 +1,177 @@
+VẬT LÍ 10 - CHƯƠNG II. ĐỘNG HỌC - BÀI 7. ĐỒ THỊ ĐỘ DỊCH CHUYỂN – THỜI GIAN - ĐỀ 3
+Đề kiểm tra theo cấu trúc thi tốt nghiệp THPT (biên soạn: thầy Lâm Thế Phong, THPT An Thới)
+Thời gian: 50
+
+PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn
+Câu 1. Dựa vào đồ thị độ dịch chuyển – thời gian của chuyển động thẳng, có thể xác định được
+*A. vị trí và vận tốc của vật ở bất kì thời điểm nào.
+B. khối lượng của vật.
+C. lực tác dụng lên vật.
+D. hình dạng quỹ đạo của vật trong không gian.
+
+Câu 2. Đồ thị độ dịch chuyển – thời gian của hai vật chuyển động thẳng đều là hai đường thẳng song song. Hai vật có
+*A. cùng vận tốc.
+B. cùng vị trí ban đầu.
+C. vận tốc ngược dấu.
+D. vận tốc bằng 0.
+
+Câu 3. Đồ thị độ dịch chuyển – thời gian của hai vật chuyển động thẳng trên cùng một đường thẳng cắt nhau tại một điểm. Tại thời điểm ứng với giao điểm đó, hai vật
+A. có cùng vận tốc.
+*B. ở cùng một vị trí (gặp nhau).
+C. đều đứng yên.
+D. đổi chiều chuyển động.
+
+Câu 4. Đồ thị độ dịch chuyển – thời gian của chuyển động thẳng đều là một đoạn thẳng vì
+A. vật đi trên đường thẳng.
+*B. biểu thức d = v.t (v không đổi) có dạng hàm số y = a.x.
+C. vật đứng yên.
+D. thời gian chuyển động ngắn.
+
+Câu 5. Khi vẽ đồ thị độ dịch chuyển – thời gian, chọn trên trục tung 1 cm ứng với 200 m. Độ dịch chuyển 1000 m được biểu diễn bằng đoạn dài
+A. 2 cm.
+*B. 5 cm.
+C. 10 cm.
+D. 0,5 cm.
+
+Câu 6. Hình bên là đồ thị độ dịch chuyển – thời gian của một xe chuyển động thẳng. Vận tốc của xe trong 3 s đầu là
+Hình: de/hinh/vl10-b07-h6.svg
+A. 9 m/s.
+*B. 3 m/s.
+C. 0,33 m/s.
+D. 6 m/s.
+
+Câu 7. Hình bên là đồ thị độ dịch chuyển – thời gian của một xe chuyển động thẳng. Từ giây thứ 3 đến giây thứ 6, xe
+Hình: de/hinh/vl10-b07-h6.svg
+*A. đứng yên tại vị trí cách gốc 9 m.
+B. chuyển động với vận tốc 9 m/s.
+C. chuyển động ngược chiều dương.
+D. đổi chiều chuyển động.
+
+Câu 8. Hình bên là đồ thị độ dịch chuyển – thời gian của một xe chuyển động thẳng. Vận tốc của xe từ giây thứ 6 đến giây thứ 10 là
+Hình: de/hinh/vl10-b07-h6.svg
+A. 3 m/s.
+*B. −3 m/s.
+C. −12 m/s.
+D. 0.
+Lời giải: $v = \dfrac{-3 - 9}{10 - 6} = -3$ m/s.
+
+Câu 9. Hình bên là đồ thị độ dịch chuyển – thời gian của một xe chuyển động thẳng. Tại thời điểm 10 s, xe ở vị trí
+Hình: de/hinh/vl10-b07-h6.svg
+A. trùng với gốc toạ độ.
+*B. cách gốc toạ độ 3 m về phía ngược chiều dương.
+C. cách gốc toạ độ 9 m về phía chiều dương.
+D. cách gốc toạ độ 12 m.
+
+Câu 10. Hình bên là đồ thị độ dịch chuyển – thời gian của một xe chuyển động thẳng. Quãng đường xe đi được trong 12 s là
+Hình: de/hinh/vl10-b07-h6.svg
+A. 3 m.
+B. 9 m.
+C. 12 m.
+*D. 21 m.
+Lời giải: 9 m (đi theo chiều dương) + 12 m (quay lại từ 9 m đến −3 m) = 21 m.
+
+Câu 11. Hình bên là đồ thị độ dịch chuyển – thời gian của một xe chuyển động thẳng. Xe đi qua gốc toạ độ (d = 0) khi quay lại tại thời điểm
+Hình: de/hinh/vl10-b07-h6.svg
+A. 6 s.
+*B. 9 s.
+C. 10 s.
+D. 12 s.
+Lời giải: Từ 6 s, xe chuyển động với v = −3 m/s từ d = 9 m: 9 − 3(t − 6) = 0 ⇒ t = 9 s.
+
+Câu 12. Hình bên là đồ thị độ dịch chuyển – thời gian của hai xe (1) và (2) chuyển động thẳng trên cùng một đường. Vận tốc của xe (1) là
+Hình: de/hinh/vl10-b07-h7.svg
+A. 100 m/s.
+*B. 10 m/s.
+C. 6 m/s.
+D. −6 m/s.
+
+Câu 13. Hình bên là đồ thị độ dịch chuyển – thời gian của hai xe (1) và (2) chuyển động thẳng trên cùng một đường. Vận tốc của xe (2) là
+Hình: de/hinh/vl10-b07-h7.svg
+A. 6 m/s.
+*B. −6 m/s.
+C. −60 m/s.
+D. 10 m/s.
+Lời giải: Xe (2) đi từ d = 60 m (t = 0) về d = 0 (t = 10 s): $v = \dfrac{0 - 60}{10} = -6$ m/s.
+
+Câu 14. Hình bên là đồ thị độ dịch chuyển – thời gian của hai xe (1) và (2) chuyển động thẳng trên cùng một đường. Nhận xét nào đúng?
+Hình: de/hinh/vl10-b07-h7.svg
+A. Hai xe chuyển động cùng chiều.
+*B. Hai xe chuyển động ngược chiều nhau.
+C. Xe (2) đứng yên.
+D. Hai xe không bao giờ gặp nhau.
+
+Câu 15. Hình bên là đồ thị độ dịch chuyển – thời gian của hai xe (1) và (2) chuyển động thẳng trên cùng một đường. Tại thời điểm t = 0, hai xe cách nhau
+Hình: de/hinh/vl10-b07-h7.svg
+A. 0.
+B. 40 m.
+*C. 60 m.
+D. 100 m.
+
+Câu 16. Trên đồ thị độ dịch chuyển – thời gian của một vật chuyển động thẳng đều có hai điểm (4 s; 30 m) và (10 s; 6 m). Vận tốc của vật là
+A. 4 m/s.
+*B. −4 m/s.
+C. −2,4 m/s.
+D. 3 m/s.
+
+Câu 17. Một vật chuyển động thẳng có đổi chiều. Để tính quãng đường vật đi được từ đồ thị độ dịch chuyển – thời gian, ta
+A. lấy độ dịch chuyển ở thời điểm cuối.
+*B. cộng độ lớn của độ dịch chuyển trên từng đoạn chuyển động theo một chiều.
+C. lấy hiệu độ dịch chuyển cuối và đầu.
+D. nhân vận tốc cuối với thời gian.
+
+Câu 18. Vận tốc trung bình của một vật trong khoảng thời gian từ $t_1$ đến $t_2$ được xác định từ đồ thị độ dịch chuyển – thời gian bằng
+A. $\dfrac{d_2 + d_1}{t_2 + t_1}$.
+*B. $\dfrac{d_2 - d_1}{t_2 - t_1}$.
+C. $d_2 - d_1$.
+D. $\dfrac{t_2 - t_1}{d_2 - d_1}$.
+
+PHẦN II. Câu trắc nghiệm đúng sai
+Câu 1. Hình bên là đồ thị độ dịch chuyển – thời gian của một xe chuyển động thẳng. Các điểm gấp khúc ứng với (3 s; 9 m), (6 s; 9 m), (10 s; −3 m).
+Hình: de/hinh/vl10-b07-h6.svg
+a) Trong 3 s đầu, vận tốc của xe là 3 m/s. (Đ)
+b) Từ giây thứ 3 đến giây thứ 6, xe đứng yên. (Đ)
+c) Từ giây thứ 6 đến giây thứ 10, xe chuyển động ngược chiều dương với tốc độ 3 m/s. (Đ)
+d) Độ dịch chuyển của xe sau 12 s là 3 m. (S)
+Lời giải: Sau 12 s xe ở d = −3 m: độ dịch chuyển là −3 m (quãng đường 21 m).
+
+Câu 2. Hình bên là đồ thị độ dịch chuyển – thời gian của hai xe (1) và (2) chuyển động thẳng trên cùng một đường.
+Hình: de/hinh/vl10-b07-h7.svg
+a) Vận tốc của xe (1) là 10 m/s. (Đ)
+b) Vận tốc của xe (2) là −6 m/s. (Đ)
+c) Hai xe gặp nhau tại thời điểm t = 3,75 s. (Đ)
+d) Vị trí hai xe gặp nhau cách gốc toạ độ 40 m. (S)
+Lời giải: $d_1 = 10t$; $d_2 = 60 - 6t$. Gặp nhau khi $10t = 60 - 6t \Rightarrow t = 3{,}75$ s; $d = 37{,}5$ m.
+
+Câu 3. Một xe đồ chơi chuyển động thẳng; độ dịch chuyển d theo thời gian t: t (s): 0; 1; 2; 3; 4; 5 – d (m): 2; 4; 6; 8; 8; 8.
+a) Tại t = 0, xe ở vị trí cách gốc toạ độ 2 m. (Đ)
+b) Vận tốc của xe trong 3 s đầu là 2 m/s. (Đ)
+c) Từ giây thứ 3 đến giây thứ 5, xe đứng yên. (Đ)
+d) Quãng đường xe đi được trong 5 s là 8 m. (S)
+Lời giải: Xe đi từ 2 m đến 8 m: quãng đường 6 m.
+
+Câu 4. Bạn Minh đi bộ thẳng đều từ nhà đến trường cách nhà 800 m, rồi quay lại đến hiệu sách cách nhà 600 m (nằm giữa nhà và trường); cứ 100 m bạn đi hết 25 s. Chọn gốc toạ độ ở nhà, chiều dương từ nhà đến trường.
+a) Thời gian đi từ nhà đến trường là 200 s. (Đ)
+b) Vận tốc khi đi từ nhà đến trường là 4 m/s. (Đ)
+c) Vận tốc khi đi từ trường đến hiệu sách là −4 m/s. (Đ)
+d) Trong cả chuyến đi, tốc độ trung bình bằng độ lớn vận tốc trung bình. (S)
+Lời giải: Cả chuyến: s = 1000 m, d = 600 m trong 250 s: tốc độ trung bình 4 m/s, độ lớn vận tốc trung bình 2,4 m/s.
+
+PHẦN III. Câu trắc nghiệm trả lời ngắn
+Câu 1. Đồ thị độ dịch chuyển – thời gian của một vật chuyển động thẳng là đoạn thẳng đi từ điểm (0 s; 0 m) đến điểm (8 s; 28 m). Vận tốc của vật là bao nhiêu m/s?
+Đáp án: 3,5|3.5
+
+Câu 2. Xe (1) chuyển động thẳng đều từ gốc toạ độ với vận tốc 8 m/s; cùng lúc đó xe (2) chuyển động thẳng đều trên cùng đường từ vị trí d = 90 m với vận tốc −10 m/s. Hai xe gặp nhau sau bao nhiêu giây?
+Đáp án: 5
+Lời giải: 8t = 90 − 10t ⇒ t = 5 s.
+
+Câu 3. Trên đồ thị độ dịch chuyển – thời gian của một vật chuyển động thẳng đều có hai điểm (2 s; 14 m) và (6 s; 2 m). Vận tốc của vật là bao nhiêu m/s?
+Đáp án: -3|−3
+
+Câu 4. Một xe chuyển động thẳng: đi 15 m theo chiều dương, dừng lại một lúc, rồi đi ngược lại 20 m. Quãng đường xe đi được là bao nhiêu mét?
+Đáp án: 35
+
+Câu 5. Một xe chuyển động thẳng: đi 15 m theo chiều dương, dừng lại một lúc, rồi đi ngược lại 20 m. Độ dịch chuyển của xe là bao nhiêu mét?
+Đáp án: -5|−5
+
+Câu 6. Khi vẽ đồ thị độ dịch chuyển – thời gian, chọn trên trục hoành 1 cm ứng với 50 s. Thời điểm 175 s cách gốc toạ độ trên trục hoành bao nhiêu xentimét?
+Đáp án: 3,5|3.5
