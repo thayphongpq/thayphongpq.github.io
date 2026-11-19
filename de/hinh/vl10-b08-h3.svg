@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="380" viewBox="0 0 520 380" font-family="Segoe UI, Arial, sans-serif">
+  <rect width="520" height="380" fill="#ffffff"/>
+  <path d="M100 40V320M130 40V320M160 40V320M190 40V320M220 40V320M250 40V320M280 40V320M310 40V320M340 40V320M370 40V320M400 40V320M430 40V320M460 40V320M490 40V320" stroke="#e2e8f0" stroke-width="1"/>
+  <path d="M70 280H490M70 240H490M70 200H490M70 160H490M70 120H490M70 80H490M70 40H490" stroke="#e2e8f0" stroke-width="1"/>
+  <path d="M70 332V22M60 320H504" stroke="#334155" stroke-width="2"/>
+  <path d="M64 30L70 16L76 30zM496 314L510 320L496 326z" fill="#334155"/>
+  <g font-size="15" fill="#0f172a" text-anchor="middle">
+    <text x="70" y="342">0</text><text x="130" y="342">2</text><text x="190" y="342">4</text><text x="250" y="342">6</text><text x="310" y="342">8</text><text x="370" y="342">10</text><text x="430" y="342">12</text><text x="490" y="342">14</text>
+  </g>
+  <g font-size="16" fill="#0f172a" text-anchor="end">
+    <text x="62" y="285">2</text><text x="62" y="245">4</text><text x="62" y="205">6</text><text x="62" y="165">8</text><text x="62" y="125">10</text><text x="62" y="85">12</text><text x="62" y="45">14</text>
+  </g>
+  <text x="80" y="20" font-size="18" font-weight="700" fill="#0f172a">v (m/s)</text>
+  <text x="515" y="370" font-size="18" font-weight="700" fill="#0f172a" text-anchor="end">t (s)</text>
+  <polyline points="70,320 190,80 370,80 460,320" fill="none" stroke="#2563eb" stroke-width="3.5"/>
+  <g fill="#2563eb"><circle cx="190" cy="80" r="5"/><circle cx="370" cy="80" r="5"/><circle cx="460" cy="320" r="5"/></g>
+</svg>
