@@ -102,6 +102,9 @@ const DE_THI = [
   { ten: "Bài 1 – Đề 1. Làm quen với Vật lí", mon: "Vật lý", lop: "10", loai: "Luyện tập", tep: "de/vl10-bai01-de1.txt", thoiGian: 50, ngay: "2026-11-19" },
   { ten: "Bài 1 – Đề 2. Làm quen với Vật lí", mon: "Vật lý", lop: "10", loai: "Luyện tập", tep: "de/vl10-bai01-de2.txt", thoiGian: 50, ngay: "2026-11-19" },
   { ten: "Bài 1 – Đề 3. Làm quen với Vật lí", mon: "Vật lý", lop: "10", loai: "Luyện tập", tep: "de/vl10-bai01-de3.txt", thoiGian: 50, ngay: "2026-11-19" },
+  { ten: "Bài 2 – Đề 1. Các quy tắc an toàn trong phòng thực hành Vật lí", mon: "Vật lý", lop: "10", loai: "Luyện tập", tep: "de/vl10-bai02-de1.txt", thoiGian: 50, ngay: "2026-11-19" },
+  { ten: "Bài 2 – Đề 2. Các quy tắc an toàn trong phòng thực hành Vật lí", mon: "Vật lý", lop: "10", loai: "Luyện tập", tep: "de/vl10-bai02-de2.txt", thoiGian: 50, ngay: "2026-11-19" },
+  { ten: "Bài 2 – Đề 3. Các quy tắc an toàn trong phòng thực hành Vật lí", mon: "Vật lý", lop: "10", loai: "Luyện tập", tep: "de/vl10-bai02-de3.txt", thoiGian: 50, ngay: "2026-11-19" },
 
   // ----- Vật lý 10 (sách thống nhất) - Chương II. Động học -----
   { ten: "Bài 4. Độ dịch chuyển và quãng đường đi được", mon: "Vật lý", lop: "10", loai: "Luyện tập", tep: "de/vl10-bai04-do-dich-chuyen.txt", thoiGian: 20, ngay: "2026-11-19" },
