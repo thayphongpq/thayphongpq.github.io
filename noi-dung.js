@@ -142,6 +142,9 @@ const BAI_HOC = [
   // ----- Bài học song ngữ theo lớp -----
 
   // Vật lý 10 – theo SGK Vật lí 10 (Kết nối tri thức, bộ thống nhất)
+  { ten: "Bài 1. Làm quen với Vật lí", tenEn: "Lesson 1. Getting to know Physics", mon: "Vật lý", lop: "10", chuong: "Chương I. Mở đầu", soBai: 1, tep: "bai/vl10-b01-lam-quen-vat-li.json", ngay: "2026-11-19" },
+  { ten: "Bài 2. Các quy tắc an toàn trong phòng thực hành Vật lí", tenEn: "Lesson 2. Safety rules in the physics laboratory", mon: "Vật lý", lop: "10", chuong: "Chương I. Mở đầu", soBai: 2, tep: "bai/vl10-b02-an-toan-thuc-hanh.json", ngay: "2026-11-19" },
+  { ten: "Bài 3. Thực hành tính sai số trong phép đo. Ghi kết quả đo", tenEn: "Lesson 3. Practical: calculating measurement errors and recording results", mon: "Vật lý", lop: "10", chuong: "Chương I. Mở đầu", soBai: 3, tep: "bai/vl10-b03-sai-so-phep-do.json", ngay: "2026-11-19" },
   { ten: "Bài 4. Độ dịch chuyển và quãng đường đi được", tenEn: "Lesson 4. Displacement and distance travelled", mon: "Vật lý", lop: "10", chuong: "Chương II. Động học", soBai: 4, tep: "bai/vl10-b04-do-dich-chuyen.json", ngay: "2026-11-19" },
   { ten: "Bài 5. Tốc độ và vận tốc", tenEn: "Lesson 5. Speed and velocity", mon: "Vật lý", lop: "10", chuong: "Chương II. Động học", soBai: 5, tep: "bai/vl10-b05-toc-do-van-toc.json", ngay: "2026-11-19" },
   { ten: "Bài 7. Đồ thị độ dịch chuyển – thời gian", tenEn: "Lesson 7. Displacement–time graphs", mon: "Vật lý", lop: "10", chuong: "Chương II. Động học", soBai: 7, tep: "bai/vl10-b07-do-thi-dich-chuyen.json", ngay: "2026-11-19" },
