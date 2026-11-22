@@ -1,0 +1,163 @@
+VẬT LÍ 10 - CHƯƠNG III. ĐỘNG LỰC HỌC - BÀI 18. LỰC MA SÁT - ĐỀ 3
+Đề kiểm tra theo cấu trúc thi tốt nghiệp THPT (biên soạn: thầy Lâm Thế Phong, THPT An Thới)
+Thời gian: 50
+
+PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn
+Câu 1. Kí hiệu μ trong công thức $F_{ms} = \mu N$ là
+A. áp lực.
+B. lực ma sát nghỉ.
+*C. hệ số ma sát trượt.
+D. gia tốc rơi tự do.
+
+Câu 2. Hệ số ma sát trượt là
+*A. tỉ số giữa độ lớn lực ma sát trượt và độ lớn áp lực.
+B. tích của lực ma sát trượt và áp lực.
+C. tỉ số giữa áp lực và lực ma sát trượt.
+D. hiệu của áp lực và lực ma sát trượt.
+
+Câu 3. Phương của lực ma sát trượt
+*A. song song (tiếp tuyến) với bề mặt tiếp xúc.
+B. vuông góc với bề mặt tiếp xúc.
+C. luôn thẳng đứng.
+D. hợp với bề mặt góc 45°.
+
+Câu 4. Vừa đặt một vali lên băng chuyền đang chạy ở sân bay, vali được băng chuyền kéo cho chuyển động nhanh dần theo mà không trượt trên băng. Lực làm vali chuyển động nhanh dần là
+A. lực ma sát trượt.
+*B. lực ma sát nghỉ.
+C. trọng lực.
+D. lực căng.
+
+Câu 5. Hai người cùng đẩy một thùng hàng nặng mà thùng vẫn không di chuyển. Điều đó chứng tỏ
+A. thùng hàng không chịu lực ma sát.
+*B. tổng lực đẩy chưa vượt quá giá trị cực đại của lực ma sát nghỉ.
+C. lực đẩy bằng 0.
+D. lực ma sát trượt lớn hơn lực đẩy.
+
+Câu 6. Trong thí nghiệm đo lực ma sát trượt, kéo tờ giấy bên dưới khối gỗ cho trượt đều, khối gỗ được giữ bởi lực kế cố định. Số chỉ lực kế bằng độ lớn lực ma sát trượt vì
+A. lực kế đo trọng lượng khối gỗ.
+*B. khối gỗ đứng yên nên lực kéo của lực kế cân bằng với lực ma sát trượt.
+C. tờ giấy không có khối lượng.
+D. lực ma sát trượt bằng 0.
+
+Câu 7. Ma sát trượt phụ thuộc vào yếu tố nào sau đây?
+A. Diện tích tiếp xúc.
+B. Màu sắc của vật.
+*C. Độ lớn áp lực.
+D. Thể tích của vật.
+
+Câu 8. Cùng một khối gỗ trượt trên các bề mặt khác nhau với cùng áp lực. Lực ma sát trượt khác nhau chủ yếu là do
+A. diện tích tiếp xúc khác nhau.
+*B. vật liệu và tình trạng bề mặt tiếp xúc khác nhau.
+C. khối lượng khối gỗ thay đổi.
+D. trọng lực thay đổi.
+
+Câu 9. Ma sát có hại trong trường hợp nào sau đây?
+A. Ma sát giữa lốp xe và mặt đường giúp xe không bị trượt.
+B. Ma sát giữa phấn và bảng giúp viết chữ.
+*C. Ma sát làm mòn xích và líp xe đạp.
+D. Ma sát giữa tay và tạ khi nâng tạ.
+
+Câu 10. Trong an toàn giao thông, khi trời mưa đường trơn, lái xe cần giảm tốc độ vì
+A. ma sát giữa lốp xe và mặt đường tăng lên.
+*B. ma sát giữa lốp xe và mặt đường giảm, xe khó dừng lại kịp.
+C. trọng lượng xe giảm.
+D. xe nhẹ hơn.
+
+Câu 11. Giày patin có các bánh xe nhỏ giúp người trượt nhẹ nhàng vì
+*A. thay vật trượt bằng vật lăn làm ma sát giảm đáng kể.
+B. bánh xe làm tăng ma sát.
+C. bánh xe làm người nhẹ hơn.
+D. bánh xe không chịu lực nào.
+
+Câu 12. Một vật đang trượt trên mặt ngang và chỉ chịu tác dụng của lực ma sát theo phương ngang. Vật chuyển động
+A. thẳng đều.
+B. nhanh dần đều.
+*C. chậm dần đều.
+D. tròn đều.
+
+Câu 13. Một khối gỗ khối lượng 3 kg trượt trên mặt ngang, hệ số ma sát trượt 0,2, lấy g = 10 m/s². Lực ma sát trượt là
+*A. 6 N.
+B. 0,6 N.
+C. 15 N.
+D. 60 N.
+
+Câu 14. Một vật khối lượng 5 kg được kéo trượt thẳng đều trên mặt ngang bằng lực nằm ngang 15 N, lấy g = 10 m/s². Hệ số ma sát trượt là
+A. 0,15.
+*B. 0,3.
+C. 3.
+D. 0,5.
+
+Câu 15. Một vật đứng yên trên sàn ngang; giá trị cực đại của lực ma sát nghỉ là 50 N. Đẩy vật bằng lực nằm ngang 30 N thì
+A. vật trượt với lực ma sát 50 N.
+*B. vật vẫn đứng yên, lực ma sát nghỉ có độ lớn 30 N.
+C. vật vẫn đứng yên, lực ma sát nghỉ có độ lớn 50 N.
+D. vật trượt với gia tốc khác 0.
+
+Câu 16. Đặt chồng hai khối gỗ giống nhau lên nhau rồi kéo trượt trên mặt bàn ngang thì lực ma sát trượt giữa khối dưới và mặt bàn so với khi chỉ có một khối
+A. bằng nhau.
+B. bằng một nửa.
+*C. gấp đôi.
+D. gấp bốn.
+
+Câu 17. Một ô tô đang chạy với tốc độ v thì hãm phanh, bánh xe trượt trên đường. Nếu đường trơn (hệ số ma sát trượt nhỏ hơn) thì quãng đường trượt đến khi dừng
+A. ngắn hơn.
+*B. dài hơn.
+C. không đổi.
+D. bằng 0.
+
+Câu 18. Một vật khối lượng 2 kg được kéo bằng lực nằm ngang 10 N trên mặt ngang, hệ số ma sát trượt 0,25, lấy g = 10 m/s². Gia tốc của vật là
+A. 5 m/s².
+B. 1,25 m/s².
+*C. 2,5 m/s².
+D. 7,5 m/s².
+Lời giải: Fms = 0,25 . 20 = 5 N; a = (10 − 5) : 2 = 2,5 m/s².
+
+PHẦN II. Câu trắc nghiệm đúng sai
+Câu 1. Thí nghiệm: ba khối gỗ giống nhau, mỗi khối có trọng lượng 2 N. Kéo mặt gỗ bên dưới cho trượt đều, lực kế giữ khối gỗ theo phương ngang chỉ 0,4 N khi có 1 khối gỗ.
+a) Áp lực khi có 1 khối gỗ là 2 N. (Đ)
+b) Hệ số ma sát trượt giữa gỗ và gỗ trong thí nghiệm là 0,2. (Đ)
+c) Khi chồng 3 khối gỗ, lực kế chỉ khoảng 0,4 N. (S)
+d) Khi chồng 2 khối gỗ, lực kế chỉ khoảng 0,8 N. (Đ)
+Lời giải: μ = 0,4 : 2 = 0,2; 3 khối: 0,2 . 6 = 1,2 N; 2 khối: 0,8 N.
+
+Câu 2. Một ô tô khối lượng 1 000 kg đang chạy trên đường ngang với tốc độ 20 m/s thì hãm phanh, các bánh xe bị giữ chặt và trượt trên mặt đường khô có hệ số ma sát trượt 0,7. Lấy g = 10 m/s².
+a) Lực ma sát trượt tác dụng lên ô tô có độ lớn 7 000 N. (Đ)
+b) Gia tốc của ô tô có độ lớn 7 m/s². (Đ)
+c) Lực ma sát trượt cùng chiều chuyển động của ô tô. (S)
+d) Nếu mặt đường ướt (hệ số ma sát 0,5) thì quãng đường trượt đến khi dừng là 40 m. (Đ)
+Lời giải: Đường ướt: a = −5 m/s²; $s = \dfrac{0 - 400}{2.(-5)} = 40$ m.
+
+Câu 3. Về lực ma sát nghỉ:
+a) Lực ma sát nghỉ giữ cho vật đứng yên khi vật chịu lực song song với bề mặt. (Đ)
+b) Lực ma sát nghỉ có giá trị cực đại. (Đ)
+c) Một vật nằm yên trên mặt bàn ngang, không chịu lực nào khác theo phương ngang, thì vẫn chịu lực ma sát nghỉ khác 0. (S)
+d) Khi người bước đi, lực ma sát nghỉ của mặt đất tác dụng lên bàn chân hướng về phía trước. (Đ)
+
+Câu 4. Một bạn kéo một thùng sách khối lượng 12 kg trên sàn ngang bằng một sợi dây nằm ngang; hệ số ma sát trượt giữa thùng và sàn là 0,25. Lấy g = 10 m/s².
+a) Lực ma sát trượt khi thùng trượt là 30 N. (Đ)
+b) Kéo dây với lực 30 N thì thùng có thể trượt thẳng đều. (Đ)
+c) Kéo dây với lực 54 N thì thùng trượt với gia tốc 4,5 m/s². (S)
+d) Lấy bớt sách ra khỏi thùng thì lực ma sát trượt giảm. (Đ)
+Lời giải: a = (54 − 30) : 12 = 2 m/s².
+
+PHẦN III. Câu trắc nghiệm trả lời ngắn
+Câu 1. Một vật khối lượng 6 kg trượt trên mặt ngang, hệ số ma sát trượt 0,35. Lấy g = 10 m/s². Lực ma sát trượt là bao nhiêu niutơn?
+Đáp án: 21
+
+Câu 2. Một tủ gỗ khối lượng 50 kg được đẩy trượt thẳng đều trên sàn ngang bằng lực nằm ngang 175 N. Lấy g = 10 m/s². Hệ số ma sát trượt giữa tủ và sàn là bao nhiêu?
+Đáp án: 0,35|0.35
+
+Câu 3. Một vật đang trượt trên mặt ngang với tốc độ 4 m/s thì chỉ còn chịu lực ma sát theo phương ngang, hệ số ma sát trượt 0,1. Lấy g = 10 m/s². Quãng đường vật trượt thêm đến khi dừng là bao nhiêu mét?
+Đáp án: 8
+Lời giải: a = −1 m/s²; s = 16 : 2 = 8 m.
+
+Câu 4. Một xe trượt khối lượng 20 kg được kéo trên mặt tuyết nằm ngang bằng lực nằm ngang 50 N, hệ số ma sát trượt 0,1. Lấy g = 10 m/s². Gia tốc của xe là bao nhiêu m/s²?
+Đáp án: 1,5|1.5
+Lời giải: Fms = 20 N; a = (50 − 20) : 20 = 1,5 m/s².
+
+Câu 5. Kéo một vật trượt thẳng đều trên mặt ngang bằng lực nằm ngang 24 N; hệ số ma sát trượt 0,4. Lấy g = 10 m/s². Khối lượng của vật là bao nhiêu kilôgam?
+Đáp án: 6
+Lời giải: N = 24 : 0,4 = 60 N; m = 6 kg.
+
+Câu 6. Một vật trượt trên mặt ngang chịu lực ma sát trượt 8 N. Đặt thêm lên vật một vật khác để áp lực tăng gấp 3 lần (cùng bề mặt). Lực ma sát trượt khi đó là bao nhiêu niutơn?
+Đáp án: 24
