@@ -1,0 +1,161 @@
+VẬT LÍ 10 - CHƯƠNG IV. NĂNG LƯỢNG, CÔNG, CÔNG SUẤT - BÀI 27. HIỆU SUẤT - ĐỀ 1
+Đề kiểm tra theo cấu trúc thi tốt nghiệp THPT (biên soạn: thầy Lâm Thế Phong, THPT An Thới)
+Thời gian: 50
+
+PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn
+Câu 1. Khi năng lượng được chuyển hoá từ dạng này sang dạng khác hoặc truyền từ vật này sang vật khác thì
+A. không có năng lượng hao phí.
+*B. luôn có một phần năng lượng bị hao phí.
+C. năng lượng có ích luôn lớn hơn năng lượng toàn phần.
+D. năng lượng tự sinh ra.
+
+Câu 2. Hiệu suất được tính bằng công thức
+*A. $H = \dfrac{W_{ci}}{W_{tp}}.100\%$.
+B. $H = \dfrac{W_{tp}}{W_{ci}}.100\%$.
+C. $H = W_{ci}.W_{tp}$.
+D. $H = W_{tp} - W_{ci}$.
+
+Câu 3. Hiệu suất của một thiết bị thực tế
+A. luôn lớn hơn 100%.
+B. luôn bằng 100%.
+*C. luôn nhỏ hơn 100%.
+D. có thể âm.
+
+Câu 4. Trong các động cơ nhiệt thông thường, phần năng lượng bị hao phí vào khoảng
+A. 1% đến 5%.
+B. 10%.
+*C. 60% đến 70%.
+D. 95%.
+
+Câu 5. Trong pin mặt trời, phần năng lượng ánh sáng mặt trời được chuyển hoá thành điện năng chỉ vào khoảng
+*A. 10%.
+B. 50%.
+C. 90%.
+D. 100%.
+
+Câu 6. Khi quạt điện hoạt động, năng lượng có ích là
+A. nhiệt năng làm nóng động cơ.
+*B. cơ năng làm cánh quạt quay.
+C. năng lượng âm thanh.
+D. quang năng.
+
+Câu 7. Khi bếp điện hoạt động, năng lượng có ích là
+A. quang năng.
+B. cơ năng.
+*C. nhiệt năng dùng để đun nấu.
+D. hoá năng.
+
+Câu 8. Theo bảng số liệu, đèn dây tóc có hiệu suất khoảng 7%, đèn LED có hiệu suất khoảng 95%. Nhận xét đúng là
+A. đèn dây tóc tiết kiệm điện hơn.
+*B. đèn LED chuyển hoá phần lớn điện năng thành quang năng, tiết kiệm điện hơn.
+C. hai loại đèn tiết kiệm điện như nhau.
+D. đèn LED hao phí nhiều năng lượng hơn.
+
+Câu 9. Hiệu suất của động cơ nhiệt được tính bằng công thức $H = \dfrac{A}{Q}.100\%$, trong đó Q là
+A. công cơ học mà động cơ thực hiện.
+*B. nhiệt lượng mà động cơ nhận được từ nhiên liệu bị đốt cháy.
+C. công suất của động cơ.
+D. năng lượng hao phí.
+
+Câu 10. Một thiết bị nhận năng lượng toàn phần 500 J và tạo ra năng lượng có ích 400 J. Hiệu suất của thiết bị là
+A. 125%.
+*B. 80%.
+C. 20%.
+D. 40%.
+
+Câu 11. Một động cơ điện có công suất toàn phần 2 kW, hiệu suất 90%. Công suất có ích của động cơ là
+A. 2,2 kW.
+B. 0,2 kW.
+*C. 1,8 kW.
+D. 1,1 kW.
+
+Câu 12. Một động cơ xăng có hiệu suất 35% nhận nhiệt lượng 1 000 kJ từ nhiên liệu. Công cơ học động cơ thực hiện được là
+A. 650 kJ.
+*B. 350 kJ.
+C. 35 kJ.
+D. 2 857 kJ.
+
+Câu 13. Một máy nâng đưa vật 50 kg lên cao 6 m và tiêu thụ năng lượng 4 000 J; lấy g = 10 m/s². Hiệu suất của máy nâng là
+A. 13%.
+B. 67%.
+*C. 75%.
+D. 133%.
+
+Câu 14. Năng lượng hao phí bằng
+*A. năng lượng toàn phần trừ năng lượng có ích.
+B. năng lượng có ích trừ năng lượng toàn phần.
+C. năng lượng có ích cộng năng lượng toàn phần.
+D. tích của hiệu suất và năng lượng toàn phần.
+
+Câu 15. Dùng ròng rọc để kéo vật nặng lên cao, năng lượng có ích là
+*A. phần năng lượng làm tăng thế năng của vật.
+B. nhiệt năng do ma sát ở ròng rọc.
+C. năng lượng âm thanh.
+D. động năng của người kéo.
+
+Câu 16. Khi nạp điện cho acquy, năng lượng có ích là
+A. điện năng chuyển hoá thành nhiệt năng.
+*B. điện năng chuyển hoá thành hoá năng dự trữ trong acquy.
+C. hoá năng chuyển hoá thành điện năng.
+D. quang năng.
+
+Câu 17. Một đèn LED công suất 10 W có hiệu suất 95%. Năng lượng ánh sáng do đèn phát ra trong mỗi giây là
+A. 10 J.
+*B. 9,5 J.
+C. 0,5 J.
+D. 95 J.
+
+Câu 18. Một em bé 20 kg chơi cầu trượt từ trạng thái đứng yên ở đỉnh cầu trượt cao khoảng 2,57 m; đến chân cầu trượt, tốc độ của em bé là 3,2 m/s; lấy g = 10 m/s². Hiệu suất của quá trình chuyển thế năng thành động năng xấp xỉ bằng
+A. 80%.
+B. 50%.
+*C. 20%.
+D. 5%.
+Lời giải: Wtp = mgh ≈ 514 J; Wci = ½mv² = 102,4 J; H ≈ 20%.
+
+PHẦN II. Câu trắc nghiệm đúng sai
+Câu 1. Một em bé khối lượng 20 kg trượt không vận tốc đầu từ đỉnh một cầu trượt cao 2,5 m; đến chân cầu trượt tốc độ của em bé là 3 m/s; lấy g = 10 m/s².
+a) Năng lượng toàn phần (thế năng ở đỉnh, gốc tại chân cầu trượt) là 500 J. (Đ)
+b) Động năng của em bé ở chân cầu trượt là 90 J. (Đ)
+c) Hiệu suất của quá trình chuyển thế năng thành động năng là 18%. (Đ)
+d) Độ lớn công của lực ma sát là 90 J. (S)
+Lời giải: |A_ms| = 500 − 90 = 410 J.
+
+Câu 2. Một động cơ điện tiêu thụ công suất 1,5 kW, hiệu suất 80%, dùng để kéo đều một vật lên cao; lấy g = 10 m/s².
+a) Công suất có ích của động cơ là 1,2 kW. (Đ)
+b) Công suất hao phí của động cơ là 300 W. (Đ)
+c) Trong 10 s, động cơ kéo được vật 120 kg lên cao 10 m. (Đ)
+d) Hiệu suất của động cơ là 125%. (S)
+Lời giải: A_ci = 1200 . 10 = 12 000 J = 120 . 10 . 10.
+
+Câu 3. Theo bảng hiệu suất của một số thiết bị trong SGK:
+a) Máy phát điện có hiệu suất khoảng 96%. (Đ)
+b) Đèn dây tóc có hiệu suất khoảng 7%, phần lớn điện năng bị hao phí dưới dạng nhiệt. (Đ)
+c) Máy hơi nước có hiệu suất cao hơn động cơ xăng. (S)
+d) Bếp điện có hiệu suất khoảng 90%. (Đ)
+Lời giải: Máy hơi nước khoảng 15%, động cơ xăng khoảng 35%.
+
+Câu 4. Một ô tô dùng động cơ xăng có hiệu suất 25%; đốt cháy hoàn toàn 2 kg xăng, biết 1 kg xăng toả nhiệt lượng 46.10⁶ J.
+a) Nhiệt lượng do 2 kg xăng toả ra là 92.10⁶ J. (Đ)
+b) Công cơ học động cơ thực hiện được là 23.10⁶ J. (Đ)
+c) Năng lượng hao phí là 69.10⁶ J. (Đ)
+d) Phần năng lượng hao phí biến mất hoàn toàn, không chuyển thành dạng năng lượng nào. (S)
+
+PHẦN III. Câu trắc nghiệm trả lời ngắn
+Câu 1. Một thiết bị nhận năng lượng toàn phần 800 J và tạo ra năng lượng có ích 600 J. Hiệu suất của thiết bị là bao nhiêu phần trăm?
+Đáp án: 75
+
+Câu 2. Một động cơ có công suất toàn phần 2,5 kW và công suất có ích 2 kW. Hiệu suất của động cơ là bao nhiêu phần trăm?
+Đáp án: 80
+
+Câu 3. Một bếp điện có công suất 2 000 W, hiệu suất 90%. Nhiệt lượng có ích bếp cung cấp trong mỗi giây là bao nhiêu jun?
+Đáp án: 1800
+
+Câu 4. Một động cơ nhiệt có hiệu suất 30% nhận nhiệt lượng 2.10⁶ J từ nhiên liệu. Công cơ học động cơ thực hiện được là bao nhiêu kilôjun?
+Đáp án: 600
+
+Câu 5. Một máy bơm đưa 600 kg nước lên cao 5 m và tiêu thụ năng lượng 50 kJ; lấy g = 10 m/s². Hiệu suất của máy bơm là bao nhiêu phần trăm?
+Đáp án: 60
+
+Câu 6. Một ô tô chuyển động đều với tốc độ 54 km/h; động cơ có công suất 45 kW, hiệu suất 25%; 1 kg xăng đốt cháy hoàn toàn toả nhiệt lượng 46.10⁶ J. Khi tiêu thụ hết 21 kg xăng, ô tô đi được quãng đường bao nhiêu kilômét? (Làm tròn đến hàng phần mười.)
+Đáp án: 80,5|80.5
+Lời giải: Q = 21 . 46.10⁶ = 966.10⁶ J; A = 0,25Q = 241,5.10⁶ J; t = A : 45 000 ≈ 5 367 s; s = 15 . t ≈ 80 500 m.

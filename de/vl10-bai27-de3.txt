@@ -1,0 +1,158 @@
+VẬT LÍ 10 - CHƯƠNG IV. NĂNG LƯỢNG, CÔNG, CÔNG SUẤT - BÀI 27. HIỆU SUẤT - ĐỀ 3
+Đề kiểm tra theo cấu trúc thi tốt nghiệp THPT (biên soạn: thầy Lâm Thế Phong, THPT An Thới)
+Thời gian: 50
+
+PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn
+Câu 1. Năng lượng toàn phần mà một thiết bị nhận vào bằng
+*A. tổng năng lượng có ích và năng lượng hao phí.
+B. hiệu của năng lượng có ích và năng lượng hao phí.
+C. năng lượng có ích.
+D. năng lượng hao phí.
+
+Câu 2. Hiệu suất thường được biểu diễn dưới dạng
+A. jun (J).
+B. oát (W).
+*C. phần trăm (%).
+D. niutơn (N).
+
+Câu 3. Hiệu suất của một thiết bị càng cao thì
+A. năng lượng hao phí càng nhiều.
+*B. năng lượng hao phí càng ít (so với năng lượng toàn phần).
+C. thiết bị càng nặng.
+D. công suất toàn phần càng nhỏ.
+
+Câu 4. Khi bóng đèn dây tóc sáng, năng lượng có ích và năng lượng hao phí lần lượt là
+*A. quang năng và nhiệt năng.
+B. nhiệt năng và quang năng.
+C. cơ năng và nhiệt năng.
+D. điện năng và quang năng.
+
+Câu 5. Máy phát điện chuyển hoá
+A. điện năng thành cơ năng.
+*B. cơ năng thành điện năng.
+C. quang năng thành điện năng.
+D. nhiệt năng thành quang năng.
+
+Câu 6. Theo bảng hiệu suất trong SGK, máy hơi nước có hiệu suất khoảng
+*A. 15%.
+B. 35%.
+C. 90%.
+D. 96%.
+
+Câu 7. Một động cơ điện có hiệu suất 96%. Phần năng lượng hao phí của động cơ chiếm
+A. 96%.
+*B. 4%.
+C. 10%.
+D. 0%.
+
+Câu 8. Một thiết bị tạo ra năng lượng có ích 450 J với hiệu suất 90%. Năng lượng toàn phần thiết bị nhận vào là
+A. 405 J.
+*B. 500 J.
+C. 540 J.
+D. 4 050 J.
+
+Câu 9. Một động cơ nhận nhiệt lượng 800 kJ từ nhiên liệu và thực hiện công 240 kJ. Hiệu suất của động cơ là
+A. 3,3%.
+B. 70%.
+*C. 30%.
+D. 24%.
+
+Câu 10. Một động cơ có công suất toàn phần 3 kW, hiệu suất 85%. Công suất có ích của động cơ là
+A. 0,45 kW.
+*B. 2,55 kW.
+C. 3,85 kW.
+D. 3,53 kW.
+
+Câu 11. Một tuabin nước nhận cơ năng 10 MJ, hiệu suất 90%. Cơ năng có ích tuabin tạo ra là
+A. 1 MJ.
+B. 11 MJ.
+*C. 9 MJ.
+D. 0,9 MJ.
+
+Câu 12. Một máy bơm đưa 200 kg nước lên cao 9 m và tiêu thụ năng lượng 30 kJ; lấy g = 10 m/s². Hiệu suất của máy bơm là
+A. 30%.
+*B. 60%.
+C. 18%.
+D. 167%.
+
+Câu 13. Em bé trượt xuống từ đỉnh cầu trượt. Hiệu suất của quá trình chuyển thế năng thành động năng nhỏ hơn 100% vì
+A. trọng lực không sinh công.
+*B. một phần thế năng chuyển thành nhiệt năng do ma sát.
+C. động năng của em bé giảm khi trượt xuống.
+D. thế năng tăng khi trượt xuống.
+
+Câu 14. Trong động cơ đốt trong của ô tô, phần lớn năng lượng hao phí là do
+A. năng lượng âm thanh.
+*B. nhiệt toả ra theo khí thải, truyền cho hệ thống làm mát và bức xạ ra ngoài.
+C. ánh sáng phát ra từ đèn xe.
+D. động năng của bánh xe.
+
+Câu 15. Biện pháp nào sau đây giúp giảm năng lượng hao phí khi sử dụng thiết bị điện trong gia đình?
+*A. Tắt các thiết bị điện khi không sử dụng.
+B. Để tivi ở chế độ chờ suốt ngày.
+C. Mở cửa tủ lạnh thường xuyên.
+D. Dùng nhiều bóng đèn dây tóc.
+
+Câu 16. Hai máy có cùng công suất toàn phần, máy 1 có hiệu suất lớn hơn máy 2. Trong cùng một khoảng thời gian
+*A. máy 1 thực hiện công có ích lớn hơn.
+B. máy 2 thực hiện công có ích lớn hơn.
+C. hai máy thực hiện công có ích bằng nhau.
+D. máy 1 tiêu thụ năng lượng nhiều hơn.
+
+Câu 17. Một động cơ xăng có hiệu suất 25%; 1 kg xăng đốt cháy hoàn toàn toả nhiệt lượng 46.10⁶ J. Khi đốt cháy 1 kg xăng, công có ích của động cơ là
+A. 46 MJ.
+B. 34,5 MJ.
+*C. 11,5 MJ.
+D. 1,84 MJ.
+
+Câu 18. Khi dùng ròng rọc kéo vật nặng lên cao, phần năng lượng hao phí chủ yếu là
+A. thế năng của vật.
+*B. nhiệt năng do ma sát ở trục ròng rọc và dây.
+C. động năng của vật.
+D. quang năng.
+
+PHẦN II. Câu trắc nghiệm đúng sai
+Câu 1. Một động cơ điện tiêu thụ công suất 2 kW, kéo đều một vật 150 kg lên cao với tốc độ 1 m/s; lấy g = 10 m/s².
+a) Công suất có ích của động cơ là 1,5 kW. (Đ)
+b) Hiệu suất của động cơ là 75%. (Đ)
+c) Công suất hao phí của động cơ là 500 W. (Đ)
+d) Công suất hao phí của động cơ là 1,5 kW. (S)
+
+Câu 2. Một ô tô chuyển động với tốc độ 54 km/h, động cơ có công suất 45 kW, hiệu suất 25%; tiêu thụ 60 lít xăng có khối lượng riêng 700 kg/m³; 1 kg xăng đốt cháy hoàn toàn toả nhiệt lượng 46.10⁶ J.
+a) Khối lượng xăng tiêu thụ là 42 kg. (Đ)
+b) Nhiệt lượng do xăng toả ra là 1,932.10⁹ J. (Đ)
+c) Công có ích của động cơ xấp xỉ 4,83.10⁸ J. (Đ)
+d) Ô tô đi được quãng đường khoảng 16 km. (S)
+Lời giải: t = 4,83.10⁸ : 45 000 ≈ 10 733 s; s = 15 . t ≈ 161 km.
+
+Câu 3. Ném một vật khối lượng 1 kg thẳng đứng lên từ mặt đất với tốc độ 10 m/s, vật lên tới độ cao cực đại 4 m; lấy g = 10 m/s², gốc thế năng tại mặt đất.
+a) Cơ năng ban đầu của vật là 50 J. (Đ)
+b) Thế năng của vật ở độ cao cực đại là 40 J. (Đ)
+c) Lực cản của không khí đã làm 10 J cơ năng chuyển thành nhiệt năng. (Đ)
+d) Hiệu suất chuyển động năng thành thế năng trong quá trình đi lên là 125%. (S)
+Lời giải: H = 40 : 50 = 80%.
+
+Câu 4. Một tấm pin mặt trời diện tích 1,5 m² nhận năng lượng ánh sáng 1 000 W trên mỗi mét vuông; hiệu suất của tấm pin là 15%.
+a) Công suất ánh sáng chiếu tới tấm pin là 1 500 W. (Đ)
+b) Công suất điện tấm pin tạo ra là 225 W. (Đ)
+c) Trong 1 giờ, tấm pin tạo ra điện năng 0,225 kW.h. (Đ)
+d) Tấm pin mặt trời có hiệu suất cao hơn động cơ điện. (S)
+
+PHẦN III. Câu trắc nghiệm trả lời ngắn
+Câu 1. Một thiết bị nhận năng lượng toàn phần 1 200 J và tạo ra năng lượng có ích 900 J. Hiệu suất của thiết bị là bao nhiêu phần trăm?
+Đáp án: 75
+
+Câu 2. Một động cơ nhiệt có hiệu suất 40% nhận nhiệt lượng 500 kJ. Công cơ học động cơ thực hiện được là bao nhiêu kilôjun?
+Đáp án: 200
+
+Câu 3. Một động cơ có công suất có ích 1,2 kW, hiệu suất 80%. Công suất toàn phần của động cơ là bao nhiêu kilôoát?
+Đáp án: 1,5|1.5
+
+Câu 4. Một máy nâng đều vật 400 kg lên cao 3 m và tiêu thụ năng lượng 15 kJ; lấy g = 10 m/s². Hiệu suất của máy nâng là bao nhiêu phần trăm?
+Đáp án: 80
+
+Câu 5. Một bếp điện công suất 1 500 W, hiệu suất 80%, hoạt động trong 10 phút. Nhiệt lượng có ích bếp cung cấp là bao nhiêu kilôjun?
+Đáp án: 720
+
+Câu 6. Một em bé khối lượng 25 kg trượt không vận tốc đầu từ đỉnh cầu trượt cao 2 m; đến chân cầu trượt tốc độ là 4 m/s; lấy g = 10 m/s². Hiệu suất của quá trình chuyển thế năng thành động năng là bao nhiêu phần trăm?
+Đáp án: 40

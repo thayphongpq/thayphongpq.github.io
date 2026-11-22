@@ -1,0 +1,158 @@
+VẬT LÍ 10 - CHƯƠNG IV. NĂNG LƯỢNG, CÔNG, CÔNG SUẤT - BÀI 27. HIỆU SUẤT - ĐỀ 2
+Đề kiểm tra theo cấu trúc thi tốt nghiệp THPT (biên soạn: thầy Lâm Thế Phong, THPT An Thới)
+Thời gian: 50
+
+PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn
+Câu 1. Hiệu suất của một thiết bị cho biết
+A. công suất của thiết bị.
+*B. tỉ lệ giữa năng lượng có ích và năng lượng toàn phần.
+C. năng lượng hao phí của thiết bị.
+D. thời gian hoạt động của thiết bị.
+
+Câu 2. Hiệu suất cũng có thể tính theo công suất bằng công thức
+A. $H = \dfrac{\mathscr{P}_{tp}}{\mathscr{P}_{ci}}.100\%$.
+*B. $H = \dfrac{\mathscr{P}_{ci}}{\mathscr{P}_{tp}}.100\%$.
+C. $H = \mathscr{P}_{ci}.\mathscr{P}_{tp}$.
+D. $H = \mathscr{P}_{tp} - \mathscr{P}_{ci}$.
+
+Câu 3. Trong các động cơ điện, phần năng lượng hao phí vào khoảng
+*A. 10%.
+B. 50%.
+C. 70%.
+D. 90%.
+
+Câu 4. Khi ô tô chạy bằng động cơ xăng, năng lượng có ích là
+A. nhiệt năng toả ra môi trường.
+*B. cơ năng làm xe chuyển động.
+C. năng lượng âm thanh của động cơ.
+D. hoá năng của xăng.
+
+Câu 5. Khi acquy phóng điện để thắp sáng đèn, quá trình chuyển hoá năng lượng trong acquy là
+A. điện năng thành hoá năng.
+*B. hoá năng thành điện năng.
+C. quang năng thành điện năng.
+D. nhiệt năng thành điện năng.
+
+Câu 6. Khi bếp từ đang hoạt động, năng lượng có ích là
+*A. nhiệt năng làm nóng nồi và thức ăn.
+B. nhiệt năng làm nóng không khí xung quanh.
+C. năng lượng âm thanh.
+D. quang năng.
+
+Câu 7. Theo bảng hiệu suất của một số thiết bị trong SGK, thiết bị có hiệu suất thấp nhất là
+A. máy phát điện.
+B. động cơ điện.
+*C. đèn dây tóc.
+D. bếp điện.
+
+Câu 8. Theo bảng hiệu suất trong SGK, tuabin nước (chuyển cơ năng thành cơ năng) có hiệu suất khoảng
+A. 15%.
+B. 35%.
+*C. 90%.
+D. 7%.
+
+Câu 9. Một thiết bị nhận năng lượng toàn phần 1 200 J và tạo ra năng lượng có ích 300 J. Hiệu suất của thiết bị là
+*A. 25%.
+B. 75%.
+C. 40%.
+D. 400%.
+
+Câu 10. Một động cơ có công suất có ích 750 W, hiệu suất 75%. Công suất toàn phần của động cơ là
+A. 562,5 W.
+*B. 1 000 W.
+C. 825 W.
+D. 75 W.
+
+Câu 11. Một động cơ nhiệt có hiệu suất 40% thực hiện công 200 kJ. Nhiệt lượng động cơ nhận từ nhiên liệu là
+A. 80 kJ.
+B. 240 kJ.
+*C. 500 kJ.
+D. 8 000 kJ.
+
+Câu 12. Một máy kéo đều vật 80 kg lên cao 5 m với hiệu suất 80%; lấy g = 10 m/s². Năng lượng máy tiêu thụ là
+A. 3 200 J.
+B. 4 000 J.
+*C. 5 000 J.
+D. 400 J.
+
+Câu 13. Một thiết bị có hiệu suất 70% nhận năng lượng toàn phần 1 000 J. Năng lượng hao phí là
+A. 700 J.
+*B. 300 J.
+C. 1 700 J.
+D. 70 J.
+
+Câu 14. Khi chơi thể thao trong thời tiết lạnh, nhiệt năng do cơ thể toả ra có thể được xem là năng lượng có ích vì
+A. nó làm người chơi mệt hơn.
+*B. nó giúp giữ ấm cơ thể.
+C. nó làm tăng tốc độ chạy.
+D. nó không có tác dụng gì.
+
+Câu 15. Hiệu suất của nhà máy điện mặt trời thấp hơn nhà máy nhiệt điện nhưng vẫn được khuyến khích xây dựng vì
+*A. năng lượng mặt trời là nguồn năng lượng sạch, gần như vô tận, ít gây ô nhiễm môi trường.
+B. nhà máy điện mặt trời có hiệu suất 100%.
+C. pin mặt trời không có năng lượng hao phí.
+D. nhà máy nhiệt điện không phát ra điện.
+
+Câu 16. Biện pháp nào sau đây giúp giảm năng lượng hao phí khi sử dụng điện trong gia đình?
+A. Dùng bóng đèn dây tóc thay cho đèn LED.
+*B. Dùng đèn LED thay cho bóng đèn dây tóc.
+C. Để tủ lạnh mở cửa lâu.
+D. Bật đèn cả khi không dùng.
+
+Câu 17. Một động cơ điện có hiệu suất 96% nhận công suất điện 500 W. Công suất cơ học có ích của động cơ là
+A. 500 W.
+*B. 480 W.
+C. 20 W.
+D. 520 W.
+
+Câu 18. Trong nhà máy thuỷ điện, máy phát điện chuyển hoá
+A. điện năng thành cơ năng.
+*B. cơ năng (của tuabin do nước làm quay) thành điện năng.
+C. hoá năng thành điện năng.
+D. quang năng thành điện năng.
+
+PHẦN II. Câu trắc nghiệm đúng sai
+Câu 1. Một bếp điện công suất 1 000 W, hiệu suất 90%, hoạt động trong 2 phút.
+a) Điện năng bếp tiêu thụ là 120 kJ. (Đ)
+b) Nhiệt lượng có ích bếp cung cấp là 108 kJ. (Đ)
+c) Năng lượng hao phí là 12 kJ. (Đ)
+d) Hiệu suất của bếp là 111%. (S)
+
+Câu 2. Một cần cẩu có công suất toàn phần 4 kW nâng đều một vật 500 kg lên cao 12 m trong 20 s; lấy g = 10 m/s².
+a) Công có ích của cần cẩu là 60 kJ. (Đ)
+b) Công suất có ích của cần cẩu là 3 kW. (Đ)
+c) Hiệu suất của cần cẩu là 75%. (Đ)
+d) Công suất hao phí của cần cẩu là 3 kW. (S)
+Lời giải: 𝒫hp = 4 − 3 = 1 kW.
+
+Câu 3. Một vật khối lượng 2 kg trượt không vận tốc đầu từ đỉnh một con dốc cao 1,8 m; đến chân dốc tốc độ của vật là 3 m/s; lấy g = 10 m/s², gốc thế năng tại chân dốc.
+a) Năng lượng toàn phần (thế năng ở đỉnh dốc) là 36 J. (Đ)
+b) Động năng của vật ở chân dốc là 9 J. (Đ)
+c) Hiệu suất chuyển thế năng thành động năng là 25%. (Đ)
+d) Phần năng lượng chuyển thành nhiệt do ma sát là 9 J. (S)
+Lời giải: Phần hao phí: 36 − 9 = 27 J.
+
+Câu 4. So sánh một bóng đèn dây tóc 60 W (hiệu suất 7%) và một đèn LED 8 W (hiệu suất 95%).
+a) Trong mỗi giây, đèn dây tóc phát ra năng lượng ánh sáng 4,2 J. (Đ)
+b) Trong mỗi giây, đèn LED phát ra năng lượng ánh sáng 7,6 J. (Đ)
+c) Đèn dây tóc phát ra năng lượng ánh sáng nhiều hơn đèn LED trong cùng thời gian. (S)
+d) Trong mỗi giây, đèn LED hao phí 0,4 J. (Đ)
+
+PHẦN III. Câu trắc nghiệm trả lời ngắn
+Câu 1. Một thiết bị nhận năng lượng toàn phần 1 500 J và tạo ra năng lượng có ích 1 200 J. Hiệu suất của thiết bị là bao nhiêu phần trăm?
+Đáp án: 80
+
+Câu 2. Một động cơ có công suất toàn phần 5 kW, hiệu suất 92%. Công suất có ích của động cơ là bao nhiêu kilôoát?
+Đáp án: 4,6|4.6
+
+Câu 3. Một động cơ nhận nhiệt lượng 4.10⁶ J từ nhiên liệu và thực hiện công 1,4.10⁶ J. Hiệu suất của động cơ là bao nhiêu phần trăm?
+Đáp án: 35
+
+Câu 4. Một máy tiêu thụ năng lượng 10 kJ, hiệu suất 85%. Năng lượng hao phí là bao nhiêu jun?
+Đáp án: 1500
+
+Câu 5. Một máy nâng đều vật 300 kg lên cao 4 m với hiệu suất 60%; lấy g = 10 m/s². Năng lượng máy tiêu thụ là bao nhiêu kilôjun?
+Đáp án: 20
+
+Câu 6. Một tấm pin mặt trời nhận năng lượng ánh sáng với công suất 1 000 W và có hiệu suất 12%. Công suất điện do tấm pin tạo ra là bao nhiêu oát?
+Đáp án: 120
