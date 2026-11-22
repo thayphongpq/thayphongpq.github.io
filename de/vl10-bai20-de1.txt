@@ -1,0 +1,163 @@
+VẬT LÍ 10 - CHƯƠNG III. ĐỘNG LỰC HỌC - BÀI 20. MỘT SỐ VÍ DỤ VỀ CÁCH GIẢI CÁC BÀI TOÁN THUỘC PHẦN ĐỘNG LỰC HỌC - ĐỀ 1
+Đề kiểm tra theo cấu trúc thi tốt nghiệp THPT (biên soạn: thầy Lâm Thế Phong, THPT An Thới)
+Thời gian: 50
+
+PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn
+Câu 1. Khi giải bài toán động lực học, bước đầu tiên là
+*A. chọn vật khảo sát chuyển động, biểu diễn các lực tác dụng lên vật.
+B. giải hệ phương trình tìm gia tốc.
+C. tính quãng đường vật đi được.
+D. tính vận tốc cuối của vật.
+
+Câu 2. Khi giải bài toán động lực học, trục Ox thường được chọn
+A. vuông góc với hướng chuyển động của vật.
+*B. cùng hướng với chuyển động của vật (hay cùng hướng với lực kéo khi vật đứng yên).
+C. thẳng đứng hướng lên trong mọi trường hợp.
+D. ngược hướng chuyển động của vật.
+
+Câu 3. Một vật chuyển động trên mặt phẳng ngang, không chuyển động theo phương thẳng đứng Oy. Theo định luật 2 Newton, tổng các thành phần lực theo trục Oy
+A. bằng m.a.
+*B. bằng 0.
+C. bằng trọng lực.
+D. bằng lực ma sát.
+
+Câu 4. Một thùng hàng được đẩy bằng lực nằm ngang, trượt trên sàn nhà nằm ngang. Phản lực N của sàn lên thùng có độ lớn
+A. bằng lực đẩy.
+B. bằng lực ma sát.
+*C. bằng trọng lượng của thùng, N = mg.
+D. bằng 0.
+
+Câu 5. Một người đẩy thùng hàng 40 kg trượt trên sàn ngang bằng lực nằm ngang 160 N, hệ số ma sát trượt 0,25, lấy g = 10 m/s². Gia tốc của thùng là
+A. 4 m/s².
+*B. 1,5 m/s².
+C. 2,5 m/s².
+D. 6,5 m/s².
+
+Câu 6. Kéo một thùng gỗ 35 kg trượt đều trên sàn ngang bằng dây nằm ngang, hệ số ma sát trượt 0,3, lấy g = 10 m/s². Lực kéo có độ lớn
+A. 350 N.
+*B. 105 N.
+C. 35 N.
+D. 10,5 N.
+
+Câu 7. Kéo một vật khối lượng m trên sàn ngang bằng lực nằm ngang F, hệ số ma sát trượt μ, vật có gia tốc a. Hệ thức đúng là
+A. $F = m(a - \mu g)$.
+*B. $F = m(a + \mu g)$.
+C. $F = ma$.
+D. $F = \mu m g - ma$.
+
+Câu 8. Một vật được thả trượt không vận tốc đầu trên mặt phẳng nghiêng góc 30° so với phương ngang, bỏ qua ma sát, lấy g = 10 m/s². Gia tốc của vật là
+A. 10 m/s².
+B. 8,7 m/s².
+*C. 5 m/s².
+D. 2,5 m/s².
+
+Câu 9. Một vật khối lượng m nằm trên mặt phẳng nghiêng góc α so với phương ngang. Phản lực N của mặt phẳng nghiêng lên vật có độ lớn
+A. mg.
+B. mg.sinα.
+*C. mg.cosα.
+D. mg.tanα.
+
+Câu 10. Một vật trượt xuống trên mặt phẳng nghiêng góc α có hệ số ma sát trượt μ. Gia tốc của vật là
+*A. $a = g(\sin\alpha - \mu\cos\alpha)$.
+B. $a = g(\sin\alpha + \mu\cos\alpha)$.
+C. $a = g(\cos\alpha - \mu\sin\alpha)$.
+D. $a = \mu g$.
+
+Câu 11. Một hộp được thả trượt xuống mặt phẳng nghiêng có sinα = 0,6 và cosα = 0,8; hệ số ma sát trượt 0,25; lấy g = 10 m/s². Gia tốc của hộp là
+A. 6 m/s².
+B. 8 m/s².
+C. 2 m/s².
+*D. 4 m/s².
+
+Câu 12. Một hộp trượt từ trạng thái nghỉ, nhanh dần đều với gia tốc 4 m/s² dọc theo tấm gỗ nghiêng dài 2 m. Thời gian hộp trượt hết tấm gỗ là
+A. 0,5 s.
+*B. 1 s.
+C. 2 s.
+D. 4 s.
+
+Câu 13. Hai vật khối lượng 2 kg và 3 kg nối với nhau bằng sợi dây không dãn, đặt trên mặt ngang nhẵn (bỏ qua ma sát). Kéo vật 2 kg bằng lực nằm ngang 10 N theo hướng từ vật 3 kg sang vật 2 kg. Gia tốc của hệ là
+A. 5 m/s².
+B. 3,3 m/s².
+*C. 2 m/s².
+D. 10 m/s².
+
+Câu 14. Kéo một thùng bằng sợi dây hợp với phương ngang góc α (chếch lên trên), lực kéo có độ lớn F. Thành phần của lực kéo theo phương ngang là
+A. F.sinα.
+*B. F.cosα.
+C. F.tanα.
+D. F.
+
+Câu 15. Kéo một thùng trên sàn ngang bằng dây chếch lên trên góc α so với phương ngang. So với khi kéo bằng dây nằm ngang, phản lực của sàn lên thùng
+*A. nhỏ hơn, vì thành phần thẳng đứng của lực kéo hướng lên.
+B. lớn hơn.
+C. bằng nhau.
+D. bằng 0.
+
+Câu 16. Đẩy thùng 40 kg trên sàn ngang bằng lực nằm ngang 200 N, thùng trượt với gia tốc 2 m/s²; lấy g = 10 m/s². Hệ số ma sát trượt giữa thùng và sàn là
+A. 0,5.
+B. 0,2.
+*C. 0,3.
+D. 0,4.
+
+Câu 17. Một ô tô khối lượng 1 000 kg đang chạy với tốc độ 20 m/s thì hãm phanh, tổng lực hãm không đổi có độ lớn 5 000 N. Quãng đường ô tô đi được từ lúc hãm đến khi dừng là
+A. 20 m.
+*B. 40 m.
+C. 80 m.
+D. 4 m.
+
+Câu 18. Giải bài toán động lực học, ta tìm được gia tốc a < 0 (theo trục Ox đã chọn). Điều đó có nghĩa là
+A. bài giải sai.
+*B. gia tốc ngược chiều với trục Ox.
+C. vật đứng yên.
+D. vật chuyển động thẳng đều.
+
+PHẦN II. Câu trắc nghiệm đúng sai
+Câu 1. Một người đẩy thùng hàng khối lượng 50 kg trượt trên sàn nhà nằm ngang bằng lực đẩy nằm ngang 180 N. Hệ số ma sát trượt giữa thùng và sàn là 0,25. Lấy g = 10 m/s².
+a) Thùng chịu tác dụng của bốn lực: trọng lực, lực đẩy, phản lực của sàn và lực ma sát trượt. (Đ)
+b) Phản lực của sàn lên thùng có độ lớn 500 N. (Đ)
+c) Gia tốc của thùng là 3,6 m/s². (S)
+d) Nếu thùng bắt đầu chuyển động từ trạng thái nghỉ thì sau 2 s vận tốc của thùng là 2,2 m/s. (Đ)
+Lời giải: Fms = 125 N; a = (180 − 125) : 50 = 1,1 m/s²; v = 1,1 . 2 = 2,2 m/s.
+
+Câu 2. Một hộp khối lượng 2 kg được thả trượt không vận tốc đầu từ đầu trên một mặt phẳng nghiêng có sinα = 0,6 và cosα = 0,8; hệ số ma sát trượt 0,5; lấy g = 10 m/s².
+a) Phản lực của mặt phẳng nghiêng lên hộp có độ lớn 16 N. (Đ)
+b) Lực ma sát trượt có độ lớn 8 N. (Đ)
+c) Gia tốc của hộp là 6 m/s². (S)
+d) Mặt phẳng nghiêng dài 4 m thì hộp trượt hết mặt phẳng nghiêng trong 2 s. (Đ)
+Lời giải: N = 20 . 0,8 = 16 N; Fms = 8 N; a = (20 . 0,6 − 8) : 2 = 2 m/s²; $t = \sqrt{\dfrac{2.4}{2}} = 2$ s.
+
+Câu 3. Hai vật khối lượng $m_1 = 4$ kg và $m_2 = 6$ kg nối với nhau bằng sợi dây nhẹ không dãn, đặt trên sàn ngang. Kéo vật 1 bằng lực nằm ngang 30 N (dây nối căng, vật 2 đi sau). Hệ số ma sát trượt giữa mỗi vật và sàn là 0,1; lấy g = 10 m/s².
+a) Hai vật chuyển động với cùng gia tốc. (Đ)
+b) Gia tốc của hệ là 2 m/s². (Đ)
+c) Lực căng của dây nối có độ lớn 30 N. (S)
+d) Lực căng của dây nối có độ lớn 18 N. (Đ)
+Lời giải: a = (30 − 0,1 . 100) : 10 = 2 m/s²; với vật 2: T − 0,1 . 60 = 6 . 2 ⇒ T = 18 N.
+
+Câu 4. Kéo một thùng sách khối lượng 10 kg trên sàn ngang bằng lực 50 N qua sợi dây chếch lên trên, hợp với phương ngang góc α có sinα = 0,6 và cosα = 0,8. Hệ số ma sát trượt 0,2; lấy g = 10 m/s².
+a) Thành phần nằm ngang của lực kéo là 40 N. (Đ)
+b) Phản lực của sàn lên thùng có độ lớn 100 N. (S)
+c) Lực ma sát trượt có độ lớn 14 N. (Đ)
+d) Gia tốc của thùng là 2,6 m/s². (Đ)
+Lời giải: N = 100 − 50 . 0,6 = 70 N; Fms = 14 N; a = (40 − 14) : 10 = 2,6 m/s².
+
+PHẦN III. Câu trắc nghiệm trả lời ngắn
+Câu 1. Đẩy một thùng 20 kg trên sàn ngang bằng lực nằm ngang 100 N, hệ số ma sát trượt 0,3; lấy g = 10 m/s². Gia tốc của thùng là bao nhiêu m/s²?
+Đáp án: 2
+
+Câu 2. Kéo một thùng 25 kg trượt thẳng đều trên sàn ngang bằng lực nằm ngang, hệ số ma sát trượt 0,4; lấy g = 10 m/s². Lực kéo là bao nhiêu niutơn?
+Đáp án: 100
+
+Câu 3. Kéo một thùng 30 kg trên sàn ngang bằng lực nằm ngang để thùng trượt với gia tốc 0,5 m/s²; hệ số ma sát trượt 0,2; lấy g = 10 m/s². Lực kéo là bao nhiêu niutơn?
+Đáp án: 75
+Lời giải: F = m(a + μg) = 30(0,5 + 2) = 75 N.
+
+Câu 4. Một vật trượt không vận tốc đầu từ đỉnh mặt phẳng nghiêng nhẵn dài 10 m, nghiêng 30° so với phương ngang; lấy g = 10 m/s². Tốc độ của vật ở chân mặt phẳng nghiêng là bao nhiêu m/s?
+Đáp án: 10
+Lời giải: a = 5 m/s²; $v = \sqrt{2.5.10} = 10$ m/s.
+
+Câu 5. Một vật trượt xuống mặt phẳng nghiêng có sinα = 0,6 và cosα = 0,8, hệ số ma sát trượt 0,375; lấy g = 10 m/s². Gia tốc của vật là bao nhiêu m/s²?
+Đáp án: 3
+
+Câu 6. Hai vật 1 kg và 2 kg nối với nhau bằng sợi dây nhẹ không dãn trên mặt ngang nhẵn. Kéo vật 1 kg bằng lực nằm ngang 6 N (vật 2 kg đi sau). Lực căng của dây nối là bao nhiêu niutơn?
+Đáp án: 4
+Lời giải: a = 6 : 3 = 2 m/s²; T = 2 . 2 = 4 N.
