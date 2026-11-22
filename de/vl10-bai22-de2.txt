@@ -1,0 +1,159 @@
+VẬT LÍ 10 - CHƯƠNG III. ĐỘNG LỰC HỌC - BÀI 22. THỰC HÀNH: TỔNG HỢP LỰC - ĐỀ 2
+Đề kiểm tra theo cấu trúc thi tốt nghiệp THPT (biên soạn: thầy Lâm Thế Phong, THPT An Thới)
+Thời gian: 50
+
+PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn
+Câu 1. Bộ thí nghiệm tổng hợp hai lực song song cùng chiều KHÔNG có dụng cụ nào sau đây?
+A. Hai lò xo xoắn.
+B. Thanh treo có gắn thước và con trượt.
+C. Các quả nặng 50 g.
+*D. Thước đo góc in trên tấm mica.
+
+Câu 2. Hai lò xo xoắn trong bộ thí nghiệm tổng hợp hai lực song song chịu được lực kéo tối đa là
+A. 1 N.
+*B. 5 N.
+C. 50 N.
+D. 500 N.
+
+Câu 3. Thanh treo trong bộ thí nghiệm tổng hợp hai lực song song có đặc điểm
+*A. nhẹ, cứng, dài 400 mm, có gắn thước và ba con trượt có móc treo.
+B. nặng, mềm, dài 1 m.
+C. bằng cao su, co dãn được.
+D. không có vạch chia.
+
+Câu 4. Trong thí nghiệm tổng hợp hai lực song song, để thay hai lực $\vec{F}_1$, $\vec{F}_2$ bằng một lực $\vec{F}$, ta
+A. tháo hết các quả nặng ra.
+*B. móc tất cả quả nặng vào một móc treo, điều chỉnh con trượt sao cho thanh trùng vị trí ban đầu đã đánh dấu.
+C. treo thêm quả nặng vào hai đầu thanh.
+D. tháo một lò xo ra.
+
+Câu 5. Trong thí nghiệm tổng hợp hai lực đồng quy, hai lực kế được gắn lên bảng thép nhờ
+A. băng dính.
+*B. đế nam châm.
+C. đinh vít.
+D. dây cao su.
+
+Câu 6. Thứ tự các phần tiến hành thí nghiệm tổng hợp hai lực đồng quy trong SGK là
+*A. xác định hai lực thành phần → xác định hợp lực bằng thí nghiệm → xác định hợp lực theo lí thuyết.
+B. xác định hợp lực theo lí thuyết → xác định hai lực thành phần → đo hợp lực.
+C. đo hợp lực → đo góc → tháo lực kế.
+D. tính hợp lực → gắn thước đo góc → đánh dấu.
+
+Câu 7. Hai lực đồng quy có độ lớn 5 N và 12 N, hợp với nhau góc 90°. Hợp lực có độ lớn
+A. 17 N.
+B. 7 N.
+*C. 13 N.
+D. 60 N.
+
+Câu 8. Hai lực đồng quy có cùng độ lớn 4 N, hợp với nhau góc 120°. Hợp lực có độ lớn
+A. 8 N.
+*B. 4 N.
+C. 0.
+D. 6,9 N.
+
+Câu 9. Giữ nguyên độ lớn của hai lực đồng quy, hợp lực có độ lớn lớn nhất khi góc giữa hai lực bằng
+*A. 0°.
+B. 60°.
+C. 90°.
+D. 180°.
+
+Câu 10. Giữ nguyên độ lớn hai lực đồng quy $F_1 > F_2$, hợp lực có độ lớn nhỏ nhất bằng
+A. 0.
+*B. $F_1 - F_2$.
+C. $F_1 + F_2$.
+D. $\sqrt{F_1^2 + F_2^2}$.
+
+Câu 11. Hai lực đồng quy có độ lớn 6 N và 4 N, cùng phương, ngược chiều. Hợp lực có độ lớn
+A. 10 N.
+*B. 2 N.
+C. 7,2 N.
+D. 24 N.
+
+Câu 12. Mỗi quả nặng có khối lượng 50 g, lấy g = 10 m/s². Treo 2 quả nặng tại A và 6 quả nặng tại B. Hợp lực của hai lực song song do các quả nặng tác dụng lên thanh có độ lớn
+A. 2 N.
+B. 3 N.
+*C. 4 N.
+D. 0,4 N.
+
+Câu 13. Hai lực song song cùng chiều $F_1 = 1$ N tại A và $F_2 = 3$ N tại B, AB = 40 cm. Điểm đặt của hợp lực cách A
+A. 10 cm.
+B. 20 cm.
+*C. 30 cm.
+D. 13,3 cm.
+
+Câu 14. Hợp lực của hai lực song song cùng chiều có hướng
+*A. cùng chiều với hai lực.
+B. ngược chiều với hai lực.
+C. vuông góc với hai lực.
+D. tuỳ ý.
+
+Câu 15. Ba lần đo $OA_{tn}$ được 15,2 cm; 14,8 cm; 15,0 cm. Giá trị trung bình của $OA_{tn}$ là
+A. 14,8 cm.
+*B. 15,0 cm.
+C. 15,2 cm.
+D. 45,0 cm.
+
+Câu 16. Trong Bảng 22.1 (tổng hợp hai lực đồng quy), các đại lượng cần ghi gồm
+A. khối lượng các quả nặng và độ dài AB.
+*B. $F_1$, $F_2$, góc α, $F_{tn}$, $F_{lt}$.
+C. chỉ có $F_{tn}$.
+D. thời gian và quãng đường.
+
+Câu 17. Trong thí nghiệm tổng hợp hai lực đồng quy, nếu các đoạn dây không nằm trong cùng một mặt phẳng song song với bảng thì
+A. kết quả chính xác hơn.
+*B. góc đo được trên thước đo góc không đúng, kết quả có sai số lớn.
+C. lực kế không hoạt động.
+D. dây cao su không dãn.
+
+Câu 18. Khi gánh hai thúng bằng đòn gánh, vai người gánh đặt tại
+A. trung điểm đòn gánh trong mọi trường hợp.
+*B. điểm đặt của hợp lực của hai trọng lực của hai thúng.
+C. đầu đòn gánh có thúng nhẹ hơn.
+D. bất kì điểm nào.
+
+PHẦN II. Câu trắc nghiệm đúng sai
+Câu 1. Trong thí nghiệm tổng hợp hai lực đồng quy, hai lực kế chỉ $F_1 = F_2 = 3{,}0$ N, góc giữa hai lực là 60°. Dùng một lực kế kéo dây cao su đến cùng vị trí, lực kế chỉ 5,1 N.
+a) Hợp lực theo lí thuyết xấp xỉ 5,2 N. (Đ)
+b) Hợp lực đo bằng thí nghiệm nhỏ hơn hợp lực theo lí thuyết. (Đ)
+c) Hợp lực theo lí thuyết là 6 N. (S)
+d) Để đo hợp lực bằng thí nghiệm, ta tháo một lực kế và dùng lực kế còn lại kéo dây cao su. (Đ)
+Lời giải: $F = 2 . 3 . \cos 30° \approx 5{,}2$ N.
+
+Câu 2. Trong thí nghiệm tổng hợp hai lực song song, mỗi quả nặng 50 g; lấy g = 10 m/s². Treo 3 quả nặng tại A và 5 quả nặng tại B, AB = 40 cm.
+a) Lực do các quả nặng tại A tác dụng lên thanh là 1,5 N. (Đ)
+b) Hợp lực có độ lớn 4 N. (Đ)
+c) Điểm đặt của hợp lực cách A 25 cm. (Đ)
+d) Điểm đặt của hợp lực là trung điểm của AB. (S)
+Lời giải: 1,5 . OA = 2,5 . (40 − OA) ⇒ OA = 25 cm.
+
+Câu 3. Ba lần đo $OA_{tn}$ được 25,4 cm; 24,8 cm; 25,1 cm.
+a) Giá trị trung bình của $OA_{tn}$ là 25,1 cm. (Đ)
+b) Sai số tuyệt đối trung bình là 0,2 cm. (Đ)
+c) Kết quả đo được viết là $OA_{tn} = 25{,}1 \pm 0{,}2$ cm. (Đ)
+d) Nếu $OA_{tn}$ khác $OA_{lt}$ một chút thì chứng tỏ quy tắc tổng hợp hai lực song song là sai. (S)
+Lời giải: Sai số từng lần: 0,3; 0,3; 0 ⇒ trung bình 0,2 cm. Chênh lệch nhỏ là do sai số của phép đo.
+
+Câu 4. Giữ hai lực đồng quy có cùng độ lớn 4 N, thay đổi góc α giữa chúng.
+a) Khi α = 0°, hợp lực là 8 N. (Đ)
+b) Khi α = 90°, hợp lực xấp xỉ 5,66 N. (Đ)
+c) Khi α = 180°, hợp lực là 8 N. (S)
+d) Khi α tăng từ 0° đến 180°, hợp lực giảm dần. (Đ)
+
+PHẦN III. Câu trắc nghiệm trả lời ngắn
+Câu 1. Hai lực đồng quy có độ lớn 9 N và 12 N, hợp với nhau góc 90°. Hợp lực có độ lớn bao nhiêu niutơn?
+Đáp án: 15
+
+Câu 2. Hai lực đồng quy có cùng độ lớn 6 N, hợp với nhau góc 120°. Hợp lực có độ lớn bao nhiêu niutơn?
+Đáp án: 6
+
+Câu 3. Hai lực đồng quy có độ lớn 7 N và 3 N, cùng phương, ngược chiều. Hợp lực có độ lớn bao nhiêu niutơn?
+Đáp án: 4
+
+Câu 4. Mỗi quả nặng có khối lượng 50 g, lấy g = 10 m/s². Treo 5 quả nặng tại A và 3 quả nặng tại B trên thanh. Hợp lực của hai lực song song do các quả nặng tác dụng có độ lớn bao nhiêu niutơn?
+Đáp án: 4
+
+Câu 5. Hai lực song song cùng chiều $F_1 = 3$ N tại A và $F_2 = 1$ N tại B, AB = 40 cm. Điểm đặt của hợp lực cách A bao nhiêu xentimét?
+Đáp án: 10
+
+Câu 6. Hai lực đồng quy có cùng độ lớn 3 N, hợp với nhau góc 90°. Hợp lực có độ lớn bao nhiêu niutơn? (Làm tròn đến hàng phần mười.)
+Đáp án: 4,2|4.2

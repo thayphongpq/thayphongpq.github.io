@@ -1,0 +1,160 @@
+VẬT LÍ 10 - CHƯƠNG III. ĐỘNG LỰC HỌC - BÀI 22. THỰC HÀNH: TỔNG HỢP LỰC - ĐỀ 1
+Đề kiểm tra theo cấu trúc thi tốt nghiệp THPT (biên soạn: thầy Lâm Thế Phong, THPT An Thới)
+Thời gian: 50
+
+PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn
+Câu 1. Trong thí nghiệm tổng hợp hai lực đồng quy, dụng cụ dùng để đo độ lớn của các lực là
+A. thước đo góc.
+*B. hai lực kế ống 5 N.
+C. dây cao su.
+D. bảng thép.
+
+Câu 2. Thước đo góc trong bộ thí nghiệm tổng hợp hai lực đồng quy có độ chia nhỏ nhất là
+A. 5°.
+B. 10°.
+*C. 1°.
+D. 0,1°.
+
+Câu 3. Trong thí nghiệm tổng hợp hai lực đồng quy, để thay tác dụng của hai lực $\vec{F}_1$, $\vec{F}_2$ bằng một lực $\vec{F}$, ta dùng một lực kế kéo dây cao su sao cho
+A. dây cao su dãn ít hơn ban đầu.
+*B. đầu dây cao su trùng với điểm đã đánh dấu (dây dãn cùng một đoạn và cùng hướng như ban đầu).
+C. dây cao su bị kéo theo phương bất kì.
+D. lực kế chỉ đúng 5 N.
+
+Câu 4. Khi di chuyển lực kế trong thí nghiệm tổng hợp hai lực đồng quy, cần đảm bảo
+A. hai lực kế luôn chỉ cùng một giá trị.
+*B. các đoạn sợi dây và dây cao su luôn nằm trên cùng một mặt phẳng (song song với bảng).
+C. góc giữa hai lực luôn bằng 90°.
+D. dây cao su không bị dãn.
+
+Câu 5. Trong thí nghiệm tổng hợp hai lực đồng quy, giá trị hợp lực theo lí thuyết $F_{lt}$ được tính theo
+A. định luật Hooke.
+*B. định lí hàm số cosin.
+C. định luật 3 Newton.
+D. quy tắc moment lực.
+
+Câu 6. Hợp lực F của hai lực đồng quy $F_1$, $F_2$ hợp với nhau góc α được tính theo công thức
+A. $F^2 = F_1^2 + F_2^2 - 2F_1F_2\cos\alpha$.
+*B. $F^2 = F_1^2 + F_2^2 + 2F_1F_2\cos\alpha$.
+C. $F = F_1 + F_2$.
+D. $F = F_1F_2\cos\alpha$.
+
+Câu 7. Hai lực đồng quy có độ lớn 3 N và 4 N, hợp với nhau góc 90°. Hợp lực có độ lớn
+A. 7 N.
+B. 1 N.
+*C. 5 N.
+D. 12 N.
+
+Câu 8. Hai lực đồng quy có cùng độ lớn 2 N, hợp với nhau góc 60°. Hợp lực có độ lớn xấp xỉ
+A. 2 N.
+*B. 3,46 N.
+C. 4 N.
+D. 1 N.
+
+Câu 9. Hai lực đồng quy có cùng độ lớn 3 N, hợp với nhau góc 120°. Hợp lực có độ lớn
+*A. 3 N.
+B. 6 N.
+C. 0.
+D. 5,2 N.
+
+Câu 10. Hợp lực của hai lực song song cùng chiều $F_1$ và $F_2$ có độ lớn
+A. $F = F_1 - F_2$.
+*B. $F = F_1 + F_2$.
+C. $F = F_1F_2$.
+D. $F = \sqrt{F_1^2 + F_2^2}$.
+
+Câu 11. Hai lực song song cùng chiều $F_1$, $F_2$ đặt tại A và B. Điểm đặt O của hợp lực nằm trên đoạn AB và thoả mãn
+A. $\dfrac{F_1}{F_2} = \dfrac{OA}{OB}$.
+*B. $\dfrac{F_1}{F_2} = \dfrac{OB}{OA}$.
+C. $F_1 . OB = F_2 . AB$.
+D. OA = OB trong mọi trường hợp.
+
+Câu 12. Mỗi quả nặng trong thí nghiệm có khối lượng 50 g, lấy g = 10 m/s². Treo 3 quả nặng tại A và 2 quả nặng tại B trên thanh. Hợp lực của hai lực do các quả nặng tác dụng có độ lớn
+A. 5 N.
+B. 0,5 N.
+*C. 2,5 N.
+D. 250 N.
+
+Câu 13. Hai lực song song cùng chiều $F_1 = 1{,}5$ N đặt tại A và $F_2 = 1$ N đặt tại B, AB = 40 cm. Điểm đặt O của hợp lực cách A
+A. 24 cm.
+*B. 16 cm.
+C. 20 cm.
+D. 10 cm.
+
+Câu 14. Trong thí nghiệm tổng hợp hai lực song song, vị trí A và B nên chọn trùng với các vạch chia của thước để
+A. thanh nặng hơn.
+*B. tránh sai số khi đo.
+C. lò xo dãn nhiều hơn.
+D. hai lực bằng nhau.
+
+Câu 15. Trong thí nghiệm tổng hợp hai lực song song, số quả nặng treo ở hai bên nên chọn
+*A. không như nhau.
+B. luôn bằng nhau.
+C. càng nhiều càng tốt, vượt quá giới hạn của lò xo.
+D. bằng 0.
+
+Câu 16. Ba lần đo hợp lực bằng thí nghiệm được 4,9 N; 5,1 N; 5,0 N. Giá trị trung bình của hợp lực là
+A. 4,9 N.
+*B. 5,0 N.
+C. 5,1 N.
+D. 15 N.
+
+Câu 17. Với ba lần đo 4,9 N; 5,1 N; 5,0 N, sai số tuyệt đối trung bình xấp xỉ bằng
+A. 0,2 N.
+B. 0,1 N.
+*C. 0,07 N.
+D. 0.
+
+Câu 18. Dụng cụ nào sau đây là một ví dụ về đòn bẩy?
+A. Lực kế ống.
+*B. Xà beng dùng để nâng vật.
+C. Thước đo góc.
+D. Dây cao su.
+
+PHẦN II. Câu trắc nghiệm đúng sai
+Câu 1. Trong thí nghiệm tổng hợp hai lực đồng quy, hai lực kế chỉ $F_1 = 3{,}0$ N và $F_2 = 4{,}0$ N, góc giữa hai lực là 90°. Dùng một lực kế kéo dây cao su đến cùng vị trí, lực kế chỉ 4,9 N.
+a) Hợp lực tính theo lí thuyết là 5,0 N. (Đ)
+b) Độ chênh lệch giữa hợp lực thí nghiệm và lí thuyết là 0,1 N. (Đ)
+c) Giữ nguyên $F_1$, $F_2$, nếu tăng góc giữa hai lực (từ 90° lên 120°) thì hợp lực tăng lên. (S)
+d) Hai lực $\vec{F}_1$, $\vec{F}_2$ đồng quy tại điểm nối giữa sợi dây chỉ và dây cao su. (Đ)
+Lời giải: $F = \sqrt{3^2 + 4^2} = 5$ N; góc càng lớn thì hợp lực càng nhỏ.
+
+Câu 2. Trong thí nghiệm tổng hợp hai lực song song, mỗi quả nặng có khối lượng 50 g; lấy g = 10 m/s². Treo 4 quả nặng tại A và 2 quả nặng tại B, AB = 30 cm.
+a) Lực do các quả nặng tại A tác dụng lên thanh là 2 N. (Đ)
+b) Hợp lực của hai lực có độ lớn 3 N. (Đ)
+c) Điểm đặt O của hợp lực cách A 20 cm. (S)
+d) Điểm đặt O của hợp lực gần A hơn gần B. (Đ)
+Lời giải: 2 . OA = 1 . OB, OA + OB = 30 cm ⇒ OA = 10 cm.
+
+Câu 3. Về cách tiến hành thí nghiệm tổng hợp hai lực đồng quy:
+a) Cần đánh dấu lên bảng phương của hai lực $\vec{F}_1$, $\vec{F}_2$ do hai lực kế tác dụng vào dây. (Đ)
+b) Để đo hợp lực, tháo một lực kế rồi dùng lực kế còn lại kéo sao cho đầu dây cao su trùng điểm đã đánh dấu. (Đ)
+c) Chỉ cần đo một lần, không cần lặp lại với các góc α khác nhau. (S)
+d) Số chỉ của lực kế khi đầu dây cao su trùng điểm đã đánh dấu là hợp lực đo bằng thí nghiệm. (Đ)
+
+Câu 4. Chế tạo một chiếc cân thăng bằng đơn giản: một thanh thước gỗ nhẹ được treo tại trung điểm; một chai chứa 500 mL nước (khối lượng 0,5 kg, bỏ qua khối lượng vỏ chai) treo cách điểm treo 15 cm; vật cần cân treo ở phía bên kia cách điểm treo 25 cm thì thước nằm cân bằng. Lấy g = 10 m/s².
+a) Trọng lượng của chai nước là 5 N. (Đ)
+b) Trọng lượng của vật cần cân là 3 N. (Đ)
+c) Khối lượng của vật cần cân là 0,3 kg. (Đ)
+d) Nếu dời vật cần cân ra xa điểm treo hơn thì phải dời chai nước lại gần điểm treo hơn để thước cân bằng. (S)
+Lời giải: 5 . 15 = P . 25 ⇒ P = 3 N. Vật ra xa thì moment của vật tăng, chai nước phải ra xa hơn.
+
+PHẦN III. Câu trắc nghiệm trả lời ngắn
+Câu 1. Hai lực đồng quy có độ lớn 6 N và 8 N, hợp với nhau góc 90°. Hợp lực có độ lớn bao nhiêu niutơn?
+Đáp án: 10
+
+Câu 2. Hai lực đồng quy có cùng độ lớn 5 N, hợp với nhau góc 60°. Hợp lực có độ lớn bao nhiêu niutơn? (Làm tròn đến hàng phần mười.)
+Đáp án: 8,7|8.7
+
+Câu 3. Hai lực đồng quy có độ lớn 4 N và 3 N, cùng phương, cùng chiều (góc 0°). Hợp lực có độ lớn bao nhiêu niutơn?
+Đáp án: 7
+
+Câu 4. Hai lực song song cùng chiều có độ lớn 2 N và 3 N. Hợp lực có độ lớn bao nhiêu niutơn?
+Đáp án: 5
+
+Câu 5. Hai lực song song cùng chiều $F_1 = 2$ N đặt tại A và $F_2 = 3$ N đặt tại B, AB = 50 cm. Điểm đặt của hợp lực cách A bao nhiêu xentimét?
+Đáp án: 30
+Lời giải: 2 . OA = 3 . (50 − OA) ⇒ OA = 30 cm.
+
+Câu 6. Ba lần đo hợp lực bằng thí nghiệm được 3,1 N; 3,0 N; 3,2 N. Giá trị trung bình của hợp lực là bao nhiêu niutơn?
+Đáp án: 3,1|3.1
