@@ -1,0 +1,161 @@
+VẬT LÍ 10 - CHƯƠNG III. ĐỘNG LỰC HỌC - BÀI 21. MOMENT LỰC. CÂN BẰNG CỦA VẬT RẮN - ĐỀ 1
+Đề kiểm tra theo cấu trúc thi tốt nghiệp THPT (biên soạn: thầy Lâm Thế Phong, THPT An Thới)
+Thời gian: 50
+
+PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn
+Câu 1. Cánh tay đòn của lực là
+A. khoảng cách từ trục quay đến điểm đặt của lực.
+*B. khoảng cách từ trục quay đến giá của lực.
+C. chiều dài của vật.
+D. khoảng cách từ điểm đặt của lực đến trọng tâm.
+
+Câu 2. Công thức tính moment lực đối với trục quay là
+A. $M = \dfrac{F}{d}$.
+*B. $M = F.d$.
+C. $M = \dfrac{d}{F}$.
+D. $M = F + d$.
+
+Câu 3. Đơn vị của moment lực là
+A. N/m.
+B. N.
+*C. N.m.
+D. kg.m.
+
+Câu 4. Moment lực đối với trục quay là đại lượng đặc trưng cho
+A. tác dụng làm vật chuyển động tịnh tiến.
+*B. tác dụng làm quay của lực.
+C. mức quán tính của vật.
+D. tác dụng làm vật biến dạng.
+
+Câu 5. Dùng búa để nhổ đinh, muốn nhổ đinh dễ dàng thì nên cầm búa
+A. gần đầu búa, để cánh tay đòn nhỏ.
+*B. xa đầu búa (ở cuối cán), để cánh tay đòn lớn.
+C. ở chính giữa cán.
+D. ở bất kì vị trí nào, kết quả như nhau.
+
+Câu 6. Dùng cờ lê dài hơn để siết đai ốc thì dễ hơn vì
+A. lực tác dụng lớn hơn.
+*B. với cùng một lực, cánh tay đòn lớn hơn nên moment lực lớn hơn.
+C. cờ lê dài hơn nặng hơn.
+D. moment lực nhỏ hơn.
+
+Câu 7. Một lực 20 N có cánh tay đòn 0,3 m đối với trục quay. Moment của lực là
+A. 66,7 N.m.
+B. 0,015 N.m.
+*C. 6 N.m.
+D. 20,3 N.m.
+
+Câu 8. Lực có giá đi qua trục quay thì
+A. moment lực lớn nhất.
+*B. moment lực bằng 0, không làm vật quay.
+C. làm vật quay nhanh nhất.
+D. cánh tay đòn lớn nhất.
+
+Câu 9. Quy tắc moment lực: muốn cho một vật có trục quay cố định ở trạng thái cân bằng thì
+*A. tổng các moment lực có xu hướng làm vật quay theo chiều kim đồng hồ phải bằng tổng các moment lực có xu hướng làm vật quay ngược chiều kim đồng hồ.
+B. tổng các lực tác dụng lên vật phải lớn hơn 0.
+C. các lực tác dụng lên vật phải cùng chiều.
+D. moment lực theo chiều kim đồng hồ phải lớn hơn.
+
+Câu 10. Hai anh em ngồi bập bênh. Người chị có trọng lượng 300 N ngồi cách trục 1 m; người em có trọng lượng 200 N. Để bập bênh cân bằng nằm ngang, người em phải ngồi cách trục
+A. 0,67 m.
+B. 1 m.
+*C. 1,5 m.
+D. 2 m.
+
+Câu 11. Ngẫu lực là hệ hai lực
+A. cùng chiều, có độ lớn bằng nhau, đặt vào hai vật khác nhau.
+*B. song song, ngược chiều, có độ lớn bằng nhau và cùng đặt vào một vật.
+C. vuông góc với nhau, cùng đặt vào một vật.
+D. song song, cùng chiều, cùng đặt vào một vật.
+
+Câu 12. Ngẫu lực tác dụng lên một vật
+A. chỉ làm vật chuyển động tịnh tiến.
+*B. chỉ làm cho vật quay chứ không tịnh tiến.
+C. vừa làm vật quay vừa tịnh tiến.
+D. không gây ra tác dụng gì.
+
+Câu 13. Một ngẫu lực gồm hai lực có độ lớn 5 N, khoảng cách giữa hai giá của lực là 0,4 m. Moment của ngẫu lực là
+*A. 2 N.m.
+B. 4 N.m.
+C. 1 N.m.
+D. 12,5 N.m.
+
+Câu 14. Trường hợp nào sau đây là ví dụ về ngẫu lực?
+A. Người kéo xe bằng một sợi dây.
+*B. Dùng tay vặn vòi nước.
+C. Quả táo rơi xuống đất.
+D. Đẩy thùng hàng trên sàn.
+
+Câu 15. Điều kiện cân bằng của một vật rắn là
+A. tổng các lực tác dụng lên vật bằng 0.
+B. tổng các moment lực tác dụng lên vật bằng 0.
+*C. tổng các lực tác dụng lên vật bằng 0 và tổng các moment lực tác dụng lên vật (đối với một điểm bất kì chọn làm trục quay) bằng 0.
+D. vật chỉ chịu tác dụng của một lực.
+
+Câu 16. Một thanh mảnh OB dài 60 cm nằm ngang, quay được quanh trục cố định ở đầu O. Tác dụng vào đầu B một lực 5 N có phương thẳng đứng. Moment của lực đối với trục quay O là
+A. 300 N.m.
+B. 12 N.m.
+C. 0,12 N.m.
+*D. 3 N.m.
+
+Câu 17. Một thanh nhẹ nằm ngang có trục quay ở giữa. Treo một vật nặng 6 N ở bên trái, cách trục 20 cm. Để thanh cân bằng, cần treo ở bên phải, cách trục 30 cm một vật nặng
+A. 9 N.
+*B. 4 N.
+C. 6 N.
+D. 3 N.
+
+Câu 18. Trong thí nghiệm với đĩa tròn có trục quay cố định qua tâm O, tác dụng hai lực $\vec{F}_1$, $\vec{F}_2$ có cánh tay đòn $d_1$, $d_2$ làm đĩa quay theo hai chiều ngược nhau. Khi đĩa đứng yên thì
+A. $F_1 = F_2$.
+*B. $F_1 d_1 = F_2 d_2$.
+C. $F_1 d_2 = F_2 d_1$.
+D. $d_1 = d_2$.
+
+PHẦN II. Câu trắc nghiệm đúng sai
+Câu 1. Một thước mảnh OA đồng chất dài 50 cm, quay được quanh trục cố định ở đầu O.
+a) Khi thước nằm ngang, lực 4 N có phương thẳng đứng tác dụng vào đầu A có cánh tay đòn 50 cm. (Đ)
+b) Moment của lực 4 N đó đối với trục O là 2 N.m. (Đ)
+c) Một lực 4 N tác dụng vào đầu A dọc theo thước (giá đi qua O) có moment 2 N.m. (S)
+d) Khi thước nghiêng so với phương ngang, lực thẳng đứng tác dụng vào đầu A có cánh tay đòn nhỏ hơn 50 cm. (Đ)
+
+Câu 2. Hai anh em ngồi trên bập bênh có trục quay ở giữa. Em có trọng lượng 250 N ngồi cách trục 1,2 m.
+a) Moment của trọng lực của em đối với trục quay là 300 N.m. (Đ)
+b) Anh có trọng lượng 400 N phải ngồi cách trục 0,75 m để bập bênh cân bằng nằm ngang. (Đ)
+c) Nếu anh ngồi cách trục 1 m thì bập bênh nghiêng về phía em. (S)
+d) Bập bênh cân bằng khi tổng moment lực làm quay theo chiều kim đồng hồ bằng tổng moment lực làm quay ngược chiều kim đồng hồ. (Đ)
+Lời giải: 400 . 0,75 = 300 N.m. Anh ngồi 1 m: moment 400 N.m > 300 N.m nên bập bênh nghiêng về phía anh.
+
+Câu 3. Người lái xe tác dụng vào vô lăng (tay lái) bằng hai tay hai lực song song, ngược chiều, mỗi lực 15 N, đặt ở hai đầu một đường kính của vô lăng dài 0,4 m.
+a) Hai lực này tạo thành một ngẫu lực. (Đ)
+b) Moment của ngẫu lực là 6 N.m. (Đ)
+c) Ngẫu lực làm vô lăng chuyển động tịnh tiến. (S)
+d) Nếu chỉ dùng một tay tác dụng lực 15 N tiếp tuyến với vành vô lăng thì moment lực đối với trục vô lăng là 3 N.m. (Đ)
+Lời giải: M = 15 . 0,4 = 6 N.m; một tay: 15 . 0,2 = 3 N.m.
+
+Câu 4. Cẳng tay cầm một vật được coi như một đòn quay quanh khuỷu tay O, nằm ngang. Lực của cơ bắp $\vec{F}$ hướng lên, đặt cách O 4 cm; vật có trọng lượng 20 N đặt ở bàn tay cách O 32 cm (bỏ qua trọng lượng cẳng tay).
+a) Moment của trọng lượng vật đối với O là 6,4 N.m. (Đ)
+b) Để cẳng tay cân bằng, lực của cơ bắp là 160 N. (Đ)
+c) Lực của cơ bắp nhỏ hơn trọng lượng của vật. (S)
+d) Moment của lực cơ bắp và moment của trọng lượng vật có xu hướng làm cẳng tay quay theo hai chiều ngược nhau. (Đ)
+Lời giải: 20 . 0,32 = 6,4 N.m; F = 6,4 : 0,04 = 160 N.
+
+PHẦN III. Câu trắc nghiệm trả lời ngắn
+Câu 1. Một lực 25 N có cánh tay đòn 0,4 m đối với trục quay. Moment của lực là bao nhiêu N.m?
+Đáp án: 10
+
+Câu 2. Một cờ lê dài 20 cm. Để tạo moment 30 N.m đối với trục đai ốc, cần tác dụng vào đầu cờ lê một lực vuông góc với cờ lê có độ lớn bao nhiêu niutơn?
+Đáp án: 150
+
+Câu 3. Một ngẫu lực gồm hai lực có độ lớn 8 N, cánh tay đòn của ngẫu lực là 25 cm. Moment của ngẫu lực là bao nhiêu N.m?
+Đáp án: 2
+
+Câu 4. Dùng một đòn bẩy để nâng vật nặng 600 N đặt cách điểm tựa 0,5 m; tay đặt cách điểm tựa 1,5 m, lực của tay vuông góc với đòn. Lực tối thiểu của tay để giữ đòn cân bằng là bao nhiêu niutơn? (Bỏ qua trọng lượng đòn bẩy.)
+Đáp án: 200
+
+Câu 5. Một thanh nhẹ AB dài 1 m nằm ngang, đầu A treo vật nặng 30 N, đầu B treo vật nặng 20 N. Điểm tựa O phải đặt cách A bao nhiêu xentimét để thanh cân bằng?
+Đáp án: 40
+Lời giải: 30 . OA = 20 . (1 − OA) ⇒ OA = 0,4 m.
+
+Câu 6. Một thanh đồng chất, tiết diện đều, dài 2 m, trọng lượng 40 N, quay được quanh trục nằm ngang ở một đầu. Để giữ thanh nằm ngang, cần tác dụng vào đầu kia một lực thẳng đứng hướng lên có độ lớn bao nhiêu niutơn?
+Đáp án: 20
+Lời giải: Trọng tâm ở giữa thanh: F . 2 = 40 . 1 ⇒ F = 20 N.

@@ -1,0 +1,160 @@
+VẬT LÍ 10 - CHƯƠNG III. ĐỘNG LỰC HỌC - BÀI 21. MOMENT LỰC. CÂN BẰNG CỦA VẬT RẮN - ĐỀ 3
+Đề kiểm tra theo cấu trúc thi tốt nghiệp THPT (biên soạn: thầy Lâm Thế Phong, THPT An Thới)
+Thời gian: 50
+
+PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn
+Câu 1. Moment lực đối với trục quay được đo bằng
+A. thương của lực và cánh tay đòn.
+*B. tích của lực với cánh tay đòn của nó.
+C. tổng của lực và cánh tay đòn.
+D. tích của lực với khối lượng của vật.
+
+Câu 2. Hai lực có độ lớn bằng nhau tác dụng lên cùng một vật có trục quay cố định. Lực gây ra moment lớn hơn là lực có
+A. điểm đặt gần trục quay hơn.
+*B. cánh tay đòn lớn hơn.
+C. giá đi qua trục quay.
+D. phương song song với trục quay.
+
+Câu 3. Một lực 30 N có cánh tay đòn 20 cm đối với trục quay. Moment của lực là
+A. 600 N.m.
+B. 1,5 N.m.
+*C. 6 N.m.
+D. 50 N.m.
+
+Câu 4. Cánh tay đòn của lực bằng 0 khi
+A. lực có độ lớn rất lớn.
+*B. giá của lực đi qua trục quay.
+C. lực vuông góc với vật.
+D. điểm đặt của lực ở xa trục quay.
+
+Câu 5. Khi dùng búa để nhổ đinh, điểm đóng vai trò trục quay là
+A. đầu đinh.
+*B. điểm tì của búa trên mặt gỗ.
+C. tay cầm búa.
+D. trọng tâm của búa.
+
+Câu 6. Bập bênh đứng cân bằng nằm ngang khi
+A. hai người có trọng lượng bằng nhau trong mọi trường hợp.
+*B. moment của trọng lực hai người đối với trục quay bằng nhau (và làm quay ngược chiều nhau).
+C. hai người ngồi cách trục bằng nhau trong mọi trường hợp.
+D. tổng trọng lượng hai người bằng 0.
+
+Câu 7. Trên bập bênh, em có trọng lượng 200 N ngồi cách trục 1,8 m. Anh có trọng lượng 450 N phải ngồi phía bên kia, cách trục
+A. 1,8 m.
+B. 4,05 m.
+*C. 0,8 m.
+D. 1,25 m.
+
+Câu 8. Một thanh quay được quanh trục cố định ở đầu O. Một lực 8 N vuông góc với thanh, đặt tại điểm cách O 40 cm. Moment của lực đối với trục O là
+*A. 3,2 N.m.
+B. 320 N.m.
+C. 20 N.m.
+D. 0,2 N.m.
+
+Câu 9. Trường hợp nào sau đây ta tác dụng vào vật một ngẫu lực?
+A. Treo vật vào lò xo.
+*B. Dùng hai ngón tay vặn nắp chai.
+C. Đẩy xe về phía trước.
+D. Kéo gàu nước lên bằng dây.
+
+Câu 10. Ngẫu lực không làm vật chuyển động tịnh tiến vì
+*A. hai lực có độ lớn bằng nhau, ngược chiều nên hợp lực của chúng bằng 0.
+B. hai lực cùng chiều.
+C. hai lực đặt vào hai vật khác nhau.
+D. hai lực có giá trùng nhau.
+
+Câu 11. Một ngẫu lực gồm hai lực có độ lớn 6 N, cánh tay đòn của ngẫu lực là 0,5 m. Moment của ngẫu lực là
+A. 12 N.m.
+*B. 3 N.m.
+C. 6,5 N.m.
+D. 1,5 N.m.
+
+Câu 12. Giữ nguyên độ lớn hai lực của một ngẫu lực, tăng khoảng cách giữa hai giá của lực lên gấp đôi thì moment của ngẫu lực
+A. không đổi.
+B. giảm một nửa.
+*C. tăng gấp đôi.
+D. tăng gấp bốn.
+
+Câu 13. Điều kiện cân bằng thứ hai của vật rắn là
+A. tổng các lực tác dụng lên vật bằng 0.
+*B. tổng các moment lực tác dụng lên vật đối với một điểm bất kì chọn làm trục quay bằng 0.
+C. vật chỉ chịu tác dụng của hai lực.
+D. vật phải có trục quay cố định.
+
+Câu 14. Đặt một chiếc thước dài trên bàn, nâng đầu B lên và giữ yên, đầu A vẫn tì trên mặt bàn. Khi thay đổi lực nâng, thước quay quanh
+A. trục đi qua đầu B.
+*B. trục đi qua đầu A.
+C. trục đi qua trọng tâm của thước.
+D. không quay.
+
+Câu 15. Một thước đồng chất, tiết diện đều, dài 1 m, trọng lượng 6 N, đầu A tì trên mặt bàn. Nâng đầu B bằng một lực thẳng đứng để giữ thước nằm ngang. Độ lớn lực nâng là
+A. 6 N.
+*B. 3 N.
+C. 12 N.
+D. 1,5 N.
+
+Câu 16. Một người dùng đòn gánh dài 1,5 m gánh hai thúng: thúng gạo nặng 300 N và thúng ngô nặng 200 N ở hai đầu đòn gánh (bỏ qua trọng lượng đòn gánh). Vai người phải đặt cách thúng gạo
+A. 0,9 m.
+B. 0,75 m.
+*C. 0,6 m.
+D. 1 m.
+
+Câu 17. Cẳng tay nằm ngang cầm một vật nặng 50 N ở bàn tay, cách khuỷu tay O 30 cm. Lực cơ bắp hướng lên đặt cách O 4 cm (bỏ qua trọng lượng cẳng tay). Để cẳng tay cân bằng, lực cơ bắp có độ lớn
+A. 50 N.
+B. 6,7 N.
+*C. 375 N.
+D. 1 500 N.
+
+Câu 18. Khi áp dụng điều kiện $\sum M = 0$, moment của các lực làm vật quay theo chiều dương và ngược chiều dương được lấy
+A. cùng dấu.
+*B. trái dấu.
+C. đều bằng 0.
+D. đều dương.
+
+PHẦN II. Câu trắc nghiệm đúng sai
+Câu 1. Dùng một đòn bẩy để nâng tảng đá nặng 800 N. Tảng đá đè lên đòn tại điểm cách điểm tựa 0,2 m; tay ấn vào đầu kia của đòn, cách điểm tựa 1,6 m, lực của tay vuông góc với đòn (bỏ qua trọng lượng đòn).
+a) Moment của lực do tảng đá đè lên đòn đối với điểm tựa là 160 N.m. (Đ)
+b) Lực tối thiểu của tay để nâng được tảng đá là 100 N. (Đ)
+c) Dời điểm tựa ra xa tảng đá hơn thì lực tay cần dùng nhỏ hơn. (S)
+d) Đòn bẩy cho lợi về lực khi cánh tay đòn của lực tay lớn hơn cánh tay đòn của lực do tảng đá đè lên. (Đ)
+
+Câu 2. Một thanh dài 0,6 m có trục quay cố định đi qua trung điểm. Tác dụng vào hai đầu thanh hai lực song song, ngược chiều, mỗi lực 10 N, vuông góc với thanh.
+a) Mỗi lực có moment 3 N.m đối với trục quay. (Đ)
+b) Moment của ngẫu lực là 6 N.m. (Đ)
+c) Hai lực làm thanh quay theo hai chiều ngược nhau. (S)
+d) Hợp lực của hai lực bằng 0. (Đ)
+
+Câu 3. Trên bập bênh, em có trọng lượng 200 N ngồi cách trục 1,5 m; anh có trọng lượng 500 N ngồi phía bên kia.
+a) Moment của trọng lực của em đối với trục quay là 300 N.m. (Đ)
+b) Anh ngồi cách trục 0,6 m thì bập bênh cân bằng nằm ngang. (Đ)
+c) Anh ngồi cách trục 1,5 m thì bập bênh cân bằng nằm ngang. (S)
+d) Có thêm một bạn nặng 100 N ngồi cạnh em (cùng cách trục 1,5 m) thì anh phải ngồi cách trục 0,9 m để bập bênh cân bằng nằm ngang. (Đ)
+Lời giải: 500 . d = 300 ⇒ d = 0,6 m; thêm bạn: 500 . d = 450 ⇒ d = 0,9 m.
+
+Câu 4. Một thanh cứng đồng chất AB có trọng lượng 100 N tựa vào bức tường thẳng đứng nhẵn tại đầu B, đầu dưới A đặt trên mặt sàn nằm ngang nhám; thanh đứng yên. Lực của tường tác dụng lên đầu B có độ lớn 30 N.
+a) Phản lực của sàn tác dụng lên đầu A theo phương thẳng đứng có độ lớn 100 N. (Đ)
+b) Lực ma sát nghỉ của sàn tác dụng lên đầu A có độ lớn 30 N. (Đ)
+c) Lực ma sát nghỉ tại A hướng ra xa tường. (S)
+d) Tổng các moment lực tác dụng lên thanh đối với trục quay đi qua A bằng 0. (Đ)
+Lời giải: Theo phương ngang: Fmsn = NB = 30 N, hướng về phía tường; theo phương thẳng đứng: NA = P = 100 N.
+
+PHẦN III. Câu trắc nghiệm trả lời ngắn
+Câu 1. Một lực 40 N có cánh tay đòn 15 cm đối với trục quay. Moment của lực là bao nhiêu N.m?
+Đáp án: 6
+
+Câu 2. Để tạo moment 12 N.m đối với trục quay bằng một lực có cánh tay đòn 0,4 m thì lực phải có độ lớn bao nhiêu niutơn?
+Đáp án: 30
+
+Câu 3. Một ngẫu lực có moment 1,5 N.m, mỗi lực có độ lớn 5 N. Khoảng cách giữa hai giá của lực là bao nhiêu xentimét?
+Đáp án: 30
+
+Câu 4. Trên bập bênh, bạn A trọng lượng 300 N ngồi cách trục 1 m. Bạn B trọng lượng 250 N phải ngồi cách trục bao nhiêu mét (phía bên kia) để bập bênh cân bằng nằm ngang?
+Đáp án: 1,2|1.2
+
+Câu 5. Một đòn gánh dài 1,2 m, hai đầu treo hai thúng nặng 240 N và 160 N (bỏ qua trọng lượng đòn gánh). Vai người gánh phải đặt cách thúng 240 N bao nhiêu xentimét?
+Đáp án: 48
+Lời giải: 240 . x = 160 . (1,2 − x) ⇒ x = 0,48 m.
+
+Câu 6. Một thanh đồng chất, tiết diện đều, dài 2 m, trọng lượng 50 N, quay được quanh trục nằm ngang ở đầu O. Để giữ thanh nằm ngang, tác dụng một lực thẳng đứng hướng lên tại điểm cách O 0,5 m. Lực đó có độ lớn bao nhiêu niutơn?
+Đáp án: 100
+Lời giải: F . 0,5 = 50 . 1 ⇒ F = 100 N.
