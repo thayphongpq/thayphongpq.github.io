@@ -1,0 +1,159 @@
+VẬT LÍ 10 - CHƯƠNG III. ĐỘNG LỰC HỌC - BÀI 19. LỰC CẢN VÀ LỰC NÂNG - ĐỀ 3
+Đề kiểm tra theo cấu trúc thi tốt nghiệp THPT (biên soạn: thầy Lâm Thế Phong, THPT An Thới)
+Thời gian: 50
+
+PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn
+Câu 1. Mọi vật chuyển động trong chất lưu luôn chịu tác dụng của
+A. lực căng.
+*B. lực cản của chất lưu.
+C. lực ma sát nghỉ.
+D. lực đàn hồi.
+
+Câu 2. Lực cản của chất lưu làm cho chuyển động của vật
+A. nhanh hơn.
+*B. chậm lại.
+C. đổi sang chiều ngược lại ngay lập tức.
+D. không thay đổi.
+
+Câu 3. Vận động viên bơi lội thường đội mũ bơi, mặc đồ bơi bó sát và duỗi thẳng người khi bơi để
+A. tăng lực cản của nước.
+*B. giảm lực cản của nước.
+C. tăng trọng lượng.
+D. tăng lực đẩy Archimedes.
+
+Câu 4. Hai tờ giấy giống nhau, một tờ để phẳng, một tờ vo tròn, thả rơi cùng lúc từ cùng độ cao. Tờ giấy vo tròn chạm đất trước vì
+A. nó nặng hơn.
+*B. nó chịu lực cản của không khí nhỏ hơn do hình dạng gọn hơn.
+C. nó chịu lực nâng lớn hơn.
+D. trọng lực của nó lớn hơn.
+
+Câu 5. Thí nghiệm nào sau đây chứng tỏ lực cản của không khí phụ thuộc vào tốc độ của vật?
+A. Thả hai hòn bi cùng kích thước rơi trong không khí.
+*B. Thò bàn tay ra ngoài cửa sổ ô tô: xe chạy càng nhanh, tay bị đẩy về phía sau càng mạnh.
+C. Đặt quyển sách lên bàn.
+D. Treo vật vào lực kế.
+
+Câu 6. Lực nâng của chất lưu KHÔNG giúp
+A. máy bay di chuyển trong không khí.
+B. tàu thuyền nổi trên mặt nước.
+C. khinh khí cầu lơ lửng trên không trung.
+*D. ô tô chạy nhanh hơn trên đường nằm ngang.
+
+Câu 7. Khi máy bay bay, lực đẩy của động cơ có hướng
+*A. về phía trước, theo hướng chuyển động.
+B. thẳng đứng lên trên.
+C. thẳng đứng xuống dưới.
+D. về phía sau.
+
+Câu 8. Khi máy bay bay ngang với tốc độ không đổi ở độ cao ổn định, lực cản của không khí lên máy bay cân bằng với
+A. trọng lực.
+B. lực nâng.
+*C. lực đẩy của động cơ.
+D. lực đẩy Archimedes.
+
+Câu 9. Một chiếc thuyền nổi trên mặt nước. Khi chất thêm hàng lên thuyền (thuyền vẫn nổi) thì lực nâng của nước lên thuyền
+*A. tăng lên.
+B. giảm đi.
+C. không đổi.
+D. bằng 0.
+
+Câu 10. Lực đẩy Archimedes tác dụng lên vật nhúng trong chất lỏng có hướng
+A. thẳng đứng xuống dưới.
+*B. thẳng đứng lên trên.
+C. nằm ngang.
+D. ngược hướng chuyển động.
+
+Câu 11. Một vật nhúng chìm hoàn toàn trong nước; nếu nhúng chìm hoàn toàn vật đó trong dầu (khối lượng riêng nhỏ hơn nước) thì lực đẩy Archimedes
+A. lớn hơn.
+*B. nhỏ hơn.
+C. bằng nhau.
+D. bằng 0.
+
+Câu 12. Một vật rơi trong không khí từ trạng thái đứng yên. Trong giai đoạn đầu, khi tốc độ tăng thì lực cản của không khí
+A. giảm.
+*B. tăng.
+C. không đổi.
+D. bằng 0.
+
+Câu 13. Khi vật rơi trong chất lưu đã đạt vận tốc giới hạn thì hợp lực tác dụng lên vật
+A. hướng xuống, bằng trọng lực.
+*B. bằng 0.
+C. hướng lên.
+D. tăng dần.
+
+Câu 14. Một vật thể tích 0,0002 m³ chìm hoàn toàn trong nước (ρ = 1 000 kg/m³), lấy g = 10 m/s². Lực đẩy Archimedes lên vật là
+A. 0,2 N.
+*B. 2 N.
+C. 20 N.
+D. 200 N.
+
+Câu 15. Một máy bay khối lượng 50 tấn bay ngang với tốc độ không đổi ở độ cao ổn định, lấy g = 10 m/s². Lực nâng của không khí lên máy bay là
+A. 50 N.
+B. 5 000 N.
+C. 50 000 N.
+*D. 500 000 N.
+
+Câu 16. Một vật khối lượng 3 kg đang rơi trong không khí, lực cản của không khí tại một thời điểm là 6 N, lấy g = 10 m/s². Gia tốc của vật tại thời điểm đó là
+A. 10 m/s².
+*B. 8 m/s².
+C. 2 m/s².
+D. 12 m/s².
+
+Câu 17. Treo một vật vào lực kế, ngoài không khí lực kế chỉ 12 N; nhúng chìm vật trong nước, giữ đứng yên thì lực kế chỉ 7 N. Lực đẩy Archimedes của nước lên vật là
+A. 19 N.
+*B. 5 N.
+C. 7 N.
+D. 12 N.
+
+Câu 18. Khi máy bay cất cánh, để máy bay bắt đầu bay lên khỏi đường băng thì
+A. lực nâng phải nhỏ hơn trọng lực.
+*B. lực nâng phải lớn hơn trọng lực.
+C. lực cản phải lớn hơn lực đẩy.
+D. lực đẩy phải bằng 0.
+
+PHẦN II. Câu trắc nghiệm đúng sai
+Câu 1. Về lực nâng của chất lưu:
+a) Khi vật chuyển động trong nước hay trong không khí thì ngoài lực cản, vật còn có thể chịu tác dụng của lực nâng. (Đ)
+b) Lực đẩy Archimedes là một trường hợp riêng của lực nâng. (Đ)
+c) Lực nâng chỉ xuất hiện trong chất khí, không xuất hiện trong chất lỏng. (S)
+d) Nhiều sinh vật bay lượn dễ dàng trong không khí là nhờ lực nâng. (Đ)
+
+Câu 2. Một người nhảy dù có tổng khối lượng 80 kg (kể cả dù). Lấy g = 10 m/s², bỏ qua lực đẩy Archimedes của không khí.
+a) Trọng lực tác dụng lên người và dù là 800 N. (Đ)
+b) Khi vừa rời máy bay (tốc độ còn nhỏ), người rơi nhanh dần. (Đ)
+c) Khi người và dù rơi đều với vận tốc giới hạn, lực cản của không khí là 400 N. (S)
+d) Tại thời điểm lực cản của không khí là 480 N, gia tốc của người và dù có độ lớn 4 m/s². (Đ)
+Lời giải: Rơi đều: Fc = P = 800 N. Khi Fc = 480 N: a = (800 − 480) : 80 = 4 m/s².
+
+Câu 3. Một quả cầu đặc thể tích 0,0004 m³, khối lượng 0,3 kg được thả vào nước (ρ = 1 000 kg/m³); lấy g = 10 m/s².
+a) Trọng lượng quả cầu là 3 N. (Đ)
+b) Nếu quả cầu chìm hoàn toàn thì lực đẩy Archimedes là 4 N. (Đ)
+c) Quả cầu chìm xuống đáy. (S)
+d) Khi quả cầu nổi đứng yên, thể tích phần chìm trong nước là 0,0003 m³. (Đ)
+Lời giải: FA (chìm hẳn) = 4 N > P = 3 N nên quả cầu nổi; khi nổi FA = P = 3 N ⇒ V chìm = 0,0003 m³.
+
+Câu 4. Một tàu cao tốc chạy trên mặt nước với tốc độ không đổi.
+a) Tàu chịu lực cản của nước ngược hướng chuyển động. (Đ)
+b) Lực đẩy của động cơ cân bằng với tổng lực cản tác dụng lên tàu theo phương ngang. (Đ)
+c) Tàu có mũi nhọn, thon để tăng lực cản của nước. (S)
+d) Tàu nổi được trên mặt nước là nhờ lực nâng của nước. (Đ)
+
+PHẦN III. Câu trắc nghiệm trả lời ngắn
+Câu 1. Một vật thể tích 0,0015 m³ chìm hoàn toàn trong nước (ρ = 1 000 kg/m³); lấy g = 10 m/s². Lực đẩy Archimedes lên vật là bao nhiêu niutơn?
+Đáp án: 15
+
+Câu 2. Một vật thể tích 0,005 m³ chìm hoàn toàn trong dầu có khối lượng riêng 800 kg/m³; lấy g = 10 m/s². Lực đẩy Archimedes lên vật là bao nhiêu niutơn?
+Đáp án: 40
+
+Câu 3. Một khinh khí cầu lơ lửng đứng yên chịu lực nâng của không khí 3 500 N; lấy g = 10 m/s². Khối lượng tổng cộng của khinh khí cầu là bao nhiêu kilôgam?
+Đáp án: 350
+
+Câu 4. Một vật khối lượng 0,2 kg rơi đều với vận tốc giới hạn trong không khí; lấy g = 9,8 m/s², bỏ qua lực đẩy Archimedes của không khí. Lực cản của không khí lên vật là bao nhiêu niutơn?
+Đáp án: 1,96|1.96
+
+Câu 5. Một vật khối lượng 1,5 kg đang rơi trong không khí; lấy g = 10 m/s². Khi lực cản của không khí là 9 N thì gia tốc của vật là bao nhiêu m/s²?
+Đáp án: 4
+Lời giải: a = (15 − 9) : 1,5 = 4 m/s².
+
+Câu 6. Một tàu thuỷ chạy thẳng đều trên mặt nước với lực đẩy của động cơ 250 kN. Coi lực cản theo phương ngang chỉ gồm lực cản của nước và lực cản của không khí; lực cản của không khí là 30 kN. Lực cản của nước là bao nhiêu kilôniutơn (kN)?
+Đáp án: 220

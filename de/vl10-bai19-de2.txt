@@ -1,0 +1,160 @@
+VẬT LÍ 10 - CHƯƠNG III. ĐỘNG LỰC HỌC - BÀI 19. LỰC CẢN VÀ LỰC NÂNG - ĐỀ 2
+Đề kiểm tra theo cấu trúc thi tốt nghiệp THPT (biên soạn: thầy Lâm Thế Phong, THPT An Thới)
+Thời gian: 50
+
+PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn
+Câu 1. Vật nào sau đây KHÔNG phải là chất lưu?
+A. Nước.
+B. Không khí.
+*C. Thanh sắt.
+D. Dầu ăn.
+
+Câu 2. Một tên lửa đang bay lên. Lực cản của không khí tác dụng lên tên lửa
+A. hướng lên, cùng hướng chuyển động.
+*B. hướng xuống, ngược hướng chuyển động.
+C. nằm ngang.
+D. bằng 0.
+
+Câu 3. Cùng một vật, khi chuyển động trong không khí với tốc độ lớn hơn thì lực cản của không khí
+*A. lớn hơn.
+B. nhỏ hơn.
+C. không đổi.
+D. bằng 0.
+
+Câu 4. Tàu cao tốc, mô tô trên nước, cá heo đều có hình dạng thon, nhọn ở phía trước để
+A. nổi tốt hơn.
+*B. giảm lực cản của nước.
+C. tăng lực cản của nước.
+D. tăng trọng lượng.
+
+Câu 5. Người nhảy dù mở dù để
+A. giảm trọng lực.
+*B. tăng lực cản của không khí, giúp giảm tốc độ rơi.
+C. tăng lực nâng Archimedes.
+D. giảm lực cản của không khí.
+
+Câu 6. Điểm khác biệt giữa lực cản và lực nâng của chất lưu là
+*A. lực cản ngược hướng chuyển động, còn lực nâng có tác dụng nâng vật lên (giúp vật nổi, bay, lơ lửng).
+B. lực cản luôn hướng lên, lực nâng luôn hướng xuống.
+C. lực cản chỉ có trong nước, lực nâng chỉ có trong không khí.
+D. lực cản chỉ tác dụng lên vật đứng yên.
+
+Câu 7. Chuồn chuồn có thể bay lượn trong không trung mà không bị rơi xuống đất do trọng lực là nhờ
+A. chuồn chuồn không có trọng lượng.
+*B. lực nâng của không khí tác dụng lên cánh.
+C. lực cản của không khí hướng xuống.
+D. lực hút của Mặt Trời.
+
+Câu 8. Một tàu thuỷ nổi đứng yên trên mặt nước. Lực nâng của nước tác dụng lên tàu
+A. hướng xuống, lớn hơn trọng lực.
+*B. hướng lên, có độ lớn bằng trọng lượng của tàu.
+C. hướng lên, nhỏ hơn trọng lượng của tàu.
+D. bằng 0.
+
+Câu 9. Trong công thức $F_A = \rho g V$, ρ là
+A. khối lượng riêng của vật.
+*B. khối lượng riêng của chất lỏng.
+C. trọng lượng riêng của vật.
+D. thể tích của vật.
+
+Câu 10. Đơn vị của khối lượng riêng ρ trong công thức $F_A = \rho g V$ là
+A. kg.
+B. N/m³.
+*C. kg/m³.
+D. m³/kg.
+
+Câu 11. Khi máy bay chuẩn bị cất cánh, máy bay chạy nhanh trên đường băng. Tốc độ càng lớn thì
+*A. lực nâng của không khí lên cánh càng lớn, đến khi đủ lớn thì máy bay bay lên.
+B. lực nâng càng nhỏ.
+C. trọng lượng máy bay càng nhỏ.
+D. lực cản của không khí càng nhỏ.
+
+Câu 12. Một vật rơi trong không khí đã đạt tới vận tốc giới hạn. Khi đó vật
+A. rơi nhanh dần đều với gia tốc g.
+*B. rơi đều.
+C. rơi chậm dần.
+D. đứng yên.
+
+Câu 13. Một hòn đá được thả rơi trong nước (từ trạng thái đứng yên). Lúc vừa thả, lực cản của nước lên hòn đá
+*A. rất nhỏ vì tốc độ của đá còn nhỏ.
+B. rất lớn.
+C. bằng trọng lực.
+D. lớn hơn trọng lực.
+
+Câu 14. Một vật thể tích 0,003 m³ chìm hoàn toàn trong nước (ρ = 1 000 kg/m³), lấy g = 10 m/s². Lực đẩy Archimedes lên vật là
+A. 3 N.
+*B. 30 N.
+C. 300 N.
+D. 0,3 N.
+
+Câu 15. Một vật thể tích 0,002 m³ chìm hoàn toàn trong dầu có khối lượng riêng 800 kg/m³, lấy g = 10 m/s². Lực đẩy Archimedes lên vật là
+*A. 16 N.
+B. 20 N.
+C. 1,6 N.
+D. 160 N.
+
+Câu 16. Một khinh khí cầu có tổng khối lượng 400 kg lơ lửng đứng yên trong không khí, lấy g = 10 m/s². Lực nâng của không khí lên khinh khí cầu là
+A. 400 N.
+B. 40 N.
+*C. 4 000 N.
+D. 0.
+
+Câu 17. Một vật khối lượng 0,5 kg rơi đều với vận tốc giới hạn trong không khí, lấy g = 10 m/s², bỏ qua lực đẩy Archimedes của không khí. Lực cản của không khí tác dụng lên vật là
+A. 0.
+*B. 5 N.
+C. 0,5 N.
+D. 10 N.
+
+Câu 18. Ngày nay hầu hết các kiểu ô tô đều được thiết kế theo hình dạng con thoi (hình khí động học). Điều đó giúp xe
+A. nặng hơn, bám đường hơn.
+*B. chịu lực cản của không khí nhỏ, ít hao phí nhiên liệu.
+C. có lực nâng lớn để bay lên.
+D. có lực ma sát với mặt đường lớn hơn.
+
+PHẦN II. Câu trắc nghiệm đúng sai
+Câu 1. Một người đi xe đạp trên đường ngang khi có gió thổi ngược chiều.
+a) Người đi xe đạp chịu lực cản của không khí ngược hướng chuyển động. (Đ)
+b) Đi càng nhanh thì lực cản của không khí càng nhỏ. (S)
+c) Cúi người xuống giúp giảm lực cản của không khí. (Đ)
+d) Lực cản của không khí làm chuyển động của xe bị chậm lại nếu không đạp. (Đ)
+
+Câu 2. Một khinh khí cầu có tổng khối lượng 600 kg đang lơ lửng đứng yên; lấy g = 10 m/s².
+a) Khinh khí cầu chịu tác dụng của trọng lực và lực nâng của không khí. (Đ)
+b) Lực nâng của không khí có độ lớn 6 000 N. (Đ)
+c) Lực nâng của không khí hướng thẳng đứng xuống dưới. (S)
+d) Nếu thả bớt bao cát (lực nâng coi như không đổi) thì khinh khí cầu bắt đầu bay lên. (Đ)
+
+Câu 3. Một vật đặc khối lượng 5 kg, thể tích 0,002 m³ được thả vào nước (ρ = 1 000 kg/m³); lấy g = 10 m/s².
+a) Trọng lượng của vật là 50 N. (Đ)
+b) Khi vật chìm hoàn toàn, lực đẩy Archimedes lên vật là 20 N. (Đ)
+c) Vật nổi lên mặt nước. (S)
+d) Khi vật đứng yên ở đáy bình, đáy bình đỡ vật một lực 30 N. (Đ)
+Lời giải: P = 50 N > FA = 20 N nên vật chìm; lực đỡ của đáy: 50 − 20 = 30 N.
+
+Câu 4. Một ô tô dáng thuôn A và một ô tô dáng cao B có cùng khối lượng, cùng loại động cơ, chạy cùng tốc độ 72 km/h trên cùng quãng đường 100 km.
+a) Ô tô A chịu lực cản của không khí nhỏ hơn ô tô B. (Đ)
+b) Ô tô A tiêu thụ ít nhiên liệu hơn ô tô B. (Đ)
+c) Tốc độ 72 km/h bằng 20 m/s. (Đ)
+d) Lực cản của không khí lên hai ô tô bằng nhau vì chúng có cùng khối lượng. (S)
+
+PHẦN III. Câu trắc nghiệm trả lời ngắn
+Câu 1. Một vật thể tích 0,004 m³ chìm hoàn toàn trong nước (ρ = 1 000 kg/m³); lấy g = 10 m/s². Lực đẩy Archimedes lên vật là bao nhiêu niutơn?
+Đáp án: 40
+
+Câu 2. Một tàu thuỷ có tổng khối lượng 2 000 tấn nổi đứng yên trên mặt nước; lấy g = 10 m/s². Lực nâng của nước lên tàu là bao nhiêu triệu niutơn ($10^6$ N)?
+Đáp án: 20
+
+Câu 3. Một máy bay bay ngang với tốc độ không đổi; lực đẩy của động cơ là 120 kN. Lực cản của không khí lên máy bay là bao nhiêu kilôniutơn (kN)?
+Đáp án: 120
+
+Câu 4. Một vật khối lượng 4 kg đang rơi trong không khí; tại một thời điểm vật có gia tốc 7 m/s²; lấy g = 10 m/s². Lực cản của không khí lên vật tại thời điểm đó là bao nhiêu niutơn?
+Đáp án: 12
+Lời giải: Fc = m(g − a) = 4 . 3 = 12 N.
+
+Câu 5. Một vật treo vào lực kế, ngoài không khí lực kế chỉ 15 N; nhúng chìm hoàn toàn vật trong nước và giữ đứng yên thì lực kế chỉ 10 N. Lấy g = 10 m/s², khối lượng riêng của nước 1 000 kg/m³. Thể tích của vật là bao nhiêu lít?
+Đáp án: 0,5|0.5
+Lời giải: FA = 5 N ⇒ V = 5 : (1000 . 10) = 0,0005 m³ = 0,5 lít.
+
+Câu 6. Một khúc gỗ khối lượng 6 kg nổi đứng yên trên mặt nước (ρ = 1 000 kg/m³); lấy g = 10 m/s². Thể tích phần gỗ chìm trong nước là bao nhiêu lít?
+Đáp án: 6
+Lời giải: FA = P = 60 N ⇒ V = 60 : 10 000 = 0,006 m³ = 6 lít.
