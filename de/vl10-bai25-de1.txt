@@ -1,0 +1,159 @@
+VẬT LÍ 10 - CHƯƠNG IV. NĂNG LƯỢNG, CÔNG, CÔNG SUẤT - BÀI 25. ĐỘNG NĂNG, THẾ NĂNG - ĐỀ 1
+Đề kiểm tra theo cấu trúc thi tốt nghiệp THPT (biên soạn: thầy Lâm Thế Phong, THPT An Thới)
+Thời gian: 50
+
+PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn
+Câu 1. Động năng của một vật là
+*A. năng lượng mà vật có được do chuyển động.
+B. năng lượng mà vật có được do ở độ cao.
+C. năng lượng do vật bị biến dạng.
+D. nhiệt năng của vật.
+
+Câu 2. Biểu thức tính động năng của vật khối lượng m chuyển động với tốc độ v là
+A. $W_{\text{đ}} = m.v$.
+*B. $W_{\text{đ}} = \dfrac{1}{2}m.v^2$.
+C. $W_{\text{đ}} = m.v^2$.
+D. $W_{\text{đ}} = \dfrac{1}{2}m.v$.
+
+Câu 3. Trong hệ SI, đơn vị của động năng là
+A. W.
+B. N.
+*C. J.
+D. kg.m/s.
+
+Câu 4. Một vật khối lượng 2 kg chuyển động với tốc độ 3 m/s. Động năng của vật là
+A. 6 J.
+*B. 9 J.
+C. 18 J.
+D. 3 J.
+
+Câu 5. Giữ nguyên khối lượng, nếu tốc độ của vật tăng gấp đôi thì động năng của vật
+A. tăng gấp đôi.
+*B. tăng gấp bốn.
+C. không đổi.
+D. giảm một nửa.
+
+Câu 6. Giữ nguyên tốc độ, nếu khối lượng của vật tăng gấp đôi thì động năng của vật
+*A. tăng gấp đôi.
+B. tăng gấp bốn.
+C. không đổi.
+D. giảm một nửa.
+
+Câu 7. Một mũi tên nặng 48 g đang chuyển động với tốc độ 10 m/s. Động năng của mũi tên là
+A. 240 J.
+B. 0,48 J.
+*C. 2,4 J.
+D. 4,8 J.
+
+Câu 8. Thế năng trọng trường của vật khối lượng m ở độ cao h (so với gốc thế năng) là
+A. $W_t = m.h$.
+*B. $W_t = m.g.h$.
+C. $W_t = \dfrac{1}{2}m.g.h$.
+D. $W_t = \dfrac{m.g}{h}$.
+
+Câu 9. Độ lớn của thế năng trọng trường của một vật
+A. không phụ thuộc vào việc chọn mốc tính độ cao.
+*B. phụ thuộc vào việc chọn mốc tính độ cao.
+C. phụ thuộc vào tốc độ của vật.
+D. luôn dương.
+
+Câu 10. Một vật khối lượng 3 kg ở độ cao 5 m so với mặt đất; lấy g = 10 m/s², chọn gốc thế năng tại mặt đất. Thế năng của vật là
+A. 15 J.
+B. 50 J.
+*C. 150 J.
+D. 1,5 J.
+
+Câu 11. Một máy đóng cọc có đầu búa nặng 0,5 tấn được nâng lên độ cao 10 m so với mặt đất; lấy g = 9,8 m/s². Thế năng của đầu búa (gốc thế năng tại mặt đất) là
+A. 4,9 kJ.
+B. 490 kJ.
+*C. 49 kJ.
+D. 5 kJ.
+
+Câu 12. Năng lượng dự trữ trong cánh cung đang bị giương (biến dạng đàn hồi) được gọi là
+A. động năng.
+B. thế năng trọng trường.
+*C. thế năng đàn hồi.
+D. nhiệt năng.
+
+Câu 13. Một vật đang đứng yên chịu tác dụng của lực 20 N không đổi trên mặt phẳng ngang nhẵn, vật đi được 5 m theo hướng của lực. Động năng của vật khi đó là
+A. 4 J.
+B. 25 J.
+*C. 100 J.
+D. 200 J.
+
+Câu 14. Trong trọng trường, hiệu thế năng của một vật giữa hai điểm chỉ phụ thuộc vào
+A. khoảng cách giữa hai điểm.
+*B. chênh lệch độ cao giữa hai điểm theo phương thẳng đứng.
+C. quãng đường vật đi giữa hai điểm.
+D. tốc độ của vật.
+
+Câu 15. Một cuốn sách khối lượng 0,5 kg đặt trên giá sách ở độ cao 2 m so với sàn nhà; mặt bàn cao 0,8 m so với sàn; lấy g = 10 m/s². Chọn gốc thế năng tại mặt bàn, thế năng của cuốn sách là
+A. 10 J.
+*B. 6 J.
+C. 4 J.
+D. 14 J.
+
+Câu 16. Một vật nằm ở vị trí thấp hơn gốc thế năng thì thế năng trọng trường của vật
+A. dương.
+*B. âm.
+C. bằng 0.
+D. không xác định được.
+
+Câu 17. Đầu búa máy đóng cọc được thả rơi từ độ cao xuống. Trong quá trình rơi, năng lượng của búa chuyển hoá
+*A. từ thế năng sang động năng.
+B. từ động năng sang thế năng.
+C. từ nhiệt năng sang động năng.
+D. không chuyển hoá.
+
+Câu 18. Sóng thần có sức tàn phá rất lớn chủ yếu vì
+A. nước biển có nhiệt độ cao.
+*B. khối nước rất lớn chuyển động nhanh nên có động năng rất lớn.
+C. nước biển có thế năng đàn hồi lớn.
+D. sóng thần không chịu lực cản.
+
+PHẦN II. Câu trắc nghiệm đúng sai
+Câu 1. Trong một cú giao bóng kỉ lục, quả bóng quần vợt khối lượng 60 g đạt tốc độ 196 km/h.
+a) Tốc độ của quả bóng xấp xỉ 54,4 m/s. (Đ)
+b) Động năng của quả bóng xấp xỉ 89 J. (Đ)
+c) Nếu tốc độ giảm một nửa thì động năng của quả bóng xấp xỉ 44,5 J. (S)
+d) Động năng là đại lượng vô hướng, không âm. (Đ)
+Lời giải: Tốc độ giảm một nửa thì động năng giảm bốn lần, còn khoảng 22 J.
+
+Câu 2. Một cần cẩu đưa khối vật liệu 500 kg từ vị trí A ở mặt đất đến vị trí B trên một toà nhà cao 40 m; đoạn thẳng AB dài 50 m; lấy g = 9,8 m/s².
+a) Chọn gốc thế năng tại mặt đất, thế năng của khối vật liệu tại B là 196 000 J. (Đ)
+b) Công tối thiểu mà cần cẩu thực hiện là 196 000 J. (Đ)
+c) Vì vật đi theo đoạn AB dài 50 m nên công tối thiểu của cần cẩu là 245 000 J. (S)
+d) Nếu chọn gốc thế năng tại B thì thế năng của khối vật liệu tại A có giá trị âm. (Đ)
+
+Câu 3. Một vật khối lượng 4 kg đang chuyển động trên sàn nằm ngang với tốc độ 6 m/s thì trượt chậm dần đều do ma sát và dừng lại sau khi đi được 9 m; lấy g = 10 m/s².
+a) Động năng ban đầu của vật là 72 J. (Đ)
+b) Công của lực ma sát trong quá trình trượt là −72 J. (Đ)
+c) Lực ma sát có độ lớn 8 N. (Đ)
+d) Hệ số ma sát trượt giữa vật và sàn là 0,4. (S)
+Lời giải: Fms = 72 : 9 = 8 N; μ = 8 : 40 = 0,2.
+
+Câu 4. Một máy đóng cọc có đầu búa khối lượng 200 kg được nâng lên độ cao 5 m so với đầu cọc; chọn gốc thế năng tại đầu cọc, lấy g = 10 m/s².
+a) Thế năng của đầu búa là 10 kJ. (Đ)
+b) Khi búa rơi, thế năng chuyển hoá dần thành động năng. (Đ)
+c) Khi chạm vào đầu cọc, búa sinh công đẩy cọc lún xuống. (Đ)
+d) Nếu nâng búa lên độ cao 10 m so với đầu cọc thì thế năng của búa tăng gấp bốn. (S)
+
+PHẦN III. Câu trắc nghiệm trả lời ngắn
+Câu 1. Một vật khối lượng 0,5 kg chuyển động với tốc độ 4 m/s. Động năng của vật là bao nhiêu jun?
+Đáp án: 4
+
+Câu 2. Một ô tô khối lượng 1 200 kg chuyển động với tốc độ 72 km/h. Động năng của ô tô là bao nhiêu kilôjun?
+Đáp án: 240
+
+Câu 3. Một vật khối lượng 2 kg ở độ cao 6 m so với mặt đất; lấy g = 10 m/s², gốc thế năng tại mặt đất. Thế năng của vật là bao nhiêu jun?
+Đáp án: 120
+
+Câu 4. Một vật khối lượng 2 kg có thế năng 50 J so với mặt đất (gốc thế năng tại mặt đất); lấy g = 10 m/s². Độ cao của vật là bao nhiêu mét?
+Đáp án: 2,5|2.5
+
+Câu 5. Một vật khối lượng 3 kg đang đứng yên trên mặt phẳng ngang nhẵn thì chịu tác dụng của lực 15 N không đổi theo phương ngang; vật đi được 10 m. Tốc độ của vật khi đó là bao nhiêu m/s?
+Đáp án: 10
+Lời giải: Wđ = A = 150 J; v = √(2.150 : 3) = 10 m/s.
+
+Câu 6. Một vật khối lượng 0,5 kg có động năng 36 J. Tốc độ của vật là bao nhiêu m/s?
+Đáp án: 12

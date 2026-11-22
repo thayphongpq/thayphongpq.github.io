@@ -1,0 +1,161 @@
+VẬT LÍ 10 - CHƯƠNG IV. NĂNG LƯỢNG, CÔNG, CÔNG SUẤT - BÀI 25. ĐỘNG NĂNG, THẾ NĂNG - ĐỀ 2
+Đề kiểm tra theo cấu trúc thi tốt nghiệp THPT (biên soạn: thầy Lâm Thế Phong, THPT An Thới)
+Thời gian: 50
+
+PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn
+Câu 1. Vật nào sau đây KHÔNG có động năng?
+A. Ô tô đang chạy trên đường.
+B. Mũi tên đang bay.
+*C. Quyển sách nằm yên trên giá sách.
+D. Con sóng đang xô vào bờ.
+
+Câu 2. Động năng của một vật phụ thuộc vào
+A. độ cao của vật.
+*B. khối lượng và tốc độ của vật.
+C. chỉ khối lượng của vật.
+D. màu sắc của vật.
+
+Câu 3. Hai vật có cùng khối lượng, vật 1 có tốc độ gấp 3 lần vật 2. Tỉ số động năng của vật 1 và vật 2 là
+A. 3.
+*B. 9.
+C. 1/3.
+D. 6.
+
+Câu 4. Một ô tô khối lượng 1 tấn chuyển động với tốc độ 36 km/h. Động năng của ô tô là
+A. 648 kJ.
+B. 18 kJ.
+*C. 50 kJ.
+D. 5 kJ.
+
+Câu 5. Một vật khối lượng 4 kg có động năng 200 J. Tốc độ của vật là
+A. 50 m/s.
+*B. 10 m/s.
+C. 100 m/s.
+D. 5 m/s.
+
+Câu 6. Nếu ban đầu vật đứng yên thì động năng của vật khi đạt tốc độ v có giá trị bằng
+A. thế năng của vật.
+*B. công của lực tác dụng làm vật đạt tốc độ đó.
+C. trọng lượng của vật.
+D. 0.
+
+Câu 7. Thế năng trọng trường là năng lượng
+A. vật có do chuyển động.
+*B. lưu trữ trong vật do độ cao của vật so với gốc thế năng.
+C. do vật bị nung nóng.
+D. của dòng điện.
+
+Câu 8. Thường người ta chọn gốc thế năng trọng trường tại
+A. tâm Trái Đất.
+*B. mặt đất (coi có độ cao bằng 0).
+C. đỉnh núi.
+D. Mặt Trăng.
+
+Câu 9. Một vật khối lượng 1,5 kg ở độ cao 4 m so với mặt đất; lấy g = 10 m/s². Thế năng của vật (gốc tại mặt đất) là
+*A. 60 J.
+B. 6 J.
+C. 40 J.
+D. 600 J.
+
+Câu 10. Thế năng trọng trường của một vật bằng
+A. công của lực ma sát.
+*B. công của lực dùng để nâng đều vật từ gốc thế năng lên độ cao đó.
+C. động năng của vật.
+D. công suất của lực nâng.
+
+Câu 11. Công của trọng lực (lực thế) khi vật di chuyển giữa hai vị trí
+A. phụ thuộc vào hình dạng đường đi.
+*B. chỉ phụ thuộc vào chênh lệch độ cao của vị trí đầu và vị trí cuối.
+C. phụ thuộc vào độ lớn quãng đường đi được.
+D. luôn bằng 0.
+
+Câu 12. Một vật khối lượng 2 kg ở đáy giếng sâu 5 m; lấy g = 10 m/s². Chọn gốc thế năng tại miệng giếng, thế năng của vật là
+A. 100 J.
+*B. −100 J.
+C. 0.
+D. 10 J.
+
+Câu 13. Khi giương cung, cánh cung bị biến dạng đàn hồi. Khi buông tay, năng lượng dự trữ trong cánh cung (thế năng đàn hồi) chuyển hoá chủ yếu thành
+A. thế năng trọng trường của cung.
+*B. động năng của mũi tên.
+C. nhiệt năng của dây cung.
+D. năng lượng ánh sáng.
+
+Câu 14. Một quả bóng được thả từ độ cao h xuống sàn nhà. Ngay sau khi chạm sàn, động năng của quả bóng được chuyển hoá thành
+A. chỉ thế năng trọng trường.
+*B. thế năng đàn hồi (do bóng bị biến dạng), một phần nhiệt năng và năng lượng âm thanh.
+C. điện năng.
+D. quang năng.
+
+Câu 15. Một vật khối lượng 5 kg đang đứng yên trên mặt ngang nhẵn chịu lực kéo 10 N không đổi theo phương ngang, đi được 4 m. Động năng của vật là
+A. 20 J.
+*B. 40 J.
+C. 200 J.
+D. 8 J.
+
+Câu 16. Thiên thạch có năng lượng rất lớn so với các vật thường gặp chủ yếu vì
+A. thiên thạch có nhiệt độ thấp.
+*B. thiên thạch có khối lượng lớn và chuyển động với tốc độ rất lớn nên động năng rất lớn.
+C. thiên thạch đứng yên.
+D. thiên thạch có thế năng đàn hồi lớn.
+
+Câu 17. Để đưa một vật lên cao h, dùng mặt phẳng nghiêng (bỏ qua ma sát) thì so với kéo thẳng đứng
+*A. lực kéo nhỏ hơn trọng lượng nhưng quãng đường dài hơn, công như nhau.
+B. lực kéo lớn hơn và công lớn hơn.
+C. lực kéo nhỏ hơn và công nhỏ hơn.
+D. lực kéo bằng trọng lượng và công nhỏ hơn.
+
+Câu 18. Khi tàu lượn đi lên vị trí cao nhất của đường ray thì
+*A. thế năng của tàu lớn nhất, tốc độ của tàu nhỏ nhất.
+B. thế năng nhỏ nhất, tốc độ lớn nhất.
+C. thế năng và tốc độ đều lớn nhất.
+D. thế năng bằng 0.
+
+PHẦN II. Câu trắc nghiệm đúng sai
+Câu 1. Một ô tô khối lượng 1 500 kg đang chạy với tốc độ 20 m/s thì hãm phanh và dừng lại.
+a) Động năng của ô tô lúc bắt đầu hãm phanh là 300 kJ. (Đ)
+b) Công của lực hãm có độ lớn bằng động năng ban đầu của ô tô. (Đ)
+c) Nếu ô tô chạy với tốc độ 10 m/s thì động năng là 150 kJ. (S)
+d) Nếu lực hãm không đổi bằng 7 500 N thì ô tô đi thêm được 40 m rồi dừng. (Đ)
+Lời giải: Wđ = 0,5 . 1500 . 400 = 300 000 J; v = 10 m/s: Wđ = 75 kJ; s = 300 000 : 7500 = 40 m.
+
+Câu 2. Một cuốn sách khối lượng 0,4 kg đặt trên giá sách ở độ cao 1,8 m so với sàn nhà; mặt bàn cao 0,8 m so với sàn; lấy g = 10 m/s².
+a) Chọn gốc thế năng tại sàn nhà, thế năng của cuốn sách là 7,2 J. (Đ)
+b) Chọn gốc thế năng tại mặt bàn, thế năng của cuốn sách là 4 J. (Đ)
+c) Thế năng của cuốn sách không phụ thuộc vào việc chọn gốc thế năng. (S)
+d) Hiệu thế năng của cuốn sách giữa giá sách và mặt bàn không phụ thuộc vào việc chọn gốc thế năng. (Đ)
+
+Câu 3. Một vật khối lượng 2 kg đang đứng yên trên mặt phẳng ngang thì được kéo bằng lực 12 N theo phương ngang, đi được 5 m; lực ma sát có độ lớn 4 N.
+a) Công của lực kéo là 60 J. (Đ)
+b) Công của lực ma sát là −20 J. (Đ)
+c) Động năng của vật sau khi đi được 5 m là 60 J. (S)
+d) Tốc độ của vật sau khi đi được 5 m là 2√10 m/s (≈ 6,3 m/s). (Đ)
+Lời giải: Wđ = 60 − 20 = 40 J; v = √(2 . 40 : 2) = √40 ≈ 6,3 m/s.
+
+Câu 4. Dùng mặt phẳng nghiêng dài 5 m đưa đều một thùng hàng khối lượng 60 kg lên sàn xe cao 1 m (bỏ qua ma sát); lấy g = 10 m/s².
+a) Thế năng của thùng hàng khi ở trên sàn xe (gốc tại mặt đất) là 600 J. (Đ)
+b) Công của lực kéo bằng 600 J. (Đ)
+c) Lực kéo dọc mặt phẳng nghiêng có độ lớn 120 N. (Đ)
+d) Lực kéo dọc mặt phẳng nghiêng bằng trọng lượng của thùng hàng. (S)
+Lời giải: F . 5 = 600 ⇒ F = 120 N < P = 600 N.
+
+PHẦN III. Câu trắc nghiệm trả lời ngắn
+Câu 1. Một vật khối lượng 3 kg chuyển động với tốc độ 4 m/s. Động năng của vật là bao nhiêu jun?
+Đáp án: 24
+
+Câu 2. Một xe máy tổng khối lượng 150 kg chạy với tốc độ 54 km/h. Động năng của xe là bao nhiêu kilôjun? (Làm tròn đến hàng phần mười.)
+Đáp án: 16,9|16.9
+Lời giải: Wđ = 0,5 . 150 . 15² = 16 875 J ≈ 16,9 kJ.
+
+Câu 3. Một vật khối lượng 0,2 kg ở độ cao 15 m so với mặt đất; lấy g = 10 m/s², gốc thế năng tại mặt đất. Thế năng của vật là bao nhiêu jun?
+Đáp án: 30
+
+Câu 4. Một vật khối lượng 8 kg có động năng 64 J. Tốc độ của vật là bao nhiêu m/s?
+Đáp án: 4
+
+Câu 5. Một vật khối lượng 10 kg đang chuyển động với tốc độ 4 m/s trên mặt bàn nằm ngang thì trượt chậm dần do ma sát, đi được 2 m thì dừng; lấy g = 10 m/s². Hệ số ma sát trượt giữa vật và mặt bàn là bao nhiêu?
+Đáp án: 0,4|0.4
+Lời giải: Wđ = 80 J = μ . 100 . 2 ⇒ μ = 0,4.
+
+Câu 6. Một cần cẩu nâng đều một khối vật liệu 300 kg từ mặt đất lên độ cao 25 m; lấy g = 10 m/s². Thế năng của khối vật liệu (gốc tại mặt đất) là bao nhiêu kilôjun?
+Đáp án: 75
