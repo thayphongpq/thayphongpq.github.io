@@ -121,6 +121,10 @@ a.the-video:hover h3 { color: var(--ly); }
 .ds__mo { flex: none; font-size: 14px; font-weight: 600; color: var(--tin); text-decoration: none; white-space: nowrap; }
 .ds__mo:hover { text-decoration: underline; }
 .sap-co { flex: none; font-size: 14px; color: var(--mo); white-space: nowrap; }
+.ds__de { flex: none; display: flex; flex-wrap: wrap; gap: 6px; }
+.nut-de { display: inline-flex; flex-direction: column; align-items: center; justify-content: center; min-width: 58px; padding: 5px 10px; border: 1px solid var(--vien); border-radius: 8px; background: var(--trang); color: var(--tin); font-size: 14px; font-weight: 600; line-height: 1.25; text-decoration: none; white-space: nowrap; }
+.nut-de:hover { border-color: var(--tin); background: var(--tin-nhat); }
+.nut-de small { font-size: 11.5px; color: var(--mo); }
 
 /* Thư mục HSG THCS / THPT */
 .thu-muc { display: grid; grid-template-columns: 1fr 1fr; gap: 18px; margin-bottom: 40px; }
@@ -507,4 +511,6 @@ a.gv-viec:hover { border-color: var(--tin); }
   .ds li { flex-wrap: wrap; gap: 6px 10px; }
   .ds__ten { flex: 1 1 100%; order: 3; }
   .ds__mo, .sap-co { margin-left: auto; }
+  .ds__de { order: 4; flex: 1 1 100%; gap: 8px; }
+  .nut-de { min-width: 72px; min-height: 40px; padding: 6px 14px; }
 }

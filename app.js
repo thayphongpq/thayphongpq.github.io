@@ -479,6 +479,39 @@
   function dsDeHTML(ds, rong) {
     return ds.length ? '<ul class="ds">' + ds.map(dongDe).join("") + "</ul>" : '<div class="trong">' + esc(rong || "Chưa có đề ở mục này.") + "</div>";
   }
+  // Trang lớp: xếp đề theo số bài (Bài 1, 2, 3...). Bài có nhiều đề ("Bài N – Đề K. Tên") gom vào một dòng,
+  // mỗi đề là một nút, để danh sách không dài quá.
+  const R_DE_BAI = /^Bài\s+(\d+)\s*(?:[–-]\s*Đề\s+(\d+))?\s*[.:]\s*(.*)$/;
+  function dongNhomDe(n) {
+    const d0 = n.de[0].d;
+    const cungTG = n.de.every(function (x) { return x.d.thoiGian === d0.thoiGian; });
+    return '<li class="' + mauMon(d0.mon, d0.lop) + '"><span class="ds__loai">' + esc(d0.loai || "Luyện tập") + "</span>" +
+      '<span class="ds__ten"><b>Bài ' + n.so + ". " + esc(n.ten) + '</b><span class="phu">' + esc(d0.mon) + " · " + esc(tenLop(d0)) +
+      " · " + n.de.length + " đề" + (cungTG && d0.thoiGian ? " · " + esc(d0.thoiGian) + " phút mỗi đề" : "") + "</span></span>" +
+      '<span class="ds__de">' + n.de.map(function (x, i) {
+        const ten = "Đề " + (x.soDe || i + 1), cao = diemCaoNhat(x.d.slug);
+        const diem = cao !== null ? soDiem(Number(cao) || 0) : "";
+        return '<a class="nut-de" href="#/lam-bai/' + esc(x.d.slug) + '" aria-label="Bài ' + n.so + ", " + ten +
+          (diem ? ", điểm cao nhất của em " + diem : "") + '">' + ten + (diem ? "<small>" + diem + " đ</small>" : "") + "</a>";
+      }).join("") + "</span></li>";
+  }
+  function dsDeTheoBai(ds, rong) {
+    const nhom = {}, so = [], khac = [];
+    ds.forEach(function (d) {
+      const m = String(d.ten).match(R_DE_BAI);
+      if (!m) { khac.push(d); return; }
+      const k = Number(m[1]);
+      if (!nhom[k]) { nhom[k] = { so: k, ten: m[3], de: [] }; so.push(k); }
+      nhom[k].de.push({ d: d, soDe: m[2] ? Number(m[2]) : 0 });
+    });
+    if (!so.length) return dsDeHTML(ds, rong);
+    so.sort(function (a, b) { return a - b; });
+    return '<ul class="ds">' + so.map(function (k) {
+      const n = nhom[k];
+      n.de.sort(function (a, b) { return a.soDe - b.soDe || a.d.thuTu - b.d.thuTu; });
+      return n.de.length > 1 ? dongNhomDe(n) : dongDe(n.de[0].d);
+    }).join("") + khac.map(dongDe).join("") + "</ul>";
+  }
   function khoi(tieuDe, noiDung, link, chuLink, id) {
     return '<section class="khoi"' + (id ? ' id="' + id + '"' : "") + '><div class="khoi__dau"><h2>' + esc(tieuDe) + "</h2>" +
       (link ? '<a href="' + esc(link) + '"' + (/^https?:/.test(link) ? ' target="_blank" rel="noopener"' : "") + ">" + chuLink + "</a>" : "") +
@@ -569,7 +602,7 @@
     const de = dsDe.filter(hop);
     const muc = [];
     if (lop === "12") muc.push(["thi-thu", "Thi thử tốt nghiệp THPT", dsDeHTML(de.filter(laThiThu), "Đề thi thử đang được biên soạn, sắp có.")]);
-    muc.push(["trac-nghiem", "Trắc nghiệm luyện tập", dsDeHTML(de.filter(function (d) { return !laThiThu(d); }), "Đề luyện tập đang được biên soạn, sắp có.")]);
+    muc.push(["trac-nghiem", "Trắc nghiệm luyện tập", dsDeTheoBai(de.filter(function (d) { return !laThiThu(d); }), "Đề luyện tập đang được biên soạn, sắp có.")]);
     const baiLop = dsBai.filter(hop), tlLop = dsTaiLieu.filter(hop);
     muc.push(["tai-lieu", "Tài liệu bài giảng", baiLop.length || tlLop.length
       ? (baiLop.length ? '<ul class="ds">' + baiLop.map(dongBai).join("") + "</ul>" : "") + (tlLop.length ? (baiLop.length ? '<div style="height:12px"></div>' : "") + dsTL(tlLop) : "")
