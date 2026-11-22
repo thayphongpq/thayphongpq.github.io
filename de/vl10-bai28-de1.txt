@@ -1,0 +1,157 @@
+VẬT LÍ 10 - CHƯƠNG V. ĐỘNG LƯỢNG - BÀI 28. ĐỘNG LƯỢNG - ĐỀ 1
+Đề kiểm tra theo cấu trúc thi tốt nghiệp THPT (biên soạn: thầy Lâm Thế Phong, THPT An Thới)
+Thời gian: 50
+
+PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn
+Câu 1. Động lượng của một vật khối lượng m đang chuyển động với vận tốc $\vec{v}$ là
+A. $\vec{p} = \dfrac{\vec{v}}{m}$.
+*B. $\vec{p} = m\vec{v}$.
+C. $p = \dfrac{1}{2}mv^2$.
+D. $\vec{p} = m\vec{a}$.
+
+Câu 2. Đơn vị của động lượng là
+A. kg.m/s².
+*B. kg.m/s.
+C. N.m.
+D. J.
+
+Câu 3. Động lượng là đại lượng
+A. vô hướng, luôn dương.
+*B. vectơ, cùng hướng với vận tốc của vật.
+C. vectơ, ngược hướng với vận tốc của vật.
+D. vectơ, cùng hướng với gia tốc của vật.
+
+Câu 4. Phát biểu nào sau đây KHÔNG đúng khi nói về động lượng?
+A. Động lượng của một vật đặc trưng cho khả năng truyền chuyển động của vật khi tương tác với vật khác.
+B. Động lượng là đại lượng vectơ.
+C. Động lượng có đơn vị là kg.m/s.
+*D. Động lượng của một vật chỉ phụ thuộc vào vận tốc của vật đó.
+
+Câu 5. Đơn vị của động lượng còn có thể viết là
+A. N.m.
+*B. N.s.
+C. N/s.
+D. W.s.
+
+Câu 6. Một xe buýt khối lượng 3 tấn chuyển động với tốc độ 72 km/h. Độ lớn động lượng của xe buýt là
+A. 216 000 kg.m/s.
+*B. 60 000 kg.m/s.
+C. 6 000 kg.m/s.
+D. 24 kg.m/s.
+
+Câu 7. Một hòn đá khối lượng 500 g chuyển động với tốc độ 10 m/s. Độ lớn động lượng của hòn đá là
+A. 5 000 kg.m/s.
+B. 50 kg.m/s.
+*C. 5 kg.m/s.
+D. 0,05 kg.m/s.
+
+Câu 8. Khi một lực $\vec{F}$ (coi như không đổi) tác dụng lên vật trong khoảng thời gian ngắn Δt thì xung lượng của lực là
+*A. $\vec{F}.\Delta t$.
+B. $\dfrac{\vec{F}}{\Delta t}$.
+C. $\vec{F}.s$.
+D. $\dfrac{\Delta t}{\vec{F}}$.
+
+Câu 9. Xung lượng của lực tác dụng lên vật trong một khoảng thời gian bằng
+A. động lượng của vật lúc đầu.
+*B. độ biến thiên động lượng của vật trong khoảng thời gian đó.
+C. động năng của vật.
+D. công của lực.
+
+Câu 10. Dạng tổng quát của định luật 2 Newton là
+A. $\vec{F} = \Delta\vec{p}.\Delta t$.
+*B. $\vec{F} = \dfrac{\Delta\vec{p}}{\Delta t}$.
+C. $\vec{F} = \dfrac{\Delta t}{\Delta\vec{p}}$.
+D. $\vec{F} = \vec{p}$.
+
+Câu 11. Một quả bóng khối lượng m đang bay ngang với tốc độ v thì đập vào bức tường và bật trở lại với cùng tốc độ. Chọn chiều dương là chiều chuyển động ban đầu của bóng. Xung lượng của lực do tường tác dụng lên quả bóng là
+A. mv.
+B. −mv.
+C. 2mv.
+*D. −2mv.
+
+Câu 12. Thủ môn khi bắt bóng thường co tay lại và lùi người một chút theo hướng đi của quả bóng để
+A. giảm động lượng của quả bóng.
+B. giảm độ biến thiên động lượng của quả bóng.
+C. tăng xung lượng của lực quả bóng tác dụng lên tay.
+*D. giảm cường độ lực của quả bóng tác dụng lên tay.
+
+Câu 13. Một xe tải và một xe ô tô con đang chạy cạnh nhau với cùng vận tốc. Muốn dừng lại trong cùng một khoảng thời gian thì
+*A. xe tải cần lực hãm lớn hơn vì có động lượng lớn hơn.
+B. xe ô tô con cần lực hãm lớn hơn.
+C. hai xe cần lực hãm như nhau.
+D. không cần lực hãm.
+
+Câu 14. Một quả bóng gôn khối lượng 46 g đang nằm yên, sau cú đánh bay đi với tốc độ 70 m/s; thời gian tác dụng của gậy là 0,5.10⁻³ s. Độ lớn trung bình của lực gậy tác dụng vào bóng là
+A. 3,22 N.
+B. 644 N.
+*C. 6 440 N.
+D. 64 400 N.
+
+Câu 15. Vật 1 khối lượng 1 kg chuyển động với tốc độ 3 m/s; vật 2 khối lượng 2 kg chuyển động với tốc độ 2 m/s. Nhận xét đúng là
+A. vật 1 có động lượng lớn hơn.
+*B. vật 2 có động lượng lớn hơn nên khó dừng lại hơn.
+C. hai vật có động lượng bằng nhau.
+D. vật 1 khó dừng lại hơn.
+
+Câu 16. Một lực 20 N tác dụng lên vật trong 0,05 s. Xung lượng của lực có độ lớn
+A. 400 N.s.
+*B. 1 N.s.
+C. 0,0025 N.s.
+D. 20,05 N.s.
+
+Câu 17. Một vật khối lượng 2 kg đang chuyển động thẳng với tốc độ 3 m/s thì tăng tốc lên 7 m/s theo cùng hướng. Độ biến thiên động lượng của vật có độ lớn
+A. 20 kg.m/s.
+*B. 8 kg.m/s.
+C. 4 kg.m/s.
+D. 14 kg.m/s.
+
+Câu 18. Một vật chuyển động tròn đều. Động lượng của vật
+A. không đổi cả độ lớn và hướng.
+*B. có độ lớn không đổi nhưng hướng thay đổi.
+C. có độ lớn thay đổi nhưng hướng không đổi.
+D. bằng 0.
+
+PHẦN II. Câu trắc nghiệm đúng sai
+Câu 1. Một xe tải khối lượng 1,5 tấn chuyển động với tốc độ 36 km/h và một ô tô khối lượng 750 kg chuyển động ngược chiều với tốc độ 54 km/h.
+a) Độ lớn động lượng của xe tải là 15 000 kg.m/s. (Đ)
+b) Độ lớn động lượng của ô tô là 11 250 kg.m/s. (Đ)
+c) Động lượng của hai xe cùng hướng. (S)
+d) Độ lớn động lượng của xe tải lớn hơn của ô tô. (Đ)
+
+Câu 2. Một quả bóng khối lượng 0,5 kg đang bay ngang với tốc độ 20 m/s thì đập vào bức tường và bật ngược trở lại với tốc độ 20 m/s; thời gian va chạm là 0,02 s.
+a) Độ lớn động lượng của quả bóng trước va chạm là 10 kg.m/s. (Đ)
+b) Độ biến thiên động lượng của quả bóng có độ lớn 20 kg.m/s. (Đ)
+c) Độ biến thiên động lượng của quả bóng bằng 0 vì tốc độ không đổi. (S)
+d) Độ lớn trung bình của lực do tường tác dụng lên bóng là 1 000 N. (Đ)
+Lời giải: Δp = m(−v) − mv = −2mv, độ lớn 20 kg.m/s; F = 20 : 0,02 = 1 000 N.
+
+Câu 3. Một vật khối lượng 2 kg đang đứng yên trên mặt phẳng ngang nhẵn thì chịu tác dụng của lực 10 N không đổi theo phương ngang trong 3 s.
+a) Xung lượng của lực là 30 N.s. (Đ)
+b) Động lượng của vật sau 3 s có độ lớn 30 kg.m/s. (Đ)
+c) Tốc độ của vật sau 3 s là 15 m/s. (Đ)
+d) Tốc độ của vật sau 3 s là 30 m/s. (S)
+
+Câu 4. Thí nghiệm: thả hai viên bi A, B (bi B nặng hơn A) từ cùng một độ cao trên máng nghiêng; ở chân máng, mỗi viên bi va chạm với bi C đang đứng yên. Bỏ qua ma sát.
+a) Hai viên bi A, B có vận tốc như nhau khi đến chân máng. (Đ)
+b) Bi B đẩy bi C lăn xa hơn vì bi B có động lượng lớn hơn. (Đ)
+c) Nếu thả bi A từ độ cao lớn hơn thì vận tốc của bi A ở chân máng lớn hơn. (Đ)
+d) Động lượng của viên bi không phụ thuộc vào khối lượng của viên bi. (S)
+
+PHẦN III. Câu trắc nghiệm trả lời ngắn
+Câu 1. Một vật khối lượng 0,2 kg chuyển động với tốc độ 15 m/s. Độ lớn động lượng của vật là bao nhiêu kg.m/s?
+Đáp án: 3
+
+Câu 2. Một ô tô khối lượng 1 200 kg chuyển động với tốc độ 72 km/h. Độ lớn động lượng của ô tô là bao nhiêu nghìn kg.m/s (10³ kg.m/s)?
+Đáp án: 24
+
+Câu 3. Một lực 50 N tác dụng lên vật trong 0,2 s. Độ lớn xung lượng của lực là bao nhiêu N.s?
+Đáp án: 10
+
+Câu 4. Động lượng của một vật biến thiên một lượng có độ lớn 12 kg.m/s trong 0,03 s. Độ lớn trung bình của lực tác dụng lên vật là bao nhiêu niutơn?
+Đáp án: 400
+
+Câu 5. Một vật khối lượng 4 kg đang chuyển động thẳng với tốc độ 5 m/s thì giảm tốc còn 2 m/s theo cùng hướng. Độ lớn độ biến thiên động lượng của vật là bao nhiêu kg.m/s?
+Đáp án: 12
+
+Câu 6. Một electron có khối lượng 9,1.10⁻³¹ kg chuyển động với tốc độ 2.10⁷ m/s. Độ lớn động lượng của electron là $x.10^{-23}$ kg.m/s. Giá trị của x là bao nhiêu?
+Đáp án: 1,82|1.82
