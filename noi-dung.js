@@ -177,6 +177,9 @@ const DE_THI = [
   { ten: "Bài 26 – Đề 1. Cơ năng và định luật bảo toàn cơ năng", mon: "Vật lý", lop: "10", loai: "Luyện tập", tep: "de/vl10-bai26-de1.txt", thoiGian: 50, ngay: "2026-11-22" },
   { ten: "Bài 26 – Đề 2. Cơ năng và định luật bảo toàn cơ năng", mon: "Vật lý", lop: "10", loai: "Luyện tập", tep: "de/vl10-bai26-de2.txt", thoiGian: 50, ngay: "2026-11-22" },
   { ten: "Bài 26 – Đề 3. Cơ năng và định luật bảo toàn cơ năng", mon: "Vật lý", lop: "10", loai: "Luyện tập", tep: "de/vl10-bai26-de3.txt", thoiGian: 50, ngay: "2026-11-22" },
+  { ten: "Bài 27 – Đề 1. Hiệu suất", mon: "Vật lý", lop: "10", loai: "Luyện tập", tep: "de/vl10-bai27-de1.txt", thoiGian: 50, ngay: "2026-11-22" },
+  { ten: "Bài 27 – Đề 2. Hiệu suất", mon: "Vật lý", lop: "10", loai: "Luyện tập", tep: "de/vl10-bai27-de2.txt", thoiGian: 50, ngay: "2026-11-22" },
+  { ten: "Bài 27 – Đề 3. Hiệu suất", mon: "Vật lý", lop: "10", loai: "Luyện tập", tep: "de/vl10-bai27-de3.txt", thoiGian: 50, ngay: "2026-11-22" },
 
   // ----- Vật lý 10 (sách thống nhất) - Chương II. Động học -----
   // (đề cũ 13 câu, đã thay bằng 3 đề 28 câu) { ten: "Bài 4. Độ dịch chuyển và quãng đường đi được", mon: "Vật lý", lop: "10", loai: "Luyện tập", tep: "de/vl10-bai04-do-dich-chuyen.txt", thoiGian: 20, ngay: "2026-11-19" },
@@ -202,7 +205,7 @@ const DE_THI = [
   // (đề cũ 13 câu, đã thay bằng 3 đề 28 câu) { ten: "Bài 24. Công suất", mon: "Vật lý", lop: "10", loai: "Luyện tập", tep: "de/vl10-bai24-cong-suat.txt", thoiGian: 20, ngay: "2026-11-19" },
   // (đề cũ 13 câu, đã thay bằng 3 đề 28 câu) { ten: "Bài 25. Động năng, thế năng", mon: "Vật lý", lop: "10", loai: "Luyện tập", tep: "de/vl10-bai25-dong-nang-the-nang.txt", thoiGian: 20, ngay: "2026-11-19" },
   // (đề cũ 13 câu, đã thay bằng 3 đề 28 câu) { ten: "Bài 26. Cơ năng và định luật bảo toàn cơ năng", mon: "Vật lý", lop: "10", loai: "Luyện tập", tep: "de/vl10-bai26-co-nang.txt", thoiGian: 20, ngay: "2026-11-19" },
-  { ten: "Bài 27. Hiệu suất", mon: "Vật lý", lop: "10", loai: "Luyện tập", tep: "de/vl10-bai27-hieu-suat.txt", thoiGian: 20, ngay: "2026-11-19" },
+  // (đề cũ 13 câu, đã thay bằng 3 đề 28 câu) { ten: "Bài 27. Hiệu suất", mon: "Vật lý", lop: "10", loai: "Luyện tập", tep: "de/vl10-bai27-hieu-suat.txt", thoiGian: 20, ngay: "2026-11-19" },
   { ten: "Bài 28. Động lượng", mon: "Vật lý", lop: "10", loai: "Luyện tập", tep: "de/vl10-bai28-dong-luong.txt", thoiGian: 20, ngay: "2026-11-19" },
   { ten: "Bài 29. Định luật bảo toàn động lượng", mon: "Vật lý", lop: "10", loai: "Luyện tập", tep: "de/vl10-bai29-bao-toan-dong-luong.txt", thoiGian: 20, ngay: "2026-11-19" },
   { ten: "Bài 30. Thực hành: Xác định động lượng của vật trước và sau va chạm", mon: "Vật lý", lop: "10", loai: "Luyện tập", tep: "de/vl10-bai30-thuc-hanh-dong-luong.txt", thoiGian: 20, ngay: "2026-11-19" },
