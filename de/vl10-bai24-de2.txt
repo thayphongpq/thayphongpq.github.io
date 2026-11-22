@@ -1,0 +1,159 @@
+VẬT LÍ 10 - CHƯƠNG IV. NĂNG LƯỢNG, CÔNG, CÔNG SUẤT - BÀI 24. CÔNG SUẤT - ĐỀ 2
+Đề kiểm tra theo cấu trúc thi tốt nghiệp THPT (biên soạn: thầy Lâm Thế Phong, THPT An Thới)
+Thời gian: 50
+
+PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn
+Câu 1. Công suất được đo bằng
+A. công sinh ra trong một giờ.
+*B. công sinh ra trong một giây.
+C. lực tác dụng trong một giây.
+D. quãng đường đi được trong một giây.
+
+Câu 2. Hai máy cùng thực hiện một công như nhau. Máy nào có công suất lớn hơn?
+*A. Máy thực hiện công đó trong thời gian ít hơn.
+B. Máy thực hiện công đó trong thời gian nhiều hơn.
+C. Hai máy có công suất bằng nhau.
+D. Máy có khối lượng lớn hơn.
+
+Câu 3. Trong cùng một khoảng thời gian, máy có công suất lớn hơn là máy
+A. thực hiện công nhỏ hơn.
+*B. thực hiện công lớn hơn.
+C. chạy chậm hơn.
+D. nặng hơn.
+
+Câu 4. 1 kW bằng
+A. 10 W.
+B. 100 W.
+*C. 1 000 W.
+D. 10⁶ W.
+
+Câu 5. Đơn vị nào sau đây KHÔNG phải là đơn vị của công suất?
+A. W.
+B. kW.
+C. MW.
+*D. kW.h.
+
+Câu 6. Một động cơ có công suất 2 kW hoạt động trong 10 s. Công mà động cơ thực hiện là
+A. 200 J.
+B. 5 J.
+*C. 20 000 J.
+D. 2 010 J.
+
+Câu 7. Một máy có công suất 150 W thực hiện công 4 500 J. Thời gian máy hoạt động là
+A. 675 000 s.
+*B. 30 s.
+C. 0,03 s.
+D. 4 350 s.
+
+Câu 8. Công thức $\mathscr{P} = F.v$ được áp dụng khi
+*A. vật chuyển động cùng hướng với lực và lực không đổi.
+B. lực vuông góc với hướng chuyển động.
+C. vật đứng yên.
+D. lực ngược hướng chuyển động.
+
+Câu 9. Một xe tải chạy đều với tốc độ 20 m/s, lực kéo của động cơ là 3 000 N. Công suất của động cơ là
+A. 150 W.
+B. 6 kW.
+*C. 60 kW.
+D. 600 kW.
+
+Câu 10. Một động cơ có công suất 90 kW làm xe chạy đều với tốc độ 30 m/s. Lực kéo của động cơ là
+A. 2 700 kN.
+*B. 3 000 N.
+C. 300 N.
+D. 30 000 N.
+
+Câu 11. Giữ nguyên công suất của động cơ, nếu giảm tốc độ của xe thì lực kéo của động cơ
+*A. tăng.
+B. giảm.
+C. không đổi.
+D. bằng 0.
+
+Câu 12. Một cần cẩu nâng đều một vật khối lượng 1 tấn lên cao 15 m trong 30 s; lấy g = 10 m/s². Công suất của cần cẩu là
+A. 50 kW.
+*B. 5 kW.
+C. 500 W.
+D. 150 kW.
+
+Câu 13. Một học sinh khối lượng 45 kg chạy lên cầu thang cao 6 m trong 12 s; lấy g = 10 m/s². Công suất tối thiểu của học sinh là
+A. 22,5 W.
+B. 2 700 W.
+*C. 225 W.
+D. 90 W.
+
+Câu 14. 1 kW.h là
+*A. công của một thiết bị có công suất 1 kW thực hiện trong 1 giờ.
+B. công suất của một thiết bị hoạt động trong 1 giờ.
+C. công của một thiết bị có công suất 1 W thực hiện trong 1 giây.
+D. lực tác dụng trong 1 giờ.
+
+Câu 15. Một nồi cơm điện công suất 800 W hoạt động trong 30 phút. Điện năng tiêu thụ là
+A. 24 kW.h.
+B. 400 kW.h.
+*C. 0,4 kW.h.
+D. 0,8 kW.h.
+
+Câu 16. Một thang máy khối lượng 800 kg đi lên đều với tốc độ 2 m/s; lấy g = 10 m/s². Công suất của động cơ thang máy (bỏ qua ma sát) là
+A. 1,6 kW.
+B. 4 kW.
+*C. 16 kW.
+D. 160 kW.
+
+Câu 17. Công thức $\mathscr{P}_t = F.v_t$ cho biết
+A. công suất trung bình trong cả quá trình.
+*B. công suất tức thời của lực tại thời điểm vật có tốc độ tức thời $v_t$.
+C. công của lực.
+D. năng lượng của vật.
+
+Câu 18. Hai bạn leo lên cùng một cầu thang trong cùng một khoảng thời gian. Bạn có trọng lượng lớn hơn có công suất
+A. nhỏ hơn.
+*B. lớn hơn.
+C. bằng nhau.
+D. bằng 0.
+
+PHẦN II. Câu trắc nghiệm đúng sai
+Câu 1. Một người kéo đều một thùng nước 10 kg từ giếng sâu 6 m lên trong 12 s; lấy g = 10 m/s².
+a) Tốc độ của thùng nước là 0,5 m/s. (Đ)
+b) Lực kéo của người có độ lớn 100 N. (Đ)
+c) Công suất của người kéo là 50 W. (Đ)
+d) Nếu kéo thùng nước lên trong 6 s thì công suất của người kéo là 25 W. (S)
+Lời giải: Thời gian giảm một nửa, công không đổi nên công suất tăng gấp đôi: 100 W.
+
+Câu 2. Một xe máy chạy đều trên đường ngang với tốc độ 36 km/h, lực kéo của động cơ là 400 N.
+a) Tốc độ của xe là 10 m/s. (Đ)
+b) Công suất của động cơ là 4 kW. (Đ)
+c) Trong 1 phút, động cơ thực hiện công 240 kJ. (Đ)
+d) Khi lên dốc, giữ nguyên công suất 4 kW, nếu cần lực kéo 800 N thì xe vẫn chạy với tốc độ 10 m/s. (S)
+Lời giải: v = 𝒫 : F = 4000 : 800 = 5 m/s.
+
+Câu 3. Tổ chức hoạt động "Thi xem ai là người có công suất lớn hơn" khi lên cầu thang.
+a) Cần xác định trọng lượng của người, độ cao cầu thang và thời gian lên cầu thang. (Đ)
+b) Dụng cụ đo thời gian có thể dùng là đồng hồ bấm giây. (Đ)
+c) Bạn lên cầu thang nhanh nhất luôn là bạn có công suất lớn nhất. (S)
+d) Một bạn có trọng lượng 500 N lên cao 6 m trong 15 s thì có công suất 200 W. (Đ)
+Lời giải: Công suất phụ thuộc cả trọng lượng và thời gian, nên bạn nhanh nhất chưa chắc có công suất lớn nhất.
+
+Câu 4. Một máy bơm đưa 900 kg nước lên cao 10 m trong 1 phút (coi nước chuyển động đều); lấy g = 10 m/s².
+a) Công máy bơm thực hiện được là 90 kJ. (Đ)
+b) Công suất của máy bơm là 1,5 kW. (Đ)
+c) Với cùng công suất, trong 1 giờ máy bơm đưa được 54 tấn nước lên cao 10 m. (Đ)
+d) Công suất của máy bơm là 90 kW. (S)
+
+PHẦN III. Câu trắc nghiệm trả lời ngắn
+Câu 1. Một máy thực hiện công 7 200 J trong 2 phút. Công suất của máy là bao nhiêu oát?
+Đáp án: 60
+
+Câu 2. Một lực 800 N làm vật chuyển động đều cùng hướng với lực với tốc độ 1,5 m/s. Công suất của lực là bao nhiêu oát?
+Đáp án: 1200
+
+Câu 3. Một động cơ có công suất 60 kW làm xe chạy đều với tốc độ 20 m/s. Lực kéo của động cơ là bao nhiêu niutơn?
+Đáp án: 3000
+
+Câu 4. Một máy giặt công suất 500 W hoạt động trong 2 giờ. Điện năng tiêu thụ là bao nhiêu kW.h?
+Đáp án: 1
+
+Câu 5. Một học sinh khối lượng 50 kg chạy lên cầu thang cao 9 m trong 15 s; lấy g = 10 m/s². Công suất tối thiểu của học sinh là bao nhiêu oát?
+Đáp án: 300
+
+Câu 6. Một cần cẩu có công suất 2 kW nâng đều một vật khối lượng 400 kg; lấy g = 10 m/s². Tốc độ nâng vật là bao nhiêu m/s?
+Đáp án: 0,5|0.5

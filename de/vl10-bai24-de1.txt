@@ -1,0 +1,159 @@
+VẬT LÍ 10 - CHƯƠNG IV. NĂNG LƯỢNG, CÔNG, CÔNG SUẤT - BÀI 24. CÔNG SUẤT - ĐỀ 1
+Đề kiểm tra theo cấu trúc thi tốt nghiệp THPT (biên soạn: thầy Lâm Thế Phong, THPT An Thới)
+Thời gian: 50
+
+PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn
+Câu 1. Công suất là đại lượng đặc trưng cho
+A. độ lớn của công thực hiện được.
+*B. khả năng thực hiện công nhanh hay chậm (tốc độ sinh công).
+C. lực tác dụng lên vật.
+D. năng lượng dự trữ của vật.
+
+Câu 2. Công thức tính công suất là
+*A. $\mathscr{P} = \dfrac{A}{t}$.
+B. $\mathscr{P} = A.t$.
+C. $\mathscr{P} = \dfrac{t}{A}$.
+D. $\mathscr{P} = A + t$.
+
+Câu 3. Đơn vị của công suất là
+A. jun (J).
+*B. oát (W).
+C. niutơn (N).
+D. kW.h.
+
+Câu 4. Hệ thức nào sau đây đúng?
+A. 1 W = 1 J.s.
+*B. 1 W = 1 J/s.
+C. 1 W = 1 N.m.
+D. 1 W = 1 N/s.
+
+Câu 5. 1 MW bằng
+A. 10³ W.
+*B. 10⁶ W.
+C. 10⁹ W.
+D. 10⁻⁶ W.
+
+Câu 6. Kilôoát giờ (kW.h) là đơn vị của
+A. công suất.
+*B. công (năng lượng).
+C. lực.
+D. thời gian.
+
+Câu 7. 1 kW.h bằng
+A. 1 000 J.
+B. 3 600 J.
+*C. 3,6.10⁶ J.
+D. 60 000 J.
+
+Câu 8. Một máy thực hiện công 6 000 J trong 20 s. Công suất của máy là
+A. 120 000 W.
+*B. 300 W.
+C. 6 020 W.
+D. 3,3 W.
+
+Câu 9. Khi vật chuyển động cùng hướng với lực không đổi F với tốc độ v, công suất của lực là
+A. $\mathscr{P} = \dfrac{F}{v}$.
+*B. $\mathscr{P} = F.v$.
+C. $\mathscr{P} = \dfrac{v}{F}$.
+D. $\mathscr{P} = F.v^2$.
+
+Câu 10. Một lực kéo 500 N làm xe chuyển động đều cùng hướng với lực với tốc độ 4 m/s. Công suất của lực kéo là
+A. 125 W.
+B. 504 W.
+*C. 2 000 W.
+D. 20 W.
+
+Câu 11. Người kéo một thùng nước 15 kg từ giếng sâu 8 m lên trong 10 s, thùng chuyển động đều; lấy g = 10 m/s². Công suất của người kéo là
+*A. 120 W.
+B. 1 200 W.
+C. 12 W.
+D. 150 W.
+
+Câu 12. Động cơ thang máy tác dụng lực kéo 20 000 N để thang máy chuyển động thẳng lên trên trong 10 s và đi được 18 m. Công suất trung bình của động cơ là
+*A. 36 kW.
+B. 3,6 kW.
+C. 11 kW.
+D. 1,1 kW.
+
+Câu 13. Máy 1 thực hiện công 1 500 J trong 10 s; máy 2 thực hiện công 2 400 J trong 20 s. Nhận xét đúng là
+A. máy 2 làm việc nhanh hơn vì thực hiện công lớn hơn.
+*B. máy 1 có công suất lớn hơn (150 W so với 120 W).
+C. hai máy có công suất bằng nhau.
+D. không so sánh được.
+
+Câu 14. Khi đi xe máy lên dốc hoặc trên đường có ma sát lớn, người lái thường về số nhỏ để
+A. tăng tốc độ của xe.
+*B. với cùng công suất của động cơ, giảm tốc độ để tăng lực kéo.
+C. giảm lực kéo.
+D. giảm công suất của động cơ.
+
+Câu 15. Một quạt điện có công suất 40 W hoạt động liên tục trong 1 giờ. Công (điện năng tiêu thụ) của quạt là
+A. 40 J.
+B. 2 400 J.
+*C. 144 000 J.
+D. 1 440 J.
+
+Câu 16. Một động cơ có công suất 2 kW hoạt động trong 30 phút. Công mà động cơ thực hiện là
+A. 60 kJ.
+*B. 3 600 kJ.
+C. 60 J.
+D. 2 kW.h.
+
+Câu 17. Công suất tức thời của lực F làm vật chuyển động cùng hướng với lực với tốc độ tức thời $v_t$ là
+A. $\mathscr{P}_t = \dfrac{F}{v_t}$.
+*B. $\mathscr{P}_t = F.v_t$.
+C. $\mathscr{P}_t = F.t$.
+D. $\mathscr{P}_t = \dfrac{A}{v_t}$.
+
+Câu 18. Xe đạp thể thao có líp nhiều tầng giúp người đạp
+A. luôn đi nhanh hơn với lực nhỏ hơn mà không tốn thêm công.
+*B. thay đổi tỉ lệ giữa lực tác dụng và tốc độ cho phù hợp với đoạn đường (đường dốc dùng lực lớn, tốc độ nhỏ).
+C. không cần sinh công.
+D. tăng công suất của người lên vô hạn.
+
+PHẦN II. Câu trắc nghiệm đúng sai
+Câu 1. Hai anh công nhân dùng ròng rọc kéo xô vữa lên cao; lấy g = 10 m/s². Công nhân 1 kéo xô 20 kg lên cao 10 m trong 10 s; công nhân 2 kéo xô 21 kg lên cao 11 m trong 20 s (các xô chuyển động đều).
+a) Công của công nhân 1 là 2 000 J. (Đ)
+b) Công của công nhân 2 là 2 310 J. (Đ)
+c) Công nhân 2 thực hiện công nhanh hơn vì công lớn hơn. (S)
+d) Công suất của công nhân 1 là 200 W. (Đ)
+
+Câu 2. Công suất trung bình của trái tim người là 3 W.
+a) Trong 1 s, trái tim thực hiện công 3 J. (Đ)
+b) Trong một ngày – đêm (24 h), trái tim thực hiện công 259 200 J. (Đ)
+c) Trong một ngày – đêm, trái tim thực hiện công 72 J. (S)
+d) Một ô tô tải có công suất 3.10⁵ W thực hiện được công bằng công trái tim thực hiện trong một ngày – đêm trong thời gian 0,864 s. (Đ)
+Lời giải: A = 3 . 86 400 = 259 200 J; t = 259 200 : 300 000 = 0,864 s.
+
+Câu 3. Một ô tô chuyển động thẳng đều trên đường ngang với tốc độ 54 km/h; động cơ hoạt động với công suất 5 kW.
+a) Tốc độ của ô tô là 15 m/s. (Đ)
+b) Lực kéo của động cơ xấp xỉ 333 N. (Đ)
+c) Lực cản tác dụng lên ô tô có độ lớn bằng lực kéo của động cơ. (Đ)
+d) Muốn lên dốc với cùng tốc độ thì động cơ chỉ cần hoạt động với công suất nhỏ hơn 5 kW. (S)
+Lời giải: F = 𝒫 : v = 5000 : 15 ≈ 333 N. Lên dốc phải thắng thêm thành phần trọng lực dọc dốc nên cần công suất lớn hơn.
+
+Câu 4. Một cần cẩu nâng đều một kiện hàng 500 kg lên cao 12 m trong 20 s; lấy g = 10 m/s².
+a) Lực nâng của cần cẩu có độ lớn 5 000 N. (Đ)
+b) Tốc độ nâng là 0,6 m/s. (Đ)
+c) Công suất của cần cẩu là 3 kW. (Đ)
+d) Nếu nâng kiện hàng đó lên cùng độ cao trong 10 s thì công suất của cần cẩu giảm một nửa. (S)
+Lời giải: A = 5000 . 12 = 60 000 J; 𝒫 = 60 000 : 20 = 3000 W; thời gian giảm một nửa thì công suất tăng gấp đôi.
+
+PHẦN III. Câu trắc nghiệm trả lời ngắn
+Câu 1. Một máy bơm thực hiện công 18 000 J trong 1 phút. Công suất của máy bơm là bao nhiêu oát?
+Đáp án: 300
+
+Câu 2. Một lực kéo 250 N làm xe chuyển động đều cùng hướng với lực với tốc độ 2 m/s. Công suất của lực kéo là bao nhiêu oát?
+Đáp án: 500
+
+Câu 3. Một người kéo đều một thùng nước 12 kg từ giếng sâu 10 m lên trong 15 s; lấy g = 10 m/s². Công suất của người kéo là bao nhiêu oát?
+Đáp án: 80
+
+Câu 4. Một bóng đèn công suất 100 W sáng liên tục trong 5 giờ. Điện năng tiêu thụ là bao nhiêu kW.h?
+Đáp án: 0,5|0.5
+
+Câu 5. Một động cơ có công suất 1,5 kW kéo một vật chuyển động đều cùng hướng với lực kéo với tốc độ 3 m/s. Lực kéo của động cơ là bao nhiêu niutơn?
+Đáp án: 500
+
+Câu 6. Một động cơ có công suất 4 kW cần thực hiện công 1 200 kJ. Thời gian cần thiết là bao nhiêu giây?
+Đáp án: 300

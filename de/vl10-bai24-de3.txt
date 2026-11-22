@@ -1,0 +1,157 @@
+VẬT LÍ 10 - CHƯƠNG IV. NĂNG LƯỢNG, CÔNG, CÔNG SUẤT - BÀI 24. CÔNG SUẤT - ĐỀ 3
+Đề kiểm tra theo cấu trúc thi tốt nghiệp THPT (biên soạn: thầy Lâm Thế Phong, THPT An Thới)
+Thời gian: 50
+
+PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn
+Câu 1. Theo SGK, công suất còn được gọi là
+A. tốc độ chuyển động.
+*B. tốc độ sinh công.
+C. năng lượng dự trữ.
+D. hiệu suất.
+
+Câu 2. Công thức nào sau đây KHÔNG dùng để tính công suất?
+A. $\mathscr{P} = \dfrac{A}{t}$.
+B. $\mathscr{P} = F.v$.
+C. $\mathscr{P} = \dfrac{F.s}{t}$.
+*D. $\mathscr{P} = \dfrac{F}{v}$.
+
+Câu 3. Một thiết bị có công suất 1 W thì trong mỗi giây thiết bị thực hiện công
+A. 1 N.
+*B. 1 J.
+C. 1 kW.h.
+D. 3 600 J.
+
+Câu 4. Công suất 5 MW bằng
+A. 5.10³ W.
+*B. 5.10⁶ W.
+C. 5.10⁹ W.
+D. 5.10⁻⁶ W.
+
+Câu 5. 2 kW.h bằng
+A. 2 000 J.
+B. 7 200 J.
+*C. 7,2.10⁶ J.
+D. 120 000 J.
+
+Câu 6. Một máy có công suất 750 W hoạt động trong 4 s. Công mà máy thực hiện là
+*A. 3 000 J.
+B. 187,5 J.
+C. 754 J.
+D. 30 J.
+
+Câu 7. Một máy thực hiện công 12 kJ trong 1 phút. Công suất của máy là
+A. 12 kW.
+B. 720 kW.
+*C. 200 W.
+D. 20 W.
+
+Câu 8. Một ô tô chạy đều với tốc độ 72 km/h, lực kéo của động cơ là 1 500 N. Công suất của động cơ là
+A. 108 kW.
+*B. 30 kW.
+C. 3 kW.
+D. 75 W.
+
+Câu 9. Một đầu máy xe lửa có công suất 600 kW kéo đoàn tàu chạy đều với tốc độ 15 m/s. Lực kéo của đầu máy là
+A. 9 000 kN.
+B. 4 kN.
+*C. 40 kN.
+D. 400 kN.
+
+Câu 10. Nâng đều một vật khối lượng 50 kg lên cao 4 m trong 5 s; lấy g = 10 m/s². Công suất của lực nâng là
+A. 40 W.
+B. 2 000 W.
+*C. 400 W.
+D. 250 W.
+
+Câu 11. Giữ nguyên công suất của động cơ, nếu tốc độ của xe tăng gấp đôi thì lực kéo của động cơ
+A. tăng gấp đôi.
+*B. giảm một nửa.
+C. không đổi.
+D. tăng gấp bốn.
+
+Câu 12. Một vận động viên khối lượng 60 kg chạy lên một cầu thang cao 10 m trong 8 s; lấy g = 10 m/s². Công suất tối thiểu của vận động viên là
+A. 48 W.
+B. 6 000 W.
+C. 75 W.
+*D. 750 W.
+
+Câu 13. Hai động cơ thực hiện cùng một công, động cơ 1 có công suất gấp đôi động cơ 2. Thời gian thực hiện công của động cơ 1
+*A. bằng một nửa thời gian của động cơ 2.
+B. gấp đôi thời gian của động cơ 2.
+C. bằng thời gian của động cơ 2.
+D. gấp bốn thời gian của động cơ 2.
+
+Câu 14. Một tủ lạnh có công suất trung bình 150 W hoạt động liên tục trong 24 giờ. Điện năng tiêu thụ là
+A. 150 kW.h.
+*B. 3,6 kW.h.
+C. 36 kW.h.
+D. 6,25 kW.h.
+
+Câu 15. Một động cơ có công suất 1 kW kéo vật chuyển động đều cùng hướng với lực kéo 200 N. Tốc độ của vật là
+A. 0,2 m/s.
+B. 200 m/s.
+*C. 5 m/s.
+D. 50 m/s.
+
+Câu 16. Phát biểu nào sau đây là đúng?
+A. Máy có công suất lớn hơn luôn thực hiện công lớn hơn, dù làm việc trong thời gian ngắn hơn.
+*B. Trong cùng một khoảng thời gian, máy có công suất lớn hơn thực hiện được công lớn hơn.
+C. Công suất không phụ thuộc vào thời gian thực hiện công.
+D. Công suất là đơn vị của công.
+
+Câu 17. Một thang máy khối lượng 1,2 tấn đi lên đều với tốc độ 1,5 m/s; lấy g = 10 m/s². Công suất của động cơ thang máy (bỏ qua ma sát) là
+A. 1,8 kW.
+*B. 18 kW.
+C. 8 kW.
+D. 180 kW.
+
+Câu 18. Khi đạp xe lên dốc, người đi xe đạp thể thao chuyển líp sang tầng thích hợp để
+A. tăng tốc độ và tăng lực đẩy cùng lúc mà không tốn thêm công suất.
+*B. đạp nhẹ hơn (lực trên bàn đạp nhỏ hơn) nhưng xe đi chậm hơn.
+C. không cần đạp.
+D. xe đi nhanh hơn mà đạp nhẹ hơn.
+
+PHẦN II. Câu trắc nghiệm đúng sai
+Câu 1. Động cơ của một thang máy tác dụng lực kéo 15 000 N để thang máy chuyển động thẳng lên trên trong 12 s, đi được 24 m.
+a) Công của lực kéo là 360 kJ. (Đ)
+b) Công suất trung bình của động cơ là 30 kW. (Đ)
+c) Tốc độ trung bình của thang máy là 2 m/s. (Đ)
+d) Theo công thức 𝒫 = F.v, công suất trung bình của động cơ là 3 kW. (S)
+
+Câu 2. Một ô tô chạy đều trên đường ngang với tốc độ 54 km/h, lực cản tác dụng lên ô tô là 400 N. Khi lên dốc với cùng tốc độ, ngoài lực cản như cũ, ô tô còn phải thắng thêm thành phần trọng lực dọc dốc có độ lớn 500 N.
+a) Công suất của động cơ khi chạy trên đường ngang là 6 kW. (Đ)
+b) Lực kéo của động cơ khi lên dốc là 900 N. (Đ)
+c) Công suất của động cơ khi lên dốc là 13,5 kW. (Đ)
+d) Nếu giữ công suất 6 kW khi lên dốc thì ô tô vẫn chạy với tốc độ 15 m/s. (S)
+Lời giải: Giữ 6 kW: v = 6000 : 900 ≈ 6,7 m/s.
+
+Câu 3. Một gia đình dùng đèn LED 10 W thay cho bóng đèn sợi đốt 60 W; đèn sáng 5 giờ mỗi ngày, trong 30 ngày.
+a) Đèn LED tiêu thụ 1,5 kW.h trong 30 ngày. (Đ)
+b) Bóng đèn sợi đốt tiêu thụ 9 kW.h trong 30 ngày. (Đ)
+c) Dùng đèn LED tiết kiệm được 7,5 kW.h trong 30 ngày. (Đ)
+d) kW.h là đơn vị của công suất. (S)
+
+Câu 4. Một vận động viên khối lượng 50 kg leo dây lên cao 4 m trong 8 s (coi chuyển động đều); lấy g = 10 m/s².
+a) Công tối thiểu vận động viên thực hiện là 2 000 J. (Đ)
+b) Công suất của vận động viên là 250 W. (Đ)
+c) Nếu leo lên cùng độ cao trong 4 s thì công suất là 125 W. (S)
+d) Leo nhanh hơn hay chậm hơn lên cùng độ cao thì công tối thiểu vẫn như nhau. (Đ)
+
+PHẦN III. Câu trắc nghiệm trả lời ngắn
+Câu 1. Một máy thực hiện công 15 kJ trong 50 s. Công suất của máy là bao nhiêu oát?
+Đáp án: 300
+
+Câu 2. Một lực 1 200 N làm vật chuyển động đều cùng hướng với lực với tốc độ 2,5 m/s. Công suất của lực là bao nhiêu oát?
+Đáp án: 3000
+
+Câu 3. Một động cơ có công suất 45 kW làm tàu chạy đều, lực kéo của động cơ là 1 500 N. Tốc độ của tàu là bao nhiêu m/s?
+Đáp án: 30
+
+Câu 4. Một bàn là công suất 1 000 W hoạt động trong 90 phút. Điện năng tiêu thụ là bao nhiêu kW.h?
+Đáp án: 1,5|1.5
+
+Câu 5. Một cần cẩu nâng đều một vật khối lượng 200 kg lên cao 9 m trong 18 s; lấy g = 10 m/s². Công suất của cần cẩu là bao nhiêu oát?
+Đáp án: 1000
+
+Câu 6. Một máy có công suất 500 W làm việc trong 2 phút. Công máy thực hiện là bao nhiêu kilôjun?
+Đáp án: 60
