@@ -1,0 +1,158 @@
+VẬT LÍ 10 - CHƯƠNG IV. NĂNG LƯỢNG, CÔNG, CÔNG SUẤT - BÀI 23. NĂNG LƯỢNG. CÔNG CƠ HỌC - ĐỀ 2
+Đề kiểm tra theo cấu trúc thi tốt nghiệp THPT (biên soạn: thầy Lâm Thế Phong, THPT An Thới)
+Thời gian: 50
+
+PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn
+Câu 1. Khi xoa hai bàn tay vào nhau, tay nóng lên. Đã có sự chuyển hoá
+*A. cơ năng thành nhiệt năng.
+B. nhiệt năng thành cơ năng.
+C. điện năng thành nhiệt năng.
+D. quang năng thành nhiệt năng.
+
+Câu 2. Khi bắn pháo hoa, năng lượng ban đầu dự trữ trong thuốc pháo là
+A. điện năng.
+*B. hoá năng.
+C. quang năng.
+D. năng lượng âm thanh.
+
+Câu 3. Quá trình nào sau đây là quang năng chuyển hoá thành hoá năng?
+A. Đun nước bằng bếp điện.
+*B. Quá trình quang hợp của cây xanh.
+C. Quạt điện quay.
+D. Đốt than.
+
+Câu 4. Bàn là (bàn ủi) điện đang hoạt động chuyển hoá chủ yếu
+A. nhiệt năng thành điện năng.
+*B. điện năng thành nhiệt năng.
+C. cơ năng thành điện năng.
+D. hoá năng thành điện năng.
+
+Câu 5. Động năng là năng lượng của vật
+*A. do chuyển động mà có.
+B. do vật ở một độ cao so với mặt đất.
+C. do vật bị biến dạng.
+D. do vật nóng lên.
+
+Câu 6. Năng lượng mà vật có khi ở một độ cao so với mặt đất gọi là
+A. động năng.
+*B. thế năng trọng trường.
+C. nhiệt năng.
+D. điện năng.
+
+Câu 7. Công là số đo
+A. lực tác dụng lên vật.
+*B. phần năng lượng được truyền hoặc chuyển hoá trong quá trình thực hiện công.
+C. quãng đường vật đi được.
+D. vận tốc của vật.
+
+Câu 8. Hệ thức đúng là
+A. 1 J = 1 N/m.
+*B. 1 J = 1 N.m.
+C. 1 J = 1 kg.m.
+D. 1 J = 1 N.s.
+
+Câu 9. Lực $\vec{F}$ không đổi hợp với hướng chuyển động góc α, vật đi được quãng đường s. Công của lực là
+A. A = F.s.
+*B. A = F.s.cosα.
+C. A = F.s.sinα.
+D. A = F.s.tanα.
+
+Câu 10. Một lực 25 N không đổi, cùng hướng chuyển động, làm vật đi được 6 m. Công của lực là
+A. 31 J.
+B. 4,2 J.
+*C. 150 J.
+D. 0,24 J.
+
+Câu 11. Một lực hãm không đổi 100 N ngược hướng chuyển động tác dụng lên xe trong khi xe đi được 10 m. Công của lực hãm là
+A. 1 000 J.
+*B. −1 000 J.
+C. 0.
+D. 10 J.
+
+Câu 12. Một vật chuyển động trên mặt phẳng nằm ngang. Công của trọng lực tác dụng lên vật
+A. dương.
+B. âm.
+*C. bằng 0.
+D. bằng trọng lượng nhân quãng đường.
+
+Câu 13. Một ô tô đang lên dốc. Công của trọng lực tác dụng lên ô tô là
+A. công phát động.
+*B. công cản.
+C. bằng 0.
+D. luôn bằng công của lực kéo.
+
+Câu 14. Khi lực $\vec{F}$ hợp với hướng chuyển động góc α (0 < α < 90°), thành phần của lực làm vật chuyển động (sinh công) là
+*A. thành phần song song với phương chuyển động, có độ lớn F.cosα.
+B. thành phần vuông góc với phương chuyển động, có độ lớn F.sinα.
+C. thành phần vuông góc, có độ lớn F.cosα.
+D. cả lực F.
+
+Câu 15. Một lực 50 N hợp với hướng chuyển động góc 45°, vật đi được 10 m. Công của lực xấp xỉ bằng
+A. 500 J.
+*B. 354 J.
+C. 250 J.
+D. 0.
+
+Câu 16. Đưa đều một vật khối lượng 10 kg lên cao 5 m theo một mặt phẳng nghiêng (bỏ qua ma sát); lấy g = 10 m/s². Công tối thiểu cần thực hiện là
+A. 50 J.
+B. 5 000 J.
+*C. 500 J.
+D. 100 J.
+
+Câu 17. Đẩy cuốn sách đang đứng yên làm nó chuyển động nhanh dần. Động năng của cuốn sách tăng là do
+A. cuốn sách tự sinh ra năng lượng.
+*B. cuốn sách nhận được năng lượng từ tay truyền sang (tay thực hiện công).
+C. trọng lực sinh công.
+D. phản lực của bàn sinh công.
+
+Câu 18. Trong chương trình phổ thông, các lực thế gồm
+A. lực ma sát, lực cản, lực kéo.
+*B. lực hấp dẫn, lực đàn hồi, lực điện.
+C. lực ma sát, lực hấp dẫn.
+D. lực căng, lực cản.
+
+PHẦN II. Câu trắc nghiệm đúng sai
+Câu 1. Một ô tô khối lượng 1 tấn chuyển động trên một con dốc dài 100 m, đỉnh dốc cao hơn chân dốc 5 m; lấy g = 10 m/s².
+a) Khi ô tô xuống dốc, trọng lực sinh công phát động. (Đ)
+b) Khi ô tô đi từ đỉnh xuống chân dốc, công của trọng lực là 50 kJ. (Đ)
+c) Khi ô tô đi từ chân lên đỉnh dốc, công của trọng lực là 50 kJ. (S)
+d) Khi ô tô chạy trên đường nằm ngang, trọng lực không sinh công. (Đ)
+Lời giải: Công của trọng lực chỉ phụ thuộc độ cao: xuống dốc A = mgh = 50 kJ; lên dốc A = −50 kJ.
+
+Câu 2. Một người kéo một thùng hàng trên sàn ngang bằng lực 100 N qua sợi dây hợp với phương ngang góc 60°; thùng đi được 20 m.
+a) Thành phần của lực kéo theo phương chuyển động có độ lớn 50 N. (Đ)
+b) Công của lực kéo là 1 000 J. (Đ)
+c) Thành phần của lực kéo vuông góc với phương chuyển động cũng sinh công. (S)
+d) Nếu kéo bằng dây nằm ngang với cùng lực 100 N trên cùng quãng đường thì công của lực kéo là 2 000 J. (Đ)
+
+Câu 3. Về năng lượng:
+a) Mọi hiện tượng xảy ra trong tự nhiên đều cần có năng lượng. (Đ)
+b) Năng lượng âm thanh là một dạng năng lượng. (Đ)
+c) Trong động cơ ô tô, năng lượng tự sinh ra để làm xe chạy. (S)
+d) Nhiệt năng là năng lượng chuyển động hỗn loạn của các phân tử. (Đ)
+
+Câu 4. Một vật khối lượng 2 kg trượt từ đỉnh xuống chân một mặt phẳng nghiêng dài 5 m, cao 3 m; lực ma sát có độ lớn 4 N; lấy g = 10 m/s².
+a) Công của trọng lực là 60 J. (Đ)
+b) Công của lực ma sát là −20 J. (Đ)
+c) Công của phản lực của mặt phẳng nghiêng là 30 J. (S)
+d) Tổng công của các lực tác dụng lên vật là 40 J. (Đ)
+Lời giải: AP = mgh = 60 J; Ams = −4 . 5 = −20 J; phản lực vuông góc với phương chuyển động nên AN = 0.
+
+PHẦN III. Câu trắc nghiệm trả lời ngắn
+Câu 1. Một lực 30 N không đổi, cùng hướng chuyển động, làm vật đi được 12 m. Công của lực là bao nhiêu jun?
+Đáp án: 360
+
+Câu 2. Một lực 80 N không đổi hợp với hướng chuyển động góc 60°, vật đi được 15 m. Công của lực là bao nhiêu jun?
+Đáp án: 600
+
+Câu 3. Đưa một vật khối lượng 50 kg lên cao 3 m; lấy g = 10 m/s². Công tối thiểu cần thực hiện là bao nhiêu jun?
+Đáp án: 1500
+
+Câu 4. Một ô tô hãm phanh với lực hãm không đổi 2 000 N, đi thêm 25 m thì dừng. Độ lớn công của lực hãm là bao nhiêu kilôjun?
+Đáp án: 50
+
+Câu 5. Một vật khối lượng 5 kg rơi tự do từ độ cao 8 m xuống đất; lấy g = 10 m/s². Công của trọng lực là bao nhiêu jun?
+Đáp án: 400
+
+Câu 6. Một thang máy đưa 10 người, mỗi người 60 kg, lên cao 30 m; lấy g = 10 m/s². Công tối thiểu thang máy thực hiện để nâng số người này là bao nhiêu kilôjun?
+Đáp án: 180

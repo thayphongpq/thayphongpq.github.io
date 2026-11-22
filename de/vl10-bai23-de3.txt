@@ -1,0 +1,158 @@
+VẬT LÍ 10 - CHƯƠNG IV. NĂNG LƯỢNG, CÔNG, CÔNG SUẤT - BÀI 23. NĂNG LƯỢNG. CÔNG CƠ HỌC - ĐỀ 3
+Đề kiểm tra theo cấu trúc thi tốt nghiệp THPT (biên soạn: thầy Lâm Thế Phong, THPT An Thới)
+Thời gian: 50
+
+PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn
+Câu 1. Năng lượng có thể
+A. chỉ chuyển hoá từ dạng này sang dạng khác.
+B. chỉ truyền từ vật này sang vật khác.
+*C. chuyển hoá từ dạng này sang dạng khác hoặc truyền từ vật này sang vật khác và luôn được bảo toàn.
+D. tự sinh ra khi cần thiết.
+
+Câu 2. Thí nghiệm của Joule (1844 – 1854) nhằm minh hoạ
+A. định luật 1 Newton.
+*B. định luật bảo toàn năng lượng.
+C. định luật Hooke.
+D. định luật Archimedes.
+
+Câu 3. Trong thí nghiệm của Joule, nước trong bình nóng lên là do
+A. dòng điện chạy qua nước.
+*B. ma sát giữa cánh quạt và nước.
+C. ánh sáng chiếu vào nước.
+D. phản ứng hoá học.
+
+Câu 4. Trong thí nghiệm của Joule, cơ năng của vật nặng giảm đi bao nhiêu thì
+*A. nhiệt năng của nước tăng lên bấy nhiêu.
+B. nhiệt năng của nước giảm đi bấy nhiêu.
+C. nhiệt năng của nước không đổi.
+D. khối lượng nước tăng lên.
+
+Câu 5. Nhà máy nhiệt điện chuyển hoá
+A. điện năng thành nhiệt năng.
+*B. nhiệt năng (do đốt nhiên liệu) thành điện năng.
+C. quang năng thành điện năng.
+D. điện năng thành hoá năng.
+
+Câu 6. Điện năng là năng lượng của
+A. chuyển động hỗn loạn của phân tử.
+*B. chuyển động có hướng của các điện tích dưới tác dụng của điện trường.
+C. vật ở độ cao so với mặt đất.
+D. ánh sáng.
+
+Câu 7. Trường hợp nào sau đây có thực hiện công cơ học?
+A. Một quyển sách nằm yên trên bàn.
+*B. Động cơ điện kéo vật nặng chuyển động từ dưới đất lên cao.
+C. Ngọn lửa làm nóng ấm nước.
+D. Người đứng yên cầm túi xách.
+
+Câu 8. Trong động cơ xăng, hỗn hợp xăng và không khí bị đốt cháy đẩy pittông chuyển động. Đó là quá trình
+A. truyền nhiệt.
+*B. thực hiện công.
+C. bức xạ.
+D. không có truyền năng lượng.
+
+Câu 9. Công của lực phụ thuộc vào
+A. chỉ độ lớn của lực.
+B. chỉ quãng đường đi được.
+*C. độ lớn của lực, góc hợp bởi lực với hướng chuyển động và độ dịch chuyển.
+D. khối lượng của vật.
+
+Câu 10. Một lực 60 N không đổi cùng hướng chuyển động thực hiện công 300 J. Quãng đường vật đi được là
+*A. 5 m.
+B. 18 000 m.
+C. 0,2 m.
+D. 240 m.
+
+Câu 11. Một lực 20 N không đổi hợp với hướng chuyển động góc 120°, vật đi được 3 m. Công của lực là
+A. 30 J.
+*B. −30 J.
+C. 60 J.
+D. 0.
+
+Câu 12. Một người xách một túi đồ và đi đều trên đường nằm ngang. Công của lực mà tay tác dụng lên túi (lực hướng thẳng đứng lên) là
+A. dương.
+B. âm.
+*C. bằng 0.
+D. bằng trọng lượng túi nhân quãng đường.
+
+Câu 13. Công của lực thế (như lực hấp dẫn)
+A. phụ thuộc hình dạng đường đi.
+*B. không phụ thuộc hình dạng đường đi, chỉ phụ thuộc vị trí điểm đầu và điểm cuối.
+C. luôn bằng 0.
+D. luôn âm.
+
+Câu 14. Hai bạn có cùng khối lượng cùng đi lên tầng hai: một bạn đi cầu thang, một bạn đi lối dốc thoai thoải. Công tối thiểu mà hai bạn thực hiện để lên đến tầng hai
+A. bạn đi cầu thang lớn hơn.
+B. bạn đi lối dốc lớn hơn.
+*C. bằng nhau.
+D. không so sánh được.
+
+Câu 15. Một vật khối lượng 4 kg được nâng đều lên cao 2,5 m; lấy g = 10 m/s². Công tối thiểu của lực nâng là
+A. 10 J.
+*B. 100 J.
+C. 16 J.
+D. 1 000 J.
+
+Câu 16. Một lực 120 N hợp với hướng chuyển động góc 60° thực hiện công 1 200 J. Quãng đường vật đi được là
+A. 10 m.
+*B. 20 m.
+C. 5 m.
+D. 40 m.
+
+Câu 17. Một vật trượt xuống một mặt phẳng nghiêng. Công của trọng lực và công của lực ma sát lần lượt là
+*A. công phát động và công cản.
+B. công cản và công phát động.
+C. đều là công phát động.
+D. đều bằng 0.
+
+Câu 18. Trong động tác cử tạ, khi vận động viên giữ tạ đứng yên trên đầu, lực của tay tác dụng lên tạ
+A. sinh công phát động.
+B. sinh công cản.
+*C. không sinh công vì tạ không dịch chuyển.
+D. sinh công bằng trọng lượng tạ.
+
+PHẦN II. Câu trắc nghiệm đúng sai
+Câu 1. Khi rửa gầm xe ô tô, máy nâng đưa ô tô khối lượng 1,5 tấn lên độ cao 160 cm; lấy g = 10 m/s².
+a) Để nâng ô tô, máy nâng phải tác dụng lực tối thiểu có độ lớn bằng trọng lượng ô tô. (Đ)
+b) Trọng lượng của ô tô là 15 000 N. (Đ)
+c) Công tối thiểu mà máy nâng thực hiện là 240 kJ. (S)
+d) Công tối thiểu mà máy nâng thực hiện là 24 kJ. (Đ)
+
+Câu 2. Một vật khối lượng 3 kg được kéo trên sàn ngang bằng lực 30 N cùng hướng chuyển động, đi được 4 m; hệ số ma sát trượt 0,25; lấy g = 10 m/s².
+a) Công của lực kéo là 120 J. (Đ)
+b) Công của lực ma sát là −30 J. (Đ)
+c) Công của trọng lực là 120 J. (S)
+d) Tổng công của các lực tác dụng lên vật là 90 J. (Đ)
+Lời giải: Fms = 0,25 . 30 = 7,5 N; Ams = −30 J; AP = AN = 0.
+
+Câu 3. Về các quá trình chuyển hoá năng lượng:
+a) Quạt điện chuyển hoá phần lớn điện năng thành cơ năng. (Đ)
+b) Pin mặt trời chuyển hoá quang năng thành điện năng. (Đ)
+c) Khi phanh xe, lực ma sát làm cơ năng của xe biến mất hoàn toàn mà không chuyển thành dạng năng lượng nào. (S)
+d) Khi đốt cháy nhiên liệu, hoá năng chuyển hoá thành nhiệt năng. (Đ)
+
+Câu 4. Một người kéo xe bằng một lực 200 N có phương hợp với hướng chuyển động góc α; xe đi được 15 m.
+a) Nếu α = 0 thì công của lực kéo là 3 000 J. (Đ)
+b) Nếu α = 60° thì công của lực kéo là 1 500 J. (Đ)
+c) Nếu α = 90° thì công của lực kéo là 3 000 J. (S)
+d) Góc α càng lớn (0 ≤ α ≤ 90°) thì công của lực kéo càng nhỏ. (Đ)
+
+PHẦN III. Câu trắc nghiệm trả lời ngắn
+Câu 1. Một lực 15 N không đổi, cùng hướng chuyển động, làm vật đi được 20 m. Công của lực là bao nhiêu jun?
+Đáp án: 300
+
+Câu 2. Một lực 50 N không đổi hợp với hướng chuyển động góc 60°, vật đi được 12 m. Công của lực là bao nhiêu jun?
+Đáp án: 300
+
+Câu 3. Một cần cẩu nâng đều một kiện hàng 800 kg lên cao 6 m; lấy g = 10 m/s². Công tối thiểu cần cẩu thực hiện là bao nhiêu kilôjun?
+Đáp án: 48
+
+Câu 4. Một vật khối lượng 3 kg trượt từ đỉnh xuống chân một mặt phẳng nghiêng cao 2 m; lấy g = 10 m/s². Công của trọng lực là bao nhiêu jun?
+Đáp án: 60
+
+Câu 5. Một vật khối lượng 10 kg trượt 6 m trên sàn ngang, hệ số ma sát trượt 0,3; lấy g = 10 m/s². Độ lớn công của lực ma sát là bao nhiêu jun?
+Đáp án: 180
+
+Câu 6. Một lực 250 N hợp với hướng chuyển động góc 30°, vật đi được 8 m. Công của lực là bao nhiêu jun? (Làm tròn đến hàng đơn vị.)
+Đáp án: 1732
+Lời giải: A = 250 . 8 . cos30° ≈ 1732 J.

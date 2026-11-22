@@ -1,0 +1,160 @@
+VẬT LÍ 10 - CHƯƠNG IV. NĂNG LƯỢNG, CÔNG, CÔNG SUẤT - BÀI 23. NĂNG LƯỢNG. CÔNG CƠ HỌC - ĐỀ 1
+Đề kiểm tra theo cấu trúc thi tốt nghiệp THPT (biên soạn: thầy Lâm Thế Phong, THPT An Thới)
+Thời gian: 50
+
+PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn
+Câu 1. Đại lượng nào sau đây KHÔNG phải là một dạng năng lượng?
+A. Cơ năng.
+B. Nhiệt năng.
+C. Điện năng.
+*D. Khối lượng.
+
+Câu 2. Theo định luật bảo toàn năng lượng, năng lượng
+A. có thể tự sinh ra.
+B. có thể tự mất đi.
+*C. không tự sinh ra hoặc tự mất đi mà chỉ chuyển hoá từ dạng này sang dạng khác hoặc truyền từ vật này sang vật khác.
+D. chỉ tồn tại ở một dạng duy nhất.
+
+Câu 3. Khi đun nước bằng ấm điện, năng lượng chủ yếu được chuyển hoá từ
+*A. điện năng sang nhiệt năng.
+B. nhiệt năng sang điện năng.
+C. quang năng sang điện năng.
+D. hoá năng sang cơ năng.
+
+Câu 4. Pin mặt trời (tấm quang điện) chuyển hoá
+A. điện năng thành quang năng.
+*B. quang năng thành điện năng.
+C. nhiệt năng thành hoá năng.
+D. cơ năng thành hoá năng.
+
+Câu 5. Trong thí nghiệm của Joule, vật nặng đi xuống làm cánh quạt quay trong nước, nước nóng lên. Đã có sự chuyển hoá
+A. nhiệt năng của nước thành cơ năng của vật nặng.
+*B. cơ năng của vật nặng thành nhiệt năng của nước.
+C. điện năng thành nhiệt năng.
+D. quang năng thành nhiệt năng.
+
+Câu 6. Việc truyền năng lượng cho vật bằng cách tác dụng lực lên vật làm vật thay đổi trạng thái chuyển động được gọi là
+A. truyền nhiệt.
+*B. thực hiện công cơ học.
+C. bức xạ nhiệt.
+D. dẫn nhiệt.
+
+Câu 7. Đơn vị của công là
+A. N.
+B. W.
+*C. J.
+D. N/m.
+
+Câu 8. Một lực 20 N không đổi tác dụng lên vật, cùng hướng chuyển động, vật đi được 5 m. Công của lực là
+A. 4 J.
+B. 25 J.
+*C. 100 J.
+D. 0,25 J.
+
+Câu 9. Một lực 10 N không đổi hợp với hướng chuyển động góc 60°, vật đi được 4 m. Công của lực là
+A. 40 J.
+*B. 20 J.
+C. 34,6 J.
+D. 0.
+
+Câu 10. Lực có phương vuông góc với phương chuyển động của vật thì
+A. sinh công phát động.
+B. sinh công cản.
+*C. không sinh công.
+D. sinh công lớn nhất.
+
+Câu 11. Công của lực là công cản (A < 0) khi góc α giữa lực và hướng chuyển động thoả mãn
+A. 0 ≤ α < 90°.
+B. α = 90°.
+*C. 90° < α ≤ 180°.
+D. α = 0.
+
+Câu 12. Một ô tô đang xuống dốc. Công của trọng lực tác dụng lên ô tô là
+*A. công phát động.
+B. công cản.
+C. bằng 0.
+D. không xác định được.
+
+Câu 13. Một vật trượt trên mặt sàn nằm ngang. Công của lực ma sát trượt tác dụng lên vật là
+A. công phát động.
+*B. công cản.
+C. bằng 0.
+D. luôn dương.
+
+Câu 14. Một máy nâng đưa ô tô có khối lượng 1,5 tấn lên độ cao 160 cm; lấy g = 10 m/s². Công tối thiểu mà máy nâng đã thực hiện là
+A. 2,4 kJ.
+B. 240 kJ.
+*C. 24 kJ.
+D. 15 kJ.
+
+Câu 15. Công tối thiểu dùng để đưa một vật có trọng lượng P lên độ cao h
+A. lớn hơn khi đưa lên theo mặt phẳng nghiêng.
+B. lớn hơn khi đưa lên theo phương thẳng đứng.
+*C. luôn bằng P.h, không phụ thuộc vào đường đi.
+D. bằng 0.
+
+Câu 16. Một người kéo thùng hàng trượt trên sàn bằng một dây hợp với phương ngang góc 30°, lực tác dụng lên dây là 150 N. Công của lực đó khi thùng trượt được 29 m xấp xỉ bằng
+A. 4 350 J.
+*B. 3 767 J.
+C. 2 175 J.
+D. 5 172 J.
+
+Câu 17. Cho một miếng đồng tiếp xúc với ngọn lửa, miếng đồng nóng lên. Quá trình truyền năng lượng này
+A. là thực hiện công vì ngọn lửa tác dụng lực lên miếng đồng.
+*B. không phải là thực hiện công mà là truyền nhiệt.
+C. là chuyển hoá điện năng thành nhiệt năng.
+D. không có sự truyền năng lượng.
+
+Câu 18. Lực nào sau đây là lực thế (lực bảo toàn)?
+A. Lực ma sát trượt.
+*B. Lực hấp dẫn.
+C. Lực cản của không khí.
+D. Lực kéo của động cơ.
+
+PHẦN II. Câu trắc nghiệm đúng sai
+Câu 1. Một bạn học sinh có khối lượng 50 kg đi lên một cầu thang gồm 20 bậc, mỗi bậc cao 15 cm, dài 20 cm. Lấy g = 10 m/s².
+a) Độ cao mà bạn học sinh được nâng lên là 3 m. (Đ)
+b) Công tối thiểu bạn ấy phải thực hiện là 1 500 J. (Đ)
+c) Nếu đi lên theo một lối dốc thoai thoải đến cùng độ cao thì công tối thiểu lớn hơn 1 500 J. (S)
+d) Lực nâng tối thiểu có độ lớn bằng trọng lượng, là 500 N. (Đ)
+Lời giải: h = 20 . 0,15 = 3 m; A = mgh = 1500 J, không phụ thuộc đường đi.
+
+Câu 2. Một người kéo một thùng hàng trượt trên sàn nằm ngang bằng dây hợp với phương ngang góc 60°, lực kéo 200 N; thùng trượt được 10 m; lực ma sát trượt có độ lớn 80 N.
+a) Công của lực kéo là 1 000 J. (Đ)
+b) Công của lực ma sát là −800 J. (Đ)
+c) Công của trọng lực là 1 000 J. (S)
+d) Công của phản lực của sàn bằng 0. (Đ)
+Lời giải: A = 200 . 10 . cos60° = 1000 J; trọng lực và phản lực vuông góc với phương chuyển động nên không sinh công.
+
+Câu 3. Một quả bóng cao su được ném từ độ cao h xuống mặt đất cứng và bị nảy lên. Sau mỗi lần nảy lên, độ cao giảm dần.
+a) Cơ năng của quả bóng giảm dần. (Đ)
+b) Hiện tượng này trái với định luật bảo toàn năng lượng. (S)
+c) Một phần cơ năng của quả bóng đã chuyển hoá thành nhiệt năng (và năng lượng âm thanh). (Đ)
+d) Tổng năng lượng của quả bóng và môi trường xung quanh được bảo toàn. (Đ)
+
+Câu 4. Một máy nâng đưa một ô tô khối lượng 1,2 tấn lên cao 2 m; lấy g = 10 m/s².
+a) Lực nâng tối thiểu có độ lớn 12 000 N. (Đ)
+b) Công tối thiểu của máy nâng là 24 kJ. (Đ)
+c) Trong quá trình nâng, trọng lực tác dụng lên ô tô sinh công phát động. (S)
+d) Công của trọng lực trong quá trình nâng là −24 000 J. (Đ)
+
+PHẦN III. Câu trắc nghiệm trả lời ngắn
+Câu 1. Một lực 50 N không đổi, cùng hướng chuyển động, làm vật đi được 8 m. Công của lực là bao nhiêu jun?
+Đáp án: 400
+
+Câu 2. Một lực 40 N không đổi hợp với hướng chuyển động góc 60°, vật đi được 10 m. Công của lực là bao nhiêu jun?
+Đáp án: 200
+
+Câu 3. Nâng đều một vật có khối lượng 25 kg lên cao 4 m; lấy g = 10 m/s². Công tối thiểu của lực nâng là bao nhiêu jun?
+Đáp án: 1000
+
+Câu 4. Một người kéo xe bằng lực 300 N hợp với hướng chuyển động góc 30°, xe đi được 20 m. Công của lực kéo là bao nhiêu kilôjun? (Làm tròn đến hàng phần mười.)
+Đáp án: 5,2|5.2
+Lời giải: A = 300 . 20 . cos30° ≈ 5196 J ≈ 5,2 kJ.
+
+Câu 5. Một vật khối lượng 2 kg trượt 5 m trên mặt ngang, hệ số ma sát trượt 0,2; lấy g = 10 m/s². Độ lớn công của lực ma sát là bao nhiêu jun?
+Đáp án: 20
+Lời giải: Fms = 4 N; |A| = 4 . 5 = 20 J (công cản).
+
+Câu 6. Một người khối lượng 60 kg đi lên cầu thang gồm 15 bậc, mỗi bậc cao 20 cm; lấy g = 10 m/s². Công tối thiểu người đó phải thực hiện là bao nhiêu jun?
+Đáp án: 1800
