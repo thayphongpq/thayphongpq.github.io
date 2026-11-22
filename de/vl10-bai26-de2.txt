@@ -1,0 +1,159 @@
+VẬT LÍ 10 - CHƯƠNG IV. NĂNG LƯỢNG, CÔNG, CÔNG SUẤT - BÀI 26. CƠ NĂNG VÀ ĐỊNH LUẬT BẢO TOÀN CƠ NĂNG - ĐỀ 2
+Đề kiểm tra theo cấu trúc thi tốt nghiệp THPT (biên soạn: thầy Lâm Thế Phong, THPT An Thới)
+Thời gian: 50
+
+PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn
+Câu 1. Đơn vị của cơ năng là
+A. W.
+B. N.
+*C. J.
+D. N/m.
+
+Câu 2. Khi nước chảy từ đỉnh thác xuống dưới thì
+*A. trọng lực sinh công, thế năng của nước chuyển hoá thành động năng.
+B. động năng chuyển hoá thành thế năng.
+C. không có sự chuyển hoá năng lượng.
+D. thế năng của nước tăng.
+
+Câu 3. Trường hợp nào sau đây cơ năng của vật được bảo toàn?
+*A. Vật rơi tự do (bỏ qua sức cản của không khí).
+B. Vật trượt trên mặt phẳng nghiêng có ma sát.
+C. Ô tô hãm phanh trên đường.
+D. Quả bóng nảy lên thấp dần.
+
+Câu 4. Cơ năng của vật KHÔNG được bảo toàn khi
+A. vật chỉ chịu tác dụng của trọng lực.
+*B. vật chịu tác dụng của lực ma sát hoặc lực cản.
+C. vật rơi tự do.
+D. vật được ném lên trong chân không.
+
+Câu 5. Con lắc đồng hồ chuyển động từ vị trí cao nhất A xuống vị trí thấp nhất O. Trên cung AO, trọng lực sinh
+*A. công phát động, thế năng chuyển hoá thành động năng.
+B. công cản, động năng chuyển hoá thành thế năng.
+C. công bằng 0.
+D. công cản, thế năng tăng.
+
+Câu 6. Con lắc đồng hồ chuyển động từ vị trí thấp nhất O lên vị trí B. Trên cung OB
+A. động năng tăng, thế năng giảm.
+*B. động năng giảm, thế năng tăng.
+C. động năng và thế năng đều tăng.
+D. động năng và thế năng đều giảm.
+
+Câu 7. Một quả bóng cao su được thả rơi, sau mỗi lần nảy lên thì độ cao giảm dần. Điều đó chứng tỏ
+A. định luật bảo toàn năng lượng bị vi phạm.
+*B. cơ năng của quả bóng không được bảo toàn, một phần chuyển hoá thành nhiệt năng và năng lượng âm.
+C. thế năng của quả bóng tăng dần.
+D. quả bóng không chịu tác dụng của trọng lực.
+
+Câu 8. Thả viên bi không vận tốc đầu từ điểm A trên một đường ray nhẵn (bỏ qua ma sát). Viên bi có thể đi tới một điểm D trên đường ray khi
+*A. D thấp hơn A.
+B. D cao hơn A.
+C. D cao hơn A bất kì bao nhiêu.
+D. không bao giờ.
+
+Câu 9. Một vật khối lượng 0,5 kg ở độ cao 4 m so với mặt đất, đang chuyển động với tốc độ 2 m/s; lấy g = 10 m/s², gốc thế năng tại mặt đất. Cơ năng của vật là
+A. 20 J.
+*B. 21 J.
+C. 1 J.
+D. 22 J.
+
+Câu 10. Một vật rơi tự do từ độ cao 1,8 m; lấy g = 10 m/s², bỏ qua sức cản. Tốc độ của vật khi chạm đất là
+A. 3 m/s.
+*B. 6 m/s.
+C. 18 m/s.
+D. 36 m/s.
+
+Câu 11. Ném một vật thẳng đứng lên cao từ mặt đất với tốc độ 8 m/s; lấy g = 10 m/s², bỏ qua sức cản. Độ cao cực đại vật đạt được là
+A. 0,8 m.
+B. 6,4 m.
+*C. 3,2 m.
+D. 4 m.
+
+Câu 12. Một vật được thả rơi tự do từ độ cao 12 m so với mặt đất (gốc thế năng tại mặt đất), bỏ qua sức cản. Vật có động năng bằng thế năng ở độ cao
+A. 3 m.
+*B. 6 m.
+C. 4 m.
+D. 8 m.
+
+Câu 13. Ném một vật thẳng đứng lên cao từ mặt đất với tốc độ 10 m/s; lấy g = 10 m/s², bỏ qua sức cản. Khi vật ở độ cao 4,2 m, tốc độ của vật là
+A. 2 m/s.
+*B. 4 m/s.
+C. 6 m/s.
+D. 8 m/s.
+
+Câu 14. Một vật được thả rơi tự do từ độ cao 20 m; lấy g = 10 m/s², bỏ qua sức cản. Khi vật ở độ cao 15 m, tốc độ của vật là
+A. 5 m/s.
+*B. 10 m/s.
+C. 15 m/s.
+D. 20 m/s.
+
+Câu 15. Một con lắc đơn có dây dài 2,5 m; kéo vật lệch khỏi phương thẳng đứng góc 60° rồi thả nhẹ; lấy g = 10 m/s², bỏ qua lực cản. Tốc độ của vật tại vị trí thấp nhất là
+A. 2,5 m/s.
+*B. 5 m/s.
+C. 7,1 m/s.
+D. 10 m/s.
+
+Câu 16. Từ cùng một độ cao, ném hai vật giống nhau với cùng tốc độ ban đầu: một vật ném thẳng đứng lên, một vật ném thẳng đứng xuống. Bỏ qua sức cản, tốc độ của hai vật khi chạm đất
+A. vật ném lên lớn hơn.
+B. vật ném xuống lớn hơn.
+*C. bằng nhau.
+D. không so sánh được.
+
+Câu 17. Cơ năng của một vật trong trọng trường phụ thuộc vào việc chọn gốc thế năng vì
+A. động năng phụ thuộc gốc thế năng.
+*B. thế năng phụ thuộc gốc thế năng.
+C. khối lượng phụ thuộc gốc thế năng.
+D. trọng lực phụ thuộc gốc thế năng.
+
+Câu 18. Trong quá trình hoạt động của tàu lượn trên đường ray thực tế, ngoài động năng và thế năng còn có dạng năng lượng nào tham gia vào quá trình chuyển hoá?
+A. Năng lượng hạt nhân.
+*B. Nhiệt năng (do ma sát và lực cản) và năng lượng âm thanh.
+C. Quang năng.
+D. Không có dạng nào khác.
+
+PHẦN II. Câu trắc nghiệm đúng sai
+Câu 1. Một vật khối lượng 2 kg được thả rơi tự do từ độ cao 15 m so với mặt đất; lấy g = 10 m/s², bỏ qua sức cản, gốc thế năng tại mặt đất.
+a) Cơ năng của vật là 300 J. (Đ)
+b) Ở độ cao 5 m, động năng của vật là 200 J. (Đ)
+c) Tốc độ của vật khi chạm đất là 15 m/s. (S)
+d) Vật có động năng bằng thế năng ở độ cao 7,5 m. (Đ)
+Lời giải: $v = \sqrt{2.10.15} = \sqrt{300} \approx 17{,}3$ m/s.
+
+Câu 2. Một vận động viên trượt ván khối lượng 50 kg bắt đầu trượt (không vận tốc đầu) từ mép một máng lòng chảo, mép cao 3 m so với đáy máng; bỏ qua mọi ma sát; lấy g = 10 m/s², gốc thế năng tại đáy máng.
+a) Tốc độ của vận động viên ở đáy máng xấp xỉ 7,75 m/s. (Đ)
+b) Cơ năng của vận động viên là 1 500 J. (Đ)
+c) Ở độ cao 1 m so với đáy máng, động năng của vận động viên là 500 J. (S)
+d) Vận động viên lên tới mép bên kia của máng (cao 3 m). (Đ)
+Lời giải: Ở độ cao 1 m: Wđ = 1500 − 500 = 1000 J.
+
+Câu 3. Từ ban công cao 10 m so với mặt đất, ném một vật khối lượng 0,1 kg thẳng đứng lên với tốc độ 10 m/s; lấy g = 10 m/s², bỏ qua sức cản, gốc thế năng tại mặt đất.
+a) Cơ năng của vật là 15 J. (Đ)
+b) Độ cao cực đại của vật so với mặt đất là 15 m. (Đ)
+c) Tốc độ của vật khi chạm đất xấp xỉ 17,3 m/s. (Đ)
+d) Nếu ném vật thẳng đứng xuống với cùng tốc độ 10 m/s thì tốc độ chạm đất lớn hơn. (S)
+
+Câu 4. Một xe lăn khối lượng 2 kg được thả không vận tốc đầu từ đỉnh một con dốc cao 1,25 m; đến chân dốc, tốc độ đo được là 4 m/s; lấy g = 10 m/s², gốc thế năng tại chân dốc.
+a) Nếu bỏ qua mọi ma sát thì tốc độ ở chân dốc là 5 m/s. (Đ)
+b) Cơ năng của xe bị giảm 9 J. (Đ)
+c) Phần cơ năng bị giảm đã chuyển hoá thành nhiệt năng do ma sát. (Đ)
+d) Cơ năng của xe lăn được bảo toàn. (S)
+Lời giải: Ở đỉnh W = 25 J; ở chân dốc W = 16 J.
+
+PHẦN III. Câu trắc nghiệm trả lời ngắn
+Câu 1. Một vật khối lượng 0,4 kg ở độ cao 5 m so với mặt đất, đang chuyển động với tốc độ 5 m/s; lấy g = 10 m/s², gốc thế năng tại mặt đất. Cơ năng của vật là bao nhiêu jun?
+Đáp án: 25
+
+Câu 2. Một vật rơi tự do từ độ cao 3,2 m; lấy g = 10 m/s², bỏ qua sức cản. Tốc độ của vật khi chạm đất là bao nhiêu m/s?
+Đáp án: 8
+
+Câu 3. Ném một vật thẳng đứng lên cao từ mặt đất với tốc độ 6 m/s; lấy g = 10 m/s², bỏ qua sức cản. Độ cao cực đại vật đạt được là bao nhiêu mét?
+Đáp án: 1,8|1.8
+
+Câu 4. Một vật được thả rơi tự do từ độ cao 30 m so với mặt đất (gốc thế năng tại mặt đất), bỏ qua sức cản. Ở độ cao bao nhiêu mét thì động năng của vật bằng hai lần thế năng?
+Đáp án: 10
+
+Câu 5. Ném một vật thẳng đứng lên cao từ mặt đất với tốc độ 15 m/s; lấy g = 10 m/s², bỏ qua sức cản. Khi vật ở độ cao 10 m, tốc độ của vật là bao nhiêu m/s?
+Đáp án: 5
+
+Câu 6. Một con lắc đơn có dây dài 1,6 m; kéo vật lệch khỏi phương thẳng đứng góc 60° rồi thả nhẹ; lấy g = 10 m/s², bỏ qua lực cản. Tốc độ của vật tại vị trí thấp nhất là bao nhiêu m/s?
+Đáp án: 4
