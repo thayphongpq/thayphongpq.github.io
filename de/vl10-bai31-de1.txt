@@ -1,0 +1,160 @@
+VẬT LÍ 10 - CHƯƠNG VI. CHUYỂN ĐỘNG TRÒN ĐỀU - BÀI 31. ĐỘNG HỌC CỦA CHUYỂN ĐỘNG TRÒN ĐỀU - ĐỀ 1
+Đề kiểm tra theo cấu trúc thi tốt nghiệp THPT (biên soạn: thầy Lâm Thế Phong, THPT An Thới)
+Thời gian: 50
+
+PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn
+Câu 1. Chuyển động tròn đều là chuyển động
+A. theo quỹ đạo tròn có gia tốc bằng 0.
+*B. theo quỹ đạo tròn có tốc độ không thay đổi.
+C. theo quỹ đạo thẳng có tốc độ không đổi.
+D. theo quỹ đạo tròn có vận tốc không đổi.
+
+Câu 2. Một rađian là
+*A. góc ở tâm chắn cung có độ dài bằng bán kính đường tròn.
+B. góc ở tâm chắn cung có độ dài bằng đường kính.
+C. góc bằng 1°.
+D. góc ở tâm chắn nửa đường tròn.
+
+Câu 3. Một vật chuyển động tròn đi được cung tròn dài s trên đường tròn bán kính r. Độ dịch chuyển góc của vật (tính bằng rad) là
+A. θ = s.r.
+*B. θ = s/r.
+C. θ = r/s.
+D. θ = 2πs.
+
+Câu 4. Một vòng tròn (360°) bằng
+A. π rad.
+*B. 2π rad.
+C. π/2 rad.
+D. 1 rad.
+
+Câu 5. Góc 180° bằng
+*A. π rad.
+B. 2π rad.
+C. π/2 rad.
+D. π/4 rad.
+
+Câu 6. Tốc độ góc trong chuyển động tròn đều được tính bằng
+A. $\omega = \theta . t$.
+*B. $\omega = \dfrac{\theta}{t}$.
+C. $\omega = \dfrac{t}{\theta}$.
+D. $\omega = \dfrac{s}{t}$.
+
+Câu 7. Liên hệ giữa tốc độ v, tốc độ góc ω và bán kính quỹ đạo r là
+A. $v = \dfrac{\omega}{r}$.
+*B. $v = \omega . r$.
+C. $v = \dfrac{r}{\omega}$.
+D. $v = \omega^2 r$.
+
+Câu 8. Chu kì của chuyển động tròn đều là
+*A. thời gian để vật quay hết một vòng tròn.
+B. số vòng vật quay được trong một giây.
+C. góc vật quét được trong một giây.
+D. quãng đường vật đi được trong một giây.
+
+Câu 9. Đơn vị của tần số trong chuyển động tròn đều là
+A. rad/s.
+B. s.
+*C. Hz.
+D. m/s.
+
+Câu 10. Liên hệ giữa chu kì T, tần số f và tốc độ góc ω là
+*A. $T = \dfrac{1}{f} = \dfrac{2\pi}{\omega}$.
+B. $T = f = \dfrac{\omega}{2\pi}$.
+C. $T = \dfrac{1}{f} = 2\pi\omega$.
+D. $T = 2\pi f$.
+
+Câu 11. Trong chuyển động tròn, vectơ vận tốc tức thời tại mỗi điểm có phương
+A. trùng với bán kính.
+*B. trùng với tiếp tuyến của đường tròn tại điểm đó.
+C. thẳng đứng.
+D. hướng vào tâm.
+
+Câu 12. Trong chuyển động tròn đều, vận tốc tức thời của vật
+A. không đổi cả độ lớn và hướng.
+*B. có độ lớn không đổi nhưng hướng luôn thay đổi.
+C. có độ lớn thay đổi, hướng không đổi.
+D. bằng 0.
+
+Câu 13. Một vật chuyển động tròn trên đường tròn bán kính 2 m có độ dịch chuyển góc 1 rad. Quãng đường vật đi được là
+A. 1 m.
+*B. 2 m.
+C. 0,5 m.
+D. 6,28 m.
+
+Câu 14. Độ dịch chuyển góc của kim giờ đồng hồ trong mỗi giờ là
+A. π/12 rad.
+*B. π/6 rad.
+C. π/3 rad.
+D. 2π rad.
+
+Câu 15. Tốc độ góc của kim phút đồng hồ xấp xỉ bằng
+A. 0,105 rad/s.
+*B. 1,75.10⁻³ rad/s.
+C. 1,45.10⁻⁴ rad/s.
+D. 6,28 rad/s.
+
+Câu 16. Roto trong một tổ máy của nhà máy thuỷ điện Hoà Bình quay 125 vòng mỗi phút. Tốc độ góc của roto xấp xỉ bằng
+A. 125 rad/s.
+B. 2,08 rad/s.
+*C. 13,1 rad/s.
+D. 785 rad/s.
+
+Câu 17. Hai điểm A và B trên cùng một kim giây đang quay đều, A gần trục quay hơn B. Nhận xét đúng là
+A. A có tốc độ góc lớn hơn B.
+B. A có tốc độ lớn hơn B.
+*C. A và B có cùng tốc độ góc, B có tốc độ lớn hơn A.
+D. A và B có cùng tốc độ.
+
+Câu 18. Một vật chuyển động tròn đều, quay được 30 vòng trong 1 phút. Chu kì của chuyển động là
+A. 30 s.
+*B. 2 s.
+C. 0,5 s.
+D. 60 s.
+
+PHẦN II. Câu trắc nghiệm đúng sai
+Câu 1. Xét một điểm nằm trên đường xích đạo trong chuyển động tự quay của Trái Đất; bán kính Trái Đất tại xích đạo là 6 400 km, chu kì tự quay là 24 h.
+a) Chu kì chuyển động của điểm đó là 86 400 s. (Đ)
+b) Tốc độ góc của điểm đó xấp xỉ 7,27.10⁻⁵ rad/s. (Đ)
+c) Tốc độ của điểm đó xấp xỉ 465 m/s. (Đ)
+d) Một điểm ở gần cực Bắc có tốc độ bằng tốc độ của điểm trên xích đạo. (S)
+
+Câu 2. Kim phút và kim giây của một chiếc đồng hồ có chiều dài lần lượt là 4 cm và 5 cm.
+a) Chu kì quay của kim giây là 60 s. (Đ)
+b) Tỉ số chu kì quay của kim phút và kim giây là 60. (Đ)
+c) Tốc độ góc của kim giây gấp 60 lần tốc độ góc của kim phút. (Đ)
+d) Tốc độ của đầu kim phút lớn hơn tốc độ của đầu kim giây. (S)
+Lời giải: Tỉ số tốc độ đầu kim phút và đầu kim giây là $\dfrac{4}{60 . 5} = \dfrac{1}{75}$.
+
+Câu 3. Một vật chuyển động tròn đều trên đường tròn bán kính 0,5 m, quay được 2 vòng trong mỗi giây.
+a) Tần số của chuyển động là 2 Hz. (Đ)
+b) Chu kì của chuyển động là 0,5 s. (Đ)
+c) Tốc độ góc của vật xấp xỉ 12,6 rad/s. (Đ)
+d) Tốc độ của vật xấp xỉ 25,1 m/s. (S)
+Lời giải: ω = 4π ≈ 12,57 rad/s; v = ωr ≈ 6,28 m/s.
+
+Câu 4. Một xe đồ chơi chạy với tốc độ không đổi 0,2 m/s trên đường ray tròn đường kính AB = 0,4 m.
+a) Tốc độ góc của xe là 1 rad/s. (Đ)
+b) Thời gian xe đi từ A đến B (nửa vòng) xấp xỉ 3,14 s. (Đ)
+c) Vận tốc của xe tại B ngược hướng với vận tốc tại A. (Đ)
+d) Quãng đường xe đi từ A đến B bằng độ dài đường kính AB = 0,4 m. (S)
+Lời giải: Quãng đường bằng nửa chu vi: π . 0,2 ≈ 0,628 m.
+
+PHẦN III. Câu trắc nghiệm trả lời ngắn
+Câu 1. Góc 90° bằng bao nhiêu rađian? (Lấy π = 3,14; làm tròn đến hàng phần trăm.)
+Đáp án: 1,57|1.57
+
+Câu 2. Một vật chuyển động tròn trên đường tròn bán kính 0,8 m có độ dịch chuyển góc 2,5 rad. Quãng đường vật đi được là bao nhiêu mét?
+Đáp án: 2
+
+Câu 3. Một bánh xe quay đều 10 vòng mỗi giây. Tốc độ góc của bánh xe là bao nhiêu rad/s? (Lấy π = 3,14.)
+Đáp án: 62,8|62.8
+
+Câu 4. Một vật chuyển động tròn đều với tốc độ góc 5 rad/s trên đường tròn bán kính 0,3 m. Tốc độ của vật là bao nhiêu m/s?
+Đáp án: 1,5|1.5
+
+Câu 5. Một vật chuyển động tròn đều với tần số 4 Hz. Chu kì của chuyển động là bao nhiêu giây?
+Đáp án: 0,25|0.25
+
+Câu 6. Một xe đạp chạy đều với tốc độ 18 km/h; bánh xe có bán kính 0,3 m và lăn không trượt. Tốc độ góc của bánh xe quanh trục là bao nhiêu rad/s? (Làm tròn đến hàng phần mười.)
+Đáp án: 16,7|16.7
+Lời giải: v = 5 m/s; ω = v/r = 5 : 0,3 ≈ 16,7 rad/s.
