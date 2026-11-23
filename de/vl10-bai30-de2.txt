@@ -1,0 +1,158 @@
+VẬT LÍ 10 - CHƯƠNG V. ĐỘNG LƯỢNG - BÀI 30. THỰC HÀNH: XÁC ĐỊNH ĐỘNG LƯỢNG CỦA VẬT TRƯỚC VÀ SAU VA CHẠM - ĐỀ 2
+Đề kiểm tra theo cấu trúc thi tốt nghiệp THPT (biên soạn: thầy Lâm Thế Phong, THPT An Thới)
+Thời gian: 50
+
+PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn
+Câu 1. Bơm nén khí trong thí nghiệm dùng để
+*A. thổi khí vào băng đệm khí, tạo lớp đệm khí giữa xe và băng.
+B. đo vận tốc của xe.
+C. đẩy xe chuyển động.
+D. làm mát đồng hồ.
+
+Câu 2. Các cổng quang điện trong thí nghiệm được nối với
+A. bơm nén khí.
+*B. đồng hồ đo thời gian hiện số.
+C. cân điện tử.
+D. lò xo.
+
+Câu 3. Mục đích của bài thực hành là
+A. đo gia tốc rơi tự do.
+*B. xác định động lượng của các xe trước và sau va chạm, từ đó kiểm nghiệm định luật bảo toàn động lượng.
+C. đo hệ số ma sát.
+D. đo công suất của bơm.
+
+Câu 4. Trong thí nghiệm 2, để hai xe đang đứng yên đẩy nhau, người ta dùng
+A. nam châm.
+*B. lò xo hoặc thanh nhựa hình chữ U có dây cao su đàn hồi gắn vào một xe.
+C. sợi dây kéo hai xe.
+D. tay đẩy từng xe.
+
+Câu 5. Trong thí nghiệm 2, để hai xe bung ra hai phía, người ta
+A. đẩy mạnh một xe.
+*B. cắt sợi dây buộc hai xe để lò xo đang bị nén bung ra.
+C. tắt bơm nén khí.
+D. nghiêng băng đệm khí.
+
+Câu 6. Trong thí nghiệm va chạm mềm, các khoảng thời gian cần đọc trên đồng hồ là
+*A. thời gian xe 1 chắn cổng quang điện trước va chạm và thời gian hai xe chắn cổng quang điện sau va chạm.
+B. thời gian từ lúc bật bơm đến lúc tắt bơm.
+C. thời gian xe 2 đứng yên.
+D. thời gian hai xe va chạm.
+
+Câu 7. Trong thí nghiệm 2 (hai xe đẩy nhau bằng lò xo), các khoảng thời gian cần đọc là
+A. chỉ thời gian của xe 1.
+*B. thời gian xe 1 và thời gian xe 2 chắn cổng quang điện sau khi bung ra.
+C. thời gian lò xo bị nén.
+D. thời gian cắt dây.
+
+Câu 8. Gắn thêm gia trọng vào xe rồi lặp lại thí nghiệm nhằm
+*A. thay đổi khối lượng của xe để kiểm nghiệm trong nhiều trường hợp và lấy nhiều số liệu.
+B. làm xe chạy nhanh hơn.
+C. làm hỏng xe.
+D. giảm ma sát.
+
+Câu 9. Tấm chắn sáng dài 0,08 m che cổng quang điện trong 0,16 s. Tốc độ của xe là
+A. 2 m/s.
+B. 0,0128 m/s.
+*C. 0,5 m/s.
+D. 0,24 m/s.
+
+Câu 10. Một xe chuyển động với tốc độ 0,25 m/s, tấm chắn sáng che cổng quang điện trong 0,4 s. Độ dài tấm chắn sáng là
+*A. 0,1 m.
+B. 0,625 m.
+C. 1,6 m.
+D. 0,65 m.
+
+Câu 11. Một xe khối lượng 0,5 kg chuyển động với tốc độ 0,4 m/s. Độ lớn động lượng của xe là
+A. 1,25 kg.m/s.
+*B. 0,2 kg.m/s.
+C. 0,9 kg.m/s.
+D. 0,1 kg.m/s.
+
+Câu 12. Xe 1 khối lượng 0,4 kg chuyển động với tốc độ 0,3 m/s va chạm mềm với xe 2 khối lượng 0,2 kg đang đứng yên. Tốc độ hai xe sau va chạm là
+A. 0,3 m/s.
+*B. 0,2 m/s.
+C. 0,6 m/s.
+D. 0,1 m/s.
+
+Câu 13. Hai xe đứng yên đẩy nhau bằng lò xo: xe 1 khối lượng 0,3 kg chuyển động với tốc độ 0,4 m/s; xe 2 khối lượng 0,2 kg chuyển động ngược chiều với tốc độ
+A. 0,4 m/s.
+B. 0,27 m/s.
+*C. 0,6 m/s.
+D. 0,8 m/s.
+
+Câu 14. Trong thí nghiệm hai xe đứng yên đẩy nhau bằng lò xo, sau khi bung ra, động lượng của hai xe
+A. cùng hướng, cùng độ lớn.
+*B. ngược hướng, cùng độ lớn.
+C. ngược hướng, độ lớn khác nhau.
+D. đều bằng 0.
+
+Câu 15. Trong va chạm mềm giữa hai xe, so với trước va chạm, động năng của hệ sau va chạm
+A. lớn hơn.
+*B. nhỏ hơn.
+C. bằng.
+D. bằng 0.
+
+Câu 16. Khi dùng điện thoại thông minh và phần mềm phân tích video để xác định vận tốc của viên bi, ta dựa vào
+A. màu sắc viên bi.
+*B. vị trí của viên bi theo thời gian trên các khung hình.
+C. âm thanh va chạm.
+D. nhiệt độ viên bi.
+
+Câu 17. Trong bảng ghi kết quả thí nghiệm va chạm mềm, sau va chạm hai xe có
+A. vận tốc khác nhau.
+*B. cùng vận tốc $v'_1 = v'_2$.
+C. vận tốc bằng 0.
+D. vận tốc ngược chiều nhau.
+
+Câu 18. Nguyên nhân nào sau đây có thể gây sai số cho thí nghiệm?
+A. Dùng cân điện tử.
+*B. Băng đệm khí không nằm ngang và ma sát chưa được loại bỏ hoàn toàn.
+C. Ấn nút Reset trước mỗi lần đo.
+D. Lặp lại thí nghiệm nhiều lần.
+
+PHẦN II. Câu trắc nghiệm đúng sai
+Câu 1. Thí nghiệm va chạm mềm: xe 1 khối lượng 0,4 kg, xe 2 khối lượng 0,2 kg đang đứng yên; tấm chắn sáng dài 0,1 m; xe 1 chắn cổng quang điện trong 0,25 s trước va chạm; sau va chạm hai xe dính nhau chắn cổng quang điện trong 0,375 s.
+a) Tốc độ của xe 1 trước va chạm là 0,4 m/s. (Đ)
+b) Động lượng của hệ trước va chạm là 0,16 kg.m/s. (Đ)
+c) Tốc độ đo được sau va chạm xấp xỉ 0,27 m/s, phù hợp với định luật bảo toàn động lượng. (Đ)
+d) Động năng của hệ được bảo toàn trong va chạm này. (S)
+Lời giải: v' = 0,1 : 0,375 ≈ 0,267 m/s; p' = 0,6 . 0,267 ≈ 0,16 kg.m/s. Động năng giảm từ 0,032 J xuống ≈ 0,021 J.
+
+Câu 2. Thí nghiệm hai xe đẩy nhau bằng lò xo: hai xe có cùng khối lượng 0,3 kg, ban đầu đứng yên; tấm chắn sáng dài 0,1 m; sau khi bung ra, mỗi xe chắn cổng quang điện trong 0,2 s.
+a) Tốc độ của mỗi xe sau khi bung ra là 0,5 m/s. (Đ)
+b) Độ lớn động lượng của mỗi xe sau khi bung ra là 0,15 kg.m/s. (Đ)
+c) Hai xe chuyển động cùng hướng. (S)
+d) Tổng động lượng của hệ sau khi bung ra bằng 0. (Đ)
+
+Câu 3. Về dụng cụ thí nghiệm:
+a) Băng đệm khí giúp giảm ma sát. (Đ)
+b) Cổng quang điện dùng cùng đồng hồ đo thời gian hiện số để đo thời gian xe chắn sáng. (Đ)
+c) Nhiệt kế là một dụng cụ bắt buộc của thí nghiệm. (S)
+d) Cân điện tử dùng để đo khối lượng các xe. (Đ)
+
+Câu 4. Về thiết kế phương án thí nghiệm:
+a) Cần điều chỉnh cho băng đệm khí nằm ngang. (Đ)
+b) Cần lắp ống dẫn khí từ bơm nén khí vào băng đệm khí. (Đ)
+c) Hai cổng quang điện được đặt cách nhau khoảng 5 m. (S)
+d) Cần cấp điện cho bơm nén khí và đồng hồ đo thời gian hiện số. (Đ)
+
+PHẦN III. Câu trắc nghiệm trả lời ngắn
+Câu 1. Tấm chắn sáng dài 0,1 m che cổng quang điện trong 0,125 s. Tốc độ của xe là bao nhiêu m/s?
+Đáp án: 0,8|0.8
+
+Câu 2. Một xe khối lượng 0,6 kg chuyển động với tốc độ 0,5 m/s. Độ lớn động lượng của xe là bao nhiêu kg.m/s?
+Đáp án: 0,3|0.3
+
+Câu 3. Xe 1 khối lượng 0,5 kg chuyển động với tốc độ 0,6 m/s va chạm mềm với xe 2 khối lượng 0,25 kg đang đứng yên. Tốc độ của hai xe sau va chạm là bao nhiêu m/s?
+Đáp án: 0,4|0.4
+
+Câu 4. Hai xe đứng yên trên đệm khí đẩy nhau bằng lò xo: xe 1 khối lượng 0,4 kg chuyển động với tốc độ 0,3 m/s; xe 2 khối lượng 0,6 kg. Tốc độ của xe 2 là bao nhiêu m/s?
+Đáp án: 0,2|0.2
+
+Câu 5. Trong một va chạm mềm, động lượng của hệ trước va chạm là 0,24 kg.m/s; tổng khối lượng hai xe là 0,8 kg. Tốc độ của hai xe sau va chạm là bao nhiêu m/s?
+Đáp án: 0,3|0.3
+
+Câu 6. Xe 1 khối lượng 0,2 kg chuyển động với tốc độ 1 m/s va chạm mềm với xe 2 khối lượng 0,2 kg đang đứng yên. Phần động năng của hệ bị mất trong va chạm là bao nhiêu jun?
+Đáp án: 0,05|0.05
+Lời giải: Wđ trước 0,1 J; v' = 0,5 m/s; Wđ sau 0,05 J.
