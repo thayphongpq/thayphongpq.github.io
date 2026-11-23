@@ -195,6 +195,9 @@ const DE_THI = [
   { ten: "Bài 32 – Đề 1. Lực hướng tâm và gia tốc hướng tâm", mon: "Vật lý", lop: "10", loai: "Luyện tập", tep: "de/vl10-bai32-de1.txt", thoiGian: 50, ngay: "2026-11-23" },
   { ten: "Bài 32 – Đề 2. Lực hướng tâm và gia tốc hướng tâm", mon: "Vật lý", lop: "10", loai: "Luyện tập", tep: "de/vl10-bai32-de2.txt", thoiGian: 50, ngay: "2026-11-23" },
   { ten: "Bài 32 – Đề 3. Lực hướng tâm và gia tốc hướng tâm", mon: "Vật lý", lop: "10", loai: "Luyện tập", tep: "de/vl10-bai32-de3.txt", thoiGian: 50, ngay: "2026-11-23" },
+  { ten: "Bài 33 – Đề 1. Biến dạng của vật rắn", mon: "Vật lý", lop: "10", loai: "Luyện tập", tep: "de/vl10-bai33-de1.txt", thoiGian: 50, ngay: "2026-11-23" },
+  { ten: "Bài 33 – Đề 2. Biến dạng của vật rắn", mon: "Vật lý", lop: "10", loai: "Luyện tập", tep: "de/vl10-bai33-de2.txt", thoiGian: 50, ngay: "2026-11-23" },
+  { ten: "Bài 33 – Đề 3. Biến dạng của vật rắn", mon: "Vật lý", lop: "10", loai: "Luyện tập", tep: "de/vl10-bai33-de3.txt", thoiGian: 50, ngay: "2026-11-23" },
 
   // ----- Vật lý 10 (sách thống nhất) - Chương II. Động học -----
   // (đề cũ 13 câu, đã thay bằng 3 đề 28 câu) { ten: "Bài 4. Độ dịch chuyển và quãng đường đi được", mon: "Vật lý", lop: "10", loai: "Luyện tập", tep: "de/vl10-bai04-do-dich-chuyen.txt", thoiGian: 20, ngay: "2026-11-19" },
@@ -226,7 +229,7 @@ const DE_THI = [
   // (đề cũ 13 câu, đã thay bằng 3 đề 28 câu) { ten: "Bài 30. Thực hành: Xác định động lượng của vật trước và sau va chạm", mon: "Vật lý", lop: "10", loai: "Luyện tập", tep: "de/vl10-bai30-thuc-hanh-dong-luong.txt", thoiGian: 20, ngay: "2026-11-19" },
   // (đề cũ 13 câu, đã thay bằng 3 đề 28 câu) { ten: "Bài 31. Động học của chuyển động tròn đều", mon: "Vật lý", lop: "10", loai: "Luyện tập", tep: "de/vl10-bai31-chuyen-dong-tron-deu.txt", thoiGian: 20, ngay: "2026-11-19" },
   // (đề cũ 13 câu, đã thay bằng 3 đề 28 câu) { ten: "Bài 32. Lực hướng tâm và gia tốc hướng tâm", mon: "Vật lý", lop: "10", loai: "Luyện tập", tep: "de/vl10-bai32-luc-huong-tam.txt", thoiGian: 20, ngay: "2026-11-19" },
-  { ten: "Bài 33. Biến dạng của vật rắn", mon: "Vật lý", lop: "10", loai: "Luyện tập", tep: "de/vl10-bai33-bien-dang-vat-ran.txt", thoiGian: 20, ngay: "2026-11-19" },
+  // (đề cũ 13 câu, đã thay bằng 3 đề 28 câu) { ten: "Bài 33. Biến dạng của vật rắn", mon: "Vật lý", lop: "10", loai: "Luyện tập", tep: "de/vl10-bai33-bien-dang-vat-ran.txt", thoiGian: 20, ngay: "2026-11-19" },
   { ten: "Bài 34. Khối lượng riêng. Áp suất chất lỏng", mon: "Vật lý", lop: "10", loai: "Luyện tập", tep: "de/vl10-bai34-ap-suat-chat-long.txt", thoiGian: 20, ngay: "2026-11-19" },
   // ----- Vật lý 11 (sách thống nhất) -----
   { ten: "Bài 1. Dao động điều hoà", mon: "Vật lý", lop: "11", loai: "Luyện tập", tep: "de/vl11-bai01-dao-dong-dieu-hoa.txt", thoiGian: 20, ngay: "2026-11-19" },
