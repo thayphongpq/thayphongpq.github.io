@@ -1,0 +1,161 @@
+VẬT LÍ 10 - CHƯƠNG VI. CHUYỂN ĐỘNG TRÒN ĐỀU - BÀI 32. LỰC HƯỚNG TÂM VÀ GIA TỐC HƯỚNG TÂM - ĐỀ 1
+Đề kiểm tra theo cấu trúc thi tốt nghiệp THPT (biên soạn: thầy Lâm Thế Phong, THPT An Thới)
+Thời gian: 50
+
+PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn
+Câu 1. Lực hướng tâm là
+*A. lực (hay hợp lực) tác dụng lên vật chuyển động tròn đều, hướng vào tâm quỹ đạo.
+B. lực hướng ra xa tâm quỹ đạo.
+C. lực có phương tiếp tuyến với quỹ đạo.
+D. trọng lực của vật.
+
+Câu 2. Gia tốc hướng tâm của vật chuyển động tròn đều có hướng
+A. tiếp tuyến với quỹ đạo.
+*B. hướng vào tâm quỹ đạo.
+C. hướng ra xa tâm.
+D. cùng hướng với vận tốc.
+
+Câu 3. Biểu thức tính độ lớn gia tốc hướng tâm là
+*A. $a_{ht} = \dfrac{v^2}{r} = \omega^2 r$.
+B. $a_{ht} = \dfrac{v}{r} = \omega r$.
+C. $a_{ht} = v^2 r$.
+D. $a_{ht} = \dfrac{\omega}{r}$.
+
+Câu 4. Biểu thức tính độ lớn lực hướng tâm là
+A. $F_{ht} = m v r$.
+*B. $F_{ht} = \dfrac{m v^2}{r}$.
+C. $F_{ht} = \dfrac{m r}{v^2}$.
+D. $F_{ht} = m \omega r$.
+
+Câu 5. Buộc cái tẩy vào sợi dây rồi quay cho tẩy chuyển động tròn đều trong mặt phẳng nằm ngang. Lực đóng vai trò lực hướng tâm là
+A. trọng lực tác dụng lên cái tẩy.
+B. lực cản của không khí.
+*C. lực căng dây hướng vào tâm quỹ đạo.
+D. lực đẩy của tay.
+
+Câu 6. Cái tẩy đang chuyển động tròn thì ta buông tay ra. Cái tẩy sẽ
+A. tiếp tục chuyển động tròn.
+B. rơi thẳng đứng xuống đất ngay.
+*C. văng ra theo phương tiếp tuyến với quỹ đạo, theo hướng vận tốc tại điểm buông.
+D. bay theo bán kính ra xa tâm.
+
+Câu 7. Lực duy trì chuyển động gần tròn của Trái Đất quanh Mặt Trời là
+A. lực ma sát.
+*B. lực hấp dẫn của Mặt Trời tác dụng lên Trái Đất.
+C. lực đẩy Archimedes.
+D. lực đàn hồi.
+
+Câu 8. Một vệ tinh nhân tạo chuyển động tròn đều quanh Trái Đất. Lực hướng tâm tác dụng lên vệ tinh là
+*A. lực hấp dẫn của Trái Đất.
+B. lực đẩy của động cơ.
+C. lực cản của không khí.
+D. lực ma sát.
+
+Câu 9. Một vật chuyển động tròn đều với tốc độ 4 m/s trên đường tròn bán kính 2 m. Gia tốc hướng tâm của vật là
+A. 2 m/s².
+*B. 8 m/s².
+C. 16 m/s².
+D. 32 m/s².
+
+Câu 10. Một vật chuyển động tròn đều với tốc độ góc 3 rad/s trên đường tròn bán kính 0,5 m. Gia tốc hướng tâm của vật là
+A. 1,5 m/s².
+B. 3 m/s².
+*C. 4,5 m/s².
+D. 18 m/s².
+
+Câu 11. Một vật khối lượng 0,2 kg chuyển động tròn đều với tốc độ 2 m/s trên đường tròn bán kính 0,5 m. Lực hướng tâm tác dụng lên vật là
+A. 0,8 N.
+*B. 1,6 N.
+C. 4 N.
+D. 0,4 N.
+
+Câu 12. Một vệ tinh nhân tạo chuyển động tròn đều quanh Trái Đất với bán kính quỹ đạo 7 000 km và tốc độ 7,57 km/s. Gia tốc hướng tâm của vệ tinh xấp xỉ bằng
+A. 1,08 m/s².
+*B. 8,19 m/s².
+C. 9,8 m/s².
+D. 819 m/s².
+
+Câu 13. Ô tô chuyển động tròn đều trên đoạn đường cong nằm ngang. Lực đóng vai trò lực hướng tâm là
+A. trọng lực.
+B. phản lực của mặt đường.
+*C. lực ma sát nghỉ của mặt đường lên bánh xe.
+D. lực kéo của động cơ.
+
+Câu 14. Ở các đoạn đường cong, mặt đường được làm nghiêng về phía tâm để
+*A. hợp lực của trọng lực và phản lực của mặt đường góp phần tạo ra lực hướng tâm.
+B. xe chạy chậm lại.
+C. trọng lực tăng lên.
+D. giảm lực hướng tâm cần thiết.
+
+Câu 15. Các phương tiện giao thông phải giảm tốc độ khi vào đoạn đường cong vì
+A. lực hướng tâm cần thiết không phụ thuộc tốc độ.
+*B. tốc độ càng lớn thì lực hướng tâm cần thiết càng lớn, xe dễ bị trượt ra khỏi đường.
+C. đường cong luôn dốc.
+D. tốc độ lớn làm trọng lực giảm.
+
+Câu 16. Thành thùng giặt của máy giặt có nhiều lỗ thủng nhằm
+A. làm thùng nhẹ hơn.
+*B. khi thùng quay nhanh, nước không được giữ chuyển động tròn, văng ra ngoài qua các lỗ (chuyển động li tâm).
+C. làm quần áo quay chậm lại.
+D. cho không khí vào để làm khô.
+
+Câu 17. Giữ nguyên bán kính quỹ đạo, nếu tốc độ của vật chuyển động tròn đều tăng gấp đôi thì gia tốc hướng tâm
+A. tăng gấp đôi.
+*B. tăng gấp bốn.
+C. không đổi.
+D. giảm một nửa.
+
+Câu 18. Trong thực tế người ta làm cầu vồng lên chứ không làm cầu võng xuống vì khi xe đi qua điểm cao nhất của cầu vồng lên, áp lực của xe lên mặt cầu
+*A. nhỏ hơn trọng lượng của xe.
+B. lớn hơn trọng lượng của xe.
+C. bằng 0 trong mọi trường hợp.
+D. bằng hai lần trọng lượng của xe.
+
+PHẦN II. Câu trắc nghiệm đúng sai
+Câu 1. Một vật nhỏ khối lượng 0,5 kg buộc vào sợi dây dài 0,8 m, chuyển động tròn đều trên mặt bàn nằm ngang nhẵn quanh đầu dây cố định, với tốc độ 4 m/s.
+a) Gia tốc hướng tâm của vật là 20 m/s². (Đ)
+b) Lực căng của dây (đóng vai trò lực hướng tâm) là 10 N. (Đ)
+c) Tốc độ góc của vật là 5 rad/s. (Đ)
+d) Nếu tốc độ của vật tăng lên 8 m/s thì lực căng của dây là 20 N. (S)
+Lời giải: F = 0,5 . 64 : 0,8 = 40 N.
+
+Câu 2. Một ô tô khối lượng 1 tấn chuyển động đều với tốc độ 10 m/s qua một đoạn đường cong nằm ngang có bán kính 50 m.
+a) Gia tốc hướng tâm của ô tô là 2 m/s². (Đ)
+b) Lực hướng tâm tác dụng lên ô tô là 2 000 N. (Đ)
+c) Tốc độ góc của ô tô trên đoạn đường cong là 0,2 rad/s. (Đ)
+d) Nếu ô tô chạy với tốc độ 20 m/s thì gia tốc hướng tâm là 4 m/s². (S)
+Lời giải: a = 400 : 50 = 8 m/s².
+
+Câu 3. Coi Mặt Trăng chuyển động tròn đều quanh Trái Đất với bán kính quỹ đạo 3,84.10⁸ m và chu kì 27,2 ngày.
+a) Chu kì quay của Mặt Trăng xấp xỉ 2,35.10⁶ s. (Đ)
+b) Tốc độ góc của Mặt Trăng xấp xỉ 2,67.10⁻⁶ rad/s. (Đ)
+c) Gia tốc hướng tâm của Mặt Trăng xấp xỉ 2,7.10⁻³ m/s². (Đ)
+d) Gia tốc hướng tâm của Mặt Trăng hướng ra xa Trái Đất. (S)
+
+Câu 4. Một vật nhỏ khối lượng 0,1 kg đặt trên mặt bàn quay, cách trục quay 0,2 m; lực ma sát nghỉ cực đại giữa vật và mặt bàn là 0,8 N.
+a) Lực hướng tâm cần thiết để giữ vật chuyển động tròn là $m\omega^2 r$. (Đ)
+b) Khi bàn quay với tốc độ góc 4 rad/s, lực hướng tâm cần thiết là 0,32 N, vật không trượt. (Đ)
+c) Tốc độ góc lớn nhất để vật chưa trượt xấp xỉ 6,32 rad/s. (Đ)
+d) Khi tốc độ góc vượt quá giá trị đó, vật trượt về phía tâm quay. (S)
+Lời giải: ω²max = 0,8 : (0,1 . 0,2) = 40. Vượt quá thì vật trượt ra xa tâm (chuyển động li tâm).
+
+PHẦN III. Câu trắc nghiệm trả lời ngắn
+Câu 1. Một vật chuyển động tròn đều với tốc độ 6 m/s trên đường tròn bán kính 3 m. Gia tốc hướng tâm của vật là bao nhiêu m/s²?
+Đáp án: 12
+
+Câu 2. Một vật chuyển động tròn đều với tốc độ góc 2 rad/s trên đường tròn bán kính 1,5 m. Gia tốc hướng tâm của vật là bao nhiêu m/s²?
+Đáp án: 6
+
+Câu 3. Một vật khối lượng 2 kg chuyển động tròn đều với tốc độ 3 m/s trên đường tròn bán kính 0,9 m. Lực hướng tâm tác dụng lên vật là bao nhiêu niutơn?
+Đáp án: 20
+
+Câu 4. Một vật khối lượng 1 kg chuyển động tròn đều trên đường tròn bán kính 0,5 m dưới tác dụng của lực hướng tâm 50 N. Tốc độ của vật là bao nhiêu m/s?
+Đáp án: 5
+
+Câu 5. Kim phút của một chiếc đồng hồ dài 8 cm. Gia tốc hướng tâm của đầu kim là $x.10^{-7}$ m/s². Giá trị của x là bao nhiêu? (Lấy π = 3,14; làm tròn đến hàng phần trăm.)
+Đáp án: 2,43|2.43|2,44|2.44
+Lời giải: ω = 2π/3600 ≈ 1,744.10⁻³ rad/s; a = ω²r ≈ 2,43.10⁻⁷ m/s².
+
+Câu 6. Một vệ tinh địa tĩnh chuyển động tròn đều quanh Trái Đất ở độ cao 35 780 km so với mặt đất; bán kính Trái Đất 6 400 km; tốc độ góc của vệ tinh bằng tốc độ góc tự quay của Trái Đất (chu kì 24 h). Gia tốc hướng tâm của vệ tinh là bao nhiêu m/s²? (Làm tròn đến hàng phần trăm.)
+Đáp án: 0,22|0.22
+Lời giải: r = 42 180 km; ω ≈ 7,27.10⁻⁵ rad/s; a = ω²r ≈ 0,22 m/s².

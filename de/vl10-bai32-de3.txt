@@ -1,0 +1,158 @@
+VẬT LÍ 10 - CHƯƠNG VI. CHUYỂN ĐỘNG TRÒN ĐỀU - BÀI 32. LỰC HƯỚNG TÂM VÀ GIA TỐC HƯỚNG TÂM - ĐỀ 3
+Đề kiểm tra theo cấu trúc thi tốt nghiệp THPT (biên soạn: thầy Lâm Thế Phong, THPT An Thới)
+Thời gian: 50
+
+PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn
+Câu 1. Trong chuyển động tròn đều, gia tốc của vật
+A. bằng 0 vì tốc độ không đổi.
+*B. hướng vào tâm quỹ đạo.
+C. tiếp tuyến với quỹ đạo.
+D. hướng ra xa tâm.
+
+Câu 2. Gia tốc hướng tâm của vật chuyển động tròn đều càng lớn khi
+*A. tốc độ càng lớn và bán kính quỹ đạo càng nhỏ.
+B. tốc độ càng nhỏ và bán kính càng lớn.
+C. khối lượng vật càng lớn.
+D. chu kì càng lớn.
+
+Câu 3. Đơn vị của lực hướng tâm là
+A. m/s².
+*B. N.
+C. kg.
+D. rad/s.
+
+Câu 4. Một vật đứng yên so với mặt bàn đang quay đều. Lực đóng vai trò lực hướng tâm tác dụng lên vật là
+A. trọng lực.
+B. phản lực của mặt bàn.
+*C. lực ma sát nghỉ.
+D. lực ma sát trượt.
+
+Câu 5. Ô tô chạy trên đoạn đường cong có mặt đường nghiêng về phía tâm. Lực hướng tâm (khi không cần đến ma sát) là
+A. trọng lực.
+B. phản lực của mặt đường.
+*C. hợp lực của trọng lực và phản lực của mặt đường.
+D. lực kéo của động cơ.
+
+Câu 6. Khi ô tô đi qua điểm thấp nhất của một cầu võng xuống, áp lực của ô tô lên mặt cầu
+A. nhỏ hơn trọng lượng của ô tô.
+*B. lớn hơn trọng lượng của ô tô.
+C. bằng trọng lượng của ô tô.
+D. bằng 0.
+
+Câu 7. Trong tiết mục mô tô bay trong lồng quay, diễn viên không bị rơi vì
+A. không có trọng lực tác dụng.
+*B. thành lồng tác dụng phản lực hướng vào tâm đóng vai trò lực hướng tâm, và ma sát giữ cho xe không trượt xuống.
+C. xe rất nhẹ.
+D. lồng hút xe.
+
+Câu 8. Lực giữ cho Mặt Trăng chuyển động gần tròn quanh Trái Đất là
+*A. lực hấp dẫn của Trái Đất tác dụng lên Mặt Trăng.
+B. lực đẩy của Mặt Trời.
+C. lực ma sát.
+D. lực căng.
+
+Câu 9. Trong chuyển động tròn đều, gia tốc hướng tâm được tính từ định nghĩa gia tốc
+*A. $\vec{a} = \dfrac{\Delta\vec{v}}{\Delta t}$, trong đó $\Delta\vec{v}$ do vận tốc đổi hướng.
+B. $a = v.t$.
+C. $a = \dfrac{s}{t}$.
+D. $a = \dfrac{r}{v}$.
+
+Câu 10. Một vật chuyển động tròn đều với tốc độ 10 m/s trên đường tròn bán kính 20 m. Gia tốc hướng tâm của vật là
+A. 2 m/s².
+*B. 5 m/s².
+C. 200 m/s².
+D. 0,5 m/s².
+
+Câu 11. Một vật chuyển động tròn đều với tốc độ góc 6 rad/s trên đường tròn bán kính 0,5 m. Gia tốc hướng tâm của vật là
+A. 3 m/s².
+B. 12 m/s².
+*C. 18 m/s².
+D. 72 m/s².
+
+Câu 12. Một vật khối lượng 3 kg chuyển động tròn đều với tốc độ 4 m/s trên đường tròn bán kính 2 m. Lực hướng tâm tác dụng lên vật là
+*A. 24 N.
+B. 6 N.
+C. 12 N.
+D. 48 N.
+
+Câu 13. Một vật chuyển động tròn đều với chu kì 2 s trên đường tròn bán kính 1 m. Gia tốc hướng tâm của vật xấp xỉ bằng
+A. 3,14 m/s².
+*B. 9,87 m/s².
+C. 19,7 m/s².
+D. 6,28 m/s².
+
+Câu 14. Giữ nguyên bán kính quỹ đạo, nếu tốc độ góc tăng gấp 3 lần thì gia tốc hướng tâm
+A. tăng 3 lần.
+*B. tăng 9 lần.
+C. không đổi.
+D. giảm 3 lần.
+
+Câu 15. Giữ nguyên tốc độ, nếu bán kính quỹ đạo tăng gấp đôi thì gia tốc hướng tâm
+A. tăng gấp đôi.
+B. tăng gấp bốn.
+*C. giảm một nửa.
+D. không đổi.
+
+Câu 16. Một ô tô khối lượng 1,2 tấn chạy qua đoạn đường cong nằm ngang bán kính 60 m; lực ma sát nghỉ cực đại giữa bánh xe và mặt đường là 7 200 N. Tốc độ lớn nhất của ô tô để không bị trượt xấp xỉ bằng
+A. 6 m/s.
+B. 36 m/s.
+*C. 19 m/s.
+D. 360 m/s.
+
+Câu 17. Vệ tinh địa tĩnh là vệ tinh
+A. đứng yên so với Mặt Trời.
+*B. nằm trong mặt phẳng xích đạo và có tốc độ góc bằng tốc độ góc tự quay của Trái Đất.
+C. không chịu lực hấp dẫn.
+D. chuyển động thẳng đều.
+
+Câu 18. Đang quay tròn một hòn bi buộc ở đầu sợi dây thì dây đứt. Hòn bi sẽ
+A. tiếp tục chuyển động tròn.
+B. bay theo phương bán kính ra xa tâm.
+*C. bay theo phương tiếp tuyến với quỹ đạo tại điểm dây đứt.
+D. đứng yên.
+
+PHẦN II. Câu trắc nghiệm đúng sai
+Câu 1. Một ô tô khối lượng 1,2 tấn chạy đều với tốc độ 15 m/s qua đoạn đường cong nằm ngang bán kính 60 m.
+a) Gia tốc hướng tâm của ô tô là 3,75 m/s². (Đ)
+b) Lực hướng tâm tác dụng lên ô tô là 4 500 N. (Đ)
+c) Nếu ô tô tăng tốc độ thì lực hướng tâm cần thiết tăng lên. (Đ)
+d) Lực hướng tâm cần thiết không phụ thuộc vào khối lượng của ô tô. (S)
+
+Câu 2. Một vệ tinh địa tĩnh ở độ cao 35 780 km so với mặt đất; bán kính Trái Đất 6 400 km.
+a) Chu kì quay của vệ tinh là 24 h. (Đ)
+b) Bán kính quỹ đạo của vệ tinh là 42 180 km. (Đ)
+c) Gia tốc hướng tâm của vệ tinh xấp xỉ 0,22 m/s². (Đ)
+d) Vệ tinh địa tĩnh nằm ngoài mặt phẳng xích đạo của Trái Đất. (S)
+
+Câu 3. Một ô tô khối lượng 2 tấn chuyển động đều với tốc độ 15 m/s qua đỉnh một cây cầu vồng lên, coi đỉnh cầu là cung tròn bán kính 50 m; lấy g = 10 m/s².
+a) Gia tốc hướng tâm của ô tô tại đỉnh cầu là 4,5 m/s². (Đ)
+b) Áp lực của ô tô lên mặt cầu tại đỉnh là 11 000 N. (Đ)
+c) Áp lực của ô tô lên mặt cầu tại đỉnh nhỏ hơn trọng lượng của ô tô. (Đ)
+d) Nếu cầu võng xuống với cùng bán kính và ô tô có cùng tốc độ thì áp lực tại điểm thấp nhất cũng là 11 000 N. (S)
+Lời giải: Cầu võng: N = P + mv²/r = 20 000 + 9 000 = 29 000 N.
+
+Câu 4. Kim giây của một chiếc đồng hồ dài 5 cm, kim phút dài 4 cm.
+a) Tốc độ góc của kim giây xấp xỉ 0,105 rad/s. (Đ)
+b) Gia tốc hướng tâm của đầu kim giây xấp xỉ 5,5.10⁻⁴ m/s². (Đ)
+c) Gia tốc hướng tâm của đầu kim phút nhỏ hơn của đầu kim giây. (Đ)
+d) Gia tốc hướng tâm của đầu kim giây có phương tiếp tuyến với quỹ đạo. (S)
+
+PHẦN III. Câu trắc nghiệm trả lời ngắn
+Câu 1. Một vật chuyển động tròn đều với tốc độ 8 m/s trên đường tròn bán kính 4 m. Gia tốc hướng tâm của vật là bao nhiêu m/s²?
+Đáp án: 16
+
+Câu 2. Một vật chuyển động tròn đều với tốc độ góc 10 rad/s trên đường tròn bán kính 0,1 m. Gia tốc hướng tâm của vật là bao nhiêu m/s²?
+Đáp án: 10
+
+Câu 3. Một vật khối lượng 0,25 kg chuyển động tròn đều với tốc độ 4 m/s trên đường tròn bán kính 1 m. Lực hướng tâm tác dụng lên vật là bao nhiêu niutơn?
+Đáp án: 4
+
+Câu 4. Một vật khối lượng 2 kg chuyển động tròn đều trên đường tròn bán kính 0,5 m dưới tác dụng của lực hướng tâm 40 N. Tốc độ góc của vật là bao nhiêu rad/s? (Làm tròn đến hàng phần trăm.)
+Đáp án: 6,32|6.32
+
+Câu 5. Một vật chuyển động tròn đều trên đường tròn bán kính 0,5 m, quay 120 vòng mỗi phút. Gia tốc hướng tâm của vật là bao nhiêu m/s²? (Lấy π = 3,14; làm tròn đến hàng đơn vị.)
+Đáp án: 79
+Lời giải: ω = 4π ≈ 12,56 rad/s; a = ω²r ≈ 78,9 m/s².
+
+Câu 6. Một ô tô chạy qua đỉnh một cây cầu vồng lên, coi đỉnh cầu là cung tròn bán kính 40 m; lấy g = 10 m/s². Tốc độ của ô tô bằng bao nhiêu m/s thì áp lực của ô tô lên mặt cầu tại đỉnh bằng 0?
+Đáp án: 20
