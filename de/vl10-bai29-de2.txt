@@ -1,0 +1,160 @@
+VẬT LÍ 10 - CHƯƠNG V. ĐỘNG LƯỢNG - BÀI 29. ĐỊNH LUẬT BẢO TOÀN ĐỘNG LƯỢNG - ĐỀ 2
+Đề kiểm tra theo cấu trúc thi tốt nghiệp THPT (biên soạn: thầy Lâm Thế Phong, THPT An Thới)
+Thời gian: 50
+
+PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn
+Câu 1. Nội lực của một hệ là
+*A. lực tương tác giữa các vật trong hệ.
+B. lực do vật ngoài hệ tác dụng lên hệ.
+C. trọng lực của hệ.
+D. lực ma sát của mặt đất lên hệ.
+
+Câu 2. Động lượng toàn phần của hệ gồm hai vật là
+A. $\vec{p} = \vec{p}_1 - \vec{p}_2$.
+*B. $\vec{p} = \vec{p}_1 + \vec{p}_2$.
+C. $p = p_1 . p_2$.
+D. $\vec{p} = \dfrac{\vec{p}_1}{\vec{p}_2}$.
+
+Câu 3. Trong một hệ kín gồm hai vật, nếu động lượng của vật 1 tăng thêm một lượng $\Delta\vec{p}$ thì động lượng của vật 2
+A. cũng tăng thêm $\Delta\vec{p}$.
+*B. thay đổi một lượng $-\Delta\vec{p}$.
+C. không đổi.
+D. bằng 0.
+
+Câu 4. Khi pháo nổ, hệ các mảnh pháo được coi là hệ kín vì
+A. không có trọng lực tác dụng.
+*B. nội lực do thuốc nổ gây ra rất lớn so với ngoại lực.
+C. các mảnh pháo đứng yên.
+D. không có không khí.
+
+Câu 5. Hai vật khối lượng $m_1$, $m_2$ có vận tốc trước va chạm $\vec{v}_1$, $\vec{v}_2$ và sau va chạm $\vec{v}'_1$, $\vec{v}'_2$. Định luật bảo toàn động lượng cho hệ kín hai vật là
+*A. $m_1\vec{v}_1 + m_2\vec{v}_2 = m_1\vec{v}'_1 + m_2\vec{v}'_2$.
+B. $m_1\vec{v}_1 - m_2\vec{v}_2 = m_1\vec{v}'_1 + m_2\vec{v}'_2$.
+C. $m_1v_1^2 + m_2v_2^2 = m_1v'^2_1 + m_2v'^2_2$.
+D. $m_1\vec{v}_1 = m_2\vec{v}_2$.
+
+Câu 6. Hai vật khối lượng $m_1$, $m_2$ chuyển động hướng vào nhau với tốc độ $v_1$, $v_2$. Chọn chiều dương là chiều chuyển động của vật 1. Động lượng toàn phần của hệ có giá trị đại số
+A. $m_1v_1 + m_2v_2$.
+*B. $m_1v_1 - m_2v_2$.
+C. $m_2v_2 - m_1v_1$.
+D. 0.
+
+Câu 7. Hai vật va chạm mềm, sau va chạm dính vào nhau và có cùng vận tốc $\vec{V}$. Định luật bảo toàn động lượng cho trường hợp này là
+A. $m_1\vec{v}_1 + m_2\vec{v}_2 = m_1\vec{V}$.
+*B. $m_1\vec{v}_1 + m_2\vec{v}_2 = (m_1 + m_2)\vec{V}$.
+C. $m_1\vec{v}_1 - m_2\vec{v}_2 = (m_1 - m_2)\vec{V}$.
+D. $m_1\vec{v}_1 = (m_1 + m_2)\vec{V}$ trong mọi trường hợp.
+
+Câu 8. Một người đứng trên chiếc thuyền nhỏ đang đứng yên trên mặt nước. Trước khi người bước đi, động lượng toàn phần của hệ người và thuyền
+*A. bằng 0.
+B. bằng động lượng của người.
+C. bằng động lượng của thuyền.
+D. khác 0.
+
+Câu 9. Hai người có khối lượng khác nhau đang đứng yên trên sân băng thì đẩy nhau. Tốc độ lùi của họ khác nhau vì
+A. họ đẩy nhau bằng những lực khác nhau.
+*B. động lượng hai người có độ lớn bằng nhau nên người khối lượng lớn hơn có tốc độ nhỏ hơn.
+C. sân băng có ma sát lớn.
+D. động lượng của hệ tăng lên.
+
+Câu 10. Một khẩu súng khối lượng 3 kg đang đứng yên bắn ra viên đạn khối lượng 15 g với tốc độ 600 m/s theo phương ngang. Tốc độ giật lùi của súng là
+A. 0,3 m/s.
+*B. 3 m/s.
+C. 30 m/s.
+D. 1,5 m/s.
+
+Câu 11. Một toa xe khối lượng 10 tấn chuyển động với tốc độ 2 m/s tới móc vào một toa xe khối lượng 5 tấn đang đứng yên; sau đó hai toa chuyển động cùng nhau. Tốc độ của hai toa sau khi móc vào nhau xấp xỉ bằng
+A. 2 m/s.
+B. 1 m/s.
+*C. 1,33 m/s.
+D. 0,67 m/s.
+
+Câu 12. Viên bi khối lượng 0,1 kg chuyển động với tốc độ 5 m/s va chạm mềm với viên bi khối lượng 0,4 kg đang đứng yên. Tốc độ của hai viên bi sau va chạm là
+*A. 1 m/s.
+B. 1,25 m/s.
+C. 5 m/s.
+D. 0,5 m/s.
+
+Câu 13. Một xe chuyển động va chạm mềm với một xe giống hệt đang đứng yên. Động năng của hệ sau va chạm bằng
+A. động năng trước va chạm.
+*B. một nửa động năng trước va chạm.
+C. một phần tư động năng trước va chạm.
+D. 0.
+
+Câu 14. Một người khối lượng 60 kg chạy với tốc độ 4 m/s nhảy lên một chiếc xe goòng khối lượng 140 kg đang đứng yên. Bỏ qua ma sát. Tốc độ của người và xe ngay sau đó là
+A. 4 m/s.
+*B. 1,2 m/s.
+C. 1,7 m/s.
+D. 0,6 m/s.
+
+Câu 15. Một quả pháo đang đứng yên thì nổ thành hai mảnh. Ngay sau khi nổ, hai mảnh
+A. bay cùng chiều.
+*B. bay theo hai hướng ngược nhau.
+C. đứng yên.
+D. bay vuông góc với nhau.
+
+Câu 16. Một vật đứng yên nổ thành hai mảnh: mảnh 1 kg bay với tốc độ 30 m/s. Mảnh còn lại khối lượng 3 kg bay với tốc độ
+A. 90 m/s.
+*B. 10 m/s.
+C. 30 m/s.
+D. 3 m/s.
+
+Câu 17. Tên lửa phụt một lượng khí xác định ra phía sau. Khí phụt ra với tốc độ càng lớn thì
+*A. tên lửa thu được tốc độ càng lớn.
+B. tên lửa thu được tốc độ càng nhỏ.
+C. tốc độ tên lửa không đổi.
+D. tên lửa chuyển động lùi về phía sau.
+
+Câu 18. Định luật bảo toàn động lượng KHÔNG áp dụng trực tiếp được cho trường hợp nào sau đây?
+A. Hai xe va chạm trên đệm khí nằm ngang nhẵn.
+B. Súng bắn đạn.
+C. Pháo nổ.
+*D. Một vật trượt chậm dần trên sàn nhám do ma sát (xét riêng vật).
+
+PHẦN II. Câu trắc nghiệm đúng sai
+Câu 1. Một toa xe khối lượng 2 tấn chuyển động với tốc độ 3 m/s tới móc vào toa xe khối lượng 1 tấn đang đứng yên; sau đó hai toa chuyển động cùng nhau. Bỏ qua ma sát.
+a) Động lượng của hệ trước va chạm là 6 000 kg.m/s. (Đ)
+b) Sau va chạm, hai toa chuyển động với tốc độ 2 m/s. (Đ)
+c) Động năng của hệ trước va chạm là 9 000 J, sau va chạm là 6 000 J. (Đ)
+d) Đây là va chạm đàn hồi. (S)
+
+Câu 2. Một người khối lượng 50 kg đứng trên xe goòng khối lượng 150 kg, cả hai cùng chuyển động với tốc độ 2 m/s. Người nhảy ra phía sau xe với tốc độ 4 m/s so với mặt đất. Bỏ qua ma sát.
+a) Động lượng của hệ người và xe trước khi người nhảy là 400 kg.m/s. (Đ)
+b) Chọn chiều dương là chiều chuyển động ban đầu, động lượng của người sau khi nhảy là −200 kg.m/s. (Đ)
+c) Tốc độ của xe sau khi người nhảy là 4 m/s. (Đ)
+d) Sau khi người nhảy ra phía sau, xe chuyển động chậm hơn lúc đầu. (S)
+Lời giải: 400 = −200 + 150V ⇒ V = 4 m/s.
+
+Câu 3. Một viên đạn pháo khối lượng 10 kg đang bay theo phương ngang với tốc độ 200 m/s thì nổ thành hai mảnh khối lượng 4 kg và 6 kg; ngay sau khi nổ, mảnh 4 kg bay ngược lại với tốc độ 100 m/s.
+a) Hệ các mảnh đạn được coi là hệ kín trong khi nổ. (Đ)
+b) Động lượng của viên đạn trước khi nổ là 2 000 kg.m/s. (Đ)
+c) Mảnh 6 kg bay cùng hướng ban đầu với tốc độ 400 m/s. (Đ)
+d) Tổng động lượng của hai mảnh ngay sau khi nổ bằng 0. (S)
+Lời giải: 2000 = 4.(−100) + 6v ⇒ v = 400 m/s.
+
+Câu 4. Hai viên bi giống nhau, mỗi viên khối lượng 0,3 kg, chuyển động ngược chiều nhau với cùng tốc độ 2 m/s và va chạm đàn hồi trực diện.
+a) Động lượng toàn phần của hệ trước va chạm bằng 0. (Đ)
+b) Sau va chạm, mỗi viên bi đổi chiều chuyển động với tốc độ 2 m/s. (Đ)
+c) Động năng của hệ bằng 1,2 J và được bảo toàn. (Đ)
+d) Sau va chạm, hai viên bi đứng yên. (S)
+
+PHẦN III. Câu trắc nghiệm trả lời ngắn
+Câu 1. Một khẩu súng khối lượng 5 kg đang đứng yên bắn ra viên đạn khối lượng 25 g với tốc độ 600 m/s theo phương ngang. Tốc độ giật lùi của súng là bao nhiêu m/s?
+Đáp án: 3
+
+Câu 2. Một xe khối lượng 2 kg chuyển động với tốc độ 6 m/s va chạm với xe khối lượng 1 kg đang đứng yên; sau va chạm hai xe dính vào nhau. Tốc độ của hai xe sau va chạm là bao nhiêu m/s?
+Đáp án: 4
+
+Câu 3. Một người khối lượng 60 kg nhảy từ một chiếc thuyền khối lượng 120 kg đang đứng yên lên bờ với tốc độ 2 m/s theo phương ngang. Bỏ qua sức cản của nước. Tốc độ lùi của thuyền là bao nhiêu m/s?
+Đáp án: 1
+
+Câu 4. Vật A khối lượng 1 kg chuyển động với tốc độ 5 m/s va chạm mềm với vật B khối lượng 4 kg đang đứng yên. Phần động năng của hệ bị mất trong va chạm là bao nhiêu jun?
+Đáp án: 10
+Lời giải: V = 1 m/s; Wđ trước 12,5 J, sau 2,5 J.
+
+Câu 5. Vật 1 khối lượng 4 kg chuyển động với tốc độ 2 m/s va chạm trực diện với vật 2 khối lượng 2 kg chuyển động ngược chiều với tốc độ 3 m/s; sau va chạm hai vật dính vào nhau. Tốc độ của hai vật sau va chạm là bao nhiêu m/s? (Làm tròn đến hàng phần trăm.)
+Đáp án: 0,33|0.33
+Lời giải: V = (8 − 6) : 6 ≈ 0,33 m/s.
+
+Câu 6. Một viên đạn khối lượng 3 kg đang bay theo phương ngang với tốc độ 100 m/s thì nổ thành hai mảnh; mảnh khối lượng 1 kg ngay sau khi nổ có vận tốc bằng 0. Tốc độ của mảnh còn lại ngay sau khi nổ là bao nhiêu m/s?
+Đáp án: 150

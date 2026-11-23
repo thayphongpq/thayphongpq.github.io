@@ -1,0 +1,158 @@
+VẬT LÍ 10 - CHƯƠNG V. ĐỘNG LƯỢNG - BÀI 29. ĐỊNH LUẬT BẢO TOÀN ĐỘNG LƯỢNG - ĐỀ 1
+Đề kiểm tra theo cấu trúc thi tốt nghiệp THPT (biên soạn: thầy Lâm Thế Phong, THPT An Thới)
+Thời gian: 50
+
+PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn
+Câu 1. Một hệ nhiều vật được gọi là hệ kín (hệ cô lập) khi
+*A. không có ngoại lực tác dụng lên hệ hoặc nếu có thì các ngoại lực ấy cân bằng nhau.
+B. các vật trong hệ đứng yên.
+C. chỉ có ngoại lực tác dụng lên hệ.
+D. các vật trong hệ không tương tác với nhau.
+
+Câu 2. Trong một hệ kín, các nội lực
+A. luôn cùng chiều nhau.
+*B. theo định luật 3 Newton, trực đối nhau từng đôi một.
+C. luôn bằng 0.
+D. luôn lớn hơn ngoại lực rất nhiều.
+
+Câu 3. Trong trường hợp nào sau đây có thể coi hệ là hệ kín dù vẫn có ngoại lực?
+A. Ô tô chạy đều trên đường.
+*B. Va chạm, đạn nổ, pháo nổ (nội lực rất lớn so với ngoại lực).
+C. Vật rơi tự do.
+D. Vật trượt chậm dần do ma sát.
+
+Câu 4. Định luật bảo toàn động lượng phát biểu:
+*A. Động lượng toàn phần của hệ kín là một đại lượng bảo toàn.
+B. Động lượng của mỗi vật trong hệ luôn không đổi.
+C. Động năng của hệ kín luôn không đổi.
+D. Động lượng của hệ luôn bằng 0.
+
+Câu 5. Trong hệ kín gồm hai vật tương tác, độ biến thiên động lượng của hai vật thoả mãn
+A. $\Delta\vec{p}_1 = \Delta\vec{p}_2$.
+*B. $\Delta\vec{p}_1 = -\Delta\vec{p}_2$.
+C. $\Delta\vec{p}_1 = 2\Delta\vec{p}_2$.
+D. $\Delta\vec{p}_1 + \Delta\vec{p}_2 \neq \vec{0}$.
+
+Câu 6. Hệ nào sau đây có thể coi là hệ kín?
+*A. Hai xe trượt trên đệm khí nằm ngang va chạm với nhau (bỏ qua ma sát).
+B. Một vật đang rơi tự do.
+C. Một ô tô đang hãm phanh trên đường.
+D. Quả bóng lăn chậm dần trên sân cỏ.
+
+Câu 7. Va chạm mềm là va chạm mà sau va chạm
+A. hai vật bật ra theo hai hướng ngược nhau.
+*B. hai vật dính vào nhau và chuyển động với cùng vận tốc.
+C. động năng của hệ được bảo toàn.
+D. hai vật đứng yên trong mọi trường hợp.
+
+Câu 8. Trong thí nghiệm tạo va chạm đàn hồi giữa hai xe trên đệm khí, ở đầu mỗi xe người ta gắn
+*A. một quả cầu kim loại nhỏ.
+B. một miếng nhựa dính.
+C. một cục đất sét.
+D. một sợi dây buộc hai xe.
+
+Câu 9. Trong thí nghiệm tạo va chạm mềm giữa hai xe trên đệm khí, ở đầu mỗi xe người ta gắn
+A. một quả cầu kim loại nhỏ.
+*B. một miếng nhựa dính.
+C. một lò xo cứng.
+D. một nam châm đẩy nhau.
+
+Câu 10. Trong va chạm mềm, động năng của hệ
+A. được bảo toàn.
+*B. giảm (một phần chuyển thành nhiệt năng và các dạng năng lượng khác).
+C. tăng.
+D. luôn bằng 0.
+
+Câu 11. Một người đang đứng trên chiếc thuyền nhỏ đứng yên. Khi người đó bước lên bờ thì thuyền
+A. đứng yên.
+B. tiến lại gần bờ.
+*C. bị lùi lại (ra xa bờ).
+D. chìm xuống.
+
+Câu 12. Một khẩu súng khối lượng 4 kg bắn ra viên đạn khối lượng 10 g với tốc độ 600 m/s theo phương ngang. Súng đứng yên trước khi bắn. Tốc độ giật lùi của súng là
+A. 0,15 m/s.
+*B. 1,5 m/s.
+C. 15 m/s.
+D. 2,4 m/s.
+
+Câu 13. Một xe khối lượng 2 kg chuyển động với tốc độ 3 m/s va chạm với xe khối lượng 1 kg đang đứng yên, sau va chạm hai xe dính vào nhau. Tốc độ của hai xe sau va chạm là
+A. 1 m/s.
+*B. 2 m/s.
+C. 3 m/s.
+D. 6 m/s.
+
+Câu 14. Hai người khối lượng 75 kg và 50 kg đang đứng yên trên sân băng thì dùng tay đẩy nhau; người 50 kg lùi với tốc độ 3 m/s. Bỏ qua ma sát. Người 75 kg lùi với tốc độ
+A. 4,5 m/s.
+*B. 2 m/s.
+C. 3 m/s.
+D. 1 m/s.
+
+Câu 15. Tên lửa chuyển động được về phía trước khi phụt khí ra phía sau là dựa trên
+A. định luật bảo toàn cơ năng.
+*B. định luật bảo toàn động lượng (chuyển động bằng phản lực).
+C. định luật Hooke.
+D. lực đẩy Archimedes.
+
+Câu 16. Hai xe giống nhau chuyển động ngược chiều với cùng tốc độ v đến va chạm đàn hồi trực diện với nhau. Sau va chạm
+A. cả hai xe đứng yên.
+*B. cả hai xe đổi chiều vận tốc, mỗi xe có tốc độ v.
+C. hai xe dính vào nhau.
+D. một xe đứng yên, xe kia có tốc độ 2v.
+
+Câu 17. Vật 1 khối lượng 1 kg chuyển động với vận tốc 4 m/s; vật 2 khối lượng 2 kg chuyển động ngược chiều với tốc độ 2 m/s. Động lượng toàn phần của hệ có độ lớn
+A. 8 kg.m/s.
+B. 6 kg.m/s.
+*C. 0.
+D. 2 kg.m/s.
+
+Câu 18. Với con lắc Newton (một hàng bi thép giống nhau treo sát nhau), kéo bi ngoài cùng lên rồi thả cho va chạm vào hàng bi. Hiện tượng quan sát được là
+A. cả hàng bi cùng chuyển động chậm.
+*B. bi ở đầu bên kia bật lên, các bi ở giữa hầu như đứng yên.
+C. bi được thả dính vào hàng bi.
+D. bi được thả bật ngược lại, các bi khác đứng yên.
+
+PHẦN II. Câu trắc nghiệm đúng sai
+Câu 1. Xe A khối lượng 1 kg chuyển động với vận tốc 4 m/s va chạm mềm với xe B khối lượng 1 kg đang đứng yên trên đệm khí nằm ngang.
+a) Động lượng của hệ trước va chạm là 4 kg.m/s. (Đ)
+b) Sau va chạm, hai xe chuyển động với vận tốc 2 m/s. (Đ)
+c) Động năng của hệ trước va chạm là 8 J, sau va chạm là 4 J. (Đ)
+d) Động lượng của hệ sau va chạm là 2 kg.m/s. (S)
+
+Câu 2. Xe A khối lượng 0,5 kg chuyển động với vận tốc 2 m/s va chạm đàn hồi với xe B giống hệt đang đứng yên.
+a) Động lượng của hệ trước va chạm là 1 kg.m/s. (Đ)
+b) Sau va chạm, xe A dừng lại, xe B chuyển động với vận tốc 2 m/s. (Đ)
+c) Động năng của hệ được bảo toàn và bằng 1 J. (Đ)
+d) Va chạm này là va chạm mềm. (S)
+
+Câu 3. Hai người khối lượng 60 kg và 40 kg đang đứng yên trên sân băng thì dùng tay đẩy vào nhau; sau đó người 40 kg lùi với tốc độ 1,5 m/s. Bỏ qua ma sát.
+a) Động lượng của hệ hai người trước khi đẩy bằng 0. (Đ)
+b) Người 60 kg lùi với tốc độ 1 m/s. (Đ)
+c) Hai người chuyển động cùng chiều nhau. (S)
+d) Người có khối lượng lớn hơn lùi với tốc độ nhỏ hơn. (Đ)
+
+Câu 4. Một khẩu súng khối lượng 5 kg đang đứng yên bắn ra viên đạn khối lượng 20 g với tốc độ 500 m/s theo phương ngang.
+a) Hệ súng và đạn được coi là hệ kín trong khi bắn vì nội lực rất lớn so với ngoại lực. (Đ)
+b) Động lượng của viên đạn có độ lớn 10 kg.m/s. (Đ)
+c) Súng giật lùi với tốc độ 2 m/s. (Đ)
+d) Súng chuyển động cùng chiều với viên đạn. (S)
+
+PHẦN III. Câu trắc nghiệm trả lời ngắn
+Câu 1. Một xe khối lượng 3 kg chuyển động với tốc độ 4 m/s va chạm với xe khối lượng 1 kg đang đứng yên; sau va chạm hai xe dính vào nhau. Tốc độ của hai xe sau va chạm là bao nhiêu m/s?
+Đáp án: 3
+
+Câu 2. Một khẩu súng khối lượng 2 kg đang đứng yên bắn ra viên đạn khối lượng 10 g với tốc độ 400 m/s theo phương ngang. Tốc độ giật lùi của súng là bao nhiêu m/s?
+Đáp án: 2
+
+Câu 3. Một người khối lượng 50 kg nhảy từ một chiếc thuyền khối lượng 150 kg đang đứng yên lên bờ với tốc độ 3 m/s theo phương ngang. Bỏ qua sức cản của nước. Tốc độ lùi của thuyền là bao nhiêu m/s?
+Đáp án: 1
+
+Câu 4. Viên bi A khối lượng 0,2 kg chuyển động với tốc độ 6 m/s va chạm mềm với viên bi B khối lượng 0,4 kg đang đứng yên. Phần động năng của hệ bị mất trong va chạm là bao nhiêu jun?
+Đáp án: 2,4|2.4
+Lời giải: v = 1,2 : 0,6 = 2 m/s; Wđ trước = 3,6 J, sau = 1,2 J.
+
+Câu 5. Vật 1 khối lượng 2 kg chuyển động với tốc độ 3 m/s va chạm trực diện với vật 2 khối lượng 1 kg chuyển động ngược chiều với tốc độ 2 m/s; sau va chạm hai vật dính vào nhau. Tốc độ của hai vật sau va chạm là bao nhiêu m/s? (Làm tròn đến hàng phần mười.)
+Đáp án: 1,3|1.3
+Lời giải: V = (2.3 − 1.2) : 3 ≈ 1,33 m/s, theo chiều chuyển động ban đầu của vật 1.
+
+Câu 6. Một viên đạn khối lượng 6 kg đang bay theo phương ngang với tốc độ 300 m/s thì nổ thành hai mảnh; mảnh khối lượng 2 kg ngay sau khi nổ có vận tốc bằng 0. Tốc độ của mảnh còn lại ngay sau khi nổ là bao nhiêu m/s?
+Đáp án: 450
