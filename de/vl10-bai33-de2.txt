@@ -1,0 +1,160 @@
+VẬT LÍ 10 - CHƯƠNG VII. BIẾN DẠNG CỦA VẬT RẮN. ÁP SUẤT CHẤT LỎNG - BÀI 33. BIẾN DẠNG CỦA VẬT RẮN - ĐỀ 2
+Đề kiểm tra theo cấu trúc thi tốt nghiệp THPT (biên soạn: thầy Lâm Thế Phong, THPT An Thới)
+Thời gian: 50
+
+PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn
+Câu 1. Khi có ngoại lực tác dụng, vật rắn thay đổi hình dạng và kích thước. Ta nói vật rắn bị
+A. phá huỷ.
+*B. biến dạng.
+C. dịch chuyển.
+D. quay.
+
+Câu 2. Mức độ biến dạng của vật rắn phụ thuộc vào
+*A. độ lớn của ngoại lực tác dụng.
+B. màu sắc của vật.
+C. vị trí đặt vật.
+D. nhiệt độ của không khí xung quanh.
+
+Câu 3. Khi vật chịu tác dụng của cặp lực ngược chiều nhau, vuông góc với bề mặt của vật và hướng ra phía ngoài vật thì vật bị
+*A. biến dạng kéo.
+B. biến dạng nén.
+C. biến dạng uốn.
+D. biến dạng xoắn.
+
+Câu 4. Trường hợp nào sau đây là biến dạng không đàn hồi?
+A. Ép quả bóng cao su vào tường rồi buông tay.
+B. Kéo nhẹ vòng dây cao su rồi thả ra.
+*C. Kéo lò xo quá mạnh khiến lò xo dãn ra và không co lại như cũ.
+D. Nén nhẹ lò xo rồi thả ra.
+
+Câu 5. Lực đàn hồi của lò xo xuất hiện khi
+A. lò xo đứng yên.
+*B. lò xo bị biến dạng.
+C. lò xo chuyển động thẳng đều.
+D. lò xo được đặt nằm ngang.
+
+Câu 6. Định luật Hooke chỉ áp dụng được cho lò xo
+A. khi lò xo bị nén.
+B. khi lò xo bị kéo.
+*C. trong giới hạn đàn hồi.
+D. khi lực tác dụng rất lớn.
+
+Câu 7. Trong biểu thức $F_{\text{đh}} = k|\Delta\ell|$, đại lượng $\Delta\ell$ là
+A. chiều dài tự nhiên của lò xo.
+B. chiều dài của lò xo khi bị biến dạng.
+*C. độ biến dạng của lò xo (hiệu giữa chiều dài khi biến dạng và chiều dài tự nhiên).
+D. đường kính của lò xo.
+
+Câu 8. Hai lò xo làm cùng một loại vật liệu, có cùng hình dạng và kích thước thì
+*A. có cùng độ cứng.
+B. lò xo bị kéo mạnh hơn có độ cứng lớn hơn.
+C. lò xo dãn nhiều hơn có độ cứng lớn hơn.
+D. có độ cứng khác nhau tuỳ vật treo.
+
+Câu 9. Trong thí nghiệm khảo sát lực đàn hồi của lò xo, khối lượng của lò xo cần
+A. lớn hơn nhiều so với khối lượng các vật nặng treo vào.
+*B. rất nhỏ so với khối lượng các vật nặng treo vào.
+C. bằng khối lượng các vật nặng treo vào.
+D. càng lớn càng tốt.
+
+Câu 10. Khi xe máy đi qua chỗ xóc, lò xo của bộ phận giảm xóc bị nén lại. Lực đàn hồi của lò xo khi đó
+A. kéo khung xe xuống phía bánh xe.
+*B. đẩy khung xe ra xa bánh xe, chống lại sự nén.
+C. bằng 0.
+D. có phương vuông góc với trục lò xo.
+
+Câu 11. Một lò xo có độ cứng 40 N/m chịu lực kéo 2 N. Độ dãn của lò xo là
+A. 0,05 cm.
+*B. 5 cm.
+C. 20 cm.
+D. 80 cm.
+
+Câu 12. Một lò xo có chiều dài tự nhiên 12 cm, độ cứng 100 N/m. Khi treo vật, lò xo dài 15 cm. Độ lớn lực đàn hồi của lò xo là
+*A. 3 N.
+B. 12 N.
+C. 15 N.
+D. 0,3 N.
+
+Câu 13. Treo vật khối lượng 0,5 kg vào một lò xo thì lò xo dãn 2,5 cm; lấy g = 10 m/s². Độ cứng của lò xo là
+A. 2 N/m.
+B. 20 N/m.
+*C. 200 N/m.
+D. 0,2 N/m.
+
+Câu 14. Một lò xo có chiều dài tự nhiên 30 cm, độ cứng 120 N/m, bị kéo bởi lực 6 N. Chiều dài của lò xo khi đó là
+A. 25 cm.
+*B. 35 cm.
+C. 36 cm.
+D. 30,05 cm.
+
+Câu 15. Một lò xo chịu lực kéo 4 N thì dãn 8 cm. Muốn lò xo dãn 3 cm (trong giới hạn đàn hồi) thì cần lực kéo
+*A. 1,5 N.
+B. 3 N.
+C. 6 N.
+D. 0,67 N.
+
+Câu 16. Với cùng một lực kéo, lò xo có độ cứng lớn hơn thì
+A. dãn nhiều hơn.
+*B. dãn ít hơn.
+C. dãn bằng lò xo có độ cứng nhỏ hơn.
+D. không dãn.
+
+Câu 17. Một lò xo có độ cứng 150 N/m bị nén từ chiều dài 20 cm xuống còn 16 cm. Độ lớn lực đàn hồi của lò xo là
+A. 0,6 N.
+*B. 6 N.
+C. 24 N.
+D. 30 N.
+
+Câu 18. Trên đồ thị biểu diễn độ lớn lực đàn hồi của lò xo theo độ biến dạng, phần đồ thị bị cong (không còn là đoạn thẳng) ứng với
+A. lực tác dụng còn nhỏ.
+*B. lực tác dụng đã vượt quá giới hạn đàn hồi của lò xo.
+C. lò xo chưa bị biến dạng.
+D. lò xo bị nén.
+
+PHẦN II. Câu trắc nghiệm đúng sai
+Câu 1. Một lò xo được bố trí theo phương thẳng đứng và gắn vật nặng khối lượng 300 g. Khi vật treo ở dưới, lò xo dài 23 cm; khi vật đặt ở trên, lò xo dài 17 cm. Lấy g = 10 m/s², bỏ qua khối lượng móc treo và giá đỡ.
+a) Khi vật treo ở dưới, lò xo bị biến dạng kéo. (Đ)
+b) Trong mỗi trường hợp, lực đàn hồi của lò xo có độ lớn 3 N. (Đ)
+c) Chiều dài tự nhiên của lò xo là 20 cm. (Đ)
+d) Độ cứng của lò xo là 50 N/m. (S)
+Lời giải: Δℓ = 3 cm ⇒ k = 3 : 0,03 = 100 N/m.
+
+Câu 2. Bộ phận giảm xóc ở bánh sau của một xe máy gồm hai lò xo giống nhau, mỗi lò xo có độ cứng 20 000 N/m. Một người khối lượng 60 kg ngồi lên xe, coi trọng lượng người chia đều cho hai lò xo; lấy g = 10 m/s².
+a) Mỗi lò xo chịu lực nén 300 N. (Đ)
+b) Mỗi lò xo bị nén 1,5 cm. (Đ)
+c) Lực đàn hồi của mỗi lò xo có độ lớn bằng trọng lượng của người. (S)
+d) Nếu người ngồi lên xe có khối lượng 80 kg thì mỗi lò xo bị nén 2 cm. (Đ)
+
+Câu 3. Kết quả thí nghiệm đo độ dãn của một lò xo theo lực kéo như sau: lực 0 N – dãn 0 cm; lực 1 N – dãn 2 cm; lực 2 N – dãn 4 cm; lực 3 N – dãn 6 cm.
+a) Trong thí nghiệm, độ lớn lực đàn hồi tỉ lệ thuận với độ dãn của lò xo. (Đ)
+b) Độ cứng của lò xo là 50 N/m. (Đ)
+c) Khi lực kéo là 2,5 N thì lò xo dãn 5 cm. (Đ)
+d) Treo vào lò xo một vật có trọng lượng 1,5 N thì lò xo dãn 4 cm. (S)
+Lời giải: Δℓ = 1,5 : 50 = 0,03 m = 3 cm.
+
+Câu 4. Một sợi dây nhảy bungee có chiều dài tự nhiên 20 m, coi như một lò xo có độ cứng 150 N/m. Một người khối lượng 60 kg treo đứng yên ở đầu dây; lấy g = 10 m/s².
+a) Khi người đứng yên, lực đàn hồi của dây có độ lớn bằng trọng lượng của người là 600 N. (Đ)
+b) Độ dãn của dây khi đó là 4 m. (Đ)
+c) Chiều dài của dây khi đó là 24 m. (Đ)
+d) Trò chơi bungee dựa trên biến dạng không đàn hồi của sợi dây. (S)
+
+PHẦN III. Câu trắc nghiệm trả lời ngắn
+Câu 1. Một lò xo có độ cứng 80 N/m bị dãn 5 cm. Độ lớn lực đàn hồi của lò xo là bao nhiêu niutơn?
+Đáp án: 4
+
+Câu 2. Một lò xo chịu lực kéo 3 N thì dãn 1,5 cm. Độ cứng của lò xo là bao nhiêu N/m?
+Đáp án: 200
+
+Câu 3. Treo vật khối lượng 250 g vào một lò xo có độ cứng 25 N/m; lấy g = 10 m/s². Khi vật cân bằng, độ dãn của lò xo là bao nhiêu xentimét?
+Đáp án: 10
+
+Câu 4. Một lò xo có chiều dài tự nhiên 18 cm, độ cứng 100 N/m, bị nén bởi lực 3 N. Chiều dài của lò xo khi đó là bao nhiêu xentimét?
+Đáp án: 15
+
+Câu 5. Một lò xo treo thẳng đứng. Khi treo vật 200 g, lò xo dài 22 cm; khi treo vật 500 g, lò xo dài 25 cm; lấy g = 10 m/s². Độ cứng của lò xo là bao nhiêu N/m?
+Đáp án: 100
+Lời giải: k = (5 − 2) : 0,03 = 100 N/m.
+
+Câu 6. Một lò xo có độ cứng 50 N/m, chiều dài tự nhiên 20 cm, treo thẳng đứng. Treo vào lò xo một vật thì khi vật cân bằng, lò xo dài 26 cm; lấy g = 10 m/s². Khối lượng của vật là bao nhiêu gam?
+Đáp án: 300
+Lời giải: F = 50 . 0,06 = 3 N ⇒ m = 0,3 kg = 300 g.
