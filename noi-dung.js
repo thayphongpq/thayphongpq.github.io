@@ -192,6 +192,9 @@ const DE_THI = [
   { ten: "Bài 31 – Đề 1. Động học của chuyển động tròn đều", mon: "Vật lý", lop: "10", loai: "Luyện tập", tep: "de/vl10-bai31-de1.txt", thoiGian: 50, ngay: "2026-11-23" },
   { ten: "Bài 31 – Đề 2. Động học của chuyển động tròn đều", mon: "Vật lý", lop: "10", loai: "Luyện tập", tep: "de/vl10-bai31-de2.txt", thoiGian: 50, ngay: "2026-11-23" },
   { ten: "Bài 31 – Đề 3. Động học của chuyển động tròn đều", mon: "Vật lý", lop: "10", loai: "Luyện tập", tep: "de/vl10-bai31-de3.txt", thoiGian: 50, ngay: "2026-11-23" },
+  { ten: "Bài 32 – Đề 1. Lực hướng tâm và gia tốc hướng tâm", mon: "Vật lý", lop: "10", loai: "Luyện tập", tep: "de/vl10-bai32-de1.txt", thoiGian: 50, ngay: "2026-11-23" },
+  { ten: "Bài 32 – Đề 2. Lực hướng tâm và gia tốc hướng tâm", mon: "Vật lý", lop: "10", loai: "Luyện tập", tep: "de/vl10-bai32-de2.txt", thoiGian: 50, ngay: "2026-11-23" },
+  { ten: "Bài 32 – Đề 3. Lực hướng tâm và gia tốc hướng tâm", mon: "Vật lý", lop: "10", loai: "Luyện tập", tep: "de/vl10-bai32-de3.txt", thoiGian: 50, ngay: "2026-11-23" },
 
   // ----- Vật lý 10 (sách thống nhất) - Chương II. Động học -----
   // (đề cũ 13 câu, đã thay bằng 3 đề 28 câu) { ten: "Bài 4. Độ dịch chuyển và quãng đường đi được", mon: "Vật lý", lop: "10", loai: "Luyện tập", tep: "de/vl10-bai04-do-dich-chuyen.txt", thoiGian: 20, ngay: "2026-11-19" },
@@ -222,7 +225,7 @@ const DE_THI = [
   // (đề cũ 13 câu, đã thay bằng 3 đề 28 câu) { ten: "Bài 29. Định luật bảo toàn động lượng", mon: "Vật lý", lop: "10", loai: "Luyện tập", tep: "de/vl10-bai29-bao-toan-dong-luong.txt", thoiGian: 20, ngay: "2026-11-19" },
   // (đề cũ 13 câu, đã thay bằng 3 đề 28 câu) { ten: "Bài 30. Thực hành: Xác định động lượng của vật trước và sau va chạm", mon: "Vật lý", lop: "10", loai: "Luyện tập", tep: "de/vl10-bai30-thuc-hanh-dong-luong.txt", thoiGian: 20, ngay: "2026-11-19" },
   // (đề cũ 13 câu, đã thay bằng 3 đề 28 câu) { ten: "Bài 31. Động học của chuyển động tròn đều", mon: "Vật lý", lop: "10", loai: "Luyện tập", tep: "de/vl10-bai31-chuyen-dong-tron-deu.txt", thoiGian: 20, ngay: "2026-11-19" },
-  { ten: "Bài 32. Lực hướng tâm và gia tốc hướng tâm", mon: "Vật lý", lop: "10", loai: "Luyện tập", tep: "de/vl10-bai32-luc-huong-tam.txt", thoiGian: 20, ngay: "2026-11-19" },
+  // (đề cũ 13 câu, đã thay bằng 3 đề 28 câu) { ten: "Bài 32. Lực hướng tâm và gia tốc hướng tâm", mon: "Vật lý", lop: "10", loai: "Luyện tập", tep: "de/vl10-bai32-luc-huong-tam.txt", thoiGian: 20, ngay: "2026-11-19" },
   { ten: "Bài 33. Biến dạng của vật rắn", mon: "Vật lý", lop: "10", loai: "Luyện tập", tep: "de/vl10-bai33-bien-dang-vat-ran.txt", thoiGian: 20, ngay: "2026-11-19" },
   { ten: "Bài 34. Khối lượng riêng. Áp suất chất lỏng", mon: "Vật lý", lop: "10", loai: "Luyện tập", tep: "de/vl10-bai34-ap-suat-chat-long.txt", thoiGian: 20, ngay: "2026-11-19" },
   // ----- Vật lý 11 (sách thống nhất) -----
